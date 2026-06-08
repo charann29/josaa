@@ -1,0 +1,56 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { SITE } from '../../consts';
+
+const posts = (await getCollection('blog')).filter((p) => !p.data.draft);
+const pillar = posts.find((p) => p.data.pillar);
+const rest = posts
+  .filter((p) => !p.data.pillar)
+  .sort((a, b) => +new Date(b.data.pubDate) - +new Date(a.data.pubDate));
+
+const itemListLd = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  itemListElement: posts.map((p, i) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    url: new URL(`/blog/${p.slug}`, SITE.url).href,
+    name: p.data.title,
+  })),
+};
+---
+<BaseLayout
+  title={`JoSAA & JEE Counselling Guides 2026 | ${SITE.name} Blog`}
+  description="Plain-English JoSAA & CSAB counselling guides: choice-filling order, float/freeze/slide, mock allotment, branch vs college, quotas, documents and scams — built on official 2023–2026 data.">
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify(itemListLd)} />
+  </Fragment>
+
+  <section class="container hub-hero">
+    <span class="kicker"><svg class="ic"><use href="#i-list"/></svg>JoSAA 2026 knowledge base</span>
+    <h1>Everything you need to fill JoSAA right.</h1>
+    <p>Honest, plain-English guides for Indian engineering aspirants and parents — choice-filling order, float/freeze/slide, mock allotment, branch vs college, quotas, deposits, documents and scams. Built on official 2023–2026 closing-rank data.</p>
+  </section>
+
+  <div class="container">
+    <div class="post-grid">
+      {pillar && (
+        <a class="post-card pillar" href={`/blog/${pillar.slug}`}>
+          <span class="tag">Start here · Complete guide</span>
+          <h2>{pillar.data.title}</h2>
+          <p>{pillar.data.description}</p>
+          <span class="more">Read the full guide <svg class="ic" style="width:16px;height:16px"><use href="#i-check"/></svg></span>
+        </a>
+      )}
+      {rest.map((p) => (
+        <a class="post-card" href={`/blog/${p.slug}`}>
+          <span class="tag">{p.data.theme.replace(/_/g, ' ')}</span>
+          <h3>{p.data.title}</h3>
+          <p>{p.data.description}</p>
+          <span class="more">Read more →</span>
+        </a>
+      ))}
+    </div>
+  </div>
+</BaseLayout>
