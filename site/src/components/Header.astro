@@ -1,0 +1,12 @@
+---
+import { NAV, LINKS, PRICES } from '../consts';
+---
+<header class="site-head">
+  <div class="container in">
+    <a href="/" class="brand"><svg class="ic"><use href="#i-bridge"/></svg>BeingWise</a>
+    <nav class="head-nav">
+      {NAV.map((n) => <a href={n.href}>{n.label}</a>)}
+    </nav>
+    <a href={LINKS.playbook} class="btn btn-amber head-cta">Get my list — {PRICES.playbook}</a>
+  </div>
+</header>
