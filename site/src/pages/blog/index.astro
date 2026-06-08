@@ -15,7 +15,7 @@ const itemListLd = {
   itemListElement: posts.map((p, i) => ({
     '@type': 'ListItem',
     position: i + 1,
-    url: new URL(`/blog/${p.slug}`, SITE.url).href,
+    url: new URL(`/blog/${p.id}`, SITE.url).href,
     name: p.data.title,
   })),
 };
@@ -36,7 +36,7 @@ const itemListLd = {
   <div class="container">
     <div class="post-grid">
       {pillar && (
-        <a class="post-card pillar" href={`/blog/${pillar.slug}`}>
+        <a class="post-card pillar" href={`/blog/${pillar.id}`}>
           <span class="tag">Start here · Complete guide</span>
           <h2>{pillar.data.title}</h2>
           <p>{pillar.data.description}</p>
@@ -44,7 +44,7 @@ const itemListLd = {
         </a>
       )}
       {rest.map((p) => (
-        <a class="post-card" href={`/blog/${p.slug}`}>
+        <a class="post-card" href={`/blog/${p.id}`}>
           <span class="tag">{p.data.theme.replace(/_/g, ' ')}</span>
           <h3>{p.data.title}</h3>
           <p>{p.data.description}</p>
