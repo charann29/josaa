@@ -2,3 +2,5 @@
 _extract/
 data/
 .gstack/
+.vercel/
+*.log
