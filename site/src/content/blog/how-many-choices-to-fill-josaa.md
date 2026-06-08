@@ -62,7 +62,7 @@ The myth says filling more hurts you. The truth is the opposite: **filling too f
 
 JoSAA runs multiple rounds, and closing ranks shift between rounds and between years. Your rank sits in a band, not on a fixed line. If your list is short and a round moves against you — closing ranks tighten, your preferred branch fills early — none of your listed options may be within reach that round. The result: **no seat allotted, and a round gone that you can't get back.**
 
-A short list with no cushion is a bet that everything goes your way. It usually mostly does — until the one round it doesn't, and that's the round that decides your year. This is one of the quietest, costliest [choice-filling mistakes](/blog/josaa-choice-filling-mistakes) students make.
+A short list with no cushion is a bet that everything goes your way. It usually mostly does — until the one round it doesn't, and that's the round that decides your year. The students who get caught out are rarely careless; they're often the confident ones who assumed their preferred options were "safe enough" and didn't bother extending the list. This is one of the quietest, costliest [choice-filling mistakes](/blog/josaa-choice-filling-mistakes) students make.
 
 The fix is simple and free: a **safe tail** — a handful of options at the bottom of your list whose recent closing ranks sit comfortably below your rank, that you would genuinely attend. The safe tail is the single most important part of "how many." A list can be short up top, but it should never end without a real safety net.
 
