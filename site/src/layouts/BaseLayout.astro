@@ -1,0 +1,88 @@
+---
+import '../styles/global.css';
+import { SITE } from '../consts';
+import IconSprite from '../components/IconSprite.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+
+interface Props {
+  title: string;
+  description: string;
+  ogImage?: string;
+  type?: 'website' | 'article';
+  noindex?: boolean;
+  chrome?: boolean;          // include shared header/footer
+}
+const {
+  title,
+  description,
+  ogImage = SITE.defaultOgImage,
+  type = 'website',
+  noindex = false,
+  chrome = true,
+} = Astro.props;
+
+const canonical = new URL(Astro.url.pathname, SITE.url).href;
+const ogImageAbs = new URL(ogImage, SITE.url).href;
+
+// Sitewide JSON-LD: Organization + WebSite (enables sitelinks search box + brand entity)
+const orgLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: SITE.name,
+  url: SITE.url,
+  logo: new URL('/logo.png', SITE.url).href,
+  description: SITE.description,
+  sameAs: [],
+};
+const siteLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: SITE.name,
+  url: SITE.url,
+  inLanguage: 'en-IN',
+  potentialAction: {
+    '@type': 'SearchAction',
+    target: `${SITE.url}/blog?q={search_term_string}`,
+    'query-input': 'required name=search_term_string',
+  },
+};
+---
+<!doctype html>
+<html lang="en-IN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <title>{title}</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href={canonical} />
+  {noindex && <meta name="robots" content="noindex,nofollow" />}
+
+  <!-- Open Graph -->
+  <meta property="og:type" content={type} />
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  <meta property="og:url" content={canonical} />
+  <meta property="og:site_name" content={SITE.name} />
+  <meta property="og:locale" content={SITE.locale} />
+  <meta property="og:image" content={ogImageAbs} />
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content={title} />
+  <meta name="twitter:description" content={description} />
+  <meta name="twitter:image" content={ogImageAbs} />
+
+  <link rel="alternate" type="application/rss+xml" title={`${SITE.name} Blog`} href="/rss.xml" />
+
+  <script type="application/ld+json" set:html={JSON.stringify(orgLd)} />
+  <script type="application/ld+json" set:html={JSON.stringify(siteLd)} />
+  <slot name="head" />
+</head>
+<body>
+  <IconSprite />
+  {chrome && <Header />}
+  <slot />
+  {chrome && <Footer />}
+</body>
+</html>
