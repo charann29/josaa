@@ -18,38 +18,40 @@ function runCmd(cmd) {
 
 function sync() {
   try {
-    // 1. Pull down the latest version from remote first
-    runCmd(`git pull --rebase origin ${BRANCH}`);
-
-    // 2. Check local status
+    // 1. Check local status first
     const statusOutput = runCmd('git status --porcelain');
-    if (!statusOutput) {
-      // No local changes
-      return;
+    const isDirty = !!statusOutput;
+
+    if (isDirty) {
+      console.log('Detected local changes:');
+      console.log(statusOutput);
+
+      // Parse changed files for commit message
+      const lines = statusOutput.split('\n').filter(Boolean);
+      const changedFiles = lines.map(line => {
+        const parts = line.trim().split(/\s+/);
+        return parts[parts.length - 1];
+      });
+
+      const timestamp = new Date().toISOString().replace('T', ' ').substring(0, 19);
+      const commitMsg = `Auto-commit: updated ${changedFiles.join(', ')} at ${timestamp}`;
+
+      console.log('Staging changes...');
+      runCmd('git add -A');
+
+      console.log(`Committing changes: "${commitMsg}"`);
+      runCmd(`git commit -m "${commitMsg}"`);
     }
 
-    console.log('Detected local changes:');
-    console.log(statusOutput);
+    // 2. Now that working directory is clean, pull down remote version
+    runCmd(`git pull --rebase origin ${BRANCH}`);
 
-    // Parse changed files for commit message
-    const lines = statusOutput.split('\n').filter(Boolean);
-    const changedFiles = lines.map(line => {
-      const parts = line.trim().split(/\s+/);
-      return parts[parts.length - 1];
-    });
-
-    const timestamp = new Date().toISOString().replace('T', ' ').substring(0, 19);
-    const commitMsg = `Auto-commit: updated ${changedFiles.join(', ')} at ${timestamp}`;
-
-    console.log('Staging changes...');
-    runCmd('git add -A');
-
-    console.log(`Committing changes: "${commitMsg}"`);
-    runCmd(`git commit -m "${commitMsg}"`);
-
-    console.log('Pushing to GitHub...');
-    runCmd(`git push origin ${BRANCH}`);
-    console.log('Sync complete!');
+    // 3. If we committed changes locally, push them up
+    if (isDirty) {
+      console.log('Pushing to GitHub...');
+      runCmd(`git push origin ${BRANCH}`);
+      console.log('Sync complete!');
+    }
 
   } catch (err) {
     console.error(`Error during sync: ${err.message}`);
