@@ -1,0 +1,716 @@
+Choice,Type,InstCode,Institute,BranchCode,Branch,PwDseat,Reach2025,Via,OBC-PwD_close,Gen-PwD_close
+1,NIT,228,"National Institute of Technology, Warangal",4110,Computer Science and Engineering,Y,Out,OBC-NCL(PwD),154,101
+2,NIT,228,"National Institute of Technology, Warangal",412F,Computer Science and Engineering ( Artificial Intelligence & Data Science),Y,Out,OBC-NCL(PwD),52,119
+3,NIT,228,"National Institute of Technology, Warangal",4124,Mathematics and Computing,Y,Reach,OBC-NCL(PwD),283,
+4,NIT,228,"National Institute of Technology, Warangal",410Z,Electronics and Communication Engineering (VLSI Design and Technology),Y,Out,General PwD,141,528
+5,NIT,228,"National Institute of Technology, Warangal",4114,Electronics and Communication Engineering,Y,Out,OBC-NCL(PwD),155,185
+6,NIT,228,"National Institute of Technology, Warangal",4144,Electrical and Electronics Engineering,Y,Reach,OBC-NCL(PwD),356,623
+7,NIT,228,"National Institute of Technology, Warangal",413O,Electrical and Electronics Engineering (Electric Mobility),Y,No-data,,,
+8,NIT,228,"National Institute of Technology, Warangal",4125,Mechanical Engineering,Y,Borderline,OBC-NCL(PwD),455,548
+9,NIT,228,"National Institute of Technology, Warangal",4107,Chemical Engineering,Y,Good,OBC-NCL(PwD),541,811
+10,NIT,228,"National Institute of Technology, Warangal",5210,Chemical Engineering,Y,Out,General,,
+11,NIT,228,"National Institute of Technology, Warangal",4109,Civil Engineering,Y,Out,General PwD,,574
+12,NIT,228,"National Institute of Technology, Warangal",4127,Metallurgical and Materials Engineering,Y,Good,OBC-NCL(PwD),743,1125
+13,NIT,228,"National Institute of Technology, Warangal",5243,Metallurgical and Materials Engineering,-,Out,General,,
+14,NIT,228,"National Institute of Technology, Warangal",4104,Bio Technology,Y,Good,OBC-NCL(PwD),548,850
+15,NIT,228,"National Institute of Technology, Warangal",5503,Chemistry,Y,Good,General PwD,,1512
+16,NIT,228,"National Institute of Technology, Warangal",5508,Mathematics,Y,Good,OBC-NCL(PwD),579,
+17,NIT,228,"National Institute of Technology, Warangal",5507,Physics,Y,Out,OBC-NCL,,
+18,NIT,231,"National Institute of Technology, Andhra Pradesh",4110,Computer Science and Engineering,Y,Out,OBC-NCL(PwD),218,432
+19,NIT,231,"National Institute of Technology, Andhra Pradesh",4114,Electronics and Communication Engineering,Y,Out,General PwD,190,615
+20,NIT,231,"National Institute of Technology, Andhra Pradesh",4144,Electrical and Electronics Engineering,Y,Good,OBC-NCL(PwD),646,1173
+21,NIT,231,"National Institute of Technology, Andhra Pradesh",4125,Mechanical Engineering,Y,SAFE,OBC-NCL(PwD),806,1166
+22,NIT,231,"National Institute of Technology, Andhra Pradesh",4107,Chemical Engineering,Y,Good,General PwD,,1549
+23,NIT,231,"National Institute of Technology, Andhra Pradesh",4109,Civil Engineering,Y,Good,OBC-NCL(PwD),684,1597
+24,NIT,231,"National Institute of Technology, Andhra Pradesh",4127,Metallurgical and Materials Engineering,Y,Good,General PwD,,1783
+25,NIT,231,"National Institute of Technology, Andhra Pradesh",4104,Bio Technology,Y,SAFE,General PwD,698,1926
+26,NIT,230,"Visvesvaraya National Institute of Technology, Nagpur",4110,Computer Science and Engineering,Y,Out,OBC-NCL(PwD),122,281
+27,NIT,230,"Visvesvaraya National Institute of Technology, Nagpur",413Z,Computer Science and Engineering (Artificial Intelligence and Data Science),Y,No-data,,,
+28,NIT,230,"Visvesvaraya National Institute of Technology, Nagpur",4124,Mathematics and Computing,-,No-data,,,
+29,NIT,230,"Visvesvaraya National Institute of Technology, Nagpur",4114,Electronics and Communication Engineering,Y,Out,OBC-NCL(PwD),200,457
+30,NIT,230,"Visvesvaraya National Institute of Technology, Nagpur",411H,Electronics Engineering (VLSI Design and Technology),Y,No-data,,,
+31,NIT,230,"Visvesvaraya National Institute of Technology, Nagpur",4144,Electrical and Electronics Engineering,Y,Good,OBC-NCL(PwD),516,1033
+32,NIT,230,"Visvesvaraya National Institute of Technology, Nagpur",4125,Mechanical Engineering,Y,Good,OBC-NCL(PwD),567,978
+33,NIT,230,"Visvesvaraya National Institute of Technology, Nagpur",4107,Chemical Engineering,Y,Good,General PwD,624,1550
+34,NIT,230,"Visvesvaraya National Institute of Technology, Nagpur",413Y,Chemical Technology (Bioprocess Technology),Y,No-data,,,
+35,NIT,230,"Visvesvaraya National Institute of Technology, Nagpur",4109,Civil Engineering,Y,Good,General PwD,457,1172
+36,NIT,230,"Visvesvaraya National Institute of Technology, Nagpur",4127,Metallurgical and Materials Engineering,Y,SAFE,General PwD,843,2353
+37,NIT,230,"Visvesvaraya National Institute of Technology, Nagpur",4117,Engineering Physics,Y,No-data,,,
+38,NIT,230,"Visvesvaraya National Institute of Technology, Nagpur",4130,Mining Engineering,-,Out,General,,
+39,NIT,230,"Visvesvaraya National Institute of Technology, Nagpur",5101,Architecture,Y,Out,OBC-NCL(PwD),87,184
+40,NIT,216,National Institute of Technology Raipur,4110,Computer Science and Engineering,Y,Good,OBC-NCL(PwD),513,867
+41,NIT,216,National Institute of Technology Raipur,4114,Electronics and Communication Engineering,Y,Good,General PwD,282,1367
+42,NIT,216,National Institute of Technology Raipur,4111,Electrical Engineering,Y,SAFE,OBC-NCL(PwD),1497,2258
+43,NIT,216,National Institute of Technology Raipur,4146,Information Technology,Y,Reach,General PwD,,802
+44,NIT,216,National Institute of Technology Raipur,4125,Mechanical Engineering,Y,SAFE,General PwD,982,2653
+45,NIT,216,National Institute of Technology Raipur,4107,Chemical Engineering,Y,SAFE,OBC-NCL(PwD),1070,1797
+46,NIT,216,National Institute of Technology Raipur,4109,Civil Engineering,Y,SAFE,OBC-NCL(PwD),962,1925
+47,NIT,216,National Institute of Technology Raipur,4127,Metallurgical and Materials Engineering,Y,SAFE,General PwD,,2440
+48,NIT,216,National Institute of Technology Raipur,4130,Mining Engineering,-,Out,General,,
+49,NIT,216,National Institute of Technology Raipur,4152,Bio Medical Engineering,Y,SAFE,OBC-NCL(PwD),993,2035
+50,NIT,216,National Institute of Technology Raipur,4104,Bio Technology,Y,SAFE,General PwD,,2877
+51,NIT,216,National Institute of Technology Raipur,5101,Architecture,Y,Out,General PwD,,75
+52,NIT,215,National Institute of Technology Puducherry,4110,Computer Science and Engineering,Y,Out,General PwD,104,472
+53,NIT,215,National Institute of Technology Puducherry,4114,Electronics and Communication Engineering,Y,Good,General PwD,311,1272
+54,NIT,215,National Institute of Technology Puducherry,4144,Electrical and Electronics Engineering,Y,SAFE,General PwD,,3255
+55,NIT,215,National Institute of Technology Puducherry,4125,Mechanical Engineering,Y,SAFE,General PwD,778,2209
+56,NIT,215,National Institute of Technology Puducherry,4109,Civil Engineering,Y,Reach,General PwD,,919
+57,NIT,209,National Institute of Technology Goa,4110,Computer Science and Engineering,Y,Out,OBC-NCL,,
+58,NIT,209,National Institute of Technology Goa,4114,Electronics and Communication Engineering,-,Reach,General PwD,,901
+59,NIT,209,National Institute of Technology Goa,4144,Electrical and Electronics Engineering,Y,Good,OBC-NCL(PwD),716,1128
+60,NIT,209,National Institute of Technology Goa,4125,Mechanical Engineering,Y,SAFE,OBC-NCL(PwD),1061,
+61,NIT,209,National Institute of Technology Goa,4109,Civil Engineering,Y,Good,General PwD,,1603
+62,NIT,211,"National Institute of Technology Karnataka, Surathkal",4110,Computer Science and Engineering,Y,Out,OBC-NCL(PwD),24,56
+63,NIT,211,"National Institute of Technology Karnataka, Surathkal",4185,Artificial Intelligence,Y,Out,OBC-NCL(PwD),82,71
+64,NIT,211,"National Institute of Technology Karnataka, Surathkal",410Q,Computational and Data Science,Y,Out,General PwD,,75
+65,NIT,211,"National Institute of Technology Karnataka, Surathkal",4114,Electronics and Communication Engineering,Y,Out,OBC-NCL(PwD),111,
+66,NIT,211,"National Institute of Technology Karnataka, Surathkal",4144,Electrical and Electronics Engineering,Y,Good,OBC-NCL(PwD),739,466
+67,NIT,211,"National Institute of Technology Karnataka, Surathkal",4146,Information Technology,Y,Out,General PwD,,132
+68,NIT,211,"National Institute of Technology Karnataka, Surathkal",4125,Mechanical Engineering,Y,Good,OBC-NCL(PwD),590,661
+69,NIT,211,"National Institute of Technology Karnataka, Surathkal",4107,Chemical Engineering,Y,Good,OBC-NCL(PwD),495,336
+70,NIT,211,"National Institute of Technology Karnataka, Surathkal",4109,Civil Engineering,Y,Good,General PwD,368,1128
+71,NIT,211,"National Institute of Technology Karnataka, Surathkal",4127,Metallurgical and Materials Engineering,Y,Good,OBC-NCL(PwD),531,1241
+72,NIT,211,"National Institute of Technology Karnataka, Surathkal",4130,Mining Engineering,-,Out,OBC-NCL,,
+73,NIT,223,"National Institute of Technology, Rourkela",4110,Computer Science and Engineering,Y,Out,OBC-NCL(PwD),180,118
+74,NIT,223,"National Institute of Technology, Rourkela",4185,Artificial Intelligence,Y,Out,General PwD,,233
+75,NIT,223,"National Institute of Technology, Rourkela",411F,B.Tech in Mathematics and Computing,-,No-data,,,
+76,NIT,223,"National Institute of Technology, Rourkela",4114,Electronics and Communication Engineering,Y,Out,General PwD,,232
+77,NIT,223,"National Institute of Technology, Rourkela",4142,Electronics and Instrumentation Engineering,Y,Out,General PwD,,341
+78,NIT,223,"National Institute of Technology, Rourkela",4111,Electrical Engineering,Y,SAFE,OBC-NCL(PwD),942,926
+79,NIT,223,"National Institute of Technology, Rourkela",4125,Mechanical Engineering,Y,Good,OBC-NCL(PwD),587,712
+80,NIT,223,"National Institute of Technology, Rourkela",4107,Chemical Engineering,Y,SAFE,General PwD,,2373
+81,NIT,223,"National Institute of Technology, Rourkela",5210,Chemical Engineering,-,No-data,,,
+82,NIT,223,"National Institute of Technology, Rourkela",4109,Civil Engineering,Y,SAFE,OBC-NCL(PwD),1411,1018
+83,NIT,223,"National Institute of Technology, Rourkela",4127,Metallurgical and Materials Engineering,Y,SAFE,OBC-NCL(PwD),1182,2456
+84,NIT,223,"National Institute of Technology, Rourkela",5243,Metallurgical and Materials Engineering,-,Out,OBC-NCL,,
+85,NIT,223,"National Institute of Technology, Rourkela",4106,Ceramic Engineering,Y,SAFE,General PwD,,2228
+86,NIT,223,"National Institute of Technology, Rourkela",5258,Ceramic Engineering and M.Tech Industrial Ceramic,-,Out,OBC-NCL,,
+87,NIT,223,"National Institute of Technology, Rourkela",4117,Engineering Physics,-,No-data,,,
+88,NIT,223,"National Institute of Technology, Rourkela",4169,Food Process Engineering,-,Out,OBC-NCL,,
+89,NIT,223,"National Institute of Technology, Rourkela",4130,Mining Engineering,-,Out,OBC-NCL,,
+90,NIT,223,"National Institute of Technology, Rourkela",5247,Mining Engineering,-,Out,OBC-NCL,,
+91,NIT,223,"National Institute of Technology, Rourkela",4152,Bio Medical Engineering,-,Out,OBC-NCL,,
+92,NIT,223,"National Institute of Technology, Rourkela",4104,Bio Technology,Y,SAFE,General PwD,,3027
+93,NIT,223,"National Institute of Technology, Rourkela",5101,Architecture,-,Out,OBC-NCL,,
+94,NIT,223,"National Institute of Technology, Rourkela",5503,Chemistry,-,Out,OBC-NCL,,
+95,NIT,223,"National Institute of Technology, Rourkela",4155,Industrial Design,-,Out,OBC-NCL,,
+96,NIT,223,"National Institute of Technology, Rourkela",5509,Life Science,-,Out,OBC-NCL,,
+97,NIT,203,Maulana Azad National Institute of Technology Bhopal,4110,Computer Science and Engineering,Y,Out,OBC-NCL(PwD),201,438
+98,NIT,226,"National Institute of Technology, Tiruchirappalli",4110,Computer Science and Engineering,Y,Out,General PwD,18,250
+99,NIT,203,Maulana Azad National Institute of Technology Bhopal,520F,Mathematics and Data Science,-,Out,General,,
+100,NIT,203,Maulana Azad National Institute of Technology Bhopal,4114,Electronics and Communication Engineering,Y,Good,OBC-NCL(PwD),499,1154
+101,NIT,226,"National Institute of Technology, Tiruchirappalli",4114,Electronics and Communication Engineering,Y,Out,General PwD,80,360
+102,NIT,203,Maulana Azad National Institute of Technology Bhopal,4111,Electrical Engineering,Y,SAFE,OBC-NCL(PwD),1028,1898
+103,NIT,203,Maulana Azad National Institute of Technology Bhopal,412X,Energy and Electrical Vehicle Engineering,-,Out,OBC-NCL,,
+104,NIT,226,"National Institute of Technology, Tiruchirappalli",4144,Electrical and Electronics Engineering,Y,Out,General PwD,,387
+105,NIT,203,Maulana Azad National Institute of Technology Bhopal,413N,Electrical Engineering with E Mobility,-,No-data,,,
+106,NIT,203,Maulana Azad National Institute of Technology Bhopal,4125,Mechanical Engineering,Y,SAFE,OBC-NCL(PwD),1310,2715
+107,NIT,226,"National Institute of Technology, Tiruchirappalli",4125,Mechanical Engineering,Y,Out,OBC-NCL(PwD),258,393
+108,NIT,203,Maulana Azad National Institute of Technology Bhopal,4107,Chemical Engineering,Y,SAFE,OBC-NCL(PwD),1812,2151
+109,NIT,226,"National Institute of Technology, Tiruchirappalli",4107,Chemical Engineering,Y,Reach,OBC-NCL(PwD),284,196
+110,NIT,203,Maulana Azad National Institute of Technology Bhopal,4109,Civil Engineering,Y,SAFE,General PwD,726,4256
+111,NIT,226,"National Institute of Technology, Tiruchirappalli",4109,Civil Engineering,Y,Out,OBC-NCL(PwD),270,575
+112,NIT,203,Maulana Azad National Institute of Technology Bhopal,4180,Materials and Metallurgical Engineering,Y,No-data,,,
+113,NIT,226,"National Institute of Technology, Tiruchirappalli",4127,Metallurgical and Materials Engineering,Y,Reach,General PwD,316,797
+114,NIT,203,Maulana Azad National Institute of Technology Bhopal,522S,B. Tech. and M. Tech. in Engineering and Computational Mechanics (Dual Degree),-,Out,OBC-NCL,,
+115,NIT,226,"National Institute of Technology, Tiruchirappalli",4148,Instrumentation and Control Engineering,Y,Good,OBC-NCL(PwD),503,789
+116,NIT,226,"National Institute of Technology, Tiruchirappalli",4145,Production Engineering,Y,Good,OBC-NCL(PwD),544,954
+117,NIT,203,Maulana Azad National Institute of Technology Bhopal,5101,Architecture,Y,Out,General PwD,,115
+118,NIT,203,Maulana Azad National Institute of Technology Bhopal,4501,Planning,Y,Out,OBC-NCL,,
+119,NIT,226,"National Institute of Technology, Tiruchirappalli",5101,Architecture,Y,Out,OBC-NCL(PwD),66,28
+120,NIT,206,National Institute of Technology Calicut,4110,Computer Science and Engineering,Y,Out,OBC-NCL(PwD),98,134
+121,NIT,206,National Institute of Technology Calicut,4114,Electronics and Communication Engineering,Y,Out,OBC-NCL(PwD),231,252
+122,NIT,206,National Institute of Technology Calicut,4144,Electrical and Electronics Engineering,Y,Reach,OBC-NCL(PwD),318,617
+123,NIT,206,National Institute of Technology Calicut,4125,Mechanical Engineering,Y,SAFE,OBC-NCL(PwD),848,1249
+124,NIT,206,National Institute of Technology Calicut,4107,Chemical Engineering,Y,Borderline,OBC-NCL(PwD),404,456
+125,NIT,206,National Institute of Technology Calicut,4109,Civil Engineering,Y,SAFE,OBC-NCL(PwD),918,1679
+126,NIT,206,National Institute of Technology Calicut,5A09,B. Tech. (Mathematics & Computing) M. Tech. in (Mathematics & Computing),Y,No-data,,,
+127,NIT,206,National Institute of Technology Calicut,4198,Energy Engineering,Y,Good,OBC-NCL(PwD),630,1146
+128,NIT,206,National Institute of Technology Calicut,4117,Engineering Physics,Y,SAFE,General PwD,715,1892
+129,NIT,206,National Institute of Technology Calicut,4123,Materials Science and Engineering,Y,Good,General PwD,,1433
+130,NIT,206,National Institute of Technology Calicut,4145,Production Engineering,Y,SAFE,OBC-NCL(PwD),837,1704
+131,NIT,206,National Institute of Technology Calicut,4104,Bio Technology,Y,Reach,OBC-NCL(PwD),355,266
+132,NIT,206,National Institute of Technology Calicut,5101,Architecture,Y,Out,General PwD,38,98
+133,NIT,229,"Sardar Vallabhbhai National Institute of Technology, Surat",4110,Computer Science and Engineering,Y,Out,OBC-NCL(PwD),172,223
+134,NIT,229,"Sardar Vallabhbhai National Institute of Technology, Surat",4185,Artificial Intelligence,Y,Good,OBC-NCL(PwD),474,430
+135,NIT,229,"Sardar Vallabhbhai National Institute of Technology, Surat",5B06,Artificial Intelligence,Y,Out,General PwD,,473
+136,NIT,229,"Sardar Vallabhbhai National Institute of Technology, Surat",4124,Mathematics and Computing,Y,Good,General PwD,306,1184
+137,NIT,229,"Sardar Vallabhbhai National Institute of Technology, Surat",4114,Electronics and Communication Engineering,Y,Borderline,OBC-NCL(PwD),439,668
+138,NIT,229,"Sardar Vallabhbhai National Institute of Technology, Surat",410V,Electronics and VLSI Engineering,Y,Borderline,General PwD,,1105
+139,NIT,229,"Sardar Vallabhbhai National Institute of Technology, Surat",4111,Electrical Engineering,Y,Good,OBC-NCL(PwD),611,1287
+140,NIT,229,"Sardar Vallabhbhai National Institute of Technology, Surat",4125,Mechanical Engineering,Y,SAFE,OBC-NCL(PwD),814,1278
+141,NIT,229,"Sardar Vallabhbhai National Institute of Technology, Surat",4107,Chemical Engineering,Y,SAFE,OBC-NCL(PwD),1395,1501
+142,NIT,229,"Sardar Vallabhbhai National Institute of Technology, Surat",4109,Civil Engineering,Y,Good,OBC-NCL(PwD),740,1577
+143,NIT,229,"Sardar Vallabhbhai National Institute of Technology, Surat",4117,Engineering Physics,Y,SAFE,General PwD,,2141
+144,NIT,229,"Sardar Vallabhbhai National Institute of Technology, Surat",5H3C,Chemistry,Y,No-data,,,
+145,NIT,229,"Sardar Vallabhbhai National Institute of Technology, Surat",410B,Industrial Chemistry,Y,SAFE,General PwD,1113,3431
+146,NIT,229,"Sardar Vallabhbhai National Institute of Technology, Surat",5H3E,Mathematics,Y,No-data,,,
+147,NIT,229,"Sardar Vallabhbhai National Institute of Technology, Surat",5H3D,Physics,Y,No-data,,,
+148,NIT,219,"National Institute of Technology, Jamshedpur",4110,Computer Science and Engineering,Y,Out,OBC-NCL(PwD),262,516
+149,NIT,219,"National Institute of Technology, Jamshedpur",4114,Electronics and Communication Engineering,Y,Good,OBC-NCL(PwD),748,
+150,NIT,219,"National Institute of Technology, Jamshedpur",4111,Electrical Engineering,Y,SAFE,OBC-NCL(PwD),1104,1201
+151,NIT,219,"National Institute of Technology, Jamshedpur",4125,Mechanical Engineering,Y,SAFE,OBC-NCL(PwD),1650,1148
+152,NIT,219,"National Institute of Technology, Jamshedpur",4109,Civil Engineering,Y,SAFE,OBC-NCL(PwD),1343,2708
+153,NIT,219,"National Institute of Technology, Jamshedpur",4127,Metallurgical and Materials Engineering,Y,SAFE,General PwD,,3908
+154,NIT,219,"National Institute of Technology, Jamshedpur",4192,Engineering and Computational Mechanics,Y,Borderline,General PwD,,1012
+155,NIT,219,"National Institute of Technology, Jamshedpur",4136,Production and Industrial Engineering,Y,SAFE,OBC-NCL(PwD),1687,2482
+156,NIT,204,Motilal Nehru National Institute of Technology Allahabad,4110,Computer Science and Engineering,Y,Out,OBC-NCL(PwD),110,199
+157,NIT,214,National Institute of Technology Patna,4110,Computer Science and Engineering,Y,Out,General PwD,227,589
+158,NIT,214,National Institute of Technology Patna,520I,Computer Science and Engineering with Specialization in Cyber Security,-,Borderline,OBC-NCL(PwD),431,705
+159,NIT,214,National Institute of Technology Patna,520H,Computer Science and Engineering with Specialization in Data Science,-,Borderline,General PwD,,1048
+160,NIT,214,National Institute of Technology Patna,4188,Artificial Intelligence and Data Science,Y,Out,General PwD,,638
+161,NIT,204,Motilal Nehru National Institute of Technology Allahabad,4124,Mathematics and Computing,Y,No-data,,,
+162,NIT,214,National Institute of Technology Patna,520O,Mathematics and Computing Technology,-,Reach,General PwD,,727
+163,NIT,214,National Institute of Technology Patna,520J,Electronics and Communication Engineering with Specialization in Microelectronics and VLSI System Design,-,Good,OBC-NCL(PwD),655,
+164,NIT,204,Motilal Nehru National Institute of Technology Allahabad,4114,Electronics and Communication Engineering,Y,Out,OBC-NCL(PwD),184,365
+165,NIT,214,National Institute of Technology Patna,4114,Electronics and Communication Engineering,Y,Good,OBC-NCL(PwD),751,1227
+166,NIT,214,National Institute of Technology Patna,411H,Electronics Engineering (VLSI Design and Technology),Y,SAFE,OBC-NCL(PwD),1212,1812
+167,NIT,204,Motilal Nehru National Institute of Technology Allahabad,4111,Electrical Engineering,Y,Reach,OBC-NCL(PwD),361,630
+168,NIT,214,National Institute of Technology Patna,4111,Electrical Engineering,Y,SAFE,OBC-NCL(PwD),1264,1801
+169,NIT,214,National Institute of Technology Patna,520K,Electrical Engineering with Specialization In Power System Engineering,-,SAFE,OBC-NCL(PwD),1013,1783
+170,NIT,204,Motilal Nehru National Institute of Technology Allahabad,4125,Mechanical Engineering,Y,Good,OBC-NCL(PwD),514,854
+171,NIT,214,National Institute of Technology Patna,4125,Mechanical Engineering,Y,SAFE,OBC-NCL(PwD),1395,2490
+172,NIT,214,National Institute of Technology Patna,520L,Mechanical Engineering with Specialization in Manufacturing and Industrial Engineering,-,Good,General PwD,,1563
+173,NIT,204,Motilal Nehru National Institute of Technology Allahabad,4107,Chemical Engineering,Y,Good,OBC-NCL(PwD),750,899
+174,NIT,214,National Institute of Technology Patna,521R,Chemical Technology,-,SAFE,OBC-NCL(PwD),1443,3410
+175,NIT,204,Motilal Nehru National Institute of Technology Allahabad,4109,Civil Engineering,Y,SAFE,OBC-NCL(PwD),1059,884
+176,NIT,214,National Institute of Technology Patna,4109,Civil Engineering,Y,SAFE,OBC-NCL(PwD),1466,2517
+177,NIT,214,National Institute of Technology Patna,520M,Civil Engineering with Specialization in Construction Technology and Management,-,Out,General,,
+178,NIT,204,Motilal Nehru National Institute of Technology Allahabad,4192,Engineering and Computational Mechanics,Y,Out,General PwD,,545
+179,NIT,204,Motilal Nehru National Institute of Technology Allahabad,412H,Materials Engineering,Y,No-data,,,
+180,NIT,214,National Institute of Technology Patna,520N,Material Science and Engineering,-,Out,General,,
+181,NIT,214,National Institute of Technology Patna,411B,Mechatronics and Automation Engineering,-,Out,General,,
+182,NIT,204,Motilal Nehru National Institute of Technology Allahabad,4104,Bio Technology,Y,SAFE,General PwD,731,2420
+183,NIT,214,National Institute of Technology Patna,5101,Architecture,Y,Out,OBC-NCL,,
+184,NIT,208,National Institute of Technology Durgapur,4110,Computer Science and Engineering,Y,Out,OBC-NCL(PwD),175,406
+185,NIT,220,"National Institute of Technology, Kurukshetra",4110,Computer Science and Engineering,Y,Reach,OBC-NCL(PwD),301,93
+186,NIT,220,"National Institute of Technology, Kurukshetra",5216,Computer Science and Engineering,Y,Out,General PwD,,594
+187,NIT,220,"National Institute of Technology, Kurukshetra",4188,Artificial Intelligence and Data Science,Y,Good,OBC-NCL(PwD),606,
+188,NIT,220,"National Institute of Technology, Kurukshetra",410P,Artificial Intelligence and Machine Learning,Y,Good,OBC-NCL(PwD),606,321
+189,NIT,208,National Institute of Technology Durgapur,411F,B.Tech in Mathematics and Computing,Y,Borderline,OBC-NCL(PwD),430,1027
+190,NIT,220,"National Institute of Technology, Kurukshetra",4124,Mathematics and Computing,Y,Good,General PwD,269,1670
+191,NIT,208,National Institute of Technology Durgapur,4114,Electronics and Communication Engineering,Y,Good,OBC-NCL(PwD),528,613
+192,NIT,220,"National Institute of Technology, Kurukshetra",4114,Electronics and Communication Engineering,Y,SAFE,OBC-NCL(PwD),871,931
+193,NIT,220,"National Institute of Technology, Kurukshetra",5234,Electronics and Communication Engineering,Y,Good,General PwD,,1530
+194,NIT,220,"National Institute of Technology, Kurukshetra",412B,Microelectronics & VLSI Engineering,Y,SAFE,General PwD,,3034
+195,NIT,208,National Institute of Technology Durgapur,4111,Electrical Engineering,Y,Good,OBC-NCL(PwD),675,1478
+196,NIT,220,"National Institute of Technology, Kurukshetra",4111,Electrical Engineering,Y,Good,OBC-NCL(PwD),547,588
+197,NIT,220,"National Institute of Technology, Kurukshetra",5217,Electrical Engineering,Y,Out,General PwD,,373
+198,NIT,220,"National Institute of Technology, Kurukshetra",4146,Information Technology,Y,SAFE,OBC-NCL(PwD),871,494
+199,NIT,208,National Institute of Technology Durgapur,4125,Mechanical Engineering,Y,SAFE,OBC-NCL(PwD),1385,1964
+200,NIT,220,"National Institute of Technology, Kurukshetra",4125,Mechanical Engineering,Y,SAFE,General PwD,865,3634
+201,NIT,220,"National Institute of Technology, Kurukshetra",5233,Mechanical Engineering,Y,SAFE,General PwD,,1990
+202,NIT,208,National Institute of Technology Durgapur,4107,Chemical Engineering,Y,SAFE,OBC-NCL(PwD),936,1949
+203,NIT,208,National Institute of Technology Durgapur,5257,Chemical Engineering,-,Out,OBC-NCL,,
+204,NIT,208,National Institute of Technology Durgapur,4109,Civil Engineering,Y,SAFE,OBC-NCL(PwD),1009,1238
+205,NIT,220,"National Institute of Technology, Kurukshetra",4109,Civil Engineering,Y,SAFE,OBC-NCL(PwD),1108,924
+206,NIT,220,"National Institute of Technology, Kurukshetra",5213,Civil Engineering,Y,Out,General,,
+207,NIT,208,National Institute of Technology Durgapur,4127,Metallurgical and Materials Engineering,Y,SAFE,General PwD,1194,3246
+208,NIT,220,"National Institute of Technology, Kurukshetra",4136,Production and Industrial Engineering,Y,SAFE,General PwD,,2564
+209,NIT,208,National Institute of Technology Durgapur,4104,Bio Technology,Y,SAFE,OBC-NCL(PwD),1286,2040
+210,NIT,208,National Institute of Technology Durgapur,5296,Biotechnology,-,Out,OBC-NCL,,
+211,NIT,208,National Institute of Technology Durgapur,5503,Chemistry,-,Out,OBC-NCL,,
+212,NIT,220,"National Institute of Technology, Kurukshetra",5101,Architecture,Y,Out,General PwD,,184
+213,NIT,220,"National Institute of Technology, Kurukshetra",411C,Industrial Internet of Things,Y,Good,OBC-NCL(PwD),655,1520
+214,NIT,220,"National Institute of Technology, Kurukshetra",412A,ROBOTICS & AUTOMATION,Y,Reach,OBC-NCL(PwD),366,720
+215,NIT,220,"National Institute of Technology, Kurukshetra",412D,SUSTAINABLE ENERGY TECHNOLOGIES,Y,SAFE,General PwD,,1884
+216,NIT,232,"Indian Institute of Engineering Science and Technology, Shibpur",4110,Computer Science and Engineering,Y,Reach,General PwD,,795
+217,NIT,202,Malaviya National Institute of Technology Jaipur,4110,Computer Science and Engineering,Y,Out,OBC-NCL(PwD),199,396
+218,NIT,202,Malaviya National Institute of Technology Jaipur,411G,Artificial Intelligence and Data Engineering,-,Out,OBC-NCL,,
+219,NIT,232,"Indian Institute of Engineering Science and Technology, Shibpur",4124,Mathematics and Computing,Y,No-data,,,
+220,NIT,202,Malaviya National Institute of Technology Jaipur,4124,Mathematics and Computing,Y,No-data,,,
+221,NIT,202,Malaviya National Institute of Technology Jaipur,4114,Electronics and Communication Engineering,Y,Good,OBC-NCL(PwD),571,
+222,NIT,232,"Indian Institute of Engineering Science and Technology, Shibpur",4153,Electronics and Telecommunication Engineering,Y,Good,OBC-NCL(PwD),685,1221
+223,NIT,232,"Indian Institute of Engineering Science and Technology, Shibpur",4111,Electrical Engineering,Y,SAFE,General PwD,,2208
+224,NIT,202,Malaviya National Institute of Technology Jaipur,4111,Electrical Engineering,Y,Good,OBC-NCL(PwD),507,1057
+225,NIT,232,"Indian Institute of Engineering Science and Technology, Shibpur",4146,Information Technology,Y,SAFE,OBC-NCL(PwD),915,911
+226,NIT,232,"Indian Institute of Engineering Science and Technology, Shibpur",4125,Mechanical Engineering,Y,SAFE,General PwD,1483,3780
+227,NIT,202,Malaviya National Institute of Technology Jaipur,4125,Mechanical Engineering,Y,Good,OBC-NCL(PwD),659,1308
+228,NIT,202,Malaviya National Institute of Technology Jaipur,4107,Chemical Engineering,Y,SAFE,OBC-NCL(PwD),1051,1686
+229,NIT,232,"Indian Institute of Engineering Science and Technology, Shibpur",4109,Civil Engineering,Y,SAFE,General PwD,,2945
+230,NIT,202,Malaviya National Institute of Technology Jaipur,4109,Civil Engineering,Y,Reach,General PwD,,832
+231,NIT,232,"Indian Institute of Engineering Science and Technology, Shibpur",4156,Metallurgy and Materials Engineering,Y,SAFE,General PwD,,3875
+232,NIT,202,Malaviya National Institute of Technology Jaipur,4127,Metallurgical and Materials Engineering,Y,SAFE,General PwD,,2483
+233,NIT,232,"Indian Institute of Engineering Science and Technology, Shibpur",4101,Aerospace Engineering,Y,Good,OBC-NCL(PwD),519,649
+234,NIT,232,"Indian Institute of Engineering Science and Technology, Shibpur",4130,Mining Engineering,Y,Out,OBC-NCL,,
+235,NIT,202,Malaviya National Institute of Technology Jaipur,4117,Engineering Physics,Y,No-data,,,
+236,NIT,232,"Indian Institute of Engineering Science and Technology, Shibpur",5501,Applied Geology,Y,No-data,,,
+237,NIT,232,"Indian Institute of Engineering Science and Technology, Shibpur",5101,Architecture,Y,Out,General PwD,,33
+238,NIT,232,"Indian Institute of Engineering Science and Technology, Shibpur",5503,Chemistry,Y,No-data,,,
+239,NIT,232,"Indian Institute of Engineering Science and Technology, Shibpur",5507,Physics,-,No-data,,,
+240,NIT,202,Malaviya National Institute of Technology Jaipur,5101,Architecture,Y,Out,General PwD,,98
+241,NIT,207,National Institute of Technology Delhi,4110,Computer Science and Engineering,Y,Out,General PwD,,241
+242,NIT,207,National Institute of Technology Delhi,4188,Artificial Intelligence and Data Science,Y,Out,General PwD,,375
+243,NIT,207,National Institute of Technology Delhi,4114,Electronics and Communication Engineering,Y,Out,General PwD,,304
+244,NIT,207,National Institute of Technology Delhi,4111,Electrical Engineering,Y,Borderline,OBC-NCL(PwD),431,598
+245,NIT,207,National Institute of Technology Delhi,4125,Mechanical Engineering,Y,Good,OBC-NCL(PwD),768,1044
+246,NIT,207,National Institute of Technology Delhi,4109,Civil Engineering,-,Good,OBC-NCL(PwD),518,791
+247,NIT,207,National Institute of Technology Delhi,4101,Aerospace Engineering,-,Out,OBC-NCL,,
+248,NIT,207,National Institute of Technology Delhi,411Z,VLSI Design and Technology,Y,Reach,General PwD,,892
+249,NIT,210,National Institute of Technology Hamirpur,4110,Computer Science and Engineering,Y,SAFE,OBC-NCL(PwD),1531,733
+250,NIT,210,National Institute of Technology Hamirpur,5216,Computer Science and Engineering,Y,Reach,General PwD,,669
+251,NIT,210,National Institute of Technology Hamirpur,4124,Mathematics and Computing,Y,Borderline,OBC-NCL(PwD),443,664
+252,NIT,210,National Institute of Technology Hamirpur,4114,Electronics and Communication Engineering,Y,SAFE,General PwD,671,2324
+253,NIT,210,National Institute of Technology Hamirpur,5234,Electronics and Communication Engineering,Y,Good,General PwD,,1665
+254,NIT,210,National Institute of Technology Hamirpur,4111,Electrical Engineering,Y,SAFE,General PwD,1274,3894
+255,NIT,210,National Institute of Technology Hamirpur,4125,Mechanical Engineering,Y,SAFE,OBC-NCL(PwD),1784,2324
+256,NIT,210,National Institute of Technology Hamirpur,4107,Chemical Engineering,Y,SAFE,OBC-NCL(PwD),1796,2083
+257,NIT,210,National Institute of Technology Hamirpur,4109,Civil Engineering,Y,SAFE,OBC-NCL(PwD),1398,1529
+258,NIT,210,National Institute of Technology Hamirpur,4117,Engineering Physics,Y,SAFE,OBC-NCL(PwD),1646,3857
+259,NIT,210,National Institute of Technology Hamirpur,4123,Materials Science and Engineering,Y,SAFE,OBC-NCL(PwD),1778,2849
+260,NIT,210,National Institute of Technology Hamirpur,5101,Architecture,Y,Out,OBC-NCL,,
+261,NIT,227,"National Institute of Technology, Uttarakhand",4110,Computer Science and Engineering,Y,Reach,General PwD,227,855
+262,NIT,227,"National Institute of Technology, Uttarakhand",4114,Electronics and Communication Engineering,Y,SAFE,OBC-NCL(PwD),1026,1894
+263,NIT,227,"National Institute of Technology, Uttarakhand",4144,Electrical and Electronics Engineering,-,Out,OBC-NCL,,
+264,NIT,227,"National Institute of Technology, Uttarakhand",4125,Mechanical Engineering,-,Out,OBC-NCL,,
+265,NIT,227,"National Institute of Technology, Uttarakhand",4109,Civil Engineering,-,Good,General PwD,,1429
+266,NIT,201,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",4110,Computer Science and Engineering,Y,Out,OBC-NCL(PwD),198,411
+267,NIT,201,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",4185,Artificial Intelligence,Y,No-data,,,
+268,NIT,201,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",4187,Data Science and Engineering,Y,Reach,OBC-NCL(PwD),310,703
+269,NIT,201,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",4124,Mathematics and Computing,Y,Good,General PwD,,1368
+270,NIT,201,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",4114,Electronics and Communication Engineering,Y,Reach,OBC-NCL(PwD),373,852
+271,NIT,201,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",410V,Electronics and VLSI Engineering,Y,Good,OBC-NCL(PwD),632,1184
+272,NIT,201,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",4111,Electrical Engineering,Y,SAFE,General PwD,,3230
+273,NIT,201,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",4146,Information Technology,Y,Reach,OBC-NCL(PwD),340,821
+274,NIT,201,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",4125,Mechanical Engineering,Y,SAFE,OBC-NCL(PwD),1751,1217
+275,NIT,201,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",4107,Chemical Engineering,Y,SAFE,OBC-NCL(PwD),1068,1897
+276,NIT,201,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",4109,Civil Engineering,-,SAFE,General PwD,,2711
+277,NIT,201,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",4149,Industrial and Production Engineering,Y,SAFE,General PwD,,3491
+278,NIT,201,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",4148,Instrumentation and Control Engineering,Y,SAFE,OBC-NCL(PwD),1486,1050
+279,NIT,201,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",4104,Bio Technology,Y,Good,OBC-NCL(PwD),593,
+280,NIT,201,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",4139,Textile Technology,Y,SAFE,General PwD,1294,3284
+281,NIT,222,"National Institute of Technology, Mizoram",4110,Computer Science and Engineering,Y,SAFE,OBC-NCL,,1542
+282,NIT,222,"National Institute of Technology, Mizoram",4124,Mathematics and Computing,-,Good,General,,
+283,NIT,222,"National Institute of Technology, Mizoram",4114,Electronics and Communication Engineering,Y,SAFE,General PwD,,2374
+284,NIT,222,"National Institute of Technology, Mizoram",4111,Electrical Engineering,Y,SAFE,OBC-NCL(PwD),1512,
+285,NIT,222,"National Institute of Technology, Mizoram",4125,Mechanical Engineering,Y,SAFE,General PwD,,4235
+286,NIT,222,"National Institute of Technology, Mizoram",4108,Chemical Science and Technology,-,SAFE,General,,
+287,NIT,222,"National Institute of Technology, Mizoram",4109,Civil Engineering,Y,Good,General,,
+288,NIT,205,National Institute of Technology Agartala,4110,Computer Science and Engineering,Y,Good,General PwD,441,1163
+289,NIT,212,National Institute of Technology Meghalaya,4110,Computer Science and Engineering,-,Out,General,,
+290,NIT,213,National Institute of Technology Nagaland,4110,Computer Science and Engineering,-,Out,General,,
+291,NIT,217,National Institute of Technology Sikkim,4110,Computer Science and Engineering,Y,SAFE,General PwD,,2253
+292,NIT,221,"National Institute of Technology, Manipur",4110,Computer Science and Engineering,Y,Good,OBC-NCL(PwD),675,1567
+293,NIT,221,"National Institute of Technology, Manipur",5216,Computer Science and Engineering,-,No-data,,,
+294,NIT,224,"National Institute of Technology, Silchar",4110,Computer Science and Engineering,Y,SAFE,OBC-NCL(PwD),906,1222
+295,NIT,225,"National Institute of Technology, Srinagar",4110,Computer Science and Engineering,Y,Good,General PwD,415,1171
+296,NIT,217,National Institute of Technology Sikkim,410P,Artificial Intelligence and Machine Learning,-,No-data,,,
+297,NIT,205,National Institute of Technology Agartala,4114,Electronics and Communication Engineering,Y,SAFE,General PwD,689,3320
+298,NIT,212,National Institute of Technology Meghalaya,4114,Electronics and Communication Engineering,Y,Good,General PwD,,1354
+299,NIT,213,National Institute of Technology Nagaland,4114,Electronics and Communication Engineering,-,SAFE,General PwD,,2034
+300,NIT,217,National Institute of Technology Sikkim,4114,Electronics and Communication Engineering,Y,SAFE,OBC-NCL(PwD),966,
+301,NIT,221,"National Institute of Technology, Manipur",4114,Electronics and Communication Engineering,Y,SAFE,OBC-NCL(PwD),1157,
+302,NIT,221,"National Institute of Technology, Manipur",5234,Electronics and Communication Engineering,-,No-data,,,
+303,NIT,224,"National Institute of Technology, Silchar",4114,Electronics and Communication Engineering,Y,Borderline,General PwD,391,970
+304,NIT,225,"National Institute of Technology, Srinagar",4114,Electronics and Communication Engineering,Y,SAFE,OBC-NCL(PwD),970,2024
+305,NIT,205,National Institute of Technology Agartala,4142,Electronics and Instrumentation Engineering,Y,SAFE,General PwD,,3718
+306,NIT,213,National Institute of Technology Nagaland,4142,Electronics and Instrumentation Engineering,Y,SAFE,OBC-NCL(PwD),1754,4118
+307,NIT,224,"National Institute of Technology, Silchar",4142,Electronics and Instrumentation Engineering,Y,Good,General PwD,,1733
+308,NIT,205,National Institute of Technology Agartala,4111,Electrical Engineering,Y,SAFE,OBC-NCL(PwD),1528,2121
+309,NIT,212,National Institute of Technology Meghalaya,4144,Electrical and Electronics Engineering,Y,SAFE,OBC-NCL(PwD),1665,
+310,NIT,213,National Institute of Technology Nagaland,4144,Electrical and Electronics Engineering,-,SAFE,General PwD,,3249
+311,NIT,217,National Institute of Technology Sikkim,4144,Electrical and Electronics Engineering,Y,SAFE,OBC-NCL(PwD),1523,
+312,NIT,221,"National Institute of Technology, Manipur",4111,Electrical Engineering,Y,SAFE,OBC-NCL(PwD),1507,
+313,NIT,221,"National Institute of Technology, Manipur",5217,Electrical Engineering,-,No-data,,,
+314,NIT,224,"National Institute of Technology, Silchar",4111,Electrical Engineering,Y,SAFE,OBC-NCL(PwD),1420,2431
+315,NIT,225,"National Institute of Technology, Srinagar",4111,Electrical Engineering,Y,SAFE,OBC-NCL(PwD),1458,2781
+316,NIT,225,"National Institute of Technology, Srinagar",4146,Information Technology,Y,Good,General PwD,510,1580
+317,NIT,205,National Institute of Technology Agartala,4125,Mechanical Engineering,Y,SAFE,OBC-NCL(PwD),1514,3534
+318,NIT,212,National Institute of Technology Meghalaya,4125,Mechanical Engineering,-,Out,General,,
+319,NIT,213,National Institute of Technology Nagaland,4125,Mechanical Engineering,-,Out,General,,
+320,NIT,217,National Institute of Technology Sikkim,4125,Mechanical Engineering,-,SAFE,OBC-NCL,,
+321,NIT,221,"National Institute of Technology, Manipur",4125,Mechanical Engineering,Y,SAFE,General PwD,1528,3757
+322,NIT,221,"National Institute of Technology, Manipur",5233,Mechanical Engineering,-,No-data,,,
+323,NIT,224,"National Institute of Technology, Silchar",4125,Mechanical Engineering,Y,SAFE,General PwD,1335,3645
+324,NIT,225,"National Institute of Technology, Srinagar",4125,Mechanical Engineering,Y,SAFE,OBC-NCL(PwD),1825,3172
+325,NIT,205,National Institute of Technology Agartala,4105,Biotechnology and Biochemical Engineering,-,SAFE,General PwD,1317,4279
+326,NIT,205,National Institute of Technology Agartala,4107,Chemical Engineering,Y,SAFE,OBC-NCL(PwD),1514,3491
+327,NIT,225,"National Institute of Technology, Srinagar",4107,Chemical Engineering,Y,SAFE,General PwD,1141,3399
+328,NIT,205,National Institute of Technology Agartala,4109,Civil Engineering,Y,SAFE,OBC-NCL(PwD),1646,3107
+329,NIT,212,National Institute of Technology Meghalaya,4109,Civil Engineering,-,Reach,General,,
+330,NIT,213,National Institute of Technology Nagaland,4109,Civil Engineering,-,Out,General,,
+331,NIT,217,National Institute of Technology Sikkim,4109,Civil Engineering,-,SAFE,OBC-NCL,,
+332,NIT,221,"National Institute of Technology, Manipur",4109,Civil Engineering,-,SAFE,General PwD,,3811
+333,NIT,221,"National Institute of Technology, Manipur",5213,Civil Engineering,-,No-data,,,
+334,NIT,224,"National Institute of Technology, Silchar",4109,Civil Engineering,Y,SAFE,OBC-NCL(PwD),1369,2581
+335,NIT,225,"National Institute of Technology, Srinagar",4109,Civil Engineering,Y,SAFE,OBC-NCL(PwD),1936,3055
+336,NIT,225,"National Institute of Technology, Srinagar",4127,Metallurgical and Materials Engineering,Y,SAFE,OBC-NCL(PwD),1440,2538
+337,NIT,205,National Institute of Technology Agartala,5267,Engineering Physics,Y,SAFE,General PwD,,4098
+338,NIT,205,National Institute of Technology Agartala,4145,Production Engineering,Y,SAFE,OBC-NCL(PwD),1318,
+339,NIT,205,National Institute of Technology Agartala,5604,Chemistry,Y,SAFE,General PwD,,3164
+340,NIT,205,National Institute of Technology Agartala,520G,Computational Mathematics,-,Out,General,,
+341,NIT,205,National Institute of Technology Agartala,5606,Mathematics & Computing,Y,Out,General,,
+342,NIT,205,National Institute of Technology Agartala,5602,Physics,Y,SAFE,General PwD,,3039
+343,NIT,218,National Institute of Technology Arunachal Pradesh,4110,Computer Science and Engineering,Y,Reach,General PwD,,882
+344,NIT,218,National Institute of Technology Arunachal Pradesh,4114,Electronics and Communication Engineering,Y,SAFE,OBC-NCL(PwD),1196,1963
+345,NIT,218,National Institute of Technology Arunachal Pradesh,4111,Electrical Engineering,Y,SAFE,OBC-NCL(PwD),1269,
+346,NIT,218,National Institute of Technology Arunachal Pradesh,4125,Mechanical Engineering,Y,SAFE,OBC-NCL(PwD),1521,
+347,NIT,218,National Institute of Technology Arunachal Pradesh,4109,Civil Engineering,-,SAFE,OBC-NCL(PwD),1738,
+348,NIT,218,National Institute of Technology Arunachal Pradesh,4194,Biosciences and Bioengineering,Y,SAFE,OBC-NCL(PwD),1485,
+349,IIIT,326,"Indian institute of information technology, Raichur, Karnataka",4110,Computer Science and Engineering,Y,Good,OBC-NCL(PwD),692,1218
+350,IIIT,326,"Indian institute of information technology, Raichur, Karnataka",4188,Artificial Intelligence and Data Science,Y,Good,OBC-NCL(PwD),568,945
+351,IIIT,326,"Indian institute of information technology, Raichur, Karnataka",4124,Mathematics and Computing,Y,SAFE,OBC-NCL(PwD),1504,2601
+352,IIIT,317,"Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh",4110,Computer Science and Engineering,Y,Good,OBC-NCL(PwD),535,1103
+353,IIIT,317,"Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh",5216,Computer Science and Engineering,-,Good,OBC-NCL(PwD),546,618
+354,IIIT,317,"Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh",4188,Artificial Intelligence and Data Science,Y,Borderline,OBC-NCL(PwD),412,656
+355,IIIT,317,"Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh",523U,Artificial Intelligence and Data Science,-,No-data,,,
+356,IIIT,317,"Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh",5234,Electronics and Communication Engineering,-,SAFE,General PwD,803,2076
+357,IIIT,317,"Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh",4174,Electronics and Communication Engineering with specialization in Design and Manufacturing,Y,Good,OBC-NCL(PwD),574,1195
+358,IIIT,317,"Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh",5233,Mechanical Engineering,-,SAFE,OBC-NCL(PwD),1086,2504
+359,IIIT,317,"Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh",4175,Mechanical Engineering with specialization in Design and Manufacturing,Y,SAFE,OBC-NCL(PwD),1477,1828
+360,IIIT,307,"Indian Institute of Information Technology (IIIT), Sri City, Chittoor",4110,Computer Science and Engineering,Y,SAFE,OBC-NCL(PwD),1224,1377
+361,IIIT,307,"Indian Institute of Information Technology (IIIT), Sri City, Chittoor",4188,Artificial Intelligence and Data Science,Y,SAFE,OBC-NCL(PwD),1180,378
+362,IIIT,307,"Indian Institute of Information Technology (IIIT), Sri City, Chittoor",4114,Electronics and Communication Engineering,Y,SAFE,OBC-NCL(PwD),1248,1521
+363,IIIT,316,Indian Institute of Information Technology(IIIT) Dharwad,4110,Computer Science and Engineering,Y,SAFE,OBC-NCL(PwD),1094,1314
+364,IIIT,316,Indian Institute of Information Technology(IIIT) Dharwad,413T,Artificial Intelligence and Computing,Y,No-data,,,
+365,IIIT,316,Indian Institute of Information Technology(IIIT) Dharwad,4181,Data Science and Artificial Intelligence,Y,SAFE,OBC-NCL(PwD),1555,2128
+366,IIIT,316,Indian Institute of Information Technology(IIIT) Dharwad,4114,Electronics and Communication Engineering,Y,SAFE,OBC-NCL(PwD),1092,2369
+367,IIIT,320,Indian Institute of Information Technology (IIIT) Nagpur,410G,Computer Science Engineering (Human Computer lnteraction and Gaming Technology),Y,Good,OBC-NCL(PwD),610,1155
+368,IIIT,320,Indian Institute of Information Technology (IIIT) Nagpur,4110,Computer Science and Engineering,Y,Good,OBC-NCL(PwD),666,871
+369,IIIT,320,Indian Institute of Information Technology (IIIT) Nagpur,410E,Computer Science Engineering (Artificial lntelligence and Machine Learning),Y,No-data,,,
+370,IIIT,320,Indian Institute of Information Technology (IIIT) Nagpur,410F,Computer Science Engineering (Data Science and Analytics),Y,Good,OBC-NCL(PwD),679,932
+371,IIIT,320,Indian Institute of Information Technology (IIIT) Nagpur,4114,Electronics and Communication Engineering,Y,SAFE,OBC-NCL(PwD),1458,1720
+372,IIIT,320,Indian Institute of Information Technology (IIIT) Nagpur,410H,Electronics and Communication Engineering (Internet of Things),Y,SAFE,OBC-NCL(PwD),1046,2209
+373,IIIT,310,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",4110,Computer Science and Engineering,Y,Out,OBC-NCL(PwD),208,458
+374,IIIT,310,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",5216,Computer Science and Engineering,Y,Reach,OBC-NCL(PwD),313,688
+375,IIIT,310,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",4196,Computer Science and Engineering with Major in Artificial Intelligence,Y,Out,OBC-NCL(PwD),267,363
+376,IIIT,310,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",523T,B.Tech. in Electronics and Communication Engineering and M.Tech. in Microelectronics and VLSI Systems,Y,Good,General PwD,,1371
+377,IIIT,310,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",521Q,B.Tech. in Electronics and Communication Engineering and M.Tech. in Communication Systems,Y,SAFE,OBC-NCL(PwD),1165,2109
+378,IIIT,310,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",4114,Electronics and Communication Engineering,Y,Good,OBC-NCL(PwD),494,874
+379,IIIT,310,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",5A11,B.Tech in Mechanical Engineering and M.Tech in AI and Robotics,Y,SAFE,OBC-NCL(PwD),902,1581
+380,IIIT,310,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",4125,Mechanical Engineering,Y,Good,OBC-NCL(PwD),619,1324
+381,IIIT,310,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",413C,Design Engineering,Y,SAFE,General PwD,,2217
+382,IIIT,310,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",4117,Engineering Physics,Y,Out,OBC-NCL,,
+383,IIIT,310,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",4176,Smart Manufacturing,Y,SAFE,OBC-NCL(PwD),887,1957
+384,IIIT,321,Indian Institute of Information Technology (IIIT) Pune,4110,Computer Science and Engineering,Y,Good,OBC-NCL(PwD),578,737
+385,IIIT,321,Indian Institute of Information Technology (IIIT) Pune,4188,Artificial Intelligence and Data Science,Y,No-data,,,
+386,IIIT,321,Indian Institute of Information Technology (IIIT) Pune,4114,Electronics and Communication Engineering,Y,Good,OBC-NCL(PwD),728,1575
+387,IIIT,321,Indian Institute of Information Technology (IIIT) Pune,413X,Microelectronics and VLSI Design,Y,No-data,,,
+388,IIIT,321,Indian Institute of Information Technology (IIIT) Pune,413W,Cyber Security,Y,No-data,,,
+389,IIIT,314,Indian Institute of Information Technology Tiruchirappalli,4110,Computer Science and Engineering,Y,Good,OBC-NCL(PwD),657,973
+390,IIIT,314,Indian Institute of Information Technology Tiruchirappalli,412F,Computer Science and Engineering ( Artificial Intelligence & Data Science),Y,Reach,OBC-NCL(PwD),357,743
+391,IIIT,314,Indian Institute of Information Technology Tiruchirappalli,413G,Electronics and Communication Engineering (VLSI Design),Y,Borderline,OBC-NCL(PwD),406,
+392,IIIT,314,Indian Institute of Information Technology Tiruchirappalli,4114,Electronics and Communication Engineering,Y,SAFE,OBC-NCL(PwD),1104,1392
+393,IIIT,323,Indian Institute of Information Technology Bhopal,4110,Computer Science and Engineering,Y,SAFE,OBC-NCL(PwD),825,1625
+394,IIIT,323,Indian Institute of Information Technology Bhopal,411Y,Computer Science and Engineering (Cyber Physical System),Y,SAFE,OBC-NCL(PwD),1551,1692
+395,IIIT,323,Indian Institute of Information Technology Bhopal,410J,Computer Science and Engineering (Cyber Security),Y,SAFE,OBC-NCL(PwD),1649,1450
+396,IIIT,323,Indian Institute of Information Technology Bhopal,412G,Computer Science and Engineering (Artificial Intelligence),Y,SAFE,OBC-NCL(PwD),1590,1081
+397,IIIT,323,Indian Institute of Information Technology Bhopal,412E,Computer Science and Engineering (Data Science),Y,Good,OBC-NCL(PwD),754,1102
+398,IIIT,323,Indian Institute of Information Technology Bhopal,411F,B.Tech in Mathematics and Computing,Y,SAFE,OBC-NCL(PwD),1773,4161
+399,IIIT,323,Indian Institute of Information Technology Bhopal,4114,Electronics and Communication Engineering,Y,SAFE,OBC-NCL(PwD),1674,2292
+400,IIIT,323,Indian Institute of Information Technology Bhopal,4146,Information Technology,Y,SAFE,OBC-NCL(PwD),1290,1985
+401,IIIT,323,Indian Institute of Information Technology Bhopal,413D,Physics and Computational Engineering,Y,SAFE,General PwD,,3258
+402,IIIT,318,Indian Institute of Information Technology(IIIT) Kottayam,4110,Computer Science and Engineering,Y,SAFE,OBC-NCL(PwD),1262,2375
+403,IIIT,318,Indian Institute of Information Technology(IIIT) Kottayam,4195,Computer Science and Engineering with specialization in Cyber Security,Y,SAFE,OBC-NCL(PwD),983,609
+404,IIIT,318,Indian Institute of Information Technology(IIIT) Kottayam,410R,Computer Science and Engineering with specialization in Artificial Intelligence and Data Science,Y,SAFE,OBC-NCL(PwD),994,872
+405,IIIT,318,Indian Institute of Information Technology(IIIT) Kottayam,411F,B.Tech in Mathematics and Computing,Y,No-data,,,
+406,IIIT,318,Indian Institute of Information Technology(IIIT) Kottayam,4114,Electronics and Communication Engineering,Y,SAFE,OBC-NCL(PwD),1296,2339
+407,IIIT,311,"Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur",4110,Computer Science and Engineering,Y,Reach,OBC-NCL(PwD),330,675
+408,IIIT,311,"Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur",4114,Electronics and Communication Engineering,Y,Good,OBC-NCL(PwD),672,1101
+409,IIIT,311,"Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur",4125,Mechanical Engineering,Y,SAFE,OBC-NCL(PwD),1379,2071
+410,IIIT,311,"Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur",4176,Smart Manufacturing,Y,SAFE,OBC-NCL(PwD),1442,2610
+411,IIIT,324,Indian Institute of Information Technology Surat,4110,Computer Science and Engineering,Y,Good,OBC-NCL(PwD),633,994
+412,IIIT,324,Indian Institute of Information Technology Surat,410J,Computer Science and Engineering (Cyber Security),Y,Reach,General PwD,,876
+413,IIIT,324,Indian Institute of Information Technology Surat,410W,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Y,Borderline,General PwD,,1038
+414,IIIT,324,Indian Institute of Information Technology Surat,411F,B.Tech in Mathematics and Computing,Y,No-data,,,
+415,IIIT,324,Indian Institute of Information Technology Surat,4114,Electronics and Communication Engineering,Y,SAFE,OBC-NCL(PwD),1075,2342
+416,IIIT,301,Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior,4110,Computer Science and Engineering,Y,Out,OBC-NCL(PwD),229,129
+417,IIIT,308,"Indian Institute of Information Technology(IIIT), Vadodara, Gujrat",4110,Computer Science and Engineering,Y,SAFE,OBC-NCL(PwD),1740,1829
+418,IIIT,308,"Indian Institute of Information Technology(IIIT), Vadodara, Gujrat",410J,Computer Science and Engineering (Cyber Security),Y,No-data,,,
+419,IIIT,308,"Indian Institute of Information Technology(IIIT), Vadodara, Gujrat",4185,Artificial Intelligence,Y,SAFE,OBC-NCL(PwD),1143,704
+420,IIIT,308,"Indian Institute of Information Technology(IIIT), Vadodara, Gujrat",4124,Mathematics and Computing,Y,No-data,,,
+421,IIIT,308,"Indian Institute of Information Technology(IIIT), Vadodara, Gujrat",4114,Electronics and Communication Engineering,Y,SAFE,OBC-NCL(PwD),1499,2985
+422,IIIT,301,Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior,4144,Electrical and Electronics Engineering,Y,Good,OBC-NCL(PwD),639,748
+423,IIIT,308,"Indian Institute of Information Technology(IIIT), Vadodara, Gujrat",4146,Information Technology,Y,SAFE,OBC-NCL(PwD),1688,1853
+424,IIIT,301,Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior,5B01,Integrated B. Tech.(IT) and M. Tech (IT),Y,Reach,OBC-NCL(PwD),345,371
+425,IIIT,301,Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior,5C01,Integrated B. Tech.(IT) and MBA,Y,Good,OBC-NCL(PwD),746,305
+426,IIIT,301,Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior,411M,Mathematics and Scientific Computing,Y,Good,OBC-NCL(PwD),631,629
+427,IIIT,308,"Indian Institute of Information Technology(IIIT), Vadodara, Gujrat",413U,Applied and Computational Physics,Y,No-data,,,
+428,IIIT,319,Indian Institute of Information Technology (IIIT) Ranchi,4110,Computer Science and Engineering,Y,SAFE,OBC-NCL(PwD),1566,2002
+429,IIIT,327,"Indian Institute of Information Technology, Vadodara International Campus Diu (IIITVICD)",4110,Computer Science and Engineering,Y,SAFE,OBC-NCL(PwD),1631,2532
+430,IIIT,327,"Indian Institute of Information Technology, Vadodara International Campus Diu (IIITVICD)",410J,Computer Science and Engineering (Cyber Security),Y,No-data,,,
+431,IIIT,319,Indian Institute of Information Technology (IIIT) Ranchi,4602,Computer Science and Engineering (with Specialization of Data Science and Artificial Intelligence),Y,SAFE,General PwD,,2027
+432,IIIT,327,"Indian Institute of Information Technology, Vadodara International Campus Diu (IIITVICD)",4185,Artificial Intelligence,Y,SAFE,General PwD,,3121
+433,IIIT,319,Indian Institute of Information Technology (IIIT) Ranchi,411F,B.Tech in Mathematics and Computing,Y,SAFE,General PwD,,3723
+434,IIIT,319,Indian Institute of Information Technology (IIIT) Ranchi,4114,Electronics and Communication Engineering,Y,SAFE,OBC-NCL(PwD),1566,2884
+435,IIIT,319,Indian Institute of Information Technology (IIIT) Ranchi,4601,Electronics and Communication Engineering (with Specialization of Embedded Systems and Internet of Things),Y,SAFE,OBC-NCL(PwD),1740,2803
+436,IIIT,327,"Indian Institute of Information Technology, Vadodara International Campus Diu (IIITVICD)",4114,Electronics and Communication Engineering,Y,SAFE,OBC-NCL(PwD),1739,3623
+437,IIIT,309,"Indian Institute of Information Technology, Allahabad",4114,Electronics and Communication Engineering,Y,Reach,OBC-NCL(PwD),288,524
+438,IIIT,309,"Indian Institute of Information Technology, Allahabad",5234,Electronics and Communication Engineering,-,No-data,,,
+439,IIIT,309,"Indian Institute of Information Technology, Allahabad",5424,B. Tech. Information Technology-Business Informatics (IT- BIn) - Master of Business Administration (MBA),-,No-data,,,
+440,IIIT,309,"Indian Institute of Information Technology, Allahabad",4146,Information Technology,Y,Out,OBC-NCL(PwD),210,255
+441,IIIT,309,"Indian Institute of Information Technology, Allahabad",5280,Information Technology,Y,No-data,,,
+442,IIIT,309,"Indian Institute of Information Technology, Allahabad",4186,Information Technology-Business Informatics,Y,Out,OBC-NCL(PwD),198,210
+443,IIIT,315,Indian Institute of Information Technology Lucknow,4184,Computer Science,Y,Reach,OBC-NCL(PwD),362,346
+444,IIIT,315,Indian Institute of Information Technology Lucknow,410C,Computer Science and Business,Y,Borderline,OBC-NCL(PwD),459,359
+445,IIIT,315,Indian Institute of Information Technology Lucknow,4190,Computer Science and Artificial Intelligence,Y,Borderline,OBC-NCL(PwD),451,222
+446,IIIT,315,Indian Institute of Information Technology Lucknow,4146,Information Technology,Y,Out,OBC-NCL(PwD),236,364
+447,IIIT,322,Indian Institute of Information Technology Bhagalpur,4110,Computer Science and Engineering,Y,SAFE,OBC-NCL(PwD),1722,2488
+448,IIIT,322,Indian Institute of Information Technology Bhagalpur,4124,Mathematics and Computing,Y,SAFE,General PwD,,3028
+449,IIIT,322,Indian Institute of Information Technology Bhagalpur,4114,Electronics and Communication Engineering,Y,SAFE,OBC-NCL(PwD),1626,3228
+450,IIIT,322,Indian Institute of Information Technology Bhagalpur,411B,Mechatronics and Automation Engineering,Y,SAFE,General PwD,1432,3623
+451,IIIT,302,"Indian Institute of Information Technology (IIIT)Kota, Rajasthan",4110,Computer Science and Engineering,Y,SAFE,OBC-NCL(PwD),1201,1470
+452,IIIT,302,"Indian Institute of Information Technology (IIIT)Kota, Rajasthan",411G,Artificial Intelligence and Data Engineering,Y,SAFE,OBC-NCL(PwD),1138,1984
+453,IIIT,302,"Indian Institute of Information Technology (IIIT)Kota, Rajasthan",4114,Electronics and Communication Engineering,Y,SAFE,OBC-NCL(PwD),1499,2383
+454,IIIT,304,"Indian Institute of Information Technology(IIIT) Kalyani, West Bengal",4110,Computer Science and Engineering,Y,SAFE,OBC-NCL(PwD),1537,1223
+455,IIIT,304,"Indian Institute of Information Technology(IIIT) Kalyani, West Bengal",410J,Computer Science and Engineering (Cyber Security),-,Out,OBC-NCL,,
+456,IIIT,305,"Indian Institute of Information Technology(IIIT) Kilohrad, Sonepat, Haryana",4110,Computer Science and Engineering,Y,SAFE,OBC-NCL(PwD),1557,1909
+457,IIIT,304,"Indian Institute of Information Technology(IIIT) Kalyani, West Bengal",412F,Computer Science and Engineering ( Artificial Intelligence & Data Science),-,Out,OBC-NCL,,
+458,IIIT,305,"Indian Institute of Information Technology(IIIT) Kilohrad, Sonepat, Haryana",411J,Computer Science & Engineering (Data Science and Analytics),Y,No-data,,,
+459,IIIT,305,"Indian Institute of Information Technology(IIIT) Kilohrad, Sonepat, Haryana",412G,Computer Science and Engineering (Artificial Intelligence),Y,No-data,,,
+460,IIIT,304,"Indian Institute of Information Technology(IIIT) Kalyani, West Bengal",4114,Electronics and Communication Engineering,Y,SAFE,OBC-NCL(PwD),1709,2348
+461,IIIT,305,"Indian Institute of Information Technology(IIIT) Kilohrad, Sonepat, Haryana",4146,Information Technology,Y,SAFE,OBC-NCL(PwD),1626,1386
+462,IIIT,313,INDIAN INSTITUTE OF INFORMATION TECHNOLOGY SENAPATI MANIPUR,4110,Computer Science and Engineering,-,Out,General,,
+463,IIIT,313,INDIAN INSTITUTE OF INFORMATION TECHNOLOGY SENAPATI MANIPUR,4195,Computer Science and Engineering with specialization in Cyber Security,-,Out,General,,
+464,IIIT,313,INDIAN INSTITUTE OF INFORMATION TECHNOLOGY SENAPATI MANIPUR,413H,Computer Science and Engineering with specialization in Quantum Technologies,-,Out,General,,
+465,IIIT,303,Indian Institute of Information Technology Guwahati,4110,Computer Science and Engineering,Y,SAFE,OBC-NCL(PwD),863,1671
+466,IIIT,306,"Indian Institute of Information Technology(IIIT) Una, Himachal Pradesh",4110,Computer Science and Engineering,Y,SAFE,OBC-NCL(PwD),1585,1091
+467,IIIT,306,"Indian Institute of Information Technology(IIIT) Una, Himachal Pradesh",410J,Computer Science and Engineering (Cyber Security),-,Good,General PwD,,1413
+468,IIIT,313,INDIAN INSTITUTE OF INFORMATION TECHNOLOGY SENAPATI MANIPUR,410R,Computer Science and Engineering with specialization in Artificial Intelligence and Data Science,-,Out,General,,
+469,IIIT,306,"Indian Institute of Information Technology(IIIT) Una, Himachal Pradesh",412E,Computer Science and Engineering (Data Science),Y,Out,OBC-NCL,,
+470,IIIT,303,Indian Institute of Information Technology Guwahati,413V,Electronics Communication and Artificial Intelligence,Y,No-data,,,
+471,IIIT,313,INDIAN INSTITUTE OF INFORMATION TECHNOLOGY SENAPATI MANIPUR,410M,Electronics and Communication Engineering with specialization in VLSI and Embedded Systems,-,Out,General,,
+472,IIIT,313,INDIAN INSTITUTE OF INFORMATION TECHNOLOGY SENAPATI MANIPUR,4114,Electronics and Communication Engineering,-,Out,General,,
+473,IIIT,303,Indian Institute of Information Technology Guwahati,4114,Electronics and Communication Engineering,Y,SAFE,OBC-NCL(PwD),1120,2042
+474,IIIT,306,"Indian Institute of Information Technology(IIIT) Una, Himachal Pradesh",4114,Electronics and Communication Engineering,Y,SAFE,General PwD,1585,3858
+475,IIIT,325,"Indian Institute of Information Technology, Agartala",4110,Computer Science and Engineering,Y,SAFE,OBC-NCL(PwD),1306,2560
+476,GFTI,421,University of Hyderabad,5314,Computer Science and Engineering,Y,No-data,,,
+477,GFTI,421,University of Hyderabad,5313,Materials Engineering,Y,SAFE,OBC-NCL(PwD),1263,1455
+478,GFTI,415,School of Planning & Architecture: Vijayawada,5101,Architecture,Y,Out,General PwD,,54
+479,GFTI,415,School of Planning & Architecture: Vijayawada,4501,Planning,Y,Out,General PwD,,123
+480,GFTI,453,Central University of Karnataka,410W,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Y,No-data,,,
+481,GFTI,453,Central University of Karnataka,4124,Mathematics and Computing,Y,No-data,,,
+482,GFTI,453,Central University of Karnataka,4114,Electronics and Communication Engineering,Y,No-data,,,
+483,GFTI,453,Central University of Karnataka,4111,Electrical Engineering,Y,No-data,,,
+484,GFTI,420,"International Institute of Information Technology, Naya Raipur",4110,Computer Science and Engineering,Y,SAFE,OBC-NCL(PwD),1042,1051
+485,GFTI,420,"International Institute of Information Technology, Naya Raipur",4181,Data Science and Artificial Intelligence,Y,Reach,General PwD,,832
+486,GFTI,420,"International Institute of Information Technology, Naya Raipur",4114,Electronics and Communication Engineering,-,SAFE,OBC-NCL(PwD),981,1784
+487,GFTI,442,"Indian Institute of Handloom Technology, Salem",4197,Handloom and Textile Technology,Y,SAFE,OBC-NCL(PwD),1417,3058
+488,GFTI,408,"National Institute of Electronics and Information Technology, Aurangabad (Maharashtra)",4110,Computer Science and Engineering,Y,SAFE,OBC-NCL(PwD),953,1619
+489,GFTI,408,"National Institute of Electronics and Information Technology, Aurangabad (Maharashtra)",412K,Electronic Engineering,Y,SAFE,OBC-NCL(PwD),1689,3987
+490,GFTI,424,"International Institute of Information Technology, Bhubaneswar",4110,Computer Science and Engineering,Y,Good,OBC-NCL(PwD),741,1638
+491,GFTI,424,"International Institute of Information Technology, Bhubaneswar",4153,Electronics and Telecommunication Engineering,Y,SAFE,General PwD,,2301
+492,GFTI,424,"International Institute of Information Technology, Bhubaneswar",4144,Electrical and Electronics Engineering,Y,SAFE,General PwD,,2390
+493,GFTI,424,"International Institute of Information Technology, Bhubaneswar",4146,Information Technology,Y,Good,General PwD,,1876
+494,GFTI,435,"Institute of Chemical Technology, Mumbai: Indian Oil Odisha Campus, Bhubaneswar",5D01,Chemical Engineering,Y,SAFE,OBC-NCL(PwD),1541,1407
+495,GFTI,434,"Chhattisgarh Swami Vivekanada Technical University, Bhilai (CSVTU Bhilai)",4110,Computer Science and Engineering,Y,No-data,,,
+496,GFTI,406,"School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",4110,Computer Science and Engineering,Y,SAFE,OBC-NCL(PwD),1843,2436
+497,GFTI,434,"Chhattisgarh Swami Vivekanada Technical University, Bhilai (CSVTU Bhilai)",4603,Computer Science Engineering (Artificial Intelligence),Y,SAFE,OBC-NCL(PwD),1810,1622
+498,GFTI,434,"Chhattisgarh Swami Vivekanada Technical University, Bhilai (CSVTU Bhilai)",4604,Computer Science Engineering (Data Science),Y,SAFE,OBC-NCL(PwD),1649,3964
+499,GFTI,406,"School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",4188,Artificial Intelligence and Data Science,Y,SAFE,OBC-NCL(PwD),1814,3674
+500,GFTI,406,"School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",4114,Electronics and Communication Engineering,Y,SAFE,OBC-NCL(PwD),1891,4054
+501,GFTI,406,"School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",4111,Electrical Engineering,Y,SAFE,General PwD,,3082
+502,GFTI,406,"School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",4146,Information Technology,Y,SAFE,OBC-NCL(PwD),1717,2244
+503,GFTI,406,"School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",4125,Mechanical Engineering,Y,Out,General,,
+504,GFTI,406,"School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",4107,Chemical Engineering,Y,SAFE,General PwD,,3549
+505,GFTI,434,"Chhattisgarh Swami Vivekanada Technical University, Bhilai (CSVTU Bhilai)",4109,Civil Engineering,Y,SAFE,General PwD,,3095
+506,GFTI,406,"School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",4109,Civil Engineering,Y,Out,General,,
+507,GFTI,406,"School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",4149,Industrial and Production Engineering,Y,Out,General,,
+508,GFTI,406,"School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",413F,Animation and VFX,Y,Good,General PwD,,1628
+509,GFTI,452,National Institute of Technical Teachers Training and Research Bhopal,410P,Artificial Intelligence and Machine Learning,Y,No-data,,,
+510,GFTI,452,National Institute of Technical Teachers Training and Research Bhopal,4114,Electronics and Communication Engineering,Y,No-data,,,
+511,GFTI,452,National Institute of Technical Teachers Training and Research Bhopal,4111,Electrical Engineering,Y,No-data,,,
+512,GFTI,452,National Institute of Technical Teachers Training and Research Bhopal,4125,Mechanical Engineering,Y,No-data,,,
+513,GFTI,452,National Institute of Technical Teachers Training and Research Bhopal,4109,Civil Engineering,Y,No-data,,,
+514,GFTI,452,National Institute of Technical Teachers Training and Research Bhopal,413Q,Digital Manufacturing and IoT,Y,No-data,,,
+515,GFTI,452,National Institute of Technical Teachers Training and Research Bhopal,412A,ROBOTICS & AUTOMATION,Y,No-data,,,
+516,GFTI,413,"School of Planning & Architecture, Bhopal",5101,Architecture,Y,Out,General PwD,,44
+517,GFTI,413,"School of Planning & Architecture, Bhopal",4501,Planning,Y,Out,OBC-NCL,,
+518,GFTI,457,"National Institute of Electronics and Information Technology, Calicut",413J,B.Tech in CSE (AI and ML),Y,No-data,,,
+519,GFTI,431,"National Institute of Food Technology Entrepreneurship and Management, Thanjavur",4164,Food Technology,Y,SAFE,OBC-NCL(PwD),901,1728
+520,GFTI,443,"Gati Shakti Vishwavidyalaya, Vadodara",411V,B.Tech in Artificial Intelligenece and Data Science (Transportation and Logistics),Y,Out,OBC-NCL,,
+521,GFTI,443,"Gati Shakti Vishwavidyalaya, Vadodara",411R,B.Tech in Electronics & Communication Engineering (Rail Engineering),Y,Out,OBC-NCL,,
+522,GFTI,443,"Gati Shakti Vishwavidyalaya, Vadodara",411S,B.Tech in Electrical Engineering ( Rail  Engineering),Y,Out,General,,
+523,GFTI,405,"Institute of Infrastructure, Technology, Research and Management-Ahmedabad",4111,Electrical Engineering,Y,SAFE,OBC-NCL(PwD),1739,3225
+524,GFTI,443,"Gati Shakti Vishwavidyalaya, Vadodara",411T,B.Tech in Mechanical Engineering ( Rail  Engineering),Y,Out,OBC-NCL,,
+525,GFTI,405,"Institute of Infrastructure, Technology, Research and Management-Ahmedabad",4125,Mechanical Engineering,Y,SAFE,General PwD,,3913
+526,GFTI,443,"Gati Shakti Vishwavidyalaya, Vadodara",411U,B.Tech in Civil Engineering (Rail Engineering),Y,Out,OBC-NCL,,
+527,GFTI,405,"Institute of Infrastructure, Technology, Research and Management-Ahmedabad",4109,Civil Engineering,Y,SAFE,OBC-NCL(PwD),1425,3336
+528,GFTI,443,"Gati Shakti Vishwavidyalaya, Vadodara",411W,B.Tech in Aviation Engineering,Y,Out,OBC-NCL,,
+529,GFTI,443,"Gati Shakti Vishwavidyalaya, Vadodara",413S,Maritime Engineering,Y,No-data,,,
+530,GFTI,405,"Institute of Infrastructure, Technology, Research and Management-Ahmedabad",4151,Computer Engineering,Y,SAFE,OBC-NCL(PwD),977,2296
+531,GFTI,402,"Birla Institute of Technology, Mesra, Ranchi",4110,Computer Science and Engineering,Y,SAFE,General PwD,702,3658
+532,GFTI,409,"National Institute of Advanced Manufacturing Technology, Ranchi",4110,Computer Science and Engineering,Y,No-data,,,
+533,GFTI,402,"Birla Institute of Technology, Mesra, Ranchi",410W,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Y,No-data,,,
+534,GFTI,402,"Birla Institute of Technology, Mesra, Ranchi",5511,Quantitative Economics & Data Science,Y,Out,General,,
+535,GFTI,402,"Birla Institute of Technology, Mesra, Ranchi",5506,Mathematics and Computing,Y,SAFE,General PwD,,2921
+536,GFTI,402,"Birla Institute of Technology, Mesra, Ranchi",4114,Electronics and Communication Engineering,Y,SAFE,General PwD,1523,4066
+537,GFTI,402,"Birla Institute of Technology, Mesra, Ranchi",4144,Electrical and Electronics Engineering,Y,SAFE,OBC-NCL(PwD),1738,4034
+538,GFTI,402,"Birla Institute of Technology, Mesra, Ranchi",4125,Mechanical Engineering,Y,SAFE,OBC-NCL(PwD),1674,4034
+539,GFTI,409,"National Institute of Advanced Manufacturing Technology, Ranchi",4125,Mechanical Engineering,Y,SAFE,General PwD,,3204
+540,GFTI,402,"Birla Institute of Technology, Mesra, Ranchi",4107,Chemical Engineering,Y,SAFE,OBC-NCL(PwD),1709,3978
+541,GFTI,402,"Birla Institute of Technology, Mesra, Ranchi",4109,Civil Engineering,Y,SAFE,OBC-NCL(PwD),1738,2159
+542,GFTI,409,"National Institute of Advanced Manufacturing Technology, Ranchi",4127,Metallurgical and Materials Engineering,Y,No-data,,,
+543,GFTI,402,"Birla Institute of Technology, Mesra, Ranchi",4167,Food Engineering  and Technology,Y,SAFE,General PwD,,3005
+544,GFTI,402,"Birla Institute of Technology, Mesra, Ranchi",4136,Production and Industrial Engineering,Y,SAFE,OBC-NCL(PwD),1735,4034
+545,GFTI,409,"National Institute of Advanced Manufacturing Technology, Ranchi",4136,Production and Industrial Engineering,Y,SAFE,OBC-NCL(PwD),1891,3427
+546,GFTI,402,"Birla Institute of Technology, Mesra, Ranchi",4104,Bio Technology,Y,SAFE,General PwD,,3137
+547,GFTI,402,"Birla Institute of Technology, Mesra, Ranchi",5507,Physics,Y,Out,General,,
+548,GFTI,433,"Indian Institute of Handloom Technology(IIHT), Varanasi",4197,Handloom and Textile Technology,Y,SAFE,OBC-NCL(PwD),1850,3173
+549,GFTI,440,"Birla Institute of Technology, Deoghar Off-Campus",4110,Computer Science and Engineering,Y,SAFE,OBC-NCL(PwD),1747,2311
+550,GFTI,441,"Birla Institute of Technology, Patna Off-Campus",4110,Computer Science and Engineering,Y,SAFE,OBC-NCL(PwD),1534,1559
+551,GFTI,428,"Central University of Rajasthan, Rajasthan",4110,Computer Science and Engineering,Y,SAFE,General PwD,,3035
+552,GFTI,448,"National Institute of Electronics and Information Technology, Gorakhpur (UP)",413L,Computer Science and Engineering with minor in AI and ML,Y,SAFE,OBC-NCL(PwD),1712,2392
+553,GFTI,446,"National Institute of Electronics and Information Technology, Patna (Bihar)",4110,Computer Science and Engineering,Y,Good,OBC-NCL(PwD),727,862
+554,GFTI,440,"Birla Institute of Technology, Deoghar Off-Campus",410W,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Y,No-data,,,
+555,GFTI,441,"Birla Institute of Technology, Patna Off-Campus",410W,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Y,No-data,,,
+556,GFTI,407,"J.K. Institute of Applied Physics & Technology, Department of Electronics & Communication, University of Allahabad- Allahabad",4196,Computer Science and Engineering with Major in Artificial Intelligence,Y,SAFE,OBC-NCL(PwD),1163,1885
+557,GFTI,449,"Rajiv Gandhi National Aviation University, Fursatganj, Amethi (UP)",413R,Artificial Intelligence & Data Science - Aviation Systems,Y,No-data,,,
+558,GFTI,440,"Birla Institute of Technology, Deoghar Off-Campus",5506,Mathematics and Computing,Y,No-data,,,
+559,GFTI,441,"Birla Institute of Technology, Patna Off-Campus",5506,Mathematics and Computing,-,Out,General,,
+560,GFTI,440,"Birla Institute of Technology, Deoghar Off-Campus",4114,Electronics and Communication Engineering,Y,SAFE,OBC-NCL(PwD),1588,2432
+561,GFTI,441,"Birla Institute of Technology, Patna Off-Campus",4114,Electronics and Communication Engineering,Y,SAFE,OBC-NCL(PwD),1521,3530
+562,GFTI,428,"Central University of Rajasthan, Rajasthan",4114,Electronics and Communication Engineering,Y,SAFE,General PwD,,2981
+563,GFTI,407,"J.K. Institute of Applied Physics & Technology, Department of Electronics & Communication, University of Allahabad- Allahabad",4114,Electronics and Communication Engineering,Y,SAFE,OBC-NCL(PwD),1558,3271
+564,GFTI,448,"National Institute of Electronics and Information Technology, Gorakhpur (UP)",413M,B. Tech in Electronics and Communication Engineering with minor in Wearable Electronics,Y,SAFE,General PwD,,3975
+565,GFTI,449,"Rajiv Gandhi National Aviation University, Fursatganj, Amethi (UP)",410I,Electronics and Communication Engineering (Avionics),Y,SAFE,OBC-NCL(PwD),1779,4182
+566,GFTI,440,"Birla Institute of Technology, Deoghar Off-Campus",4144,Electrical and Electronics Engineering,Y,SAFE,OBC-NCL(PwD),1435,2943
+567,GFTI,441,"Birla Institute of Technology, Patna Off-Campus",4144,Electrical and Electronics Engineering,Y,SAFE,OBC-NCL(PwD),1577,2875
+568,GFTI,440,"Birla Institute of Technology, Deoghar Off-Campus",4125,Mechanical Engineering,Y,SAFE,OBC-NCL(PwD),1517,3294
+569,GFTI,441,"Birla Institute of Technology, Patna Off-Campus",4125,Mechanical Engineering,Y,SAFE,OBC-NCL(PwD),1607,3208
+570,GFTI,441,"Birla Institute of Technology, Patna Off-Campus",4109,Civil Engineering,Y,SAFE,General PwD,,3889
+571,GFTI,449,"Rajiv Gandhi National Aviation University, Fursatganj, Amethi (UP)",4101,Aerospace Engineering,Y,SAFE,General PwD,,3087
+572,GFTI,428,"Central University of Rajasthan, Rajasthan",4152,Bio Medical Engineering,Y,SAFE,General PwD,,2982
+573,GFTI,404,"Indian Institute of Carpet Technology, Bhadohi",4160,Carpet  and Textile Technology,Y,Out,General,,
+574,GFTI,439,Central University of Haryana,4110,Computer Science and Engineering,Y,SAFE,General PwD,,4225
+575,GFTI,447,"National Institute of Electronics and Information Technology, Ajmer (Rajasthan)",413K,"Computer Science and Engineering (Internet of Things, Cyber Security including Block Chain Technology )",Y,SAFE,OBC-NCL(PwD),1177,2407
+576,GFTI,439,Central University of Haryana,4111,Electrical Engineering,Y,SAFE,OBC-NCL(PwD),1713,2989
+577,GFTI,439,Central University of Haryana,4109,Civil Engineering,Y,Out,General,,
+578,GFTI,439,Central University of Haryana,411A,Printing and Packaging Technology,Y,SAFE,General PwD,,3584
+579,GFTI,423,"Jawaharlal Nehru University, Delhi",4110,Computer Science and Engineering,Y,Good,OBC-NCL(PwD),746,898
+580,GFTI,423,"Jawaharlal Nehru University, Delhi",4114,Electronics and Communication Engineering,Y,SAFE,OBC-NCL(PwD),880,1822
+581,GFTI,430,"National Institute of Food Technology Entrepreneurship and Management, Kundli",4183,Food Technology and Management,Y,SAFE,General PwD,,4033
+582,GFTI,403,"Gurukula Kangri Vishwavidyalaya, Haridwar",4110,Computer Science and Engineering,Y,SAFE,OBC-NCL(PwD),1784,4139
+583,GFTI,403,"Gurukula Kangri Vishwavidyalaya, Haridwar",4114,Electronics and Communication Engineering,Y,SAFE,OBC-NCL(PwD),1663,3854
+584,GFTI,403,"Gurukula Kangri Vishwavidyalaya, Haridwar",4111,Electrical Engineering,Y,SAFE,General PwD,1274,3966
+585,GFTI,403,"Gurukula Kangri Vishwavidyalaya, Haridwar",4125,Mechanical Engineering,Y,SAFE,General PwD,,3984
+586,GFTI,403,"Gurukula Kangri Vishwavidyalaya, Haridwar",412A,ROBOTICS & AUTOMATION,Y,No-data,,,
+587,GFTI,414,"School of Planning & Architecture, New Delhi",5101,Architecture,Y,Out,OBC-NCL(PwD),25,44
+588,GFTI,414,"School of Planning & Architecture, New Delhi",4501,Planning,Y,Out,OBC-NCL(PwD),23,21
+589,GFTI,460,"Central University of Punjab, Bathinda",4110,Computer Science and Engineering,Y,No-data,,,
+590,GFTI,422,"Punjab Engineering College, Chandigarh",4110,Computer Science and Engineering,Y,Borderline,General PwD,,947
+591,GFTI,410,Sant Longowal Institute of Engineering and Technology,4110,Computer Science and Engineering,Y,SAFE,OBC-NCL(PwD),1672,3081
+592,GFTI,410,Sant Longowal Institute of Engineering and Technology,5216,Computer Science and Engineering,Y,SAFE,General PwD,,4054
+593,GFTI,427,"Ghani Khan Choudhary Institute of Engineering and Technology, Malda, West Bengal",410E,Computer Science Engineering (Artificial lntelligence and Machine Learning),-,Out,OBC-NCL,,
+594,GFTI,422,"Punjab Engineering College, Chandigarh",4603,Computer Science Engineering (Artificial Intelligence),Y,Good,General PwD,,1621
+595,GFTI,422,"Punjab Engineering College, Chandigarh",4604,Computer Science Engineering (Data Science),Y,Reach,General PwD,,750
+596,GFTI,460,"Central University of Punjab, Bathinda",523V,Artificial Intelligence and Machine Learning,Y,No-data,,,
+597,GFTI,410,Sant Longowal Institute of Engineering and Technology,4188,Artificial Intelligence and Data Science,Y,SAFE,General PwD,,2095
+598,GFTI,422,"Punjab Engineering College, Chandigarh",4124,Mathematics and Computing,Y,Out,General,,
+599,GFTI,422,"Punjab Engineering College, Chandigarh",4114,Electronics and Communication Engineering,Y,Good,General PwD,,1360
+600,GFTI,410,Sant Longowal Institute of Engineering and Technology,4114,Electronics and Communication Engineering,Y,SAFE,General PwD,,2918
+601,GFTI,422,"Punjab Engineering College, Chandigarh",411H,Electronics Engineering (VLSI Design and Technology),Y,Out,General,,
+602,GFTI,427,"Ghani Khan Choudhary Institute of Engineering and Technology, Malda, West Bengal",4111,Electrical Engineering,Y,Good,OBC-NCL,,
+603,GFTI,422,"Punjab Engineering College, Chandigarh",4111,Electrical Engineering,Y,SAFE,General PwD,,3212
+604,GFTI,410,Sant Longowal Institute of Engineering and Technology,4111,Electrical Engineering,Y,SAFE,General PwD,,3560
+605,GFTI,410,Sant Longowal Institute of Engineering and Technology,5217,Electrical Engineering,-,Out,OBC-NCL,,
+606,GFTI,427,"Ghani Khan Choudhary Institute of Engineering and Technology, Malda, West Bengal",4125,Mechanical Engineering,Y,Good,OBC-NCL,,
+607,GFTI,422,"Punjab Engineering College, Chandigarh",4125,Mechanical Engineering,Y,SAFE,General PwD,,3139
+608,GFTI,410,Sant Longowal Institute of Engineering and Technology,4125,Mechanical Engineering,Y,Out,OBC-NCL,,
+609,GFTI,410,Sant Longowal Institute of Engineering and Technology,5233,Mechanical Engineering,Y,Out,General,,
+610,GFTI,410,Sant Longowal Institute of Engineering and Technology,4107,Chemical Engineering,Y,Out,OBC-NCL,,
+611,GFTI,410,Sant Longowal Institute of Engineering and Technology,5210,Chemical Engineering,Y,No-data,,,
+612,GFTI,427,"Ghani Khan Choudhary Institute of Engineering and Technology, Malda, West Bengal",410X,Civil and Environmental Engineering,Y,SAFE,General PwD,,3660
+613,GFTI,422,"Punjab Engineering College, Chandigarh",4109,Civil Engineering,Y,SAFE,General PwD,,3676
+614,GFTI,410,Sant Longowal Institute of Engineering and Technology,4109,Civil Engineering,Y,Out,OBC-NCL,,
+615,GFTI,422,"Punjab Engineering College, Chandigarh",4127,Metallurgical and Materials Engineering,Y,SAFE,General PwD,,3478
+616,GFTI,422,"Punjab Engineering College, Chandigarh",4101,Aerospace Engineering,Y,Out,General,,
+617,GFTI,422,"Punjab Engineering College, Chandigarh",4136,Production and Industrial Engineering,Y,SAFE,General PwD,,3855
+618,GFTI,410,Sant Longowal Institute of Engineering and Technology,4148,Instrumentation and Control Engineering,Y,Out,General,,
+619,GFTI,427,"Ghani Khan Choudhary Institute of Engineering and Technology, Malda, West Bengal",4164,Food Technology,Y,SAFE,OBC-NCL,,
+620,GFTI,410,Sant Longowal Institute of Engineering and Technology,5503,Chemistry,-,Out,OBC-NCL,,
+621,GFTI,410,Sant Longowal Institute of Engineering and Technology,4164,Food Technology,Y,SAFE,General PwD,,4287
+622,GFTI,410,Sant Longowal Institute of Engineering and Technology,5508,Mathematics,-,Out,OBC-NCL,,
+623,GFTI,410,Sant Longowal Institute of Engineering and Technology,5507,Physics,Y,Out,OBC-NCL,,
+624,GFTI,445,"National Institute of Electronics and Information Technology, Ropar (Punjab)",410Z,Electronics and Communication Engineering (VLSI Design and Technology),Y,No-data,,,
+625,GFTI,445,"National Institute of Electronics and Information Technology, Ropar (Punjab)",413J,B.Tech in CSE (AI and ML),Y,SAFE,OBC-NCL(PwD),1226,1857
+626,GFTI,444,CU Jharkhand,4110,Computer Science and Engineering,-,Out,General,,
+627,GFTI,438,"Institute of Engineering and Technology, Dr. H. S. Gour University. Sagar (A Central University)",4110,Computer Science and Engineering,-,SAFE,General PwD,,2830
+628,GFTI,432,"North Eastern Regional Institute of Science and Technology, Nirjuli-791109 (Itanagar),Arunachal Pradesh",4110,Computer Science and Engineering,-,Out,General,,
+629,GFTI,426,"Puducherry Technological University, Puducherry",4110,Computer Science and Engineering,-,SAFE,OBC-NCL(PwD),846,
+630,GFTI,451,Shri G. S. Institute of Technology and Science Indore,4110,Computer Science and Engineering,-,Out,General,,
+631,GFTI,426,"Puducherry Technological University, Puducherry",4188,Artificial Intelligence and Data Science,-,No-data,,,
+632,GFTI,438,"Institute of Engineering and Technology, Dr. H. S. Gour University. Sagar (A Central University)",4114,Electronics and Communication Engineering,-,Out,OBC-NCL,,
+633,GFTI,432,"North Eastern Regional Institute of Science and Technology, Nirjuli-791109 (Itanagar),Arunachal Pradesh",4114,Electronics and Communication Engineering,-,Out,OBC-NCL,,
+634,GFTI,426,"Puducherry Technological University, Puducherry",4114,Electronics and Communication Engineering,-,SAFE,OBC-NCL(PwD),1405,1468
+635,GFTI,426,"Puducherry Technological University, Puducherry",4142,Electronics and Instrumentation Engineering,-,SAFE,General PwD,,3011
+636,GFTI,451,Shri G. S. Institute of Technology and Science Indore,4142,Electronics and Instrumentation Engineering,-,Out,General,,
+637,GFTI,451,Shri G. S. Institute of Technology and Science Indore,4153,Electronics and Telecommunication Engineering,-,Out,General,,
+638,GFTI,444,CU Jharkhand,4111,Electrical Engineering,-,Out,General,,
+639,GFTI,432,"North Eastern Regional Institute of Science and Technology, Nirjuli-791109 (Itanagar),Arunachal Pradesh",4111,Electrical Engineering,-,Out,General,,
+640,GFTI,426,"Puducherry Technological University, Puducherry",4144,Electrical and Electronics Engineering,-,Out,General,,
+641,GFTI,451,Shri G. S. Institute of Technology and Science Indore,4111,Electrical Engineering,-,Out,General,,
+642,GFTI,426,"Puducherry Technological University, Puducherry",4146,Information Technology,-,SAFE,General PwD,,2834
+643,GFTI,451,Shri G. S. Institute of Technology and Science Indore,4146,Information Technology,-,Out,General,,
+644,GFTI,432,"North Eastern Regional Institute of Science and Technology, Nirjuli-791109 (Itanagar),Arunachal Pradesh",4125,Mechanical Engineering,-,Out,General,,
+645,GFTI,426,"Puducherry Technological University, Puducherry",4125,Mechanical Engineering,-,SAFE,OBC-NCL(PwD),1667,
+646,GFTI,451,Shri G. S. Institute of Technology and Science Indore,4125,Mechanical Engineering,-,Out,General,,
+647,GFTI,426,"Puducherry Technological University, Puducherry",4107,Chemical Engineering,-,SAFE,OBC-NCL(PwD),1702,
+648,GFTI,444,CU Jharkhand,4109,Civil Engineering,-,Out,General,,
+649,GFTI,432,"North Eastern Regional Institute of Science and Technology, Nirjuli-791109 (Itanagar),Arunachal Pradesh",4109,Civil Engineering,-,Out,OBC-NCL,,
+650,GFTI,426,"Puducherry Technological University, Puducherry",4109,Civil Engineering,-,SAFE,OBC-NCL(PwD),1666,2613
+651,GFTI,451,Shri G. S. Institute of Technology and Science Indore,4109,Civil Engineering,-,Out,General,,
+652,GFTI,444,CU Jharkhand,4127,Metallurgical and Materials Engineering,-,Out,OBC-NCL,,
+653,GFTI,438,"Institute of Engineering and Technology, Dr. H. S. Gour University. Sagar (A Central University)",411O,Aeronautical Engineering,-,Out,OBC-NCL,,
+654,GFTI,438,"Institute of Engineering and Technology, Dr. H. S. Gour University. Sagar (A Central University)",411P,Dairy Engineering,-,Out,General,,
+655,GFTI,438,"Institute of Engineering and Technology, Dr. H. S. Gour University. Sagar (A Central University)",411Q,Fashion and Apparel Engineering,-,Out,General,,
+656,GFTI,438,"Institute of Engineering and Technology, Dr. H. S. Gour University. Sagar (A Central University)",4167,Food Engineering  and Technology,-,Out,General,,
+657,GFTI,432,"North Eastern Regional Institute of Science and Technology, Nirjuli-791109 (Itanagar),Arunachal Pradesh",4168,Agricultural Engineering,-,Out,General,,
+658,GFTI,426,"Puducherry Technological University, Puducherry",4178,Mechatronics Engineering,-,SAFE,OBC-NCL(PwD),789,
+659,GFTI,451,Shri G. S. Institute of Technology and Science Indore,4149,Industrial and Production Engineering,-,Out,General,,
+660,GFTI,451,Shri G. S. Institute of Technology and Science Indore,4191,Biomedical Engineering,-,Out,General,,
+661,GFTI,411,"Mizoram University, Aizawl",4114,Electronics and Communication Engineering,Y,SAFE,General PwD,,3396
+662,GFTI,436,"North-Eastern Hill University, Shillong",4114,Electronics and Communication Engineering,Y,SAFE,General PwD,,3078
+663,GFTI,411,"Mizoram University, Aizawl",4111,Electrical Engineering,Y,SAFE,General PwD,,3733
+664,GFTI,411,"Mizoram University, Aizawl",4146,Information Technology,Y,SAFE,General PwD,,3505
+665,GFTI,436,"North-Eastern Hill University, Shillong",4146,Information Technology,Y,SAFE,General PwD,,3696
+666,GFTI,411,"Mizoram University, Aizawl",4109,Civil Engineering,Y,SAFE,General PwD,,4246
+667,GFTI,411,"Mizoram University, Aizawl",4151,Computer Engineering,Y,SAFE,General PwD,,3029
+668,GFTI,436,"North-Eastern Hill University, Shillong",4198,Energy Engineering,Y,SAFE,General PwD,,3151
+669,GFTI,436,"North-Eastern Hill University, Shillong",4191,Biomedical Engineering,Y,SAFE,General PwD,,4086
+670,GFTI,411,"Mizoram University, Aizawl",5101,Architecture,Y,Out,General,,
+671,GFTI,401,"Assam University, Silchar",4110,Computer Science and Engineering,Y,SAFE,General PwD,,3099
+672,GFTI,425,"Central institute of Technology Kokrajar, Assam",4110,Computer Science and Engineering,Y,SAFE,General PwD,,3945
+673,GFTI,412,"School of Engineering, Tezpur University, Napaam, Tezpur",5418,B.Tech. (Computer Science and Engineering) - MBA,-,Out,General,,
+674,GFTI,412,"School of Engineering, Tezpur University, Napaam, Tezpur",4110,Computer Science and Engineering,-,Out,General,,
+675,GFTI,416,"Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir",4110,Computer Science and Engineering,Y,SAFE,OBC-NCL(PwD),1738,2554
+676,GFTI,455,"National Institute of Electronics and Information Technology, Aizawl",410W,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Y,No-data,,,
+677,GFTI,416,"Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir",411F,B.Tech in Mathematics and Computing,Y,SAFE,General PwD,,2723
+678,GFTI,401,"Assam University, Silchar",4114,Electronics and Communication Engineering,Y,SAFE,General PwD,,3972
+679,GFTI,425,"Central institute of Technology Kokrajar, Assam",4114,Electronics and Communication Engineering,-,Out,OBC-NCL,,
+680,GFTI,412,"School of Engineering, Tezpur University, Napaam, Tezpur",5420,B.Tech. (Electronics and Communication Engineering) - MBA,Y,Out,General,,
+681,GFTI,412,"School of Engineering, Tezpur University, Napaam, Tezpur",4114,Electronics and Communication Engineering,Y,Out,General,,
+682,GFTI,416,"Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir",4114,Electronics and Communication Engineering,Y,Out,OBC-NCL,,
+683,GFTI,450,Islamic University of Science and Technology Kashmir,4111,Electrical Engineering,Y,No-data,,,
+684,GFTI,412,"School of Engineering, Tezpur University, Napaam, Tezpur",4111,Electrical Engineering,Y,SAFE,OBC-NCL(PwD),1773,2825
+685,GFTI,416,"Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir",4111,Electrical Engineering,Y,SAFE,General PwD,,4293
+686,GFTI,412,"School of Engineering, Tezpur University, Napaam, Tezpur",5422,B.Tech. (Mechanical Engineering) - MBA,Y,Out,General,,
+687,GFTI,412,"School of Engineering, Tezpur University, Napaam, Tezpur",4125,Mechanical Engineering,-,SAFE,General PwD,,3666
+688,GFTI,416,"Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir",4125,Mechanical Engineering,-,SAFE,General PwD,,4296
+689,GFTI,425,"Central institute of Technology Kokrajar, Assam",4109,Civil Engineering,-,Out,General,,
+690,GFTI,412,"School of Engineering, Tezpur University, Napaam, Tezpur",5417,B.Tech. (Civil Engineering) - MBA,-,Out,OBC-NCL,,
+691,GFTI,412,"School of Engineering, Tezpur University, Napaam, Tezpur",4109,Civil Engineering,-,Good,General PwD,,1786
+692,GFTI,416,"Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir",4109,Civil Engineering,Y,Out,General,,
+693,GFTI,401,"Assam University, Silchar",4168,Agricultural Engineering,Y,Borderline,General PwD,,1032
+694,GFTI,425,"Central institute of Technology Kokrajar, Assam",4167,Food Engineering  and Technology,-,Out,OBC-NCL,,
+695,GFTI,425,"Central institute of Technology Kokrajar, Assam",4121,Instrumentation Engineering,-,Out,General,,
+696,GFTI,454,"National Institute of Electronics and Information Technology, Agartala",413J,B.Tech in CSE (AI and ML),Y,No-data,,,
+697,GFTI,456,"National Institute of Electronics and Information Technology, Imphal",413J,B.Tech in CSE (AI and ML),Y,No-data,,,
+698,GFTI,458,"National Institute of Electronics and Information Technology, Kohima",413J,B.Tech in CSE (AI and ML),Y,No-data,,,
+699,GFTI,459,"National Institute of Electronics and Information Technology, Srinagar",413J,B.Tech in CSE (AI and ML),Y,No-data,,,
+700,GFTI,412,"School of Engineering, Tezpur University, Napaam, Tezpur",5419,B.Tech. (Elctrical Engineering) - MBA,-,Out,General,,
+701,GFTI,412,"School of Engineering, Tezpur University, Napaam, Tezpur",5421,B.Tech. (Food Engineering and Technology) - MBA,-,Out,OBC-NCL,,
+702,GFTI,412,"School of Engineering, Tezpur University, Napaam, Tezpur",4167,Food Engineering  and Technology,Y,Out,General,,
+703,GFTI,416,"Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir",4104,Bio Technology,-,Out,OBC-NCL,,
+704,GFTI,450,Islamic University of Science and Technology Kashmir,5101,Architecture,-,Out,General,,
+705,GFTI,455,"National Institute of Electronics and Information Technology, Aizawl",413P,Internet of Things (IoT),Y,No-data,,,
+706,GFTI,412,"School of Engineering, Tezpur University, Napaam, Tezpur",4402,Bachelor of Design,-,Out,OBC-NCL,,
+707,GFTI,416,"Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir",5101,Architecture,-,Out,OBC-NCL,,
+708,GFTI,416,"Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir",4402,Bachelor of Design,-,No-data,,,
+709,GFTI,416,"Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir",4164,Food Technology,-,No-data,,,
+710,GFTI,416,"Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir",412Y,Robotics and AI,Y,SAFE,General PwD,,3674
+711,GFTI,437,Central University of Jammu,4110,Computer Science and Engineering,Y,SAFE,OBC-NCL(PwD),1474,3326
+712,GFTI,437,Central University of Jammu,4195,Computer Science and Engineering with specialization in Cyber Security,Y,SAFE,General PwD,1548,4205
+713,GFTI,437,Central University of Jammu,4124,Mathematics and Computing,Y,Out,OBC-NCL,,
+714,GFTI,437,Central University of Jammu,4114,Electronics and Communication Engineering,Y,SAFE,General PwD,1688,4293
+715,GFTI,437,Central University of Jammu,410I,Electronics and Communication Engineering (Avionics),Y,Out,General,,

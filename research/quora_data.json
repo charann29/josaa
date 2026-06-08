@@ -1,0 +1,1310 @@
+{
+  "generated": "2026-06-08T00:52:57.130Z",
+  "count": 93,
+  "successCount": 3,
+  "partialCount": 0,
+  "failedCount": 90,
+  "questions": [
+    {
+      "url": "https://www.careers360.com/question-why-careers360-is-going-about-sharing-my-phone-no-and-email-with-every-other-institute-without-my-knowledge-i-am-bombarded-with-hundreds-of-spam-mails-sms-phone-calls-there-seem-to-be-no-way-to-delete-or-deactivate-my-accounti-cant-think-of-any-other-way-to-air-my-message-so-i-posted-it-here",
+      "title": "Why Careers360 is sharing my phone no and email with every institute - bombarded with hundreds of spam mails, SMS & phone calls",
+      "answers": 1,
+      "followers": null,
+      "views": 360,
+      "theme": "predictor_spam",
+      "lanes": [
+        "predictor_spam"
+      ],
+      "scraped": true
+    },
+    {
+      "url": "https://www.careers360.com/question-want-to-delete-my-account-and-remove-my-phone-number",
+      "title": "Want to delete my account and remove my phone number (Careers360)",
+      "answers": 1,
+      "followers": null,
+      "views": 223,
+      "theme": "predictor_spam",
+      "lanes": [
+        "predictor_spam"
+      ],
+      "scraped": true
+    },
+    {
+      "url": "https://www.careers360.com/question-i-paid-499-for-college-predictor-in-career360-and-after-payment-page-bank-was-successful-it-returned-to-the-page-saying-they-are-clearing-up-their-home-page-and-some-maintenance-activity-is-underway-will-i-get-any-information-worth-for-the-college-predictor-or-are-they-scam-please-reply",
+      "title": "I paid 499 for Careers360 college predictor and got nothing - are they a scam?",
+      "answers": 1,
+      "followers": null,
+      "views": 168,
+      "theme": "predictor_spam",
+      "lanes": [
+        "predictor_spam"
+      ],
+      "scraped": true
+    },
+    {
+      "url": "https://www.quora.com/What-is-the-sufficient-number-of-choices-to-fill-in-for-JoSAA",
+      "title": "What is the sufficient number of choices to fill in for JoSAA?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "choice_filling",
+      "lanes": [
+        "quora"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/What-should-be-my-preference-order-during-JoSAA-choice-filling",
+      "title": "What should be my preference order during JoSAA choice filling?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "choice_filling",
+      "lanes": [
+        "quora",
+        "josaa_choice_filling_research"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/What-should-be-the-choice-filling-order-in-the-JoSAA-counselling-Should-we-fill-the-choice-on-the-basis-of-college-rank-or-our-own-rank",
+      "title": "Should we fill the choice on the basis of college rank or our own rank?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "choice_filling",
+      "lanes": [
+        "quora",
+        "josaa_choice_filling_research"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/What-do-the-slide-freeze-and-float-options-mean-in-the-JoSAA",
+      "title": "What do the slide, freeze, and float options mean in the JoSAA?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "float_freeze_slide",
+      "lanes": [
+        "quora",
+        "reddit_engagement_for_josaa_founder",
+        "josaa_choice_filling_research",
+        "search_demand_signals"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/What-is-meant-by-the-terms-freeze-float-and-slide-present-in-the-joSAA-2015",
+      "title": "What is meant by the terms freeze, float, and slide present in JoSAA (2015)?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "float_freeze_slide",
+      "lanes": [
+        "quora"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/What-will-happen-if-I-choose-float-instead-of-slide-during-my-JOSAA-counselling",
+      "title": "What will happen if I choose float instead of slide during my JoSAA counselling?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "float_freeze_slide",
+      "lanes": [
+        "quora"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://josaacounsellingqueries.quora.com/In-1st-round-I-have-allotted-a-sit-Then-I-selected-float-option-In-the-3rd-and-4th-round-no-sit-have-been-alloted-So",
+      "title": "Selected float in round 1, no seat in rounds 3-4 — can I now switch to slide?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "float_freeze_slide",
+      "lanes": [
+        "quora",
+        "older_forums_and_x"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/Will-I-lose-my-my-previous-allotted-seat-if-I-click-on-float-in-the-counseling-process-for-the-next-round-for-a-better-branch-What-will-happen-if-I-do-not-get-the-desired-branch-in-the-next-rounds",
+      "title": "Will I lose my previous seat if I click float for a better branch?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "float_freeze_slide",
+      "lanes": [
+        "quora"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://josaatips.quora.com/Are-the-seats-of-the-previous-round-lost-if-I-chose-the-float-or-slide-option-and-proceed-to-the-next-round-in-JoSAA-cou",
+      "title": "Are previous-round seats lost if I chose float or slide and proceed to next round?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "float_freeze_slide",
+      "lanes": [
+        "quora"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/Do-we-need-to-do-anything-to-continue-float-option-after-second-round-of-counselling-of-JoSAA",
+      "title": "Do we need to do anything to continue the float option after the second round?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "float_freeze_slide",
+      "lanes": [
+        "quora"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/If-Im-getting-a-seat-in-the-first-round-of-JoSAA-but-want-to-participate-in-further-rounds-what-should-I-do",
+      "title": "Getting a seat in round 1 but want to participate further — what should I do?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "float_freeze_slide",
+      "lanes": [
+        "quora"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/Can-I-get-a-higher-preference-seat-in-the-same-college-if-I-choose-the-float-option-in-the-first-round-of-the-JoSAA",
+      "title": "Can I get a higher-preference seat in the same college if I float in round 1?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "float_freeze_slide",
+      "lanes": [
+        "quora"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/I-got-a-higher-preference-seat-in-the-2nd-round-of-the-JoSAA-counselling-I-want-to-float-further-for-the-3rd-round-What-should-I-do",
+      "title": "Got a higher-preference seat in round 2, want to float for round 3 — what to do?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "float_freeze_slide",
+      "lanes": [
+        "quora"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/What-is-the-review-of-JEE-Main-college-predictors",
+      "title": "What is the review of JEE Main college predictors?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "predictor_spam",
+      "lanes": [
+        "quora",
+        "choice_filling"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/What-do-we-have-to-choose-a-good-branch-or-a-good-college-after-selection-in-the-JEE-Main-or-JEE-Advanced",
+      "title": "Good branch or good college after JEE Main/Advanced selection?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "branch_vs_college",
+      "lanes": [
+        "quora"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://jeeandboardsinfo.quora.com/What-do-we-have-to-choose-a-good-branch-or-a-good-college-after-selection-in-the-JEE-Main-or-JEE-Advanced",
+      "title": "Good branch or good college after JEE (Quora Space version)",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "branch_vs_college",
+      "lanes": [
+        "quora"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/With-your-rank-in-the-JEE-Advanced-which-college-and-branch-are-you-expecting",
+      "title": "With your JEE Advanced rank, which college and branch are you expecting?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "branch_vs_college",
+      "lanes": [
+        "quora"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/Does-choice-of-engineering-branch-matter-more-than-college-reputation-for-career-success",
+      "title": "Does choice of branch matter more than college reputation for career success?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "branch_vs_college",
+      "lanes": [
+        "quora"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/While-choosing-between-engineering-colleges-should-I-give-preference-to-the-branch-or-the-college",
+      "title": "Choosing between engineering colleges — branch or college first?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "branch_vs_college",
+      "lanes": [
+        "quora"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://edunikh.quora.com/What-should-I-choose-if-I-get-admission-in-best-college-or-best-branch",
+      "title": "What should I choose: best college or best branch?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "branch_vs_college",
+      "lanes": [
+        "quora"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/What-should-be-given-more-importance-interest-or-scope-and-placement-in-the-future-while-choosing-a-branch-for-a-BTech",
+      "title": "Interest vs scope/placement when choosing a BTech branch?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "branch_vs_college",
+      "lanes": [
+        "quora"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/Can-we-get-the-refund-of-Seat-acceptance-fees-in-JoSAA",
+      "title": "Can we get the refund of seat acceptance fees in JoSAA?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "deposit_forfeiture",
+      "lanes": [
+        "quora",
+        "VIT/SRM/BITS parallel private-counselling deposit forfeiture, deadline clashes with JoSAA, refund confusion"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/How-much-time-does-JoSAA-take-to-refund-seat-acceptance-fees",
+      "title": "How much time does JoSAA take to refund seat acceptance fees?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "deposit_forfeiture",
+      "lanes": [
+        "quora"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/If-I-forget-to-withdraw-from-the-JoSAA-2025-counselling-after-the-6th-round-can-I-get-a-fee-refund",
+      "title": "If I forget to withdraw after round 6, can I get a fee refund?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "deposit_forfeiture",
+      "lanes": [
+        "quora"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/When-will-the-seat-acceptance-fee-be-refunded-to-the-students-who-withdrew-their-seat-from-JoSAA-counselling",
+      "title": "When will the seat acceptance fee be refunded to students who withdrew?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "deposit_forfeiture",
+      "lanes": [
+        "quora"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://josaatips.quora.com/How-to-get-my-money-back-if-I-will-be-allotted-a-seat-in-CSAB-Round-2-but-I-dont-want-to-accept-that-seat",
+      "title": "How to get money back if allotted a seat in CSAB Round 2 but don't want it?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "deposit_forfeiture",
+      "lanes": [
+        "quora"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/How-accurate-is-the-college-predictor-of-Careers360",
+      "title": "How accurate is the college predictor of Careers360? (Quora)",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "predictor_spam",
+      "lanes": [
+        "predictor_spam",
+        "choice_filling"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/How-accurate-is-career360-Jee-mains-rank-predictor-Is-it-reliable-Can-anyone-share-his-her-experience",
+      "title": "How accurate is Careers360 JEE Mains rank predictor? Is it reliable?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "predictor_spam",
+      "lanes": [
+        "predictor_spam",
+        "choice_filling"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://ask.shiksha.com/how-can-i-avoid-getting-spam-calls-messages-from-shiksha-regarding-mba-qna-6377947",
+      "title": "How can I avoid getting spam calls & messages from Shiksha regarding MBA?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "predictor_spam",
+      "lanes": [
+        "predictor_spam"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://ask.shiksha.com/i-am-getting-calls-from-shiksha-for-different-b-schools-how-to-stop-and-how-to-remove-my-number-from-there-qna-5823843",
+      "title": "Getting calls from Shiksha for different B-schools - how to stop and remove my number?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "predictor_spam",
+      "lanes": [
+        "predictor_spam"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://ask.shiksha.com/how-can-i-stop-receiving-calls-from-colleges-i-didn-t-even-apply-for-through-shiksha-com-qna-6158661",
+      "title": "How can I stop receiving calls from colleges I didn't even apply for through Shiksha.com?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "predictor_spam",
+      "lanes": [
+        "predictor_spam"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://ask.shiksha.com/since-the-time-i-registered-on-shiksha-i-am-getting-calls-from-various-b-schools-that-i-have-registered-with-them-qna-2458591",
+      "title": "Since I registered on Shiksha I'm getting calls from various B-schools - how to stop it?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "predictor_spam",
+      "lanes": [
+        "predictor_spam"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/Does-SRM-actually-refund-the-admission-fees-taken-at-the-time-of-counselling",
+      "title": "Does SRM actually refund the admission fees taken at the time of counselling?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "deposit_forfeiture",
+      "lanes": [
+        "VIT/SRM/BITS parallel private-counselling deposit forfeiture, deadline clashes with JoSAA, refund confusion"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/How-do-I-cancel-admission-and-apply-for-fees-refund-in-SRM-University",
+      "title": "How do I cancel admission and apply for fees refund in SRM University?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "deposit_forfeiture",
+      "lanes": [
+        "VIT/SRM/BITS parallel private-counselling deposit forfeiture, deadline clashes with JoSAA, refund confusion"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/How-do-I-cancel-SRM-admission-online",
+      "title": "How do I cancel SRM admission online?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "deposit_forfeiture",
+      "lanes": [
+        "VIT/SRM/BITS parallel private-counselling deposit forfeiture, deadline clashes with JoSAA, refund confusion"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/Has-anybody-received-a-refund-from-SRM-University",
+      "title": "Has anybody received a refund from SRM University?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "deposit_forfeiture",
+      "lanes": [
+        "VIT/SRM/BITS parallel private-counselling deposit forfeiture, deadline clashes with JoSAA, refund confusion"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/Can-SRM-vadapalani-cancel-the-application-and-refund-the-amount",
+      "title": "Can SRM (Vadapalani) cancel the application and refund the amount?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "deposit_forfeiture",
+      "lanes": [
+        "VIT/SRM/BITS parallel private-counselling deposit forfeiture, deadline clashes with JoSAA, refund confusion"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://srmuniversity.quora.com/Does-SRM-actually-refund-the-admission-fees-taken-at-the-time-of-counselling/answer/Melwin-Jacob",
+      "title": "Does SRM actually refund the admission fees taken at the time of counselling (SRM Quora Space answer)",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "deposit_forfeiture",
+      "lanes": [
+        "VIT/SRM/BITS parallel private-counselling deposit forfeiture, deadline clashes with JoSAA, refund confusion"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/Can-I-get-the-refund-if-I-dont-want-to-join-NIT-Durgapur-even-after-paying-the-Admission-Partial-Fee-Payment-of-40000-in-JoSSA",
+      "title": "Can I get the refund if I don't want to join NIT Durgapur even after paying the Admission & Partial Fee of 40000 in JoSAA?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "deposit_forfeiture",
+      "lanes": [
+        "VIT/SRM/BITS parallel private-counselling deposit forfeiture, deadline clashes with JoSAA, refund confusion"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://bitspilani.quora.com/BITS-refund-policy-says-that-10-of-fees-is-forfeited-If-a-candidate-pays-the-entire-fees-but-withdraws-within-15-days-o",
+      "title": "BITS refund policy: 10% forfeited if you withdraw within 15 days of completing admission formalities - when does that clock start?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "deposit_forfeiture",
+      "lanes": [
+        "VIT/SRM/BITS parallel private-counselling deposit forfeiture, deadline clashes with JoSAA, refund confusion"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/What-is-the-refund-policy-of-BITS-Pilani-for-withdrawal-between-rounds",
+      "title": "What is the refund policy of BITS Pilani for withdrawal between rounds?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "deposit_forfeiture",
+      "lanes": [
+        "VIT/SRM/BITS parallel private-counselling deposit forfeiture, deadline clashes with JoSAA, refund confusion"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/So-I-am-probably-going-to-BITS-Pilani-or-Goa-this-year-Whats-the-procedure-for-counseling-and-admission",
+      "title": "Going to BITS Pilani/Goa this year - what's the procedure for counselling and admission?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "registration",
+      "lanes": [
+        "VIT/SRM/BITS parallel private-counselling deposit forfeiture, deadline clashes with JoSAA, refund confusion"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/How-does-the-state-quota-work-in-the-JEE-I-don-t-live-in-Chandigarh-but-I-study-there-Will-I-get-a-home-quota-in-PEC-Chandigarsh",
+      "title": "How does the state quota work in JEE? I don't live in Chandigarh but I study there. Will I get home quota at PEC Chandigarh?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "quota_category",
+      "lanes": [
+        "scams_and_quota_confusion"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/URGENT-Do-you-know-of-any-fraud-JEE-or-aipmt-coaching-institutes-Can-you-help-others-by-sharing-your-views-to-save-their-time-and-money",
+      "title": "URGENT: Do you know of any fraud JEE/AIPMT coaching institutes? Share to save others' time and money",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "scams_misinfo",
+      "lanes": [
+        "scams_and_quota_confusion"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/How-do-I-know-whether-a-medical-admission-consultant-agent-is-fraud-or-not",
+      "title": "How do I know whether a medical admission consultant (agent) is fraud or not?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "scams_misinfo",
+      "lanes": [
+        "scams_and_quota_confusion"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/Do-I-have-to-pay-fees-for-JoSAA-35-000-after-1-round-seat-allocation-even-though-I-didn-t-get-my-desired-college-and-have-opted-for-float-option-for-further-rounds",
+      "title": "Do I have to pay the 35,000 JoSAA fee after round 1 even if I Floated for a better college?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "deposit_forfeiture",
+      "lanes": [
+        "older_forums_and_x"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/What-will-happen-if-I-do-not-withdraw-from-the-JoSAA-counselling-process-until-the-sixth-round-considering-I-have-been-allotted-a-seat-in-IIT-and-I-have-accepted-that",
+      "title": "What happens if I don't withdraw until round 6 after accepting an IIT seat?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "float_freeze_slide",
+      "lanes": [
+        "older_forums_and_x"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/Why-I-am-getting-not-eligible-in-JoSAA-seat-allotment-in-second-round",
+      "title": "Why am I getting 'Not Eligible' in JoSAA seat allotment round 2?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "registration",
+      "lanes": [
+        "older_forums_and_x"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/I-have-been-raised-with-a-query-regarding-the-EWS-certificate-issuing-authority-by-JOSAA-in-the-first-round-of-document-verification-If-I-am-not-able-solve-the-issue-on-time-will-my-candidature-get-cancelled",
+      "title": "JoSAA raised a query on my EWS certificate issuing authority in round 1 DV — will my candidature be cancelled?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "documents",
+      "lanes": [
+        "older_forums_and_x"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/What-will-happen-if-there-is-a-problem-with-my-JoSAA-documents",
+      "title": "What happens if there is a problem with my JoSAA documents?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "documents",
+      "lanes": [
+        "older_forums_and_x"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/I-got-one-seat-NIT-in-JoSAA-counselling-but-I-don-t-need-it-I-want-to-repeat-the-JEE-Advanced-exam-in-2025-What-do-I-do-for-next-year-to-write-the-Jee-Advanced-exam",
+      "title": "Got an NIT seat in JoSAA but want to drop and reattempt JEE Advanced — what do I do?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "drop_year",
+      "lanes": [
+        "older_forums_and_x"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/Can-I-get-into-NIT-after-taking-a-second-drop-if-I-already-got-a-seat-in-JoSAA-this-year",
+      "title": "Can I get into an NIT after a second drop if I already accepted a JoSAA seat this year?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "drop_year",
+      "lanes": [
+        "older_forums_and_x"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/Can-I-sit-the-JEE-Mains-again-2nd-drop-if-I-sit-in-JoSAA-counseling-this-year-1st-drop-and-got-college-but-dont-take-college",
+      "title": "Can I reattempt JEE Mains (2nd drop) if I did JoSAA this year and got a college but didn't take it?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "drop_year",
+      "lanes": [
+        "older_forums_and_x"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/During-JoSAA-counselling-we-have-to-fill-college-preferences-for-NITs-and-IITs-in-the-same-list-or-do-we-have-separate-lists-for-both-of-them",
+      "title": "In JoSAA do we fill IIT and NIT preferences in one list or separate lists?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "choice_filling",
+      "lanes": [
+        "older_forums_and_x"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/What-should-be-the-order-of-branch-and-college-choices-in-JOSAA",
+      "title": "What should be the order of branch vs college choices in JoSAA?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "branch_vs_college",
+      "lanes": [
+        "older_forums_and_x",
+        "josaa_choice_filling_research"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/Is-JoSAA-counselling-of-NIT-and-IIT-done-separately-or-together-as-the-JEE-Mains-result-comes-early",
+      "title": "Is JoSAA counselling for NIT and IIT done separately or together?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "general",
+      "lanes": [
+        "older_forums_and_x"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/Which-rank-helps-us-to-get-into-college-by-JoSAA-counselling-the-JEE-Mains-or-Advanced",
+      "title": "Which rank decides JoSAA allotment — JEE Mains or Advanced?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "percentile_rank",
+      "lanes": [
+        "older_forums_and_x"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://iitnewbatch.quora.com/https-www-quora-com-How-reliable-and-accurate-is-the-mock-seat-allotment-of-JoSAA-Can-you-tell-your-round-wise-allotme",
+      "title": "How reliable is JoSAA mock seat allotment? Did it improve after the mock?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "predictor_spam",
+      "lanes": [
+        "older_forums_and_x"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/How-accurate-is-the-mock-seat-allocation-result-of-JoSAA",
+      "title": "How accurate is the JoSAA mock seat allocation result?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "predictor_spam",
+      "lanes": [
+        "older_forums_and_x"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/Since-NIT-Durgapur-looks-at-both-CGPA-and-the-JEE-Main-rank-for-a-branch-change-how-difficult-is-it-to-change-branches-after-the-first-year",
+      "title": "How hard is NIT Durgapur branch change after first year (CGPA + JEE rank)?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "branch_change",
+      "lanes": [
+        "older_forums_and_x"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/What-CGPA-is-required-for-changing-branch-to-CSE-both-BTech-and-Dual-at-IIT-Delhi-after-1st-year",
+      "title": "What CGPA is needed to change to CSE at IIT Delhi after first year?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "branch_change",
+      "lanes": [
+        "older_forums_and_x"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/What-are-some-tips-to-fill-choices-in-JoSAA-counselling",
+      "title": "What are some tips to fill choices in JoSAA counselling?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "choice_filling",
+      "lanes": [
+        "quora",
+        "josaa_choice_filling_research"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/What-should-be-the-order-of-choice-when-filling-in-the-JoSAA-Will-opting-for-choices-which-are-out-of-my-reach-make-any-damage-to-my-seat",
+      "title": "What should be the order of choice when filling in the JoSAA? Will opting for choices which are out of my reach make any damage to my seat?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "choice_filling",
+      "lanes": [
+        "quora"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/What-is-the-correct-method-of-choice-filling-in-the-JoSAA-counselling-to-get-the-best-college",
+      "title": "What is the correct method of choice filling in the JoSAA counselling to get the best college?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "choice_filling",
+      "lanes": [
+        "quora",
+        "josaa_choice_filling_research"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/How-do-I-fill-choices-in-Jossa-to-get-better-college",
+      "title": "How do I fill choices in JoSAA to get a better college?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "choice_filling",
+      "lanes": [
+        "quora"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/Ive-filled-only-25-choices-in-the-JOSAA-online-choice-filling-portal-for-the-JEE-counselling-since-Im-interested-only-in-mechanical-and-nothing-else-Is-that-bad-because-my-friends-are-filling-like-100-choices",
+      "title": "I've filled only 25 choices in JoSAA since I'm interested only in mechanical. Is that bad because friends are filling 100?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "choice_filling",
+      "lanes": [
+        "quora"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/Can-we-change-the-preference-order-in-JoSAA-counseling-after-the-round-1-result",
+      "title": "Can we change the preference order in JoSAA counseling after the round 1 result?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "choice_filling",
+      "lanes": [
+        "quora"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/In-JoSAA-website-where-do-we-get-the-option-to-freeze-float-and-slide",
+      "title": "In JoSAA website, where do we get the option to freeze, float, and slide?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "float_freeze_slide",
+      "lanes": [
+        "quora"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/Which-is-the-best-college-predictor-for-JEE",
+      "title": "Which is the best college predictor for JEE?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "predictor_spam",
+      "lanes": [
+        "quora"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/Which-is-the-best-JEE-main-rank-predictor",
+      "title": "Which is the best JEE main rank predictor?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "predictor_spam",
+      "lanes": [
+        "quora",
+        "choice_filling"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/Which-is-better-newly-IIIT-CSE-or-old-NIT-with-a-core-branch",
+      "title": "Which is better, newly IIIT CSE or old NIT with a core branch?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "branch_vs_college",
+      "lanes": [
+        "quora"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/Should-I-go-for-the-core-branch-in-NITs-or-CSE-in-IIITs",
+      "title": "Should I go for the core branch in NITs or CSE in IIITs?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "branch_vs_college",
+      "lanes": [
+        "quora"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/Do-you-regret-choosing-the-lower-branch-in-IIT-over-CSE-in-IIIT-NIT",
+      "title": "Do you regret choosing the lower branch in IIT over CSE in IIIT/NIT?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "branch_vs_college",
+      "lanes": [
+        "quora"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/Should-we-take-a-lower-branch-at-IIT-or-CS-in-any-NIT-or-IIIT",
+      "title": "Should we take a lower branch at IIT or CS in any NIT or IIIT?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "branch_vs_college",
+      "lanes": [
+        "quora"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/In-JEE-Mains-2025-I-scored-94-33-percentile-My-category-is-SC-What-would-be-my-category-rank",
+      "title": "In JEE Mains 2025 I scored 94.33 percentile. My category is SC. What would be my category rank?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "percentile_rank",
+      "lanes": [
+        "quora"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/I-got-92-08-percentile-in-the-JEE-Mains-2025-Jan-attempt-Which-is-the-best-college-I-can-get-Which-branch-is-my-priority",
+      "title": "I got 92.08 percentile in JEE Mains 2025 Jan attempt. Which is the best college I can get?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "percentile_rank",
+      "lanes": [
+        "quora"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/I-got-89-4-percentile-in-the-JEE-Mains-2025-Can-I-get-into-any-good-colleges",
+      "title": "I got 89.4 percentile in JEE Mains 2025. Can I get into any good colleges?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "percentile_rank",
+      "lanes": [
+        "quora"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/What-if-in-JoSAA-counselling-I-freeze-a-seat-and-then-I-withdraw-before-the-last-round-Will-I-get-the-seat-acceptance-fee-back",
+      "title": "What if in JoSAA counselling I freeze a seat and then withdraw before the last round? Will I get the seat acceptance fee back?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "deposit_forfeiture",
+      "lanes": [
+        "quora"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/Is-a-branch-transfer-possible-after-the-first-year-in-NIT",
+      "title": "Is a branch transfer possible after the first year in NIT?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "branch_change",
+      "lanes": [
+        "quora"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/Is-it-worth-it-to-take-a-drop-for-JEE-in-2024-for-2025",
+      "title": "Is it worth it to take a drop for JEE in 2024 for 2025?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "drop_year",
+      "lanes": [
+        "quora"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/What-documents-are-needed-while-physically-reporting-for-JoSAA-counselling",
+      "title": "What documents are needed while physically reporting for JoSAA counselling?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "documents",
+      "lanes": [
+        "quora"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/Are-there-any-good-discord-servers-for-JEE-aspirants-for-doubt-solving-discussion",
+      "title": "Quora: good Discord servers for JEE aspirants?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "general",
+      "lanes": [
+        "discord"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/What-are-some-good-Telegram-and-WhatsApp-groups-for-JEE-preparation-and-for-doubt-clearing",
+      "title": "Quora - good Telegram/WhatsApp groups for JEE",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "general",
+      "lanes": [
+        "launch_marketing_venues",
+        "search_demand_signals"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/",
+      "title": "Quora (JEE/JoSAA admissions topics)",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "choice_filling",
+      "lanes": [
+        "launch_marketing_venues"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/How-effective-is-Careers360-Rank-Predictor",
+      "title": "How effective is Careers360 Rank Predictor?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "predictor_spam",
+      "lanes": [
+        "choice_filling"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/Which-rank-predictor-is-trustable-for-the-JEE-Main-Is-Mera-Selection-any-good-If-not-what-are-some-suggestions-of-good-ones",
+      "title": "Which rank predictor is trustable for JEE Main? Is Mera Selection any good?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "predictor_spam",
+      "lanes": [
+        "choice_filling"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/Which-rank-predictor-is-the-most-reliable-for-the-JEE-Advanced",
+      "title": "Which rank predictor is the most reliable for the JEE Advanced?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "predictor_spam",
+      "lanes": [
+        "choice_filling"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/If-you-used-the-ALLEN-percentile-predictor-for-the-JEE-Mains-February-attempt-was-it-accurate",
+      "title": "If you used the ALLEN percentile predictor for JEE Mains, was it accurate?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "percentile_rank",
+      "lanes": [
+        "choice_filling"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/Who-is-the-best-councilor-for-JoSAA-under-a-budget",
+      "title": "Quora — Who is the best counsellor for JoSAA under a budget?",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "choice_filling",
+      "lanes": [
+        "paid_counselling_services"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    },
+    {
+      "url": "https://www.quora.com/What-should-I-do-float-freeze-slide-in-JoSAA-if-I-want-to-join-the-CSAB-counselling",
+      "title": "Float/freeze/slide in JoSAA if joining CSAB? — Quora question",
+      "answers": null,
+      "followers": null,
+      "views": null,
+      "theme": "float_freeze_slide",
+      "lanes": [
+        "search_demand_signals"
+      ],
+      "scraped": false,
+      "error": "FORBIDDEN"
+    }
+  ],
+  "themeStats": [
+    {
+      "theme": "predictor_spam",
+      "questions": 17,
+      "totalAnswers": 3,
+      "scraped": 3
+    },
+    {
+      "theme": "choice_filling",
+      "questions": 12,
+      "totalAnswers": 0,
+      "scraped": 0
+    },
+    {
+      "theme": "float_freeze_slide",
+      "questions": 13,
+      "totalAnswers": 0,
+      "scraped": 0
+    },
+    {
+      "theme": "branch_vs_college",
+      "questions": 12,
+      "totalAnswers": 0,
+      "scraped": 0
+    },
+    {
+      "theme": "deposit_forfeiture",
+      "questions": 16,
+      "totalAnswers": 0,
+      "scraped": 0
+    },
+    {
+      "theme": "registration",
+      "questions": 2,
+      "totalAnswers": 0,
+      "scraped": 0
+    },
+    {
+      "theme": "quota_category",
+      "questions": 1,
+      "totalAnswers": 0,
+      "scraped": 0
+    },
+    {
+      "theme": "scams_misinfo",
+      "questions": 2,
+      "totalAnswers": 0,
+      "scraped": 0
+    },
+    {
+      "theme": "documents",
+      "questions": 3,
+      "totalAnswers": 0,
+      "scraped": 0
+    },
+    {
+      "theme": "drop_year",
+      "questions": 4,
+      "totalAnswers": 0,
+      "scraped": 0
+    },
+    {
+      "theme": "general",
+      "questions": 3,
+      "totalAnswers": 0,
+      "scraped": 0
+    },
+    {
+      "theme": "percentile_rank",
+      "questions": 5,
+      "totalAnswers": 0,
+      "scraped": 0
+    },
+    {
+      "theme": "branch_change",
+      "questions": 3,
+      "totalAnswers": 0,
+      "scraped": 0
+    }
+  ]
+}

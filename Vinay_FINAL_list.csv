@@ -1,0 +1,465 @@
+#,Points /100,Percentile,NIRF 2025,Type,Institute,Branch,Brand /100,Career /100,Culture /100,NIRF /100,Branch /100,YourPref /100,Reach (PwD)
+1,77.4,100.0,28,NIT,"National Institute of Technology, Warangal",Computer Science and Engineering,97,92,93,72,100,0,OUT
+2,76.5,100.0,28,NIT,"National Institute of Technology, Warangal",Computer Science and Engineering ( Artificial Intelligence & Data Science),97,92,93,72,97,0,OUT
+3,74.9,100.0,28,NIT,"National Institute of Technology, Warangal",Mathematics and Computing,97,92,93,72,92,0,BORDERLINE
+4,73.1,100.0,28,NIT,"National Institute of Technology, Warangal",Electronics and Communication Engineering (VLSI Design and Technology),97,92,93,72,86,0,OUT
+5,72.5,100.0,28,NIT,"National Institute of Technology, Warangal",Electronics and Communication Engineering,97,92,93,72,84,0,OUT
+6,70.6,100.0,28,NIT,"National Institute of Technology, Warangal",Electrical and Electronics Engineering,97,92,93,72,78,0,OUT
+7,66.9,100.0,28,NIT,"National Institute of Technology, Warangal",Mechanical Engineering,97,92,93,72,66,0,LIKELY
+8,63.5,100.0,28,NIT,"National Institute of Technology, Warangal",Chemical Engineering,97,92,93,72,58,0,LIKELY
+9,63.5,100.0,28,NIT,"National Institute of Technology, Warangal",Chemical Engineering,97,92,93,72,58,0,No-data
+10,63.5,100.0,28,NIT,"National Institute of Technology, Warangal",Bio Technology,97,92,93,72,38,0,LIKELY
+11,62.5,100.0,28,NIT,"National Institute of Technology, Warangal",Civil Engineering,97,92,93,72,52,0,OUT
+12,60.7,100.0,28,NIT,"National Institute of Technology, Warangal",Metallurgical and Materials Engineering,97,92,93,72,46,0,SAFE
+13,60.7,100.0,28,NIT,"National Institute of Technology, Warangal",Metallurgical and Materials Engineering,97,92,93,72,46,0,No-data
+14,100.0,100.0,9,NIT,"National Institute of Technology, Tiruchirappalli",Computer Science and Engineering,100,95,92,91,100,99,OUT
+15,96.7,99.8,17,NIT,"National Institute of Technology Karnataka, Surathkal",Computer Science and Engineering,99,93,90,83,100,97,OUT
+16,95.2,99.6,17,NIT,"National Institute of Technology Karnataka, Surathkal",Artificial Intelligence,99,93,90,83,95,97,OUT
+17,95.2,99.6,17,NIT,"National Institute of Technology Karnataka, Surathkal",Computational and Data Science,99,93,90,83,95,97,No-data
+18,95.0,99.1,9,NIT,"National Institute of Technology, Tiruchirappalli",Electronics and Communication Engineering,100,95,92,91,84,99,OUT
+19,94.1,98.9,13,NIT,"National Institute of Technology, Rourkela",Computer Science and Engineering,96,87,85,87,100,96,OUT
+20,93.6,98.7,17,NIT,"National Institute of Technology Karnataka, Surathkal",Information Technology,99,93,90,83,90,97,OUT
+21,93.2,98.4,9,NIT,"National Institute of Technology, Tiruchirappalli",Electrical and Electronics Engineering,100,95,92,91,78,99,OUT
+22,92.5,98.2,13,NIT,"National Institute of Technology, Rourkela",Artificial Intelligence,96,87,85,87,95,96,No-data
+23,91.8,98.0,17,NIT,"National Institute of Technology Karnataka, Surathkal",Electronics and Communication Engineering,99,93,90,83,84,97,No-data
+24,90.2,97.8,21,NIT,National Institute of Technology Calicut,Computer Science and Engineering,93,85,83,79,100,94,OUT
+25,90.1,97.6,9,NIT,"National Institute of Technology, Tiruchirappalli",Instrumentation and Control Engineering,100,95,92,91,68,99,LIKELY
+26,89.9,97.3,17,NIT,"National Institute of Technology Karnataka, Surathkal",Electrical and Electronics Engineering,99,93,90,83,78,97,OUT
+27,89.5,97.1,9,NIT,"National Institute of Technology, Tiruchirappalli",Mechanical Engineering,100,95,92,91,66,99,OUT
+28,89.1,96.9,13,NIT,"National Institute of Technology, Rourkela",Electronics and Communication Engineering,96,87,85,87,84,96,OUT
+29,88.2,96.7,9,NIT,"National Institute of Technology, Tiruchirappalli",Production Engineering,100,95,92,91,62,99,SAFE
+30,87.9,96.5,13,NIT,"National Institute of Technology, Rourkela",Electronics and Instrumentation Engineering,96,87,85,87,80,96,No-data
+31,87.3,96.2,13,NIT,"National Institute of Technology, Rourkela",Electrical Engineering,96,87,85,87,78,96,OUT
+32,87.0,96.0,9,NIT,"National Institute of Technology, Tiruchirappalli",Chemical Engineering,100,95,92,91,58,99,OUT
+33,86.2,95.8,17,NIT,"National Institute of Technology Karnataka, Surathkal",Mechanical Engineering,99,93,90,83,66,97,BORDERLINE
+34,85.3,95.6,21,NIT,National Institute of Technology Calicut,Electronics and Communication Engineering,93,85,83,79,84,94,OUT
+35,85.1,95.3,9,NIT,"National Institute of Technology, Tiruchirappalli",Civil Engineering,100,95,92,91,52,99,BORDERLINE
+36,84.3,95.1,42,NIT,Malaviya National Institute of Technology Jaipur,Computer Science and Engineering,92,83,83,58,100,92,OUT
+37,83.7,94.9,17,NIT,"National Institute of Technology Karnataka, Surathkal",Chemical Engineering,99,93,90,83,58,97,LIKELY
+38,83.6,94.7,13,NIT,"National Institute of Technology, Rourkela",Mechanical Engineering,96,87,85,87,66,96,SAFE
+39,83.5,94.5,44,NIT,"Visvesvaraya National Institute of Technology, Nagpur",Computer Science and Engineering,90,84,82,56,100,91,OUT
+40,83.4,94.2,21,NIT,National Institute of Technology Calicut,Electrical and Electronics Engineering,93,85,83,79,78,94,OUT
+41,83.3,94.0,9,NIT,"National Institute of Technology, Tiruchirappalli",Metallurgical and Materials Engineering,100,95,92,91,46,99,OUT
+42,82.7,93.8,42,NIT,Malaviya National Institute of Technology Jaipur,Artificial Intelligence and Data Engineering,92,83,83,58,95,92,No-data
+43,81.8,93.1,17,NIT,"National Institute of Technology Karnataka, Surathkal",Civil Engineering,99,93,90,83,52,97,LIKELY
+44,81.1,92.9,13,NIT,"National Institute of Technology, Rourkela",Chemical Engineering,96,87,85,87,58,96,No-data
+45,81.1,92.9,13,NIT,"National Institute of Technology, Rourkela",Chemical Engineering,96,87,85,87,58,96,LIKELY
+46,80.6,92.5,62,NIT,Motilal Nehru National Institute of Technology Allahabad,Computer Science and Engineering,94,83,80,38,100,95,OUT
+47,80.0,92.2,17,NIT,"National Institute of Technology Karnataka, Surathkal",Metallurgical and Materials Engineering,99,93,90,83,46,97,SAFE
+48,79.7,92.0,21,NIT,National Institute of Technology Calicut,Mechanical Engineering,93,85,83,79,66,94,SAFE
+49,79.3,91.8,42,NIT,Malaviya National Institute of Technology Jaipur,Electronics and Communication Engineering,92,83,83,58,84,92,OUT
+50,79.2,91.6,13,NIT,"National Institute of Technology, Rourkela",Civil Engineering,96,87,85,87,52,96,SAFE
+51,78.5,91.1,44,NIT,"Visvesvaraya National Institute of Technology, Nagpur",Electronics and Communication Engineering,90,84,82,56,84,91,OUT
+52,78.5,90.9,21,NIT,National Institute of Technology Calicut,Production Engineering,93,85,83,79,62,94,SAFE
+53,77.4,90.5,42,NIT,Malaviya National Institute of Technology Jaipur,Electrical Engineering,92,83,83,58,78,92,SAFE
+54,77.4,90.2,13,NIT,"National Institute of Technology, Rourkela",Metallurgical and Materials Engineering,96,87,85,87,46,96,SAFE
+55,77.4,90.2,13,NIT,"National Institute of Technology, Rourkela",Metallurgical and Materials Engineering,96,87,85,87,46,96,No-data
+56,77.2,89.6,21,NIT,National Institute of Technology Calicut,Chemical Engineering,93,85,83,79,58,94,LIKELY
+57,76.6,89.4,44,NIT,"Visvesvaraya National Institute of Technology, Nagpur",Electrical and Electronics Engineering,90,84,82,56,78,91,SAFE
+58,76.0,89.1,66,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",Computer Science and Engineering,87,81,79,34,100,88,OUT
+59,75.6,88.9,62,NIT,Motilal Nehru National Institute of Technology Allahabad,Electronics and Communication Engineering,94,83,80,38,84,95,OUT
+60,75.4,88.2,21,NIT,National Institute of Technology Calicut,Civil Engineering,93,85,83,79,52,94,SAFE
+61,75.3,88.0,49,NIT,National Institute of Technology Durgapur,Computer Science and Engineering,80,76,77,51,100,83,OUT
+62,74.9,87.8,13,NIT,"National Institute of Technology, Rourkela",Bio Technology,96,87,85,87,38,96,BORDERLINE
+63,74.7,87.4,21,NIT,National Institute of Technology Calicut,Energy Engineering,93,85,83,79,50,94,BORDERLINE
+64,74.4,87.1,66,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",Artificial Intelligence,87,81,79,34,95,88,OUT
+65,74.4,87.1,66,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",Artificial Intelligence,87,81,79,34,95,88,OUT
+66,73.7,86.7,62,NIT,Motilal Nehru National Institute of Technology Allahabad,Electrical Engineering,94,83,80,38,78,95,BORDERLINE
+67,73.7,86.5,42,NIT,Malaviya National Institute of Technology Jaipur,Mechanical Engineering,92,83,83,58,66,92,SAFE
+68,73.7,86.3,55,NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",Computer Science and Engineering,79,77,77,45,100,82,OUT
+69,73.5,86.0,66,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",Mathematics and Computing,87,81,79,34,92,88,OUT
+70,73.5,85.8,21,NIT,National Institute of Technology Calicut,Materials Science and Engineering,93,85,83,79,46,94,LIKELY
+71,72.9,84.7,44,NIT,"Visvesvaraya National Institute of Technology, Nagpur",Mechanical Engineering,90,84,82,56,66,91,SAFE
+72,72.8,84.5,49,NIT,National Institute of Technology Durgapur,B.Tech in Mathematics and Computing,80,76,77,51,92,83,LIKELY
+73,72.1,84.3,55,NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",Data Science and Engineering,79,77,77,45,95,82,OUT
+74,72.1,84.0,54,NIT,"Indian Institute of Engineering Science and Technology, Shibpur",Computer Science and Engineering,69,80,82,46,100,77,OUT
+75,72.1,83.8,85,NIT,"National Institute of Technology, Kurukshetra",Computer Science and Engineering,89,80,80,15,100,90,No-data
+76,72.1,83.8,85,NIT,"National Institute of Technology, Kurukshetra",Computer Science and Engineering,89,80,80,15,100,90,OUT
+77,71.7,83.4,65,NIT,National Institute of Technology Delhi,Computer Science and Engineering,85,74,68,35,100,87,No-data
+78,71.7,83.1,66,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",Electronics and VLSI Engineering,87,81,79,34,86,88,BORDERLINE
+79,71.2,82.9,42,NIT,Malaviya National Institute of Technology Jaipur,Chemical Engineering,92,83,83,58,58,92,SAFE
+80,71.2,82.7,55,NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",Mathematics and Computing,79,77,77,45,92,82,BORDERLINE
+81,71.0,82.5,66,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",Electronics and Communication Engineering,87,81,79,34,84,88,BORDERLINE
+82,71.0,82.3,21,NIT,National Institute of Technology Calicut,Bio Technology,93,85,83,79,38,94,BORDERLINE
+83,70.6,82.0,55,NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",Information Technology,79,77,77,45,90,82,OUT
+84,70.5,81.8,85,NIT,"National Institute of Technology, Kurukshetra",Artificial Intelligence and Data Science,89,80,80,15,95,90,No-data
+85,70.5,81.8,85,NIT,"National Institute of Technology, Kurukshetra",Artificial Intelligence and Machine Learning,89,80,80,15,95,90,OUT
+86,61.6,68.1,74,GFTI,University of Hyderabad,Computer Science and Engineering,30,76,94,26,100,100,SAFE
+87,70.4,81.4,44,NIT,"Visvesvaraya National Institute of Technology, Nagpur",Chemical Engineering,90,84,82,56,58,91,SAFE
+88,70.3,81.2,49,NIT,National Institute of Technology Durgapur,Electronics and Communication Engineering,80,76,77,51,84,83,OUT
+89,70.1,80.9,65,NIT,National Institute of Technology Delhi,Artificial Intelligence and Data Science,85,74,68,35,95,87,OUT
+90,70.0,80.7,62,NIT,Motilal Nehru National Institute of Technology Allahabad,Mechanical Engineering,94,83,80,38,66,95,SAFE
+91,69.9,80.5,81,NIT,Maulana Azad National Institute of Technology Bhopal,Computer Science and Engineering,82,79,79,19,100,84,OUT
+92,69.6,80.3,85,NIT,"National Institute of Technology, Kurukshetra",Mathematics and Computing,89,80,80,15,92,90,OUT
+93,69.4,79.8,42,NIT,Malaviya National Institute of Technology Jaipur,Civil Engineering,92,83,83,58,52,92,BORDERLINE
+94,69.3,79.6,55,NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",Electronics and VLSI Engineering,79,77,77,45,86,82,LIKELY
+95,69.2,79.4,66,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",Electrical Engineering,87,81,79,34,78,88,LIKELY
+96,69.0,79.2,54,NIT,"Indian Institute of Engineering Science and Technology, Shibpur",Information Technology,69,80,82,46,90,77,LIKELY
+97,69.0,78.9,85,NIT,"National Institute of Technology, Kurukshetra",Information Technology,89,80,80,15,90,90,OUT
+98,68.9,78.7,82,NIT,"National Institute of Technology, Jamshedpur",Computer Science and Engineering,83,76,76,18,100,86,OUT
+99,68.8,78.5,62,NIT,Motilal Nehru National Institute of Technology Allahabad,Production and Industrial Engineering,94,83,80,38,62,95,SAFE
+100,68.7,78.3,55,NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",Electronics and Communication Engineering,79,77,77,45,84,82,BORDERLINE
+101,68.6,78.0,44,NIT,"Visvesvaraya National Institute of Technology, Nagpur",Civil Engineering,90,84,82,56,52,91,SAFE
+102,68.4,77.8,49,NIT,National Institute of Technology Durgapur,Electrical Engineering,80,76,77,51,78,83,SAFE
+103,67.7,77.4,85,NIT,"National Institute of Technology, Kurukshetra",Microelectronics & VLSI Engineering,89,80,80,15,86,90,No-data
+104,67.6,77.2,51,GFTI,"Birla Institute of Technology, Mesra, Ranchi",Computer Science and Engineering,68,80,80,49,100,49,LIKELY
+105,67.5,76.9,62,NIT,Motilal Nehru National Institute of Technology Allahabad,Chemical Engineering,94,83,80,38,58,95,LIKELY
+106,67.5,76.7,42,NIT,Malaviya National Institute of Technology Jaipur,Metallurgical and Materials Engineering,92,83,83,58,46,92,SAFE
+107,67.1,76.5,85,NIT,"National Institute of Technology, Kurukshetra",Electronics and Communication Engineering,89,80,80,15,84,90,OUT
+108,67.1,76.5,85,NIT,"National Institute of Technology, Kurukshetra",Electronics and Communication Engineering,89,80,80,15,84,90,No-data
+109,66.8,76.1,55,NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",Electrical Engineering,79,77,77,45,78,82,LIKELY
+110,66.7,75.8,65,NIT,National Institute of Technology Delhi,Electronics and Communication Engineering,85,74,68,35,84,87,OUT
+111,66.7,75.6,44,NIT,"Visvesvaraya National Institute of Technology, Nagpur",Metallurgical and Materials Engineering,90,84,82,56,46,91,SAFE
+112,66.0,75.4,51,GFTI,"Birla Institute of Technology, Mesra, Ranchi",Artificial Intelligence and Machine Learning,68,80,80,49,95,49,SAFE
+113,66.0,75.4,51,GFTI,"Birla Institute of Technology, Mesra, Ranchi",Quantitative Economics & Data Science,68,80,80,49,95,49,No-data
+114,65.9,74.9,54,NIT,"Indian Institute of Engineering Science and Technology, Shibpur",Electronics and Telecommunication Engineering,69,80,82,46,80,77,SAFE
+115,65.7,74.7,62,NIT,Motilal Nehru National Institute of Technology Allahabad,Civil Engineering,94,83,80,38,52,95,OUT
+116,65.5,74.5,66,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",Mechanical Engineering,87,81,79,34,66,88,SAFE
+117,65.3,74.3,54,NIT,"Indian Institute of Engineering Science and Technology, Shibpur",Electrical Engineering,69,80,82,46,78,77,SAFE
+118,65.2,74.1,85,NIT,"National Institute of Technology, Kurukshetra",Electrical Engineering,89,80,80,15,78,90,LIKELY
+119,65.2,74.1,85,NIT,"National Institute of Technology, Kurukshetra",Electrical Engineering,89,80,80,15,78,90,BORDERLINE
+120,65.1,73.6,51,GFTI,"Birla Institute of Technology, Mesra, Ranchi",Mathematics and Computing,68,80,80,49,92,49,LIKELY
+121,65.1,73.4,62,NIT,Motilal Nehru National Institute of Technology Allahabad,Engineering and Computational Mechanics,94,83,80,38,50,95,No-data
+122,64.9,73.2,81,NIT,Maulana Azad National Institute of Technology Bhopal,Electronics and Communication Engineering,82,79,79,19,84,84,OUT
+123,64.9,72.9,65,NIT,National Institute of Technology Delhi,Electrical Engineering,85,74,68,35,78,87,BORDERLINE
+124,64.7,72.5,49,NIT,National Institute of Technology Durgapur,Mechanical Engineering,80,76,77,51,66,83,SAFE
+125,64.7,72.3,96,IIIT,Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior,Computer Science and Engineering,86,79,75,4,100,70,OUT
+126,64.2,72.1,66,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",Industrial Chemistry,87,81,79,34,62,88,LIKELY
+127,63.9,71.4,82,NIT,"National Institute of Technology, Jamshedpur",Electronics and Communication Engineering,83,76,76,18,84,86,LIKELY
+128,63.8,71.2,62,NIT,Motilal Nehru National Institute of Technology Allahabad,Materials Engineering,94,83,80,38,46,95,No-data
+129,63.7,71.0,55,NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",Instrumentation and Control Engineering,79,77,77,45,68,82,SAFE
+130,63.1,70.7,55,NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",Mechanical Engineering,79,77,77,45,66,82,SAFE
+131,63.0,70.5,81,NIT,Maulana Azad National Institute of Technology Bhopal,Electrical Engineering,82,79,79,19,78,84,SAFE
+132,63.0,70.5,81,NIT,Maulana Azad National Institute of Technology Bhopal,Energy and Electrical Vehicle Engineering,82,79,79,19,78,84,No-data
+133,63.0,69.8,66,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",Chemical Engineering,87,81,79,34,58,88,SAFE
+134,62.9,69.6,86,NIT,National Institute of Technology Raipur,Computer Science and Engineering,73,73,74,14,100,78,OUT
+135,62.6,69.4,51,GFTI,"Birla Institute of Technology, Mesra, Ranchi",Electronics and Communication Engineering,68,80,80,49,84,49,SAFE
+136,62.2,69.0,49,NIT,National Institute of Technology Durgapur,Chemical Engineering,80,76,77,51,58,83,SAFE
+137,62.2,69.0,49,NIT,National Institute of Technology Durgapur,Chemical Engineering,80,76,77,51,58,83,No-data
+138,62.0,68.5,82,NIT,"National Institute of Technology, Jamshedpur",Electrical Engineering,83,76,76,18,78,86,SAFE
+139,61.9,68.3,55,NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",Industrial and Production Engineering,79,77,77,45,62,82,LIKELY
+140,61.6,67.8,54,NIT,"Indian Institute of Engineering Science and Technology, Shibpur",Mechanical Engineering,69,80,82,46,66,77,SAFE
+141,61.5,67.6,85,NIT,"National Institute of Technology, Kurukshetra",Mechanical Engineering,89,80,80,15,66,90,SAFE
+142,61.5,67.6,85,NIT,"National Institute of Technology, Kurukshetra",Mechanical Engineering,89,80,80,15,66,90,LIKELY
+143,61.3,67.0,62,NIT,Motilal Nehru National Institute of Technology Allahabad,Bio Technology,94,83,80,38,38,95,SAFE
+144,61.3,66.7,101-150,IIIT,"Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur",Computer Science and Engineering,71,78,73,10,100,69,LIKELY
+145,61.1,66.5,65,NIT,National Institute of Technology Delhi,Mechanical Engineering,85,74,68,35,66,87,BORDERLINE
+146,61.1,66.3,66,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",Civil Engineering,87,81,79,34,52,88,SAFE
+147,60.8,66.1,101-150,NIT,National Institute of Technology Goa,Computer Science and Engineering,75,69,70,10,100,79,No-data
+148,60.8,65.9,51,GFTI,"Birla Institute of Technology, Mesra, Ranchi",Electrical and Electronics Engineering,68,80,80,49,78,49,LIKELY
+149,60.6,65.6,55,NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",Chemical Engineering,79,77,77,45,58,82,SAFE
+150,60.4,65.4,49,NIT,National Institute of Technology Durgapur,Civil Engineering,80,76,77,51,52,83,SAFE
+151,60.3,65.2,85,NIT,"National Institute of Technology, Kurukshetra",Industrial Internet of Things,89,80,80,15,62,90,SAFE
+152,60.3,65.2,85,NIT,"National Institute of Technology, Kurukshetra",Production and Industrial Engineering,89,80,80,15,62,90,SAFE
+153,59.8,64.7,86,NIT,National Institute of Technology Raipur,Information Technology,73,73,74,14,90,78,OUT
+154,59.3,64.1,81,NIT,Maulana Azad National Institute of Technology Bhopal,Mechanical Engineering,82,79,79,19,66,84,SAFE
+155,58.8,63.6,55,NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",Civil Engineering,79,77,77,45,52,82,LIKELY
+156,58.5,63.4,49,NIT,National Institute of Technology Durgapur,Metallurgical and Materials Engineering,80,76,77,51,46,83,SAFE
+157,58.3,63.2,82,NIT,"National Institute of Technology, Jamshedpur",Mechanical Engineering,83,76,76,18,66,86,SAFE
+158,58.2,63.0,55,NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",Textile Technology,79,77,77,45,50,82,SAFE
+159,57.9,62.7,86,NIT,National Institute of Technology Raipur,Electronics and Communication Engineering,73,73,74,14,84,78,BORDERLINE
+160,57.8,62.5,96,IIIT,Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior,Electrical and Electronics Engineering,86,79,75,4,78,70,SAFE
+161,57.3,62.3,—,IIIT,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",Computer Science and Engineering,65,76,72,3,100,68,OUT
+162,57.3,62.3,—,IIIT,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",Computer Science and Engineering,65,76,72,3,100,68,LIKELY
+163,57.2,61.9,54,NIT,"Indian Institute of Engineering Science and Technology, Shibpur",Civil Engineering,69,80,82,46,52,77,SAFE
+164,57.2,61.6,85,NIT,"National Institute of Technology, Kurukshetra",Civil Engineering,89,80,80,15,52,90,BORDERLINE
+165,57.2,61.6,85,NIT,"National Institute of Technology, Kurukshetra",Civil Engineering,89,80,80,15,52,90,No-data
+166,57.1,60.8,82,NIT,"National Institute of Technology, Jamshedpur",Production and Industrial Engineering,83,76,76,18,62,86,SAFE
+167,57.0,60.5,51,GFTI,"Birla Institute of Technology, Mesra, Ranchi",Mechanical Engineering,68,80,80,49,66,49,LIKELY
+168,56.8,60.3,81,NIT,Maulana Azad National Institute of Technology Bhopal,Chemical Engineering,82,79,79,19,58,84,LIKELY
+169,56.8,60.1,65,NIT,National Institute of Technology Delhi,Civil Engineering,85,74,68,35,52,87,BORDERLINE
+170,56.6,59.2,54,NIT,"Indian Institute of Engineering Science and Technology, Shibpur",Aerospace Engineering,69,80,82,46,50,77,LIKELY
+171,56.6,59.0,85,NIT,"National Institute of Technology, Kurukshetra",Computer Engineering,89,80,80,15,50,90,OUT
+172,56.6,59.0,85,NIT,"National Institute of Technology, Kurukshetra",ROBOTICS & AUTOMATION,89,80,80,15,50,90,BORDERLINE
+173,56.6,59.0,85,NIT,"National Institute of Technology, Kurukshetra",SUSTAINABLE ENERGY TECHNOLOGIES,89,80,80,15,50,90,No-data
+174,56.5,58.3,—,NIT,"National Institute of Technology, Andhra Pradesh",Computer Science and Engineering,66,70,68,3,100,75,OUT
+175,56.4,58.1,—,IIIT,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",Computer Science and Engineering with Major in Artificial Intelligence,65,76,72,3,97,68,BORDERLINE
+176,56.4,57.9,101-150,IIIT,"Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur",Electronics and Communication Engineering,71,78,73,10,84,69,SAFE
+177,56.2,57.6,65,NIT,National Institute of Technology Delhi,Aerospace Engineering,85,74,68,35,50,87,No-data
+178,56.2,57.6,65,NIT,National Institute of Technology Delhi,VLSI Design and Technology,85,74,68,35,50,87,No-data
+179,56.1,57.2,86,NIT,National Institute of Technology Raipur,Electrical Engineering,73,73,74,14,78,78,LIKELY
+180,56.0,57.0,49,NIT,National Institute of Technology Durgapur,Bio Technology,80,76,77,51,38,83,LIKELY
+181,56.0,57.0,49,NIT,National Institute of Technology Durgapur,Biotechnology,80,76,77,51,38,83,No-data
+182,55.8,56.5,—,IIIT,Indian Institute of Information Technology (IIIT) Pune,Computer Science and Engineering,61,76,70,3,100,66,SAFE
+183,55.8,56.5,101-150,NIT,National Institute of Technology Goa,Electronics and Communication Engineering,75,69,70,10,84,79,OUT
+184,55.8,56.1,51,GFTI,"Birla Institute of Technology, Mesra, Ranchi",Production and Industrial Engineering,68,80,80,49,62,49,LIKELY
+185,55.4,55.9,54,NIT,"Indian Institute of Engineering Science and Technology, Shibpur",Metallurgy and Materials Engineering,69,80,82,46,46,77,SAFE
+186,55.0,54.8,81,NIT,Maulana Azad National Institute of Technology Bhopal,Civil Engineering,82,79,79,19,52,84,SAFE
+187,54.6,54.5,51,GFTI,"Birla Institute of Technology, Mesra, Ranchi",Chemical Engineering,68,80,80,49,58,49,LIKELY
+188,54.4,54.1,55,NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",Bio Technology,79,77,77,45,38,82,BORDERLINE
+189,54.4,53.9,81,NIT,Maulana Azad National Institute of Technology Bhopal,B. Tech. and M. Tech. in Engineering and Computational Mechanics (Dual Degree),82,79,79,19,50,84,No-data
+190,54.0,53.7,82,NIT,"National Institute of Technology, Jamshedpur",Civil Engineering,83,76,76,18,52,86,LIKELY
+191,54.0,53.4,101-150,NIT,National Institute of Technology Goa,Electrical and Electronics Engineering,75,69,70,10,78,79,SAFE
+192,53.5,53.2,99,NIT,National Institute of Technology Puducherry,Computer Science and Engineering,62,67,68,1,100,73,OUT
+193,53.4,52.3,82,NIT,"National Institute of Technology, Jamshedpur",Engineering and Computational Mechanics,83,76,76,18,50,86,No-data
+194,53.1,52.1,81,NIT,Maulana Azad National Institute of Technology Bhopal,Materials Science and Metallurgical Engineering,82,79,79,19,46,84,SAFE
+195,53.0,51.9,—,IIIT,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",B.Tech. in Electronics and Communication Engineering and M.Tech. in Microelectronics and VLSI Systems,65,76,72,3,86,68,BORDERLINE
+196,53.0,51.9,—,IIIT,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",B.Tech. in Electronics and Communication Engineering and M.Tech. in VLSI Design,65,76,72,3,86,68,LIKELY
+197,52.7,51.4,51,GFTI,"Birla Institute of Technology, Mesra, Ranchi",Civil Engineering,68,80,80,49,52,49,LIKELY
+198,52.4,51.2,86,NIT,National Institute of Technology Raipur,Mechanical Engineering,73,73,74,14,66,78,SAFE
+199,52.4,51.0,—,IIIT,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",B.Tech. in Electronics and Communication Engineering and M.Tech. in Communication Systems,65,76,72,3,84,68,LIKELY
+200,52.4,51.0,—,IIIT,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",Electronics and Communication Engineering,65,76,72,3,84,68,SAFE
+201,52.1,50.6,82,NIT,"National Institute of Technology, Jamshedpur",Metallurgical and Materials Engineering,83,76,76,18,46,86,No-data
+202,51.6,50.1,—,NIT,"National Institute of Technology, Andhra Pradesh",Electronics and Communication Engineering,66,70,68,3,84,75,BORDERLINE
+203,50.9,49.7,—,IIIT,Indian Institute of Information Technology (IIIT) Pune,Electronics and Communication Engineering,61,76,70,3,84,66,SAFE
+204,50.8,49.4,101-150,IIIT,"Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur",Mechanical Engineering,71,78,73,10,66,69,SAFE
+205,50.5,49.2,—,IIIT,"Indian Institute of Information Technology (IIIT)Kota, Rajasthan",Computer Science and Engineering,51,70,65,3,100,65,SAFE
+206,50.2,49.0,101-150,NIT,National Institute of Technology Goa,Mechanical Engineering,75,69,70,10,66,79,BORDERLINE
+207,50.1,48.8,—,IIIT,Indian Institute of Information Technology Bhopal,Computer Science and Engineering,50,70,66,3,100,64,SAFE
+208,50.1,48.8,—,IIIT,Indian Institute of Information Technology Bhopal,Computer Science and Engineering (Cyber Physical System),50,70,66,3,100,64,BORDERLINE
+209,50.1,48.8,—,IIIT,Indian Institute of Information Technology Bhopal,Computer Science and Engineering (Cyber Physical System),50,70,66,3,100,64,No-data
+210,50.1,48.8,—,IIIT,Indian Institute of Information Technology Bhopal,Computer Science and Engineering (Cyber Security),50,70,66,3,100,64,LIKELY
+211,50.0,47.9,—,GFTI,"International Institute of Information Technology, Naya Raipur",Computer Science and Engineering,59,70,67,3,100,48,LIKELY
+212,49.9,47.7,86,NIT,National Institute of Technology Raipur,Chemical Engineering,73,73,74,14,58,78,SAFE
+213,49.7,47.5,—,NIT,"National Institute of Technology, Andhra Pradesh",Electrical and Electronics Engineering,66,70,68,3,78,75,SAFE
+214,49.4,47.2,—,IIIT,Indian Institute of Information Technology (IIIT) Nagpur,Computer Science Engineering (Human Computer lnteraction and Gaming Technology),44,73,68,3,100,61,SAFE
+215,49.4,47.2,—,IIIT,Indian Institute of Information Technology (IIIT) Nagpur,Computer Science and Engineering,44,73,68,3,100,61,SAFE
+216,49.4,46.8,—,IIIT,Indian Institute of Information Technology Surat,Computer Science and Engineering,48,70,65,3,100,62,LIKELY
+217,49.4,46.8,—,IIIT,Indian Institute of Information Technology Surat,Computer Science and Engineering (Cyber Security),48,70,65,3,100,62,OUT
+218,49.2,46.3,96,IIIT,Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior,Integrated B. Tech.(IT) and M. Tech (IT),86,79,75,4,50,70,LIKELY
+219,49.2,46.3,96,IIIT,Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior,Integrated B. Tech.(IT) and MBA,86,79,75,4,50,70,LIKELY
+220,49.1,45.9,—,IIIT,Indian Institute of Information Technology Bhopal,Computer Science and Engineering (Artificial Intelligence),50,70,66,3,97,64,BORDERLINE
+221,49.1,45.9,—,IIIT,Indian Institute of Information Technology Bhopal,Computer Science and Engineering (Artificial Intelligence),50,70,66,3,97,64,BORDERLINE
+222,49.1,45.9,—,IIIT,Indian Institute of Information Technology Bhopal,Computer Science and Engineering (Data Science),50,70,66,3,97,64,BORDERLINE
+223,49.0,44.8,—,IIIT,"Indian Institute of Information Technology (IIIT)Kota, Rajasthan",Artificial Intelligence and Data Engineering,51,70,65,3,95,65,LIKELY
+224,48.6,44.6,99,NIT,National Institute of Technology Puducherry,Electronics and Communication Engineering,62,67,68,1,84,73,OUT
+225,48.5,44.3,—,IIIT,Indian Institute of Information Technology (IIIT) Nagpur,Computer Science Engineering (Artificial lntelligence and Machine Learning),44,73,68,3,97,61,LIKELY
+226,48.5,44.3,—,IIIT,Indian Institute of Information Technology (IIIT) Nagpur,Computer Science Engineering (Data Science and Analytics),44,73,68,3,97,61,SAFE
+227,48.5,43.9,—,GFTI,"International Institute of Information Technology, Naya Raipur",Data Science and Artificial Intelligence,59,70,67,3,95,48,OUT
+228,48.4,43.7,—,IIIT,Indian Institute of Information Technology Surat,Computer Science and Engineering (Artificial Intelligence and Machine Learning),48,70,65,3,97,62,BORDERLINE
+229,48.4,43.2,51,GFTI,"Birla Institute of Technology, Mesra, Ranchi",Bio Technology,68,80,80,49,38,49,SAFE
+230,48.0,43.0,86,NIT,National Institute of Technology Raipur,Civil Engineering,73,73,74,14,52,78,SAFE
+231,47.6,42.8,—,IIIT,Indian Institute of Information Technology Bhopal,B.Tech in Mathematics and Computing,50,70,66,3,92,64,BORDERLINE
+232,47.0,42.4,—,IIIT,Indian Institute of Information Technology Bhopal,Information Technology,50,70,66,3,90,64,SAFE
+233,46.8,41.9,—,IIIT,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",B.Tech in Mechanical Engineering and M.Tech in AI and Robotics,65,76,72,3,66,68,LIKELY
+234,46.8,41.9,—,IIIT,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",Mechanical Engineering,65,76,72,3,66,68,SAFE
+235,46.7,41.5,99,NIT,National Institute of Technology Puducherry,Electrical and Electronics Engineering,62,67,68,1,78,73,LIKELY
+236,46.4,41.2,—,IIIT,Indian Institute of Information Technology Tiruchirappalli,Computer Science and Engineering,41,68,64,3,100,60,BORDERLINE
+237,46.2,41.0,—,GFTI,"Jawaharlal Nehru University, Delhi",Computer Science and Engineering,38,68,90,3,100,45,BORDERLINE
+238,46.2,41.0,86,NIT,National Institute of Technology Raipur,Metallurgical and Materials Engineering,73,73,74,14,46,78,SAFE
+239,46.0,40.6,—,NIT,"National Institute of Technology, Andhra Pradesh",Mechanical Engineering,66,70,68,3,66,75,SAFE
+240,45.9,40.4,101-150,NIT,National Institute of Technology Goa,Civil Engineering,75,69,70,10,52,79,BORDERLINE
+241,45.8,40.1,101-150,IIIT,"Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur",Smart Manufacturing,71,78,73,10,50,69,SAFE
+242,45.6,39.9,—,IIIT,"Indian Institute of Information Technology (IIIT)Kota, Rajasthan",Electronics and Communication Engineering,51,70,65,3,84,65,SAFE
+243,45.4,39.7,—,IIIT,Indian Institute of Information Technology Tiruchirappalli,Computer Science and Engineering ( Artificial Intelligence & Data Science),41,68,64,3,97,60,OUT
+244,45.3,39.5,—,IIIT,"Indian Institute of Information Technology(IIIT) Kilohrad, Sonepat, Haryana",Computer Science and Engineering,40,67,63,3,100,58,SAFE
+245,45.1,39.2,—,IIIT,Indian Institute of Information Technology Bhopal,Electronics and Communication Engineering,50,70,66,3,84,64,LIKELY
+246,45.1,39.0,—,GFTI,"International Institute of Information Technology, Naya Raipur",Electronics and Communication Engineering,59,70,67,3,84,48,LIKELY
+247,45.0,38.8,—,GFTI,Shri G. S. Institute of Technology and Science Indore,Computer Science and Engineering,43,68,68,3,100,47,No-data
+248,44.9,38.6,74,GFTI,University of Hyderabad,Materials Engineering,30,76,94,26,46,100,LIKELY
+249,44.5,38.4,—,IIIT,Indian Institute of Information Technology (IIIT) Nagpur,Electronics and Communication Engineering,44,73,68,3,84,61,SAFE
+250,44.5,38.4,—,IIIT,Indian Institute of Information Technology (IIIT) Nagpur,Electronics and Communication Engineering (Internet of Things),44,73,68,3,84,61,SAFE
+251,44.4,37.9,—,IIIT,Indian Institute of Information Technology Surat,Electronics and Communication Engineering,48,70,65,3,84,62,SAFE
+252,43.9,37.5,96,IIIT,Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior,Mathematics and Scientific Computing,86,79,75,4,33,70,BORDERLINE
+253,43.9,37.3,—,IIIT,"Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh",Computer Science and Engineering,31,69,67,3,100,56,BORDERLINE
+254,43.9,37.3,—,IIIT,"Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh",Computer Science and Engineering,31,69,67,3,100,56,LIKELY
+255,43.8,36.8,—,IIIT,"Indian Institute of Information Technology(IIIT) Kilohrad, Sonepat, Haryana",CSE ( Data Science & Analytics),40,67,63,3,95,58,LIKELY
+256,43.7,36.6,86,NIT,National Institute of Technology Raipur,Bio Technology,73,73,74,14,38,78,No-data
+257,43.5,36.1,—,NIT,"National Institute of Technology, Andhra Pradesh",Chemical Engineering,66,70,68,3,58,75,BORDERLINE
+258,43.1,35.9,—,GFTI,"International Institute of Information Technology, Bhubaneswar",Computer Science and Engineering,34,70,68,3,100,44,SAFE
+259,43.0,35.7,99,NIT,National Institute of Technology Puducherry,Mechanical Engineering,62,67,68,1,66,73,LIKELY
+260,42.3,35.5,—,IIIT,"Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh",Artificial Intelligence and Data Science,31,69,67,3,95,56,LIKELY
+261,42.2,35.3,—,IIIT,"Indian Institute of Information Technology(IIIT) Kilohrad, Sonepat, Haryana",Information Technology,40,67,63,3,90,58,SAFE
+262,42.0,35.0,—,IIIT,Indian Institute of Information Technology Tiruchirappalli,Electronics and Communication Engineering (VLSI Design),41,68,64,3,86,60,BORDERLINE
+263,41.9,34.8,—,GFTI,Shri G. S. Institute of Technology and Science Indore,Information Technology,43,68,68,3,90,47,No-data
+264,41.8,34.6,—,IIIT,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",Design Engineering,65,76,72,3,50,68,BORDERLINE
+265,41.8,34.6,—,IIIT,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",Smart Manufacturing,65,76,72,3,50,68,SAFE
+266,41.6,34.1,—,NIT,"National Institute of Technology, Andhra Pradesh",Civil Engineering,66,70,68,3,52,75,LIKELY
+267,41.4,33.9,—,IIIT,Indian Institute of Information Technology Tiruchirappalli,Electronics and Communication Engineering,41,68,64,3,84,60,LIKELY
+268,41.2,33.7,—,GFTI,"Jawaharlal Nehru University, Delhi",Electronics and Communication Engineering,38,68,90,3,84,45,SAFE
+269,41.0,33.5,101-150,IIIT,"Indian Institute of Information Technology, Allahabad",Information Technology,0,86,78,10,90,53,OUT
+270,41.0,33.5,101-150,IIIT,"Indian Institute of Information Technology, Allahabad",Information Technology-Business Informatics,0,86,78,10,90,53,OUT
+271,40.8,33.0,—,IIIT,Indian Institute of Information Technology (IIIT) Ranchi,Computer Science and Engineering,26,66,63,3,100,54,SAFE
+272,40.0,32.8,—,GFTI,"International Institute of Information Technology, Bhubaneswar",Information Technology,34,70,68,3,90,44,SAFE
+273,39.9,32.6,—,IIIT,Indian Institute of Information Technology (IIIT) Ranchi,Computer Science and Engineering (with Specialization of Data Science and Artificial Intelligence),26,66,63,3,97,54,SAFE
+274,39.8,32.4,—,NIT,"National Institute of Technology, Andhra Pradesh",Metallurgical and Materials Engineering,66,70,68,3,46,75,No-data
+275,39.1,32.2,101-150,IIIT,"Indian Institute of Information Technology, Allahabad",Electronics and Communication Engineering,0,86,78,10,84,53,OUT
+276,38.9,31.9,—,IIIT,"Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh",Electronics and Communication Engineering,31,69,67,3,84,56,LIKELY
+277,38.9,31.9,—,IIIT,"Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh",Electronics and Communication Engineering with specialization in Design and Manufacturing,31,69,67,3,84,56,LIKELY
+278,38.8,31.5,—,GFTI,Shri G. S. Institute of Technology and Science Indore,Electronics and Instrumentation Engineering,43,68,68,3,80,47,No-data
+279,38.8,31.5,—,GFTI,Shri G. S. Institute of Technology and Science Indore,Electronics and Telecommunication Engineering,43,68,68,3,80,47,No-data
+280,38.7,31.0,99,NIT,National Institute of Technology Puducherry,Civil Engineering,62,67,68,1,52,73,OUT
+281,38.7,30.8,—,IIIT,Indian Institute of Information Technology Lucknow,Computer Science,0,78,70,3,100,52,BORDERLINE
+282,38.7,30.8,—,IIIT,Indian Institute of Information Technology Lucknow,Computer Science and Business,0,78,70,3,100,52,SAFE
+283,38.3,30.4,—,IIIT,Indian Institute of Information Technology (IIIT) Ranchi,B.Tech in Mathematics and Computing,26,66,63,3,92,54,BORDERLINE
+284,38.1,30.2,—,GFTI,Shri G. S. Institute of Technology and Science Indore,Electrical Engineering,43,68,68,3,78,47,No-data
+285,37.7,29.9,—,IIIT,Indian Institute of Information Technology Lucknow,Computer Science and Artificial Intelligence,0,78,70,3,97,52,BORDERLINE
+286,37.3,29.7,—,NIT,"National Institute of Technology, Andhra Pradesh",Bio Technology,66,70,68,3,38,75,LIKELY
+287,36.9,29.5,—,GFTI,"International Institute of Information Technology, Bhubaneswar",Electronics and Telecommunication Engineering,34,70,68,3,80,44,SAFE
+288,36.3,29.0,—,GFTI,"International Institute of Information Technology, Bhubaneswar",Electrical and Electronics Engineering,34,70,68,3,78,44,LIKELY
+289,35.8,28.8,—,IIIT,Indian Institute of Information Technology (IIIT) Ranchi,Electronics and Communication Engineering,26,66,63,3,84,54,SAFE
+290,35.8,28.8,—,IIIT,Indian Institute of Information Technology (IIIT) Ranchi,Electronics and Communication Engineering (with Specialization of Embedded Systems and Internet of Things),26,66,63,3,84,54,LIKELY
+291,35.6,28.4,—,IIIT,Indian Institute of Information Technology Lucknow,Information Technology,0,78,70,3,90,52,LIKELY
+292,34.6,28.2,101-150,GFTI,"Punjab Engineering College, Chandigarh",Computer Science and Engineering,0,80,80,10,100,8,No-data
+293,34.4,27.9,—,GFTI,Shri G. S. Institute of Technology and Science Indore,Mechanical Engineering,43,68,68,3,66,47,No-data
+294,34.2,27.7,—,GFTI,"Puducherry Technological University, Puducherry",Computer Science and Engineering,12,63,65,3,100,42,BORDERLINE
+295,33.6,27.5,101-150,GFTI,"Punjab Engineering College, Chandigarh",Computer Science Engineering (Artificial Intelligence),0,80,80,10,97,8,No-data
+296,33.6,27.5,101-150,GFTI,"Punjab Engineering College, Chandigarh",Computer Science Engineering (Data Science),0,80,80,10,97,8,No-data
+297,33.4,27.1,—,IIIT,"Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh",Mechanical Engineering,31,69,67,3,66,56,LIKELY
+298,33.4,27.1,—,IIIT,"Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh",Mechanical Engineering with specialization in Design and Manufacturing,31,69,67,3,66,56,SAFE
+299,33.2,26.6,—,GFTI,Shri G. S. Institute of Technology and Science Indore,Industrial and Production Engineering,43,68,68,3,62,47,No-data
+300,33.1,26.4,79,GFTI,Sant Longowal Institute of Engineering and Technology,Computer Science and Engineering,0,60,62,21,100,36,SAFE
+301,33.1,26.4,79,GFTI,Sant Longowal Institute of Engineering and Technology,Computer Science and Engineering,0,60,62,21,100,36,BORDERLINE
+302,32.9,25.9,—,GFTI,"J.K. Institute of Applied Physics & Technology, Department of Electronics & Communication, University of Allahabad- Allahabad",Computer Science and Engineering,15,58,60,3,100,43,BORDERLINE
+303,32.1,25.7,101-150,GFTI,"Punjab Engineering College, Chandigarh",Mathematics and Computing,0,80,80,10,92,8,No-data
+304,32.0,25.5,—,GFTI,"J.K. Institute of Applied Physics & Technology, Department of Electronics & Communication, University of Allahabad- Allahabad",Computer Science and Engineering with Major in Artificial Intelligence,15,58,60,3,97,43,LIKELY
+305,31.8,25.3,—,GFTI,"Central University of Rajasthan, Rajasthan",Computer Science and Engineering,10,58,63,3,100,40,SAFE
+306,31.5,25.1,79,GFTI,Sant Longowal Institute of Engineering and Technology,Artificial Intelligence and Data Science,0,60,62,21,95,36,BORDERLINE
+307,31.1,24.8,—,GFTI,"Puducherry Technological University, Puducherry",Information Technology,12,63,65,3,90,42,BORDERLINE
+308,30.2,24.6,—,GFTI,"Birla Institute of Technology, Deoghar Off-Campus",Computer Science and Engineering,5,60,60,3,100,38,LIKELY
+309,30.2,24.4,101-150,GFTI,"Punjab Engineering College, Chandigarh",Electronics Engineering (VLSI Design and Technology),0,80,80,10,86,8,No-data
+310,30.1,24.2,—,GFTI,Shri G. S. Institute of Technology and Science Indore,Civil Engineering,43,68,68,3,52,47,No-data
+311,29.6,23.7,101-150,GFTI,"Punjab Engineering College, Chandigarh",Electronics and Communication Engineering,0,80,80,10,84,8,No-data
+312,29.3,23.5,—,GFTI,"Puducherry Technological University, Puducherry",Electronics and Communication Engineering,12,63,65,3,84,42,SAFE
+313,29.0,23.1,—,GFTI,"National Institute of Electronics and Information Technology, Aurangabad (Maharashtra)",Computer Science and Engineering,9,55,53,3,100,39,BORDERLINE
+314,28.1,22.8,79,GFTI,Sant Longowal Institute of Engineering and Technology,Electronics and Communication Engineering,0,60,62,21,84,36,BORDERLINE
+315,28.0,22.6,—,GFTI,"Puducherry Technological University, Puducherry",Electronics and Instrumentation Engineering,12,63,65,3,80,42,LIKELY
+316,28.0,22.4,—,GFTI,"J.K. Institute of Applied Physics & Technology, Department of Electronics & Communication, University of Allahabad- Allahabad",Electronics and Communication Engineering,15,58,60,3,84,43,SAFE
+317,27.7,22.2,101-150,GFTI,"Punjab Engineering College, Chandigarh",Electrical Engineering,0,80,80,10,78,8,No-data
+318,27.6,22.0,—,GFTI,"International Institute of Information Technology, Bhubaneswar",Computer Engineering,34,70,68,3,50,44,SAFE
+319,27.4,21.7,—,GFTI,"Puducherry Technological University, Puducherry",Electrical and Electronics Engineering,12,63,65,3,78,42,No-data
+320,26.8,21.1,—,GFTI,"Central University of Rajasthan, Rajasthan",Electronics and Communication Engineering,10,58,63,3,84,40,BORDERLINE
+321,26.3,20.8,79,GFTI,Sant Longowal Institute of Engineering and Technology,Electrical Engineering,0,60,62,21,78,36,BORDERLINE
+322,26.3,20.8,79,GFTI,Sant Longowal Institute of Engineering and Technology,Electrical Engineering,0,60,62,21,78,36,No-data
+323,26.2,20.4,—,GFTI,"School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",Computer Science and Engineering,0,55,60,3,100,31,SAFE
+324,26.1,20.2,—,GFTI,"National Institute of Electronics and Information Technology, Ajmer (Rajasthan)","Computer Science and Engineering (Internet of Things, Cyber Security including Block Chain Technology )",0,55,53,3,100,35,BORDERLINE
+325,25.3,19.7,—,GFTI,"Institute of Engineering and Technology, Dr. H. S. Gour University. Sagar (A Central University)",Computer Science and Engineering,0,53,60,3,100,30,BORDERLINE
+326,25.3,19.3,—,GFTI,"Birla Institute of Technology, Deoghar Off-Campus",Electronics and Communication Engineering,5,60,60,3,84,38,BORDERLINE
+327,24.9,19.1,—,GFTI,"National Institute of Electronics and Information Technology, Gorakhpur (UP)",Computer Science and Engineering with minor in AI and ML,0,53,52,3,100,32,BORDERLINE
+328,24.7,18.6,—,GFTI,"School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",Artificial Intelligence and Data Science,0,55,60,3,95,31,BORDERLINE
+329,24.6,18.4,—,GFTI,"Gati Shakti Vishwavidyalaya, Vadodara",B.Tech in Artificial Intelligenece and Data Science (Transportation and Logistics),0,60,60,3,95,21,No-data
+330,24.0,18.0,101-150,GFTI,"Punjab Engineering College, Chandigarh",Mechanical Engineering,0,80,80,10,66,8,No-data
+331,23.8,17.7,—,GFTI,"Chhattisgarh Swami Vivekanada Technical University, Bhilai (CSVTU Bhilai)",Computer Science Engineering (Artificial Intelligence),0,55,58,3,97,23,SAFE
+332,23.8,17.7,—,GFTI,"Chhattisgarh Swami Vivekanada Technical University, Bhilai (CSVTU Bhilai)",Computer Science Engineering (Data Science),0,55,58,3,97,23,SAFE
+333,23.7,17.3,—,GFTI,"Puducherry Technological University, Puducherry",Mechanical Engineering,12,63,65,3,66,42,BORDERLINE
+334,23.4,17.1,—,GFTI,"Birla Institute of Technology, Deoghar Off-Campus",Electrical and Electronics Engineering,5,60,60,3,78,38,BORDERLINE
+335,23.2,16.9,79,GFTI,Sant Longowal Institute of Engineering and Technology,Instrumentation and Control Engineering,0,60,62,21,68,36,No-data
+336,23.1,16.6,—,GFTI,"School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",Information Technology,0,55,60,3,90,31,SAFE
+337,23.1,16.4,—,GFTI,CU Jharkhand,Computer Science and Engineering,0,50,55,3,100,26,No-data
+338,23.1,16.4,—,GFTI,CU Jharkhand,Integrated B. Tech. - M. Tech in Computer Science & Engineering,0,50,55,3,100,26,BORDERLINE
+339,22.8,16.0,—,GFTI,"National Institute of Electronics and Information Technology, Aurangabad (Maharashtra)",Electronics System Engineering,9,55,53,3,80,39,BORDERLINE
+340,22.8,15.7,101-150,GFTI,"Punjab Engineering College, Chandigarh",Production and Industrial Engineering,0,80,80,10,62,8,No-data
+341,22.5,15.5,79,GFTI,Sant Longowal Institute of Engineering and Technology,Mechanical Engineering,0,60,62,21,66,36,No-data
+342,22.5,15.5,79,GFTI,Sant Longowal Institute of Engineering and Technology,Mechanical Engineering,0,60,62,21,66,36,No-data
+343,21.5,14.9,—,GFTI,"Ghani Khan Choudhary Institute of Engineering and Technology, Malda, West Bengal",Computer Science Engineering (Artificial lntelligence and Machine Learning),0,50,55,3,97,22,No-data
+344,21.4,14.6,—,GFTI,"Institute of Infrastructure, Technology, Research and Management-Ahmedabad",Electrical Engineering,0,63,63,3,78,25,LIKELY
+345,21.3,14.4,—,GFTI,"School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",Electronics and Communication Engineering,0,55,60,3,84,31,LIKELY
+346,21.2,14.2,—,GFTI,"Puducherry Technological University, Puducherry",Chemical Engineering,12,63,65,3,58,42,LIKELY
+347,20.4,14.0,—,GFTI,"Institute of Engineering and Technology, Dr. H. S. Gour University. Sagar (A Central University)",Electronics and Communication Engineering,0,53,60,3,84,30,No-data
+348,20.1,13.7,79,GFTI,Sant Longowal Institute of Engineering and Technology,Chemical Engineering,0,60,62,21,58,36,No-data
+349,20.0,13.1,—,GFTI,"Gati Shakti Vishwavidyalaya, Vadodara",B.Tech in Electronics & Communication Engineering (Rail Engineering),0,60,60,3,80,21,No-data
+350,19.9,12.9,—,GFTI,"National Institute of Electronics and Information Technology, Gorakhpur (UP)",B. Tech in Electronics and Communication Engineering with minor in Wearable Electronics,0,53,52,3,84,32,BORDERLINE
+351,19.7,12.6,—,GFTI,"Birla Institute of Technology, Deoghar Off-Campus",Mechanical Engineering,5,60,60,3,66,38,BORDERLINE
+352,19.7,12.4,101-150,GFTI,"Punjab Engineering College, Chandigarh",Civil Engineering,0,80,80,10,52,8,No-data
+353,19.5,12.2,—,GFTI,"Institute of Chemical Technology, Mumbai: Indian Oil Odisha Campus, Bhubaneswar",Chemical Engineering,0,78,68,3,58,17,LIKELY
+354,19.4,12.0,—,GFTI,"School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",Electrical Engineering,0,55,60,3,78,31,BORDERLINE
+355,19.4,11.8,—,GFTI,"Puducherry Technological University, Puducherry",Civil Engineering,12,63,65,3,52,42,LIKELY
+356,19.3,11.5,—,GFTI,"Gati Shakti Vishwavidyalaya, Vadodara",B.Tech in Electrical Engineering ( Rail  Engineering),0,60,60,3,78,21,No-data
+357,19.1,11.3,—,GFTI,"Rajiv Gandhi National Aviation University, Fursatganj, Amethi (UP)",Electronics and Communication Engineering (Avionics),0,55,58,3,84,19,BORDERLINE
+358,19.1,11.1,101-150,GFTI,"Punjab Engineering College, Chandigarh",Aerospace Engineering,0,80,80,10,50,8,No-data
+359,18.7,10.9,—,GFTI,"Puducherry Technological University, Puducherry",Mechatronics Engineering,12,63,65,3,50,42,SAFE
+360,18.2,10.6,79,GFTI,Sant Longowal Institute of Engineering and Technology,Civil Engineering,0,60,62,21,52,36,No-data
+361,17.8,10.4,101-150,GFTI,"Punjab Engineering College, Chandigarh",Metallurgical and Materials Engineering,0,80,80,10,46,8,No-data
+362,17.6,10.2,—,GFTI,"Institute of Infrastructure, Technology, Research and Management-Ahmedabad",Mechanical Engineering,0,63,63,3,66,25,LIKELY
+363,16.4,9.8,—,GFTI,"National Institute of Advanced Manufacturing Technology, Ranchi",Mechanical Engineering,0,63,62,3,66,18,BORDERLINE
+364,16.3,9.3,—,GFTI,CU Jharkhand,Electrical Engineering,0,50,55,3,78,26,No-data
+365,16.3,9.3,—,GFTI,CU Jharkhand,Integrated B. Tech. - M. Tech in Electrical Engineering,0,50,55,3,78,26,BORDERLINE
+366,15.7,8.9,—,GFTI,"School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",Mechanical Engineering,0,55,60,3,66,31,No-data
+367,15.6,8.6,—,GFTI,"Gati Shakti Vishwavidyalaya, Vadodara",B.Tech in Mechanical Engineering ( Rail  Engineering),0,60,60,3,66,21,No-data
+368,15.6,8.4,—,GFTI,"Ghani Khan Choudhary Institute of Engineering and Technology, Malda, West Bengal",Electrical Engineering,0,50,55,3,78,22,No-data
+369,15.2,8.2,—,GFTI,"National Institute of Advanced Manufacturing Technology, Ranchi",Production and Industrial Engineering,0,63,62,3,62,18,BORDERLINE
+370,14.4,8.0,—,GFTI,"School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",Industrial and Production Engineering,0,55,60,3,62,31,No-data
+371,13.5,7.5,—,GFTI,"National Institute of Electronics and Information Technology, Aurangabad (Maharashtra)",Electronic Engineering,9,55,53,3,50,39,LIKELY
+372,13.3,7.3,—,GFTI,"Institute of Infrastructure, Technology, Research and Management-Ahmedabad",Civil Engineering,0,63,63,3,52,25,LIKELY
+373,13.2,7.1,—,GFTI,"School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",Chemical Engineering,0,55,60,3,58,31,BORDERLINE
+374,12.7,6.9,—,GFTI,"Institute of Infrastructure, Technology, Research and Management-Ahmedabad",Computer Engineering,0,63,63,3,50,25,LIKELY
+375,11.9,5.5,—,GFTI,"Ghani Khan Choudhary Institute of Engineering and Technology, Malda, West Bengal",Mechanical Engineering,0,50,55,3,66,22,No-data
+376,11.5,5.3,—,GFTI,"National Institute of Advanced Manufacturing Technology, Ranchi",Computer Engineering,0,63,62,3,50,18,SAFE
+377,11.3,5.1,—,GFTI,"School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",Civil Engineering,0,55,60,3,52,31,No-data
+378,11.3,4.9,—,GFTI,"Gati Shakti Vishwavidyalaya, Vadodara",B.Tech in Civil Engineering (Rail Engineering),0,60,60,3,52,21,No-data
+379,10.7,4.4,—,GFTI,"School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",Animation and VFX,0,55,60,3,50,31,BORDERLINE
+380,10.7,4.2,—,GFTI,"Gati Shakti Vishwavidyalaya, Vadodara",B.Tech in Aviation Engineering,0,60,60,3,50,21,No-data
+381,10.2,4.0,—,GFTI,"National Institute of Advanced Manufacturing Technology, Ranchi",Metallurgy and Materials Engineering,0,63,62,3,46,18,BORDERLINE
+382,9.8,3.8,—,GFTI,"Institute of Engineering and Technology, Dr. H. S. Gour University. Sagar (A Central University)",Aeronautical Engineering,0,53,60,3,50,30,No-data
+383,9.8,3.8,—,GFTI,"Institute of Engineering and Technology, Dr. H. S. Gour University. Sagar (A Central University)",Dairy Engineering,0,53,60,3,50,30,No-data
+384,9.8,3.8,—,GFTI,"Institute of Engineering and Technology, Dr. H. S. Gour University. Sagar (A Central University)",Fashion and Apparel Engineering,0,53,60,3,50,30,No-data
+385,9.8,2.9,—,GFTI,"Chhattisgarh Swami Vivekanada Technical University, Bhilai (CSVTU Bhilai)",Civil Engineering,0,55,58,3,52,23,BORDERLINE
+386,8.5,2.4,—,GFTI,"National Institute of Electronics and Information Technology, Ropar (Punjab)",B.Tech in CSE (AI and ML),0,58,55,3,50,16,BORDERLINE
+387,8.5,2.2,—,GFTI,"Rajiv Gandhi National Aviation University, Fursatganj, Amethi (UP)",Aerospace Engineering,0,55,58,3,50,19,BORDERLINE
+388,8.2,2.0,—,GFTI,CU Jharkhand,Civil Engineering,0,50,55,3,52,26,No-data
+389,8.2,2.0,—,GFTI,CU Jharkhand,Integrated B. Tech. - M. Tech in Civil Engineering,0,50,55,3,52,26,BORDERLINE
+390,7.6,1.6,—,GFTI,"Ghani Khan Choudhary Institute of Engineering and Technology, Malda, West Bengal",Civil and Environmental Engineering,0,50,55,3,52,22,No-data
+391,6.4,1.1,—,GFTI,CU Jharkhand,Integrated B. Tech.- M. Tech in Metallurgical & Materials Engineering,0,50,55,3,46,26,BORDERLINE
+392,6.4,1.1,—,GFTI,CU Jharkhand,Metallurgical and Materials Engineering,0,50,55,3,46,26,No-data
+393,1.1,0.7,—,GFTI,"Indian Institute of Handloom Technology(IIHT), Varanasi",Handloom and Textile Technology,0,42,45,3,50,10,LIKELY
+394,1.1,0.4,—,GFTI,"Indian Institute of Carpet Technology, Bhadohi",Carpet  and Textile Technology,0,40,45,3,50,14,No-data
+395,0.0,0.2,—,GFTI,"Indian Institute of Handloom Technology, Salem",Handloom and Textile Technology,0,40,43,3,50,9,LIKELY
+396,82.3,93.6,13,NIT,"National Institute of Technology, Rourkela",Ceramic Engineering and M.Tech Industrial Ceramic,96,87,85,87,62,96,No-data
+397,82.3,93.6,13,NIT,"National Institute of Technology, Rourkela",Industrial Design,96,87,85,87,62,96,No-data
+398,78.6,91.4,13,NIT,"National Institute of Technology, Rourkela",Food Process Engineering,96,87,85,87,50,96,No-data
+399,78.1,90.7,17,NIT,"National Institute of Technology Karnataka, Surathkal",Mining Engineering,99,93,90,83,40,97,No-data
+400,77.4,90.2,13,NIT,"National Institute of Technology, Rourkela",Ceramic Engineering,96,87,85,87,46,96,SAFE
+401,75.5,88.7,13,NIT,"National Institute of Technology, Rourkela",Mining Engineering,96,87,85,87,40,96,No-data
+402,75.5,88.7,13,NIT,"National Institute of Technology, Rourkela",Mining Engineering,96,87,85,87,40,96,No-data
+403,74.9,87.8,13,NIT,"National Institute of Technology, Rourkela",Bio Medical Engineering,96,87,85,87,38,96,No-data
+404,73.3,85.6,13,NIT,"National Institute of Technology, Rourkela",Chemistry,96,87,85,87,33,96,No-data
+405,73.3,85.6,13,NIT,"National Institute of Technology, Rourkela",Life Science,96,87,85,87,33,96,No-data
+406,73.3,85.6,13,NIT,"National Institute of Technology, Rourkela",Mathematics,96,87,85,87,33,96,No-data
+407,73.3,85.6,13,NIT,"National Institute of Technology, Rourkela",Physics,96,87,85,87,33,96,No-data
+408,69.5,80.0,21,NIT,National Institute of Technology Calicut,Engineering Physics,93,85,83,79,33,94,BORDERLINE
+409,68.3,77.6,81,NIT,Maulana Azad National Institute of Technology Bhopal,Mathematics and Data Science,82,79,79,19,95,84,No-data
+410,64.9,72.7,44,NIT,"Visvesvaraya National Institute of Technology, Nagpur",Mining Engineering,90,84,82,56,40,91,No-data
+411,56.6,59.9,28,NIT,"National Institute of Technology, Warangal",Chemistry,97,92,93,72,33,0,SAFE
+412,56.6,59.9,28,NIT,"National Institute of Technology, Warangal",Mathematics,97,92,93,72,33,0,SAFE
+413,56.6,59.9,28,NIT,"National Institute of Technology, Warangal",Physics,97,92,93,72,33,0,No-data
+414,55.2,55.7,66,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",Chemistry,87,81,79,34,33,88,SAFE
+415,55.2,55.7,66,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",Engineering Physics,87,81,79,34,33,88,BORDERLINE
+416,55.2,55.7,66,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",Mathematics,87,81,79,34,33,88,LIKELY
+417,55.2,55.7,66,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",Physics,87,81,79,34,33,88,LIKELY
+418,54.5,54.3,49,NIT,National Institute of Technology Durgapur,Chemistry,80,76,77,51,33,83,No-data
+419,53.5,53.0,54,NIT,"Indian Institute of Engineering Science and Technology, Shibpur",Mining Engineering,69,80,82,46,40,77,No-data
+420,52.1,50.3,51,GFTI,"Birla Institute of Technology, Mesra, Ranchi",Food Engineering  and Technology,68,80,80,49,50,49,BORDERLINE
+421,46.8,42.1,51,GFTI,"Birla Institute of Technology, Mesra, Ranchi",Physics,68,80,80,49,33,49,No-data
+422,44.3,37.7,86,NIT,National Institute of Technology Raipur,Mining Engineering,73,73,74,14,40,78,No-data
+423,43.7,36.6,86,NIT,National Institute of Technology Raipur,Bio Medical Engineering,73,73,74,14,38,78,SAFE
+424,36.6,29.3,—,IIIT,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",Engineering Physics,65,76,72,3,33,68,No-data
+425,29.3,23.3,—,IIIT,Indian Institute of Information Technology Bhopal,Physics and Computational Engineering,50,70,66,3,33,64,BORDERLINE
+426,25.7,20.0,—,GFTI,Shri G. S. Institute of Technology and Science Indore,Biomedical Engineering,43,68,68,3,38,47,No-data
+427,17.6,10.0,79,GFTI,Sant Longowal Institute of Engineering and Technology,Food Technology,0,60,62,21,50,36,BORDERLINE
+428,12.5,6.7,—,GFTI,"Central University of Rajasthan, Rajasthan",Bio Medical Engineering,10,58,63,3,38,40,BORDERLINE
+429,12.3,6.4,79,GFTI,Sant Longowal Institute of Engineering and Technology,Chemistry,0,60,62,21,33,36,No-data
+430,12.3,6.4,79,GFTI,Sant Longowal Institute of Engineering and Technology,Mathematics,0,60,62,21,33,36,No-data
+431,12.3,6.4,79,GFTI,Sant Longowal Institute of Engineering and Technology,Physics,0,60,62,21,33,36,No-data
+432,11.1,4.7,101-150,GFTI,"National Institute of Food Technology Entrepreneurship and Management, Thanjavur",Food Technology,0,60,62,10,50,13,SAFE
+433,9.8,3.8,—,GFTI,"Institute of Engineering and Technology, Dr. H. S. Gour University. Sagar (A Central University)",Food Engineering  and Technology,0,53,60,3,50,30,No-data
+434,9.5,2.7,—,GFTI,"National Institute of Food Technology Entrepreneurship and Management, Kundli",Food Technology and Management,0,60,63,3,50,12,SAFE
+435,6.9,1.3,—,GFTI,"Ghani Khan Choudhary Institute of Engineering and Technology, Malda, West Bengal",Food Technology,0,50,55,3,50,22,No-data
+436,63.9,71.8,53,NIT,National Institute of Technology Patna,Computer Science and Engineering,72,70,70,47,100,51,OUT
+437,63.9,71.8,53,NIT,National Institute of Technology Patna,Computer Science and Engineering with Specialization in Cyber Security,72,70,70,47,100,51,LIKELY
+438,63.0,70.1,53,NIT,National Institute of Technology Patna,Computer Science and Engineering with Specialization in Data Science,72,70,70,47,97,51,No-data
+439,62.4,69.2,53,NIT,National Institute of Technology Patna,Artificial Intelligence and Data Science,72,70,70,47,95,51,OUT
+440,61.4,67.2,53,NIT,National Institute of Technology Patna,Mathematics and Computing Technology,72,70,70,47,92,51,No-data
+441,59.6,64.5,53,NIT,National Institute of Technology Patna,Electronics Engineering (VLSI Design and Technology),72,70,70,47,86,51,BORDERLINE
+442,59.6,64.5,53,NIT,National Institute of Technology Patna,Electronics and Communication Engineering with Specialization in Microelectronics and VLSI System Design,72,70,70,47,86,51,LIKELY
+443,58.9,63.9,53,NIT,National Institute of Technology Patna,Electronics and Communication Engineering,72,70,70,47,84,51,LIKELY
+444,57.1,61.2,53,NIT,National Institute of Technology Patna,Electrical Engineering,72,70,70,47,78,51,SAFE
+445,57.1,61.2,53,NIT,National Institute of Technology Patna,Electrical Engineering with Specialization In Power System Engineering,72,70,70,47,78,51,No-data
+446,53.4,52.8,53,NIT,National Institute of Technology Patna,Mechanical Engineering,72,70,70,47,66,51,SAFE
+447,53.4,52.8,53,NIT,National Institute of Technology Patna,Mechanical Engineering with Specialization in Manufacturing and Industrial Engineering,72,70,70,47,66,51,BORDERLINE
+448,50.9,49.9,53,NIT,National Institute of Technology Patna,Chemical Technology,72,70,70,47,58,51,LIKELY
+449,49.0,45.2,53,NIT,National Institute of Technology Patna,Civil Engineering,72,70,70,47,52,51,SAFE
+450,49.0,45.2,53,NIT,National Institute of Technology Patna,Civil Engineering with Specialization in Construction Technology and Management,72,70,70,47,52,51,No-data
+451,48.4,43.5,53,NIT,National Institute of Technology Patna,Mechatronics and Automation Engineering,72,70,70,47,50,51,No-data
+452,47.2,42.6,53,NIT,National Institute of Technology Patna,Material Science and Engineering,72,70,70,47,46,51,No-data
+453,29.7,23.9,—,IIIT,Indian Institute of Information Technology Bhagalpur,Computer Science and Engineering,16,65,62,3,100,6,SAFE
+454,27.2,21.5,—,IIIT,Indian Institute of Information Technology Bhagalpur,Mathematics and Computing,16,65,62,3,92,6,LIKELY
+455,26.9,21.3,—,GFTI,"Birla Institute of Technology, Patna Off-Campus",Computer Science and Engineering,13,60,60,3,100,5,SAFE
+456,25.3,19.5,—,GFTI,"Birla Institute of Technology, Patna Off-Campus",Artificial Intelligence and Machine Learning,13,60,60,3,95,5,LIKELY
+457,24.8,18.8,—,IIIT,Indian Institute of Information Technology Bhagalpur,Electronics and Communication Engineering,16,65,62,3,84,6,LIKELY
+458,24.4,18.2,—,GFTI,"Birla Institute of Technology, Patna Off-Campus",Mathematics and Computing,13,60,60,3,92,5,No-data
+459,21.9,15.1,—,GFTI,"Birla Institute of Technology, Patna Off-Campus",Electronics and Communication Engineering,13,60,60,3,84,5,LIKELY
+460,20.0,13.5,—,GFTI,"Birla Institute of Technology, Patna Off-Campus",Electrical and Electronics Engineering,13,60,60,3,78,5,LIKELY
+461,20.0,13.3,—,GFTI,"National Institute of Electronics and Information Technology, Patna (Bihar)",Computer Science and Engineering,0,53,52,3,100,4,BORDERLINE
+462,16.3,9.5,—,GFTI,"Birla Institute of Technology, Patna Off-Campus",Mechanical Engineering,13,60,60,3,66,5,BORDERLINE
+463,14.2,7.8,—,IIIT,Indian Institute of Information Technology Bhagalpur,Mechatronics and Automation Engineering,16,65,62,3,50,6,LIKELY
+464,12.0,5.8,—,GFTI,"Birla Institute of Technology, Patna Off-Campus",Civil Engineering,13,60,60,3,52,5,BORDERLINE

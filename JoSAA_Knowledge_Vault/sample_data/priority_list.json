@@ -1,0 +1,4642 @@
+[
+{
+"rank": 1,
+"ic": "228",
+"bc": "4110",
+"inst": "National Institute of Technology, Warangal",
+"branch": "Computer Science and Engineering",
+"reach": "OUT",
+"points": 85.5,
+"pct": 100.0
+},
+{
+"rank": 2,
+"ic": "228",
+"bc": "412F",
+"inst": "National Institute of Technology, Warangal",
+"branch": "Computer Science and Engineering ( Artificial Intelligence & Data Science)",
+"reach": "OUT",
+"points": 84.8,
+"pct": 100.0
+},
+{
+"rank": 3,
+"ic": "228",
+"bc": "4124",
+"inst": "National Institute of Technology, Warangal",
+"branch": "Mathematics and Computing",
+"reach": "BORDERLINE",
+"points": 83.5,
+"pct": 100.0
+},
+{
+"rank": 4,
+"ic": "228",
+"bc": "410Z",
+"inst": "National Institute of Technology, Warangal",
+"branch": "Electronics and Communication Engineering (VLSI Design and Technology)",
+"reach": "OUT",
+"points": 82.0,
+"pct": 100.0
+},
+{
+"rank": 5,
+"ic": "228",
+"bc": "4114",
+"inst": "National Institute of Technology, Warangal",
+"branch": "Electronics and Communication Engineering",
+"reach": "OUT",
+"points": 81.5,
+"pct": 100.0
+},
+{
+"rank": 6,
+"ic": "228",
+"bc": "4144",
+"inst": "National Institute of Technology, Warangal",
+"branch": "Electrical and Electronics Engineering",
+"reach": "OUT",
+"points": 80.1,
+"pct": 100.0
+},
+{
+"rank": 7,
+"ic": "228",
+"bc": "4125",
+"inst": "National Institute of Technology, Warangal",
+"branch": "Mechanical Engineering",
+"reach": "LIKELY",
+"points": 77.1,
+"pct": 100.0
+},
+{
+"rank": 8,
+"ic": "228",
+"bc": "4107",
+"inst": "National Institute of Technology, Warangal",
+"branch": "Chemical Engineering",
+"reach": "LIKELY",
+"points": 75.1,
+"pct": 100.0
+},
+{
+"rank": 9,
+"ic": "228",
+"bc": "5210",
+"inst": "National Institute of Technology, Warangal",
+"branch": "Chemical Engineering",
+"reach": "No-data",
+"points": 75.1,
+"pct": 100.0
+},
+{
+"rank": 10,
+"ic": "228",
+"bc": "4104",
+"inst": "National Institute of Technology, Warangal",
+"branch": "Bio Technology",
+"reach": "LIKELY",
+"points": 75.1,
+"pct": 100.0
+},
+{
+"rank": 11,
+"ic": "228",
+"bc": "4109",
+"inst": "National Institute of Technology, Warangal",
+"branch": "Civil Engineering",
+"reach": "OUT",
+"points": 73.6,
+"pct": 100.0
+},
+{
+"rank": 12,
+"ic": "228",
+"bc": "4127",
+"inst": "National Institute of Technology, Warangal",
+"branch": "Metallurgical and Materials Engineering",
+"reach": "SAFE",
+"points": 72.1,
+"pct": 100.0
+},
+{
+"rank": 13,
+"ic": "228",
+"bc": "5243",
+"inst": "National Institute of Technology, Warangal",
+"branch": "Metallurgical and Materials Engineering",
+"reach": "No-data",
+"points": 72.1,
+"pct": 100.0
+},
+{
+"rank": 14,
+"ic": "226",
+"bc": "4110",
+"inst": "National Institute of Technology, Tiruchirappalli",
+"branch": "Computer Science and Engineering",
+"reach": "OUT",
+"points": 100.0,
+"pct": 100.0
+},
+{
+"rank": 15,
+"ic": "211",
+"bc": "4110",
+"inst": "National Institute of Technology Karnataka, Surathkal",
+"branch": "Computer Science and Engineering",
+"reach": "OUT",
+"points": 98.1,
+"pct": 99.8
+},
+{
+"rank": 16,
+"ic": "211",
+"bc": "4185",
+"inst": "National Institute of Technology Karnataka, Surathkal",
+"branch": "Artificial Intelligence",
+"reach": "OUT",
+"points": 96.8,
+"pct": 99.6
+},
+{
+"rank": 17,
+"ic": "211",
+"bc": "410Q",
+"inst": "National Institute of Technology Karnataka, Surathkal",
+"branch": "Computational and Data Science",
+"reach": "No-data",
+"points": 96.8,
+"pct": 99.6
+},
+{
+"rank": 18,
+"ic": "226",
+"bc": "4114",
+"inst": "National Institute of Technology, Tiruchirappalli",
+"branch": "Electronics and Communication Engineering",
+"reach": "OUT",
+"points": 96.0,
+"pct": 99.1
+},
+{
+"rank": 19,
+"ic": "223",
+"bc": "4110",
+"inst": "National Institute of Technology, Rourkela",
+"branch": "Computer Science and Engineering",
+"reach": "OUT",
+"points": 95.8,
+"pct": 98.9
+},
+{
+"rank": 20,
+"ic": "211",
+"bc": "4146",
+"inst": "National Institute of Technology Karnataka, Surathkal",
+"branch": "Information Technology",
+"reach": "OUT",
+"points": 95.6,
+"pct": 98.7
+},
+{
+"rank": 21,
+"ic": "223",
+"bc": "4185",
+"inst": "National Institute of Technology, Rourkela",
+"branch": "Artificial Intelligence",
+"reach": "No-data",
+"points": 94.6,
+"pct": 98.4
+},
+{
+"rank": 22,
+"ic": "226",
+"bc": "4144",
+"inst": "National Institute of Technology, Tiruchirappalli",
+"branch": "Electrical and Electronics Engineering",
+"reach": "OUT",
+"points": 94.5,
+"pct": 98.2
+},
+{
+"rank": 23,
+"ic": "211",
+"bc": "4114",
+"inst": "National Institute of Technology Karnataka, Surathkal",
+"branch": "Electronics and Communication Engineering",
+"reach": "No-data",
+"points": 94.1,
+"pct": 98.0
+},
+{
+"rank": 24,
+"ic": "211",
+"bc": "4144",
+"inst": "National Institute of Technology Karnataka, Surathkal",
+"branch": "Electrical and Electronics Engineering",
+"reach": "OUT",
+"points": 92.6,
+"pct": 97.8
+},
+{
+"rank": 25,
+"ic": "206",
+"bc": "4110",
+"inst": "National Institute of Technology Calicut",
+"branch": "Computer Science and Engineering",
+"reach": "OUT",
+"points": 92.1,
+"pct": 97.6
+},
+{
+"rank": 26,
+"ic": "226",
+"bc": "4148",
+"inst": "National Institute of Technology, Tiruchirappalli",
+"branch": "Instrumentation and Control Engineering",
+"reach": "LIKELY",
+"points": 92.1,
+"pct": 97.3
+},
+{
+"rank": 27,
+"ic": "223",
+"bc": "4114",
+"inst": "National Institute of Technology, Rourkela",
+"branch": "Electronics and Communication Engineering",
+"reach": "OUT",
+"points": 91.9,
+"pct": 97.1
+},
+{
+"rank": 28,
+"ic": "226",
+"bc": "4125",
+"inst": "National Institute of Technology, Tiruchirappalli",
+"branch": "Mechanical Engineering",
+"reach": "OUT",
+"points": 91.6,
+"pct": 96.9
+},
+{
+"rank": 29,
+"ic": "223",
+"bc": "4142",
+"inst": "National Institute of Technology, Rourkela",
+"branch": "Electronics and Instrumentation Engineering",
+"reach": "No-data",
+"points": 90.9,
+"pct": 96.7
+},
+{
+"rank": 30,
+"ic": "226",
+"bc": "4145",
+"inst": "National Institute of Technology, Tiruchirappalli",
+"branch": "Production Engineering",
+"reach": "SAFE",
+"points": 90.6,
+"pct": 96.5
+},
+{
+"rank": 31,
+"ic": "223",
+"bc": "4111",
+"inst": "National Institute of Technology, Rourkela",
+"branch": "Electrical Engineering",
+"reach": "OUT",
+"points": 90.4,
+"pct": 96.2
+},
+{
+"rank": 32,
+"ic": "211",
+"bc": "4125",
+"inst": "National Institute of Technology Karnataka, Surathkal",
+"branch": "Mechanical Engineering",
+"reach": "BORDERLINE",
+"points": 89.6,
+"pct": 96.0
+},
+{
+"rank": 33,
+"ic": "226",
+"bc": "4107",
+"inst": "National Institute of Technology, Tiruchirappalli",
+"branch": "Chemical Engineering",
+"reach": "OUT",
+"points": 89.6,
+"pct": 95.8
+},
+{
+"rank": 34,
+"ic": "230",
+"bc": "4110",
+"inst": "Visvesvaraya National Institute of Technology, Nagpur",
+"branch": "Computer Science and Engineering",
+"reach": "OUT",
+"points": 88.4,
+"pct": 95.6
+},
+{
+"rank": 35,
+"ic": "206",
+"bc": "4114",
+"inst": "National Institute of Technology Calicut",
+"branch": "Electronics and Communication Engineering",
+"reach": "OUT",
+"points": 88.1,
+"pct": 95.3
+},
+{
+"rank": 36,
+"ic": "226",
+"bc": "4109",
+"inst": "National Institute of Technology, Tiruchirappalli",
+"branch": "Civil Engineering",
+"reach": "BORDERLINE",
+"points": 88.1,
+"pct": 95.1
+},
+{
+"rank": 37,
+"ic": "211",
+"bc": "4107",
+"inst": "National Institute of Technology Karnataka, Surathkal",
+"branch": "Chemical Engineering",
+"reach": "LIKELY",
+"points": 87.6,
+"pct": 94.9
+},
+{
+"rank": 38,
+"ic": "223",
+"bc": "4125",
+"inst": "National Institute of Technology, Rourkela",
+"branch": "Mechanical Engineering",
+"reach": "SAFE",
+"points": 87.4,
+"pct": 94.7
+},
+{
+"rank": 39,
+"ic": "206",
+"bc": "4144",
+"inst": "National Institute of Technology Calicut",
+"branch": "Electrical and Electronics Engineering",
+"reach": "OUT",
+"points": 86.6,
+"pct": 94.5
+},
+{
+"rank": 40,
+"ic": "226",
+"bc": "4127",
+"inst": "National Institute of Technology, Tiruchirappalli",
+"branch": "Metallurgical and Materials Engineering",
+"reach": "OUT",
+"points": 86.6,
+"pct": 94.2
+},
+{
+"rank": 41,
+"ic": "211",
+"bc": "4109",
+"inst": "National Institute of Technology Karnataka, Surathkal",
+"branch": "Civil Engineering",
+"reach": "LIKELY",
+"points": 86.1,
+"pct": 93.6
+},
+{
+"rank": 42,
+"ic": "223",
+"bc": "5257",
+"inst": "National Institute of Technology, Rourkela",
+"branch": "Chemical Engineering",
+"reach": "No-data",
+"points": 85.4,
+"pct": 93.3
+},
+{
+"rank": 43,
+"ic": "223",
+"bc": "4107",
+"inst": "National Institute of Technology, Rourkela",
+"branch": "Chemical Engineering",
+"reach": "LIKELY",
+"points": 85.4,
+"pct": 93.3
+},
+{
+"rank": 44,
+"ic": "202",
+"bc": "4110",
+"inst": "Malaviya National Institute of Technology Jaipur",
+"branch": "Computer Science and Engineering",
+"reach": "OUT",
+"points": 85.1,
+"pct": 92.9
+},
+{
+"rank": 45,
+"ic": "211",
+"bc": "4127",
+"inst": "National Institute of Technology Karnataka, Surathkal",
+"branch": "Metallurgical and Materials Engineering",
+"reach": "SAFE",
+"points": 84.7,
+"pct": 92.7
+},
+{
+"rank": 46,
+"ic": "230",
+"bc": "4114",
+"inst": "Visvesvaraya National Institute of Technology, Nagpur",
+"branch": "Electronics and Communication Engineering",
+"reach": "OUT",
+"points": 84.5,
+"pct": 92.5
+},
+{
+"rank": 47,
+"ic": "223",
+"bc": "4109",
+"inst": "National Institute of Technology, Rourkela",
+"branch": "Civil Engineering",
+"reach": "SAFE",
+"points": 83.9,
+"pct": 92.2
+},
+{
+"rank": 48,
+"ic": "202",
+"bc": "411G",
+"inst": "Malaviya National Institute of Technology Jaipur",
+"branch": "Artificial Intelligence and Data Engineering",
+"reach": "No-data",
+"points": 83.8,
+"pct": 92.0
+},
+{
+"rank": 49,
+"ic": "206",
+"bc": "4125",
+"inst": "National Institute of Technology Calicut",
+"branch": "Mechanical Engineering",
+"reach": "SAFE",
+"points": 83.6,
+"pct": 91.8
+},
+{
+"rank": 50,
+"ic": "204",
+"bc": "4110",
+"inst": "Motilal Nehru National Institute of Technology Allahabad",
+"branch": "Computer Science and Engineering",
+"reach": "OUT",
+"points": 83.4,
+"pct": 91.4
+},
+{
+"rank": 51,
+"ic": "230",
+"bc": "4144",
+"inst": "Visvesvaraya National Institute of Technology, Nagpur",
+"branch": "Electrical and Electronics Engineering",
+"reach": "SAFE",
+"points": 83.0,
+"pct": 90.9
+},
+{
+"rank": 52,
+"ic": "206",
+"bc": "4145",
+"inst": "National Institute of Technology Calicut",
+"branch": "Production Engineering",
+"reach": "SAFE",
+"points": 82.6,
+"pct": 90.7
+},
+{
+"rank": 53,
+"ic": "223",
+"bc": "4127",
+"inst": "National Institute of Technology, Rourkela",
+"branch": "Metallurgical and Materials Engineering",
+"reach": "SAFE",
+"points": 82.4,
+"pct": 90.5
+},
+{
+"rank": 54,
+"ic": "223",
+"bc": "5243",
+"inst": "National Institute of Technology, Rourkela",
+"branch": "Metallurgical and Materials Engineering",
+"reach": "No-data",
+"points": 82.4,
+"pct": 90.5
+},
+{
+"rank": 55,
+"ic": "206",
+"bc": "4107",
+"inst": "National Institute of Technology Calicut",
+"branch": "Chemical Engineering",
+"reach": "LIKELY",
+"points": 81.6,
+"pct": 89.8
+},
+{
+"rank": 56,
+"ic": "202",
+"bc": "4114",
+"inst": "Malaviya National Institute of Technology Jaipur",
+"branch": "Electronics and Communication Engineering",
+"reach": "OUT",
+"points": 81.1,
+"pct": 89.6
+},
+{
+"rank": 57,
+"ic": "223",
+"bc": "4104",
+"inst": "National Institute of Technology, Rourkela",
+"branch": "Bio Technology",
+"reach": "BORDERLINE",
+"points": 80.4,
+"pct": 88.9
+},
+{
+"rank": 58,
+"ic": "206",
+"bc": "4109",
+"inst": "National Institute of Technology Calicut",
+"branch": "Civil Engineering",
+"reach": "SAFE",
+"points": 80.2,
+"pct": 88.5
+},
+{
+"rank": 59,
+"ic": "229",
+"bc": "4110",
+"inst": "Sardar Vallabhbhai National Institute of Technology, Surat",
+"branch": "Computer Science and Engineering",
+"reach": "OUT",
+"points": 80.1,
+"pct": 88.2
+},
+{
+"rank": 60,
+"ic": "230",
+"bc": "4125",
+"inst": "Visvesvaraya National Institute of Technology, Nagpur",
+"branch": "Mechanical Engineering",
+"reach": "SAFE",
+"points": 80.0,
+"pct": 88.0
+},
+{
+"rank": 61,
+"ic": "206",
+"bc": "4198",
+"inst": "National Institute of Technology Calicut",
+"branch": "Energy Engineering",
+"reach": "BORDERLINE",
+"points": 79.7,
+"pct": 87.8
+},
+{
+"rank": 62,
+"ic": "202",
+"bc": "4111",
+"inst": "Malaviya National Institute of Technology Jaipur",
+"branch": "Electrical Engineering",
+"reach": "SAFE",
+"points": 79.6,
+"pct": 87.6
+},
+{
+"rank": 63,
+"ic": "204",
+"bc": "4114",
+"inst": "Motilal Nehru National Institute of Technology Allahabad",
+"branch": "Electronics and Communication Engineering",
+"reach": "OUT",
+"points": 79.4,
+"pct": 87.4
+},
+{
+"rank": 64,
+"ic": "229",
+"bc": "4185",
+"inst": "Sardar Vallabhbhai National Institute of Technology, Surat",
+"branch": "Artificial Intelligence",
+"reach": "OUT",
+"points": 78.9,
+"pct": 86.3
+},
+{
+"rank": 65,
+"ic": "229",
+"bc": "5B06",
+"inst": "Sardar Vallabhbhai National Institute of Technology, Surat",
+"branch": "Artificial Intelligence",
+"reach": "OUT",
+"points": 78.9,
+"pct": 86.3
+},
+{
+"rank": 66,
+"ic": "206",
+"bc": "4123",
+"inst": "National Institute of Technology Calicut",
+"branch": "Materials Science and Engineering",
+"reach": "LIKELY",
+"points": 78.7,
+"pct": 85.8
+},
+{
+"rank": 67,
+"ic": "208",
+"bc": "4110",
+"inst": "National Institute of Technology Durgapur",
+"branch": "Computer Science and Engineering",
+"reach": "OUT",
+"points": 78.3,
+"pct": 85.6
+},
+{
+"rank": 68,
+"ic": "229",
+"bc": "4124",
+"inst": "Sardar Vallabhbhai National Institute of Technology, Surat",
+"branch": "Mathematics and Computing",
+"reach": "OUT",
+"points": 78.2,
+"pct": 85.4
+},
+{
+"rank": 69,
+"ic": "230",
+"bc": "4107",
+"inst": "Visvesvaraya National Institute of Technology, Nagpur",
+"branch": "Chemical Engineering",
+"reach": "SAFE",
+"points": 78.0,
+"pct": 85.1
+},
+{
+"rank": 70,
+"ic": "204",
+"bc": "4111",
+"inst": "Motilal Nehru National Institute of Technology Allahabad",
+"branch": "Electrical Engineering",
+"reach": "BORDERLINE",
+"points": 77.9,
+"pct": 84.9
+},
+{
+"rank": 71,
+"ic": "206",
+"bc": "4104",
+"inst": "National Institute of Technology Calicut",
+"branch": "Bio Technology",
+"reach": "BORDERLINE",
+"points": 76.7,
+"pct": 84.7
+},
+{
+"rank": 72,
+"ic": "229",
+"bc": "410V",
+"inst": "Sardar Vallabhbhai National Institute of Technology, Surat",
+"branch": "Electronics and VLSI Engineering",
+"reach": "BORDERLINE",
+"points": 76.7,
+"pct": 84.5
+},
+{
+"rank": 73,
+"ic": "202",
+"bc": "4125",
+"inst": "Malaviya National Institute of Technology Jaipur",
+"branch": "Mechanical Engineering",
+"reach": "SAFE",
+"points": 76.6,
+"pct": 84.3
+},
+{
+"rank": 74,
+"ic": "230",
+"bc": "4109",
+"inst": "Visvesvaraya National Institute of Technology, Nagpur",
+"branch": "Civil Engineering",
+"reach": "SAFE",
+"points": 76.5,
+"pct": 84.0
+},
+{
+"rank": 75,
+"ic": "208",
+"bc": "411F",
+"inst": "National Institute of Technology Durgapur",
+"branch": "B.Tech in Mathematics and Computing",
+"reach": "LIKELY",
+"points": 76.3,
+"pct": 83.8
+},
+{
+"rank": 76,
+"ic": "229",
+"bc": "4114",
+"inst": "Sardar Vallabhbhai National Institute of Technology, Surat",
+"branch": "Electronics and Communication Engineering",
+"reach": "BORDERLINE",
+"points": 76.2,
+"pct": 83.6
+},
+{
+"rank": 77,
+"ic": "203",
+"bc": "4110",
+"inst": "Maulana Azad National Institute of Technology Bhopal",
+"branch": "Computer Science and Engineering",
+"reach": "OUT",
+"points": 76.2,
+"pct": 83.4
+},
+{
+"rank": 78,
+"ic": "201",
+"bc": "4110",
+"inst": "Dr. B R Ambedkar National Institute of Technology, Jalandhar",
+"branch": "Computer Science and Engineering",
+"reach": "OUT",
+"points": 75.7,
+"pct": 83.1
+},
+{
+"rank": 79,
+"ic": "232",
+"bc": "4110",
+"inst": "Indian Institute of Engineering Science and Technology, Shibpur",
+"branch": "Computer Science and Engineering",
+"reach": "OUT",
+"points": 75.1,
+"pct": 82.7
+},
+{
+"rank": 80,
+"ic": "230",
+"bc": "4127",
+"inst": "Visvesvaraya National Institute of Technology, Nagpur",
+"branch": "Metallurgical and Materials Engineering",
+"reach": "SAFE",
+"points": 75.0,
+"pct": 82.5
+},
+{
+"rank": 81,
+"ic": "204",
+"bc": "4125",
+"inst": "Motilal Nehru National Institute of Technology Allahabad",
+"branch": "Mechanical Engineering",
+"reach": "SAFE",
+"points": 74.9,
+"pct": 82.3
+},
+{
+"rank": 82,
+"ic": "220",
+"bc": "5216",
+"inst": "National Institute of Technology, Kurukshetra",
+"branch": "Computer Science and Engineering",
+"reach": "No-data",
+"points": 74.9,
+"pct": 81.8
+},
+{
+"rank": 83,
+"ic": "220",
+"bc": "4110",
+"inst": "National Institute of Technology, Kurukshetra",
+"branch": "Computer Science and Engineering",
+"reach": "OUT",
+"points": 74.9,
+"pct": 81.8
+},
+{
+"rank": 84,
+"ic": "229",
+"bc": "4111",
+"inst": "Sardar Vallabhbhai National Institute of Technology, Surat",
+"branch": "Electrical Engineering",
+"reach": "LIKELY",
+"points": 74.7,
+"pct": 81.4
+},
+{
+"rank": 85,
+"ic": "421",
+"bc": "5216",
+"inst": "University of Hyderabad",
+"branch": "Computer Science and Engineering",
+"reach": "SAFE",
+"points": 54.2,
+"pct": 48.1
+},
+{
+"rank": 86,
+"ic": "202",
+"bc": "4107",
+"inst": "Malaviya National Institute of Technology Jaipur",
+"branch": "Chemical Engineering",
+"reach": "SAFE",
+"points": 74.6,
+"pct": 81.2
+},
+{
+"rank": 87,
+"ic": "207",
+"bc": "4110",
+"inst": "National Institute of Technology Delhi",
+"branch": "Computer Science and Engineering",
+"reach": "No-data",
+"points": 74.6,
+"pct": 80.9
+},
+{
+"rank": 88,
+"ic": "201",
+"bc": "4187",
+"inst": "Dr. B R Ambedkar National Institute of Technology, Jalandhar",
+"branch": "Data Science and Engineering",
+"reach": "OUT",
+"points": 74.5,
+"pct": 80.7
+},
+{
+"rank": 89,
+"ic": "208",
+"bc": "4114",
+"inst": "National Institute of Technology Durgapur",
+"branch": "Electronics and Communication Engineering",
+"reach": "OUT",
+"points": 74.3,
+"pct": 80.5
+},
+{
+"rank": 90,
+"ic": "219",
+"bc": "4110",
+"inst": "National Institute of Technology, Jamshedpur",
+"branch": "Computer Science and Engineering",
+"reach": "OUT",
+"points": 74.0,
+"pct": 80.3
+},
+{
+"rank": 91,
+"ic": "204",
+"bc": "4136",
+"inst": "Motilal Nehru National Institute of Technology Allahabad",
+"branch": "Production and Industrial Engineering",
+"reach": "SAFE",
+"points": 74.0,
+"pct": 80.0
+},
+{
+"rank": 92,
+"ic": "201",
+"bc": "4124",
+"inst": "Dr. B R Ambedkar National Institute of Technology, Jalandhar",
+"branch": "Mathematics and Computing",
+"reach": "BORDERLINE",
+"points": 73.8,
+"pct": 79.8
+},
+{
+"rank": 93,
+"ic": "220",
+"bc": "4188",
+"inst": "National Institute of Technology, Kurukshetra",
+"branch": "Artificial Intelligence and Data Science",
+"reach": "No-data",
+"points": 73.6,
+"pct": 79.6
+},
+{
+"rank": 94,
+"ic": "220",
+"bc": "410P",
+"inst": "National Institute of Technology, Kurukshetra",
+"branch": "Artificial Intelligence and Machine Learning",
+"reach": "OUT",
+"points": 73.6,
+"pct": 79.6
+},
+{
+"rank": 95,
+"ic": "207",
+"bc": "4188",
+"inst": "National Institute of Technology Delhi",
+"branch": "Artificial Intelligence and Data Science",
+"reach": "OUT",
+"points": 73.3,
+"pct": 78.9
+},
+{
+"rank": 96,
+"ic": "201",
+"bc": "4146",
+"inst": "Dr. B R Ambedkar National Institute of Technology, Jalandhar",
+"branch": "Information Technology",
+"reach": "OUT",
+"points": 73.3,
+"pct": 78.7
+},
+{
+"rank": 97,
+"ic": "202",
+"bc": "4109",
+"inst": "Malaviya National Institute of Technology Jaipur",
+"branch": "Civil Engineering",
+"reach": "BORDERLINE",
+"points": 73.2,
+"pct": 78.5
+},
+{
+"rank": 98,
+"ic": "204",
+"bc": "4107",
+"inst": "Motilal Nehru National Institute of Technology Allahabad",
+"branch": "Chemical Engineering",
+"reach": "LIKELY",
+"points": 73.0,
+"pct": 78.3
+},
+{
+"rank": 99,
+"ic": "220",
+"bc": "4124",
+"inst": "National Institute of Technology, Kurukshetra",
+"branch": "Mathematics and Computing",
+"reach": "OUT",
+"points": 72.9,
+"pct": 78.0
+},
+{
+"rank": 100,
+"ic": "208",
+"bc": "4111",
+"inst": "National Institute of Technology Durgapur",
+"branch": "Electrical Engineering",
+"reach": "SAFE",
+"points": 72.8,
+"pct": 77.8
+},
+{
+"rank": 101,
+"ic": "232",
+"bc": "4146",
+"inst": "Indian Institute of Engineering Science and Technology, Shibpur",
+"branch": "Information Technology",
+"reach": "LIKELY",
+"points": 72.7,
+"pct": 77.6
+},
+{
+"rank": 102,
+"ic": "220",
+"bc": "4146",
+"inst": "National Institute of Technology, Kurukshetra",
+"branch": "Information Technology",
+"reach": "OUT",
+"points": 72.4,
+"pct": 77.4
+},
+{
+"rank": 103,
+"ic": "201",
+"bc": "410V",
+"inst": "Dr. B R Ambedkar National Institute of Technology, Jalandhar",
+"branch": "Electronics and VLSI Engineering",
+"reach": "LIKELY",
+"points": 72.3,
+"pct": 77.2
+},
+{
+"rank": 104,
+"ic": "203",
+"bc": "4114",
+"inst": "Maulana Azad National Institute of Technology Bhopal",
+"branch": "Electronics and Communication Engineering",
+"reach": "OUT",
+"points": 72.2,
+"pct": 76.9
+},
+{
+"rank": 105,
+"ic": "201",
+"bc": "4114",
+"inst": "Dr. B R Ambedkar National Institute of Technology, Jalandhar",
+"branch": "Electronics and Communication Engineering",
+"reach": "BORDERLINE",
+"points": 71.8,
+"pct": 76.7
+},
+{
+"rank": 106,
+"ic": "229",
+"bc": "4125",
+"inst": "Sardar Vallabhbhai National Institute of Technology, Surat",
+"branch": "Mechanical Engineering",
+"reach": "SAFE",
+"points": 71.7,
+"pct": 76.5
+},
+{
+"rank": 107,
+"ic": "202",
+"bc": "4127",
+"inst": "Malaviya National Institute of Technology Jaipur",
+"branch": "Metallurgical and Materials Engineering",
+"reach": "SAFE",
+"points": 71.7,
+"pct": 76.3
+},
+{
+"rank": 108,
+"ic": "216",
+"bc": "4110",
+"inst": "National Institute of Technology Raipur",
+"branch": "Computer Science and Engineering",
+"reach": "OUT",
+"points": 71.5,
+"pct": 76.1
+},
+{
+"rank": 109,
+"ic": "204",
+"bc": "4109",
+"inst": "Motilal Nehru National Institute of Technology Allahabad",
+"branch": "Civil Engineering",
+"reach": "OUT",
+"points": 71.5,
+"pct": 75.8
+},
+{
+"rank": 110,
+"ic": "220",
+"bc": "412B",
+"inst": "National Institute of Technology, Kurukshetra",
+"branch": "Microelectronics & VLSI Engineering",
+"reach": "No-data",
+"points": 71.4,
+"pct": 75.6
+},
+{
+"rank": 111,
+"ic": "204",
+"bc": "4192",
+"inst": "Motilal Nehru National Institute of Technology Allahabad",
+"branch": "Engineering and Computational Mechanics",
+"reach": "No-data",
+"points": 71.0,
+"pct": 75.4
+},
+{
+"rank": 112,
+"ic": "220",
+"bc": "4114",
+"inst": "National Institute of Technology, Kurukshetra",
+"branch": "Electronics and Communication Engineering",
+"reach": "OUT",
+"points": 70.9,
+"pct": 75.2
+},
+{
+"rank": 113,
+"ic": "220",
+"bc": "5234",
+"inst": "National Institute of Technology, Kurukshetra",
+"branch": "Electronics and Communication Engineering",
+"reach": "No-data",
+"points": 70.9,
+"pct": 75.2
+},
+{
+"rank": 114,
+"ic": "229",
+"bc": "410B",
+"inst": "Sardar Vallabhbhai National Institute of Technology, Surat",
+"branch": "Industrial Chemistry",
+"reach": "LIKELY",
+"points": 70.7,
+"pct": 74.7
+},
+{
+"rank": 115,
+"ic": "203",
+"bc": "4111",
+"inst": "Maulana Azad National Institute of Technology Bhopal",
+"branch": "Electrical Engineering",
+"reach": "SAFE",
+"points": 70.7,
+"pct": 74.5
+},
+{
+"rank": 116,
+"ic": "203",
+"bc": "412X",
+"inst": "Maulana Azad National Institute of Technology Bhopal",
+"branch": "Energy and Electrical Vehicle Engineering",
+"reach": "No-data",
+"points": 70.7,
+"pct": 74.5
+},
+{
+"rank": 117,
+"ic": "207",
+"bc": "4114",
+"inst": "National Institute of Technology Delhi",
+"branch": "Electronics and Communication Engineering",
+"reach": "OUT",
+"points": 70.6,
+"pct": 74.1
+},
+{
+"rank": 118,
+"ic": "201",
+"bc": "4111",
+"inst": "Dr. B R Ambedkar National Institute of Technology, Jalandhar",
+"branch": "Electrical Engineering",
+"reach": "LIKELY",
+"points": 70.3,
+"pct": 73.8
+},
+{
+"rank": 119,
+"ic": "232",
+"bc": "4153",
+"inst": "Indian Institute of Engineering Science and Technology, Shibpur",
+"branch": "Electronics and Telecommunication Engineering",
+"reach": "SAFE",
+"points": 70.2,
+"pct": 73.6
+},
+{
+"rank": 120,
+"ic": "219",
+"bc": "4114",
+"inst": "National Institute of Technology, Jamshedpur",
+"branch": "Electronics and Communication Engineering",
+"reach": "LIKELY",
+"points": 70.0,
+"pct": 73.4
+},
+{
+"rank": 121,
+"ic": "204",
+"bc": "4193",
+"inst": "Motilal Nehru National Institute of Technology Allahabad",
+"branch": "Materials Engineering",
+"reach": "No-data",
+"points": 70.0,
+"pct": 73.2
+},
+{
+"rank": 122,
+"ic": "208",
+"bc": "4125",
+"inst": "National Institute of Technology Durgapur",
+"branch": "Mechanical Engineering",
+"reach": "SAFE",
+"points": 69.9,
+"pct": 72.9
+},
+{
+"rank": 123,
+"ic": "229",
+"bc": "4107",
+"inst": "Sardar Vallabhbhai National Institute of Technology, Surat",
+"branch": "Chemical Engineering",
+"reach": "SAFE",
+"points": 69.7,
+"pct": 72.7
+},
+{
+"rank": 124,
+"ic": "232",
+"bc": "4111",
+"inst": "Indian Institute of Engineering Science and Technology, Shibpur",
+"branch": "Electrical Engineering",
+"reach": "SAFE",
+"points": 69.7,
+"pct": 72.5
+},
+{
+"rank": 125,
+"ic": "220",
+"bc": "4111",
+"inst": "National Institute of Technology, Kurukshetra",
+"branch": "Electrical Engineering",
+"reach": "LIKELY",
+"points": 69.4,
+"pct": 72.3
+},
+{
+"rank": 126,
+"ic": "220",
+"bc": "5217",
+"inst": "National Institute of Technology, Kurukshetra",
+"branch": "Electrical Engineering",
+"reach": "BORDERLINE",
+"points": 69.4,
+"pct": 72.3
+},
+{
+"rank": 127,
+"ic": "209",
+"bc": "4110",
+"inst": "National Institute of Technology Goa",
+"branch": "Computer Science and Engineering",
+"reach": "No-data",
+"points": 69.2,
+"pct": 71.8
+},
+{
+"rank": 128,
+"ic": "207",
+"bc": "4111",
+"inst": "National Institute of Technology Delhi",
+"branch": "Electrical Engineering",
+"reach": "BORDERLINE",
+"points": 69.1,
+"pct": 71.2
+},
+{
+"rank": 129,
+"ic": "216",
+"bc": "4146",
+"inst": "National Institute of Technology Raipur",
+"branch": "Information Technology",
+"reach": "OUT",
+"points": 69.1,
+"pct": 71.0
+},
+{
+"rank": 130,
+"ic": "219",
+"bc": "4111",
+"inst": "National Institute of Technology, Jamshedpur",
+"branch": "Electrical Engineering",
+"reach": "SAFE",
+"points": 68.5,
+"pct": 70.1
+},
+{
+"rank": 131,
+"ic": "229",
+"bc": "4109",
+"inst": "Sardar Vallabhbhai National Institute of Technology, Surat",
+"branch": "Civil Engineering",
+"reach": "SAFE",
+"points": 68.2,
+"pct": 69.6
+},
+{
+"rank": 132,
+"ic": "204",
+"bc": "4104",
+"inst": "Motilal Nehru National Institute of Technology Allahabad",
+"branch": "Bio Technology",
+"reach": "SAFE",
+"points": 68.0,
+"pct": 69.4
+},
+{
+"rank": 133,
+"ic": "208",
+"bc": "4107",
+"inst": "National Institute of Technology Durgapur",
+"branch": "Chemical Engineering",
+"reach": "SAFE",
+"points": 67.9,
+"pct": 69.0
+},
+{
+"rank": 134,
+"ic": "208",
+"bc": "5257",
+"inst": "National Institute of Technology Durgapur",
+"branch": "Chemical Engineering",
+"reach": "No-data",
+"points": 67.9,
+"pct": 69.0
+},
+{
+"rank": 135,
+"ic": "201",
+"bc": "4148",
+"inst": "Dr. B R Ambedkar National Institute of Technology, Jalandhar",
+"branch": "Instrumentation and Control Engineering",
+"reach": "SAFE",
+"points": 67.8,
+"pct": 68.5
+},
+{
+"rank": 136,
+"ic": "231",
+"bc": "4110",
+"inst": "National Institute of Technology, Andhra Pradesh",
+"branch": "Computer Science and Engineering",
+"reach": "OUT",
+"points": 67.7,
+"pct": 68.3
+},
+{
+"rank": 137,
+"ic": "203",
+"bc": "4125",
+"inst": "Maulana Azad National Institute of Technology Bhopal",
+"branch": "Mechanical Engineering",
+"reach": "SAFE",
+"points": 67.7,
+"pct": 68.1
+},
+{
+"rank": 138,
+"ic": "216",
+"bc": "4114",
+"inst": "National Institute of Technology Raipur",
+"branch": "Electronics and Communication Engineering",
+"reach": "BORDERLINE",
+"points": 67.6,
+"pct": 67.8
+},
+{
+"rank": 139,
+"ic": "201",
+"bc": "4125",
+"inst": "Dr. B R Ambedkar National Institute of Technology, Jalandhar",
+"branch": "Mechanical Engineering",
+"reach": "SAFE",
+"points": 67.3,
+"pct": 67.6
+},
+{
+"rank": 140,
+"ic": "232",
+"bc": "4125",
+"inst": "Indian Institute of Engineering Science and Technology, Shibpur",
+"branch": "Mechanical Engineering",
+"reach": "SAFE",
+"points": 66.7,
+"pct": 67.2
+},
+{
+"rank": 141,
+"ic": "220",
+"bc": "4125",
+"inst": "National Institute of Technology, Kurukshetra",
+"branch": "Mechanical Engineering",
+"reach": "SAFE",
+"points": 66.4,
+"pct": 67.0
+},
+{
+"rank": 142,
+"ic": "220",
+"bc": "5233",
+"inst": "National Institute of Technology, Kurukshetra",
+"branch": "Mechanical Engineering",
+"reach": "LIKELY",
+"points": 66.4,
+"pct": 67.0
+},
+{
+"rank": 143,
+"ic": "208",
+"bc": "4109",
+"inst": "National Institute of Technology Durgapur",
+"branch": "Civil Engineering",
+"reach": "SAFE",
+"points": 66.4,
+"pct": 66.5
+},
+{
+"rank": 144,
+"ic": "201",
+"bc": "4149",
+"inst": "Dr. B R Ambedkar National Institute of Technology, Jalandhar",
+"branch": "Industrial and Production Engineering",
+"reach": "LIKELY",
+"points": 66.3,
+"pct": 66.3
+},
+{
+"rank": 145,
+"ic": "207",
+"bc": "4125",
+"inst": "National Institute of Technology Delhi",
+"branch": "Mechanical Engineering",
+"reach": "BORDERLINE",
+"points": 66.1,
+"pct": 66.1
+},
+{
+"rank": 146,
+"ic": "216",
+"bc": "4111",
+"inst": "National Institute of Technology Raipur",
+"branch": "Electrical Engineering",
+"reach": "LIKELY",
+"points": 66.1,
+"pct": 65.9
+},
+{
+"rank": 147,
+"ic": "203",
+"bc": "4107",
+"inst": "Maulana Azad National Institute of Technology Bhopal",
+"branch": "Chemical Engineering",
+"reach": "LIKELY",
+"points": 65.7,
+"pct": 65.6
+},
+{
+"rank": 148,
+"ic": "219",
+"bc": "4125",
+"inst": "National Institute of Technology, Jamshedpur",
+"branch": "Mechanical Engineering",
+"reach": "SAFE",
+"points": 65.6,
+"pct": 65.0
+},
+{
+"rank": 149,
+"ic": "220",
+"bc": "411C",
+"inst": "National Institute of Technology, Kurukshetra",
+"branch": "Industrial Internet of Things",
+"reach": "SAFE",
+"points": 65.5,
+"pct": 64.7
+},
+{
+"rank": 150,
+"ic": "220",
+"bc": "4136",
+"inst": "National Institute of Technology, Kurukshetra",
+"branch": "Production and Industrial Engineering",
+"reach": "SAFE",
+"points": 65.5,
+"pct": 64.7
+},
+{
+"rank": 151,
+"ic": "201",
+"bc": "4107",
+"inst": "Dr. B R Ambedkar National Institute of Technology, Jalandhar",
+"branch": "Chemical Engineering",
+"reach": "SAFE",
+"points": 65.3,
+"pct": 64.3
+},
+{
+"rank": 152,
+"ic": "209",
+"bc": "4114",
+"inst": "National Institute of Technology Goa",
+"branch": "Electronics and Communication Engineering",
+"reach": "OUT",
+"points": 65.3,
+"pct": 64.1
+},
+{
+"rank": 153,
+"ic": "208",
+"bc": "4127",
+"inst": "National Institute of Technology Durgapur",
+"branch": "Metallurgical and Materials Engineering",
+"reach": "SAFE",
+"points": 64.9,
+"pct": 63.6
+},
+{
+"rank": 154,
+"ic": "219",
+"bc": "4136",
+"inst": "National Institute of Technology, Jamshedpur",
+"branch": "Production and Industrial Engineering",
+"reach": "SAFE",
+"points": 64.6,
+"pct": 63.4
+},
+{
+"rank": 155,
+"ic": "203",
+"bc": "4109",
+"inst": "Maulana Azad National Institute of Technology Bhopal",
+"branch": "Civil Engineering",
+"reach": "SAFE",
+"points": 64.3,
+"pct": 63.2
+},
+{
+"rank": 156,
+"ic": "215",
+"bc": "4110",
+"inst": "National Institute of Technology Puducherry",
+"branch": "Computer Science and Engineering",
+"reach": "OUT",
+"points": 64.0,
+"pct": 63.0
+},
+{
+"rank": 157,
+"ic": "201",
+"bc": "4109",
+"inst": "Dr. B R Ambedkar National Institute of Technology, Jalandhar",
+"branch": "Civil Engineering",
+"reach": "LIKELY",
+"points": 63.8,
+"pct": 62.7
+},
+{
+"rank": 158,
+"ic": "209",
+"bc": "4144",
+"inst": "National Institute of Technology Goa",
+"branch": "Electrical and Electronics Engineering",
+"reach": "SAFE",
+"points": 63.8,
+"pct": 62.5
+},
+{
+"rank": 159,
+"ic": "231",
+"bc": "4114",
+"inst": "National Institute of Technology, Andhra Pradesh",
+"branch": "Electronics and Communication Engineering",
+"reach": "BORDERLINE",
+"points": 63.8,
+"pct": 62.3
+},
+{
+"rank": 160,
+"ic": "203",
+"bc": "522S",
+"inst": "Maulana Azad National Institute of Technology Bhopal",
+"branch": "B. Tech. and M. Tech. in Engineering and Computational Mechanics (Dual Degree)",
+"reach": "No-data",
+"points": 63.8,
+"pct": 62.1
+},
+{
+"rank": 161,
+"ic": "201",
+"bc": "4139",
+"inst": "Dr. B R Ambedkar National Institute of Technology, Jalandhar",
+"branch": "Textile Technology",
+"reach": "SAFE",
+"points": 63.3,
+"pct": 60.5
+},
+{
+"rank": 162,
+"ic": "232",
+"bc": "4109",
+"inst": "Indian Institute of Engineering Science and Technology, Shibpur",
+"branch": "Civil Engineering",
+"reach": "SAFE",
+"points": 63.2,
+"pct": 60.3
+},
+{
+"rank": 163,
+"ic": "216",
+"bc": "4125",
+"inst": "National Institute of Technology Raipur",
+"branch": "Mechanical Engineering",
+"reach": "SAFE",
+"points": 63.1,
+"pct": 60.1
+},
+{
+"rank": 164,
+"ic": "220",
+"bc": "4109",
+"inst": "National Institute of Technology, Kurukshetra",
+"branch": "Civil Engineering",
+"reach": "BORDERLINE",
+"points": 63.0,
+"pct": 59.9
+},
+{
+"rank": 165,
+"ic": "220",
+"bc": "5213",
+"inst": "National Institute of Technology, Kurukshetra",
+"branch": "Civil Engineering",
+"reach": "No-data",
+"points": 63.0,
+"pct": 59.9
+},
+{
+"rank": 166,
+"ic": "208",
+"bc": "4104",
+"inst": "National Institute of Technology Durgapur",
+"branch": "Bio Technology",
+"reach": "LIKELY",
+"points": 62.9,
+"pct": 59.4
+},
+{
+"rank": 167,
+"ic": "208",
+"bc": "5296",
+"inst": "National Institute of Technology Durgapur",
+"branch": "Biotechnology",
+"reach": "No-data",
+"points": 62.9,
+"pct": 59.4
+},
+{
+"rank": 168,
+"ic": "203",
+"bc": "4161",
+"inst": "Maulana Azad National Institute of Technology Bhopal",
+"branch": "Materials Science and Metallurgical Engineering",
+"reach": "SAFE",
+"points": 62.8,
+"pct": 59.0
+},
+{
+"rank": 169,
+"ic": "232",
+"bc": "4101",
+"inst": "Indian Institute of Engineering Science and Technology, Shibpur",
+"branch": "Aerospace Engineering",
+"reach": "LIKELY",
+"points": 62.7,
+"pct": 58.8
+},
+{
+"rank": 170,
+"ic": "207",
+"bc": "4109",
+"inst": "National Institute of Technology Delhi",
+"branch": "Civil Engineering",
+"reach": "BORDERLINE",
+"points": 62.7,
+"pct": 58.5
+},
+{
+"rank": 171,
+"ic": "220",
+"bc": "4151",
+"inst": "National Institute of Technology, Kurukshetra",
+"branch": "Computer Engineering",
+"reach": "OUT",
+"points": 62.5,
+"pct": 58.3
+},
+{
+"rank": 172,
+"ic": "220",
+"bc": "412A",
+"inst": "National Institute of Technology, Kurukshetra",
+"branch": "ROBOTICS & AUTOMATION",
+"reach": "BORDERLINE",
+"points": 62.5,
+"pct": 58.3
+},
+{
+"rank": 173,
+"ic": "220",
+"bc": "412D",
+"inst": "National Institute of Technology, Kurukshetra",
+"branch": "SUSTAINABLE ENERGY TECHNOLOGIES",
+"reach": "No-data",
+"points": 62.5,
+"pct": 58.3
+},
+{
+"rank": 174,
+"ic": "231",
+"bc": "4144",
+"inst": "National Institute of Technology, Andhra Pradesh",
+"branch": "Electrical and Electronics Engineering",
+"reach": "SAFE",
+"points": 62.3,
+"pct": 57.6
+},
+{
+"rank": 175,
+"ic": "207",
+"bc": "4101",
+"inst": "National Institute of Technology Delhi",
+"branch": "Aerospace Engineering",
+"reach": "No-data",
+"points": 62.2,
+"pct": 57.4
+},
+{
+"rank": 176,
+"ic": "207",
+"bc": "411Z",
+"inst": "National Institute of Technology Delhi",
+"branch": "VLSI Design and Technology",
+"reach": "No-data",
+"points": 62.2,
+"pct": 57.4
+},
+{
+"rank": 177,
+"ic": "219",
+"bc": "4109",
+"inst": "National Institute of Technology, Jamshedpur",
+"branch": "Civil Engineering",
+"reach": "LIKELY",
+"points": 62.1,
+"pct": 57.0
+},
+{
+"rank": 178,
+"ic": "301",
+"bc": "4110",
+"inst": "Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior",
+"branch": "Computer Science and Engineering",
+"reach": "OUT",
+"points": 62.1,
+"pct": 56.8
+},
+{
+"rank": 179,
+"ic": "232",
+"bc": "4156",
+"inst": "Indian Institute of Engineering Science and Technology, Shibpur",
+"branch": "Metallurgy and Materials Engineering",
+"reach": "SAFE",
+"points": 61.7,
+"pct": 56.5
+},
+{
+"rank": 180,
+"ic": "219",
+"bc": "4192",
+"inst": "National Institute of Technology, Jamshedpur",
+"branch": "Engineering and Computational Mechanics",
+"reach": "No-data",
+"points": 61.6,
+"pct": 56.1
+},
+{
+"rank": 181,
+"ic": "216",
+"bc": "4107",
+"inst": "National Institute of Technology Raipur",
+"branch": "Chemical Engineering",
+"reach": "SAFE",
+"points": 61.1,
+"pct": 55.9
+},
+{
+"rank": 182,
+"ic": "209",
+"bc": "4125",
+"inst": "National Institute of Technology Goa",
+"branch": "Mechanical Engineering",
+"reach": "BORDERLINE",
+"points": 60.8,
+"pct": 55.7
+},
+{
+"rank": 183,
+"ic": "219",
+"bc": "4127",
+"inst": "National Institute of Technology, Jamshedpur",
+"branch": "Metallurgical and Materials Engineering",
+"reach": "No-data",
+"points": 60.6,
+"pct": 55.0
+},
+{
+"rank": 184,
+"ic": "201",
+"bc": "4104",
+"inst": "Dr. B R Ambedkar National Institute of Technology, Jalandhar",
+"branch": "Bio Technology",
+"reach": "BORDERLINE",
+"points": 60.4,
+"pct": 54.8
+},
+{
+"rank": 185,
+"ic": "311",
+"bc": "4110",
+"inst": "Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur",
+"branch": "Computer Science and Engineering",
+"reach": "LIKELY",
+"points": 60.2,
+"pct": 54.3
+},
+{
+"rank": 186,
+"ic": "215",
+"bc": "4114",
+"inst": "National Institute of Technology Puducherry",
+"branch": "Electronics and Communication Engineering",
+"reach": "OUT",
+"points": 60.1,
+"pct": 54.1
+},
+{
+"rank": 187,
+"ic": "216",
+"bc": "4109",
+"inst": "National Institute of Technology Raipur",
+"branch": "Civil Engineering",
+"reach": "SAFE",
+"points": 59.6,
+"pct": 53.9
+},
+{
+"rank": 188,
+"ic": "231",
+"bc": "4125",
+"inst": "National Institute of Technology, Andhra Pradesh",
+"branch": "Mechanical Engineering",
+"reach": "SAFE",
+"points": 59.3,
+"pct": 53.7
+},
+{
+"rank": 189,
+"ic": "215",
+"bc": "4144",
+"inst": "National Institute of Technology Puducherry",
+"branch": "Electrical and Electronics Engineering",
+"reach": "LIKELY",
+"points": 58.6,
+"pct": 53.2
+},
+{
+"rank": 190,
+"ic": "216",
+"bc": "4127",
+"inst": "National Institute of Technology Raipur",
+"branch": "Metallurgical and Materials Engineering",
+"reach": "SAFE",
+"points": 58.1,
+"pct": 53.0
+},
+{
+"rank": 191,
+"ic": "310",
+"bc": "4110",
+"inst": "Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",
+"branch": "Computer Science and Engineering",
+"reach": "OUT",
+"points": 57.8,
+"pct": 52.8
+},
+{
+"rank": 192,
+"ic": "310",
+"bc": "5216",
+"inst": "Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",
+"branch": "Computer Science and Engineering",
+"reach": "LIKELY",
+"points": 57.8,
+"pct": 52.8
+},
+{
+"rank": 193,
+"ic": "209",
+"bc": "4109",
+"inst": "National Institute of Technology Goa",
+"branch": "Civil Engineering",
+"reach": "BORDERLINE",
+"points": 57.3,
+"pct": 52.3
+},
+{
+"rank": 194,
+"ic": "231",
+"bc": "4107",
+"inst": "National Institute of Technology, Andhra Pradesh",
+"branch": "Chemical Engineering",
+"reach": "BORDERLINE",
+"points": 57.3,
+"pct": 52.1
+},
+{
+"rank": 195,
+"ic": "310",
+"bc": "4196",
+"inst": "Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",
+"branch": "Computer Science and Engineering with Major in Artificial Intelligence",
+"reach": "BORDERLINE",
+"points": 57.0,
+"pct": 51.4
+},
+{
+"rank": 196,
+"ic": "301",
+"bc": "4144",
+"inst": "Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior",
+"branch": "Electrical and Electronics Engineering",
+"reach": "SAFE",
+"points": 56.6,
+"pct": 50.8
+},
+{
+"rank": 197,
+"ic": "321",
+"bc": "4110",
+"inst": "Indian Institute of Information Technology (IIIT) Pune",
+"branch": "Computer Science and Engineering",
+"reach": "SAFE",
+"points": 56.6,
+"pct": 50.6
+},
+{
+"rank": 198,
+"ic": "311",
+"bc": "4114",
+"inst": "Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur",
+"branch": "Electronics and Communication Engineering",
+"reach": "SAFE",
+"points": 56.2,
+"pct": 50.3
+},
+{
+"rank": 199,
+"ic": "216",
+"bc": "4104",
+"inst": "National Institute of Technology Raipur",
+"branch": "Bio Technology",
+"reach": "No-data",
+"points": 56.1,
+"pct": 50.1
+},
+{
+"rank": 200,
+"ic": "231",
+"bc": "4109",
+"inst": "National Institute of Technology, Andhra Pradesh",
+"branch": "Civil Engineering",
+"reach": "LIKELY",
+"points": 55.8,
+"pct": 49.7
+},
+{
+"rank": 201,
+"ic": "215",
+"bc": "4125",
+"inst": "National Institute of Technology Puducherry",
+"branch": "Mechanical Engineering",
+"reach": "LIKELY",
+"points": 55.6,
+"pct": 49.2
+},
+{
+"rank": 202,
+"ic": "402",
+"bc": "4110",
+"inst": "Birla Institute of Technology, Mesra, Ranchi",
+"branch": "Computer Science and Engineering",
+"reach": "LIKELY",
+"points": 54.9,
+"pct": 49.0
+},
+{
+"rank": 203,
+"ic": "231",
+"bc": "4127",
+"inst": "National Institute of Technology, Andhra Pradesh",
+"branch": "Metallurgical and Materials Engineering",
+"reach": "No-data",
+"points": 54.3,
+"pct": 48.8
+},
+{
+"rank": 204,
+"ic": "310",
+"bc": "523T",
+"inst": "Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",
+"branch": "B.Tech. in Electronics and Communication Engineering and M.Tech. in Microelectronics and VLSI Systems",
+"reach": "BORDERLINE",
+"points": 54.3,
+"pct": 48.6
+},
+{
+"rank": 205,
+"ic": "310",
+"bc": "521P",
+"inst": "Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",
+"branch": "B.Tech. in Electronics and Communication Engineering and M.Tech. in VLSI Design",
+"reach": "LIKELY",
+"points": 54.3,
+"pct": 48.6
+},
+{
+"rank": 206,
+"ic": "310",
+"bc": "521Q",
+"inst": "Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",
+"branch": "B.Tech. in Electronics and Communication Engineering and M.Tech. in Communication Systems",
+"reach": "LIKELY",
+"points": 53.8,
+"pct": 47.9
+},
+{
+"rank": 207,
+"ic": "310",
+"bc": "4114",
+"inst": "Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",
+"branch": "Electronics and Communication Engineering",
+"reach": "SAFE",
+"points": 53.8,
+"pct": 47.9
+},
+{
+"rank": 208,
+"ic": "402",
+"bc": "A22-01",
+"inst": "Birla Institute of Technology, Mesra, Ranchi",
+"branch": "Artificial Intelligence and Machine Learning",
+"reach": "SAFE",
+"points": 53.7,
+"pct": 47.5
+},
+{
+"rank": 209,
+"ic": "402",
+"bc": "5511",
+"inst": "Birla Institute of Technology, Mesra, Ranchi",
+"branch": "Quantitative Economics & Data Science",
+"reach": "No-data",
+"points": 53.7,
+"pct": 47.5
+},
+{
+"rank": 210,
+"ic": "402",
+"bc": "5506",
+"inst": "Birla Institute of Technology, Mesra, Ranchi",
+"branch": "Mathematics and Computing",
+"reach": "LIKELY",
+"points": 53.0,
+"pct": 47.0
+},
+{
+"rank": 211,
+"ic": "321",
+"bc": "4114",
+"inst": "Indian Institute of Information Technology (IIIT) Pune",
+"branch": "Electronics and Communication Engineering",
+"reach": "SAFE",
+"points": 52.6,
+"pct": 46.8
+},
+{
+"rank": 212,
+"ic": "231",
+"bc": "4104",
+"inst": "National Institute of Technology, Andhra Pradesh",
+"branch": "Bio Technology",
+"reach": "LIKELY",
+"points": 52.3,
+"pct": 46.6
+},
+{
+"rank": 213,
+"ic": "320",
+"bc": "410G",
+"inst": "Indian Institute of Information Technology (IIIT) Nagpur",
+"branch": "Computer Science Engineering (Human Computer lnteraction and Gaming Technology)",
+"reach": "SAFE",
+"points": 52.3,
+"pct": 46.3
+},
+{
+"rank": 214,
+"ic": "320",
+"bc": "4110",
+"inst": "Indian Institute of Information Technology (IIIT) Nagpur",
+"branch": "Computer Science and Engineering",
+"reach": "SAFE",
+"points": 52.3,
+"pct": 46.3
+},
+{
+"rank": 215,
+"ic": "215",
+"bc": "4109",
+"inst": "National Institute of Technology Puducherry",
+"branch": "Civil Engineering",
+"reach": "OUT",
+"points": 52.1,
+"pct": 45.9
+},
+{
+"rank": 216,
+"ic": "311",
+"bc": "4125",
+"inst": "Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur",
+"branch": "Mechanical Engineering",
+"reach": "SAFE",
+"points": 51.7,
+"pct": 45.7
+},
+{
+"rank": 217,
+"ic": "320",
+"bc": "A22-09",
+"inst": "Indian Institute of Information Technology (IIIT) Nagpur",
+"branch": "Computer Science Engineering (Artificial lntelligence and Machine Learning)",
+"reach": "LIKELY",
+"points": 51.5,
+"pct": 45.5
+},
+{
+"rank": 218,
+"ic": "320",
+"bc": "410F",
+"inst": "Indian Institute of Information Technology (IIIT) Nagpur",
+"branch": "Computer Science Engineering (Data Science and Analytics)",
+"reach": "SAFE",
+"points": 51.5,
+"pct": 45.5
+},
+{
+"rank": 219,
+"ic": "402",
+"bc": "4114",
+"inst": "Birla Institute of Technology, Mesra, Ranchi",
+"branch": "Electronics and Communication Engineering",
+"reach": "SAFE",
+"points": 51.0,
+"pct": 45.0
+},
+{
+"rank": 220,
+"ic": "301",
+"bc": "5B01",
+"inst": "Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior",
+"branch": "Integrated B. Tech.(IT) and M. Tech (IT)",
+"reach": "LIKELY",
+"points": 49.7,
+"pct": 44.8
+},
+{
+"rank": 221,
+"ic": "301",
+"bc": "5C01",
+"inst": "Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior",
+"branch": "Integrated B. Tech.(IT) and MBA",
+"reach": "LIKELY",
+"points": 49.7,
+"pct": 44.8
+},
+{
+"rank": 222,
+"ic": "402",
+"bc": "4144",
+"inst": "Birla Institute of Technology, Mesra, Ranchi",
+"branch": "Electrical and Electronics Engineering",
+"reach": "LIKELY",
+"points": 49.5,
+"pct": 44.3
+},
+{
+"rank": 223,
+"ic": "310",
+"bc": "5A11",
+"inst": "Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",
+"branch": "B.Tech in Mechanical Engineering and M.Tech in AI and Robotics",
+"reach": "LIKELY",
+"points": 49.4,
+"pct": 44.1
+},
+{
+"rank": 224,
+"ic": "310",
+"bc": "4125",
+"inst": "Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",
+"branch": "Mechanical Engineering",
+"reach": "SAFE",
+"points": 49.4,
+"pct": 44.1
+},
+{
+"rank": 225,
+"ic": "302",
+"bc": "4110",
+"inst": "Indian Institute of Information Technology (IIIT)Kota, Rajasthan",
+"branch": "Computer Science and Engineering",
+"reach": "SAFE",
+"points": 49.2,
+"pct": 43.7
+},
+{
+"rank": 226,
+"ic": "323",
+"bc": "4110",
+"inst": "Indian Institute of Information Technology Bhopal",
+"branch": "Computer Science and Engineering",
+"reach": "SAFE",
+"points": 49.1,
+"pct": 43.5
+},
+{
+"rank": 227,
+"ic": "323",
+"bc": "411Y",
+"inst": "Indian Institute of Information Technology Bhopal",
+"branch": "Computer Science and Engineering (Cyber Physical System)",
+"reach": "BORDERLINE",
+"points": 49.1,
+"pct": 43.5
+},
+{
+"rank": 228,
+"ic": "323",
+"bc": "A25-02",
+"inst": "Indian Institute of Information Technology Bhopal",
+"branch": "Computer Science and Engineering (Cyber Physical System)",
+"reach": "No-data",
+"points": 49.1,
+"pct": 43.5
+},
+{
+"rank": 229,
+"ic": "323",
+"bc": "410J",
+"inst": "Indian Institute of Information Technology Bhopal",
+"branch": "Computer Science and Engineering (Cyber Security)",
+"reach": "LIKELY",
+"points": 49.1,
+"pct": 43.5
+},
+{
+"rank": 230,
+"ic": "324",
+"bc": "4110",
+"inst": "Indian Institute of Information Technology Surat",
+"branch": "Computer Science and Engineering",
+"reach": "LIKELY",
+"points": 48.5,
+"pct": 42.6
+},
+{
+"rank": 231,
+"ic": "324",
+"bc": "410J",
+"inst": "Indian Institute of Information Technology Surat",
+"branch": "Computer Science and Engineering (Cyber Security)",
+"reach": "OUT",
+"points": 48.5,
+"pct": 42.6
+},
+{
+"rank": 232,
+"ic": "317",
+"bc": "5216",
+"inst": "Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh",
+"branch": "Computer Science and Engineering",
+"reach": "BORDERLINE",
+"points": 48.4,
+"pct": 42.1
+},
+{
+"rank": 233,
+"ic": "317",
+"bc": "4110",
+"inst": "Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh",
+"branch": "Computer Science and Engineering",
+"reach": "LIKELY",
+"points": 48.4,
+"pct": 42.1
+},
+{
+"rank": 234,
+"ic": "323",
+"bc": "A25-01",
+"inst": "Indian Institute of Information Technology Bhopal",
+"branch": "Computer Science and Engineering (Artificial Intelligence)",
+"reach": "BORDERLINE",
+"points": 48.3,
+"pct": 41.7
+},
+{
+"rank": 235,
+"ic": "323",
+"bc": "412G",
+"inst": "Indian Institute of Information Technology Bhopal",
+"branch": "Computer Science and Engineering (Artificial Intelligence)",
+"reach": "BORDERLINE",
+"points": 48.3,
+"pct": 41.7
+},
+{
+"rank": 236,
+"ic": "323",
+"bc": "412E",
+"inst": "Indian Institute of Information Technology Bhopal",
+"branch": "Computer Science and Engineering (Data Science)",
+"reach": "BORDERLINE",
+"points": 48.3,
+"pct": 41.7
+},
+{
+"rank": 237,
+"ic": "320",
+"bc": "4114",
+"inst": "Indian Institute of Information Technology (IIIT) Nagpur",
+"branch": "Electronics and Communication Engineering",
+"reach": "SAFE",
+"points": 48.3,
+"pct": 41.0
+},
+{
+"rank": 238,
+"ic": "320",
+"bc": "410H",
+"inst": "Indian Institute of Information Technology (IIIT) Nagpur",
+"branch": "Electronics and Communication Engineering (Internet of Things)",
+"reach": "SAFE",
+"points": 48.3,
+"pct": 41.0
+},
+{
+"rank": 239,
+"ic": "302",
+"bc": "411G",
+"inst": "Indian Institute of Information Technology (IIIT)Kota, Rajasthan",
+"branch": "Artificial Intelligence and Data Engineering",
+"reach": "LIKELY",
+"points": 48.0,
+"pct": 40.6
+},
+{
+"rank": 240,
+"ic": "324",
+"bc": "410W",
+"inst": "Indian Institute of Information Technology Surat",
+"branch": "Computer Science and Engineering (Artificial Intelligence and Machine Learning)",
+"reach": "BORDERLINE",
+"points": 47.8,
+"pct": 40.4
+},
+{
+"rank": 241,
+"ic": "311",
+"bc": "4176",
+"inst": "Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur",
+"branch": "Smart Manufacturing",
+"reach": "SAFE",
+"points": 47.7,
+"pct": 40.1
+},
+{
+"rank": 242,
+"ic": "317",
+"bc": "4188",
+"inst": "Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh",
+"branch": "Artificial Intelligence and Data Science",
+"reach": "LIKELY",
+"points": 47.1,
+"pct": 39.9
+},
+{
+"rank": 243,
+"ic": "323",
+"bc": "411F",
+"inst": "Indian Institute of Information Technology Bhopal",
+"branch": "B.Tech in Mathematics and Computing",
+"reach": "BORDERLINE",
+"points": 47.1,
+"pct": 39.7
+},
+{
+"rank": 244,
+"ic": "323",
+"bc": "4146",
+"inst": "Indian Institute of Information Technology Bhopal",
+"branch": "Information Technology",
+"reach": "SAFE",
+"points": 46.6,
+"pct": 39.5
+},
+{
+"rank": 245,
+"ic": "402",
+"bc": "4125",
+"inst": "Birla Institute of Technology, Mesra, Ranchi",
+"branch": "Mechanical Engineering",
+"reach": "LIKELY",
+"points": 46.5,
+"pct": 39.2
+},
+{
+"rank": 246,
+"ic": "314",
+"bc": "4110",
+"inst": "Indian Institute of Information Technology Tiruchirappalli",
+"branch": "Computer Science and Engineering",
+"reach": "BORDERLINE",
+"points": 46.1,
+"pct": 39.0
+},
+{
+"rank": 247,
+"ic": "402",
+"bc": "4136",
+"inst": "Birla Institute of Technology, Mesra, Ranchi",
+"branch": "Production and Industrial Engineering",
+"reach": "LIKELY",
+"points": 45.5,
+"pct": 38.8
+},
+{
+"rank": 248,
+"ic": "301",
+"bc": "411M",
+"inst": "Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior",
+"branch": "Mathematics and Scientific Computing",
+"reach": "BORDERLINE",
+"points": 45.4,
+"pct": 38.6
+},
+{
+"rank": 249,
+"ic": "314",
+"bc": "412F",
+"inst": "Indian Institute of Information Technology Tiruchirappalli",
+"branch": "Computer Science and Engineering ( Artificial Intelligence & Data Science)",
+"reach": "OUT",
+"points": 45.4,
+"pct": 38.4
+},
+{
+"rank": 250,
+"ic": "310",
+"bc": "413C",
+"inst": "Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",
+"branch": "Design Engineering",
+"reach": "BORDERLINE",
+"points": 45.4,
+"pct": 38.1
+},
+{
+"rank": 251,
+"ic": "310",
+"bc": "4176",
+"inst": "Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",
+"branch": "Smart Manufacturing",
+"reach": "SAFE",
+"points": 45.4,
+"pct": 38.1
+},
+{
+"rank": 252,
+"ic": "305",
+"bc": "4110",
+"inst": "Indian Institute of Information Technology(IIIT) Kilohrad, Sonepat, Haryana",
+"branch": "Computer Science and Engineering",
+"reach": "SAFE",
+"points": 45.3,
+"pct": 37.7
+},
+{
+"rank": 253,
+"ic": "302",
+"bc": "4114",
+"inst": "Indian Institute of Information Technology (IIIT)Kota, Rajasthan",
+"branch": "Electronics and Communication Engineering",
+"reach": "SAFE",
+"points": 45.3,
+"pct": 37.5
+},
+{
+"rank": 254,
+"ic": "323",
+"bc": "4114",
+"inst": "Indian Institute of Information Technology Bhopal",
+"branch": "Electronics and Communication Engineering",
+"reach": "LIKELY",
+"points": 45.1,
+"pct": 37.3
+},
+{
+"rank": 255,
+"ic": "324",
+"bc": "4114",
+"inst": "Indian Institute of Information Technology Surat",
+"branch": "Electronics and Communication Engineering",
+"reach": "SAFE",
+"points": 44.6,
+"pct": 37.0
+},
+{
+"rank": 256,
+"ic": "402",
+"bc": "4107",
+"inst": "Birla Institute of Technology, Mesra, Ranchi",
+"branch": "Chemical Engineering",
+"reach": "LIKELY",
+"points": 44.5,
+"pct": 36.8
+},
+{
+"rank": 257,
+"ic": "317",
+"bc": "5234",
+"inst": "Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh",
+"branch": "Electronics and Communication Engineering",
+"reach": "LIKELY",
+"points": 44.4,
+"pct": 36.6
+},
+{
+"rank": 258,
+"ic": "317",
+"bc": "4174",
+"inst": "Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh",
+"branch": "Electronics and Communication Engineering with specialization in Design and Manufacturing",
+"reach": "LIKELY",
+"points": 44.4,
+"pct": 36.6
+},
+{
+"rank": 259,
+"ic": "305",
+"bc": "412C",
+"inst": "Indian Institute of Information Technology(IIIT) Kilohrad, Sonepat, Haryana",
+"branch": "CSE ( Data Science & Analytics)",
+"reach": "LIKELY",
+"points": 44.1,
+"pct": 36.1
+},
+{
+"rank": 260,
+"ic": "420",
+"bc": "4110",
+"inst": "International Institute of Information Technology, Naya Raipur",
+"branch": "Computer Science and Engineering",
+"reach": "LIKELY",
+"points": 43.4,
+"pct": 35.9
+},
+{
+"rank": 261,
+"ic": "402",
+"bc": "4109",
+"inst": "Birla Institute of Technology, Mesra, Ranchi",
+"branch": "Civil Engineering",
+"reach": "LIKELY",
+"points": 43.0,
+"pct": 35.7
+},
+{
+"rank": 262,
+"ic": "305",
+"bc": "4146",
+"inst": "Indian Institute of Information Technology(IIIT) Kilohrad, Sonepat, Haryana",
+"branch": "Information Technology",
+"reach": "SAFE",
+"points": 42.8,
+"pct": 35.5
+},
+{
+"rank": 263,
+"ic": "314",
+"bc": "413G",
+"inst": "Indian Institute of Information Technology Tiruchirappalli",
+"branch": "Electronics and Communication Engineering (VLSI Design)",
+"reach": "BORDERLINE",
+"points": 42.7,
+"pct": 35.3
+},
+{
+"rank": 264,
+"ic": "309",
+"bc": "4146",
+"inst": "Indian Institute of Information Technology, Allahabad",
+"branch": "Information Technology",
+"reach": "OUT",
+"points": 42.7,
+"pct": 35.0
+},
+{
+"rank": 265,
+"ic": "309",
+"bc": "4186",
+"inst": "Indian Institute of Information Technology, Allahabad",
+"branch": "Information Technology-Business Informatics",
+"reach": "OUT",
+"points": 42.7,
+"pct": 35.0
+},
+{
+"rank": 266,
+"ic": "420",
+"bc": "4181",
+"inst": "International Institute of Information Technology, Naya Raipur",
+"branch": "Data Science and Artificial Intelligence",
+"reach": "OUT",
+"points": 42.2,
+"pct": 34.4
+},
+{
+"rank": 267,
+"ic": "314",
+"bc": "4114",
+"inst": "Indian Institute of Information Technology Tiruchirappalli",
+"branch": "Electronics and Communication Engineering",
+"reach": "LIKELY",
+"points": 42.2,
+"pct": 34.1
+},
+{
+"rank": 268,
+"ic": "319",
+"bc": "4110",
+"inst": "Indian Institute of Information Technology (IIIT) Ranchi",
+"branch": "Computer Science and Engineering",
+"reach": "SAFE",
+"points": 41.7,
+"pct": 33.9
+},
+{
+"rank": 269,
+"ic": "309",
+"bc": "4114",
+"inst": "Indian Institute of Information Technology, Allahabad",
+"branch": "Electronics and Communication Engineering",
+"reach": "OUT",
+"points": 41.2,
+"pct": 33.7
+},
+{
+"rank": 270,
+"ic": "319",
+"bc": "4602",
+"inst": "Indian Institute of Information Technology (IIIT) Ranchi",
+"branch": "Computer Science and Engineering (with Specialization of Data Science and Artificial Intelligence)",
+"reach": "SAFE",
+"points": 40.9,
+"pct": 33.3
+},
+{
+"rank": 271,
+"ic": "421",
+"bc": "5313",
+"inst": "University of Hyderabad",
+"branch": "Materials Engineering",
+"reach": "LIKELY",
+"points": 40.8,
+"pct": 33.0
+},
+{
+"rank": 272,
+"ic": "315",
+"bc": "4184",
+"inst": "Indian Institute of Information Technology Lucknow",
+"branch": "Computer Science",
+"reach": "BORDERLINE",
+"points": 40.4,
+"pct": 32.8
+},
+{
+"rank": 273,
+"ic": "315",
+"bc": "410C",
+"inst": "Indian Institute of Information Technology Lucknow",
+"branch": "Computer Science and Business",
+"reach": "SAFE",
+"points": 40.4,
+"pct": 32.8
+},
+{
+"rank": 274,
+"ic": "317",
+"bc": "5233",
+"inst": "Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh",
+"branch": "Mechanical Engineering",
+"reach": "LIKELY",
+"points": 40.0,
+"pct": 32.4
+},
+{
+"rank": 275,
+"ic": "317",
+"bc": "4175",
+"inst": "Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh",
+"branch": "Mechanical Engineering with specialization in Design and Manufacturing",
+"reach": "SAFE",
+"points": 40.0,
+"pct": 32.4
+},
+{
+"rank": 276,
+"ic": "319",
+"bc": "411F",
+"inst": "Indian Institute of Information Technology (IIIT) Ranchi",
+"branch": "B.Tech in Mathematics and Computing",
+"reach": "BORDERLINE",
+"points": 39.7,
+"pct": 31.9
+},
+{
+"rank": 277,
+"ic": "315",
+"bc": "4190",
+"inst": "Indian Institute of Information Technology Lucknow",
+"branch": "Computer Science and Artificial Intelligence",
+"reach": "BORDERLINE",
+"points": 39.6,
+"pct": 31.7
+},
+{
+"rank": 278,
+"ic": "402",
+"bc": "4104",
+"inst": "Birla Institute of Technology, Mesra, Ranchi",
+"branch": "Bio Technology",
+"reach": "SAFE",
+"points": 39.6,
+"pct": 31.5
+},
+{
+"rank": 279,
+"ic": "420",
+"bc": "4114",
+"inst": "International Institute of Information Technology, Naya Raipur",
+"branch": "Electronics and Communication Engineering",
+"reach": "LIKELY",
+"points": 39.4,
+"pct": 31.3
+},
+{
+"rank": 280,
+"ic": "315",
+"bc": "4146",
+"inst": "Indian Institute of Information Technology Lucknow",
+"branch": "Information Technology",
+"reach": "LIKELY",
+"points": 37.9,
+"pct": 30.8
+},
+{
+"rank": 281,
+"ic": "319",
+"bc": "4114",
+"inst": "Indian Institute of Information Technology (IIIT) Ranchi",
+"branch": "Electronics and Communication Engineering",
+"reach": "SAFE",
+"points": 37.7,
+"pct": 30.6
+},
+{
+"rank": 282,
+"ic": "319",
+"bc": "4601",
+"inst": "Indian Institute of Information Technology (IIIT) Ranchi",
+"branch": "Electronics and Communication Engineering (with Specialization of Embedded Systems and Internet of Things)",
+"reach": "LIKELY",
+"points": 37.7,
+"pct": 30.6
+},
+{
+"rank": 283,
+"ic": "424",
+"bc": "4110",
+"inst": "International Institute of Information Technology, Bhubaneswar",
+"branch": "Computer Science and Engineering",
+"reach": "SAFE",
+"points": 36.7,
+"pct": 30.2
+},
+{
+"rank": 284,
+"ic": "423",
+"bc": "4110",
+"inst": "Jawaharlal Nehru University, Delhi",
+"branch": "Computer Science and Engineering",
+"reach": "BORDERLINE",
+"points": 36.1,
+"pct": 29.9
+},
+{
+"rank": 285,
+"ic": "451",
+"bc": "4110",
+"inst": "Shri G. S. Institute of Technology and Science Indore",
+"branch": "Computer Science and Engineering",
+"reach": "No-data",
+"points": 36.0,
+"pct": 29.7
+},
+{
+"rank": 286,
+"ic": "424",
+"bc": "4146",
+"inst": "International Institute of Information Technology, Bhubaneswar",
+"branch": "Information Technology",
+"reach": "SAFE",
+"points": 34.2,
+"pct": 29.5
+},
+{
+"rank": 287,
+"ic": "451",
+"bc": "4146",
+"inst": "Shri G. S. Institute of Technology and Science Indore",
+"branch": "Information Technology",
+"reach": "No-data",
+"points": 33.5,
+"pct": 29.3
+},
+{
+"rank": 288,
+"ic": "423",
+"bc": "4114",
+"inst": "Jawaharlal Nehru University, Delhi",
+"branch": "Electronics and Communication Engineering",
+"reach": "SAFE",
+"points": 32.1,
+"pct": 28.6
+},
+{
+"rank": 289,
+"ic": "424",
+"bc": "4153",
+"inst": "International Institute of Information Technology, Bhubaneswar",
+"branch": "Electronics and Telecommunication Engineering",
+"reach": "SAFE",
+"points": 31.7,
+"pct": 28.4
+},
+{
+"rank": 290,
+"ic": "424",
+"bc": "4144",
+"inst": "International Institute of Information Technology, Bhubaneswar",
+"branch": "Electrical and Electronics Engineering",
+"reach": "LIKELY",
+"points": 31.2,
+"pct": 28.2
+},
+{
+"rank": 291,
+"ic": "451",
+"bc": "4142",
+"inst": "Shri G. S. Institute of Technology and Science Indore",
+"branch": "Electronics and Instrumentation Engineering",
+"reach": "No-data",
+"points": 31.0,
+"pct": 27.9
+},
+{
+"rank": 292,
+"ic": "451",
+"bc": "4153",
+"inst": "Shri G. S. Institute of Technology and Science Indore",
+"branch": "Electronics and Telecommunication Engineering",
+"reach": "No-data",
+"points": 31.0,
+"pct": 27.9
+},
+{
+"rank": 293,
+"ic": "451",
+"bc": "4111",
+"inst": "Shri G. S. Institute of Technology and Science Indore",
+"branch": "Electrical Engineering",
+"reach": "No-data",
+"points": 30.5,
+"pct": 27.3
+},
+{
+"rank": 294,
+"ic": "451",
+"bc": "4125",
+"inst": "Shri G. S. Institute of Technology and Science Indore",
+"branch": "Mechanical Engineering",
+"reach": "No-data",
+"points": 27.6,
+"pct": 26.8
+},
+{
+"rank": 295,
+"ic": "426",
+"bc": "4110",
+"inst": "Puducherry Technological University, Puducherry",
+"branch": "Computer Science and Engineering",
+"reach": "BORDERLINE",
+"points": 27.4,
+"pct": 26.6
+},
+{
+"rank": 296,
+"ic": "451",
+"bc": "4149",
+"inst": "Shri G. S. Institute of Technology and Science Indore",
+"branch": "Industrial and Production Engineering",
+"reach": "No-data",
+"points": 26.6,
+"pct": 26.4
+},
+{
+"rank": 297,
+"ic": "410",
+"bc": "4110",
+"inst": "Sant Longowal Institute of Engineering and Technology",
+"branch": "Computer Science and Engineering",
+"reach": "SAFE",
+"points": 26.5,
+"pct": 26.2
+},
+{
+"rank": 298,
+"ic": "410",
+"bc": "5216",
+"inst": "Sant Longowal Institute of Engineering and Technology",
+"branch": "Computer Science and Engineering",
+"reach": "BORDERLINE",
+"points": 26.5,
+"pct": 26.2
+},
+{
+"rank": 299,
+"ic": "422",
+"bc": "4110",
+"inst": "Punjab Engineering College, Chandigarh",
+"branch": "Computer Science and Engineering",
+"reach": "No-data",
+"points": 26.4,
+"pct": 25.7
+},
+{
+"rank": 300,
+"ic": "407",
+"bc": "4110",
+"inst": "J.K. Institute of Applied Physics & Technology, Department of Electronics & Communication, University of Allahabad- Allahabad",
+"branch": "Computer Science and Engineering",
+"reach": "BORDERLINE",
+"points": 26.4,
+"pct": 25.5
+},
+{
+"rank": 301,
+"ic": "422",
+"bc": "4603",
+"inst": "Punjab Engineering College, Chandigarh",
+"branch": "Computer Science Engineering (Artificial Intelligence)",
+"reach": "No-data",
+"points": 25.6,
+"pct": 25.3
+},
+{
+"rank": 302,
+"ic": "422",
+"bc": "4604",
+"inst": "Punjab Engineering College, Chandigarh",
+"branch": "Computer Science Engineering (Data Science)",
+"reach": "No-data",
+"points": 25.6,
+"pct": 25.3
+},
+{
+"rank": 303,
+"ic": "407",
+"bc": "4196",
+"inst": "J.K. Institute of Applied Physics & Technology, Department of Electronics & Communication, University of Allahabad- Allahabad",
+"branch": "Computer Science and Engineering with Major in Artificial Intelligence",
+"reach": "LIKELY",
+"points": 25.6,
+"pct": 24.8
+},
+{
+"rank": 304,
+"ic": "428",
+"bc": "4110",
+"inst": "Central University of Rajasthan, Rajasthan",
+"branch": "Computer Science and Engineering",
+"reach": "SAFE",
+"points": 25.4,
+"pct": 24.6
+},
+{
+"rank": 305,
+"ic": "410",
+"bc": "4188",
+"inst": "Sant Longowal Institute of Engineering and Technology",
+"branch": "Artificial Intelligence and Data Science",
+"reach": "BORDERLINE",
+"points": 25.2,
+"pct": 24.4
+},
+{
+"rank": 306,
+"ic": "426",
+"bc": "4146",
+"inst": "Puducherry Technological University, Puducherry",
+"branch": "Information Technology",
+"reach": "BORDERLINE",
+"points": 24.9,
+"pct": 24.2
+},
+{
+"rank": 307,
+"ic": "422",
+"bc": "4124",
+"inst": "Punjab Engineering College, Chandigarh",
+"branch": "Mathematics and Computing",
+"reach": "No-data",
+"points": 24.4,
+"pct": 23.9
+},
+{
+"rank": 308,
+"ic": "424",
+"bc": "4151",
+"inst": "International Institute of Information Technology, Bhubaneswar",
+"branch": "Computer Engineering",
+"reach": "SAFE",
+"points": 24.3,
+"pct": 23.7
+},
+{
+"rank": 309,
+"ic": "440",
+"bc": "4110",
+"inst": "Birla Institute of Technology, Deoghar Off-Campus",
+"branch": "Computer Science and Engineering",
+"reach": "LIKELY",
+"points": 24.2,
+"pct": 23.5
+},
+{
+"rank": 310,
+"ic": "451",
+"bc": "4109",
+"inst": "Shri G. S. Institute of Technology and Science Indore",
+"branch": "Civil Engineering",
+"reach": "No-data",
+"points": 24.1,
+"pct": 23.3
+},
+{
+"rank": 311,
+"ic": "426",
+"bc": "4114",
+"inst": "Puducherry Technological University, Puducherry",
+"branch": "Electronics and Communication Engineering",
+"reach": "SAFE",
+"points": 23.4,
+"pct": 23.1
+},
+{
+"rank": 312,
+"ic": "408",
+"bc": "4110",
+"inst": "National Institute of Electronics and Information Technology, Aurangabad (Maharashtra)",
+"branch": "Computer Science and Engineering",
+"reach": "BORDERLINE",
+"points": 23.2,
+"pct": 22.8
+},
+{
+"rank": 313,
+"ic": "422",
+"bc": "411H",
+"inst": "Punjab Engineering College, Chandigarh",
+"branch": "Electronics Engineering (VLSI Design and Technology)",
+"reach": "No-data",
+"points": 22.9,
+"pct": 22.6
+},
+{
+"rank": 314,
+"ic": "410",
+"bc": "4114",
+"inst": "Sant Longowal Institute of Engineering and Technology",
+"branch": "Electronics and Communication Engineering",
+"reach": "BORDERLINE",
+"points": 22.5,
+"pct": 22.4
+},
+{
+"rank": 315,
+"ic": "426",
+"bc": "4142",
+"inst": "Puducherry Technological University, Puducherry",
+"branch": "Electronics and Instrumentation Engineering",
+"reach": "LIKELY",
+"points": 22.5,
+"pct": 22.2
+},
+{
+"rank": 316,
+"ic": "422",
+"bc": "4114",
+"inst": "Punjab Engineering College, Chandigarh",
+"branch": "Electronics and Communication Engineering",
+"reach": "No-data",
+"points": 22.4,
+"pct": 22.0
+},
+{
+"rank": 317,
+"ic": "407",
+"bc": "4114",
+"inst": "J.K. Institute of Applied Physics & Technology, Department of Electronics & Communication, University of Allahabad- Allahabad",
+"branch": "Electronics and Communication Engineering",
+"reach": "SAFE",
+"points": 22.4,
+"pct": 21.7
+},
+{
+"rank": 318,
+"ic": "426",
+"bc": "4144",
+"inst": "Puducherry Technological University, Puducherry",
+"branch": "Electrical and Electronics Engineering",
+"reach": "No-data",
+"points": 22.0,
+"pct": 21.5
+},
+{
+"rank": 319,
+"ic": "428",
+"bc": "4114",
+"inst": "Central University of Rajasthan, Rajasthan",
+"branch": "Electronics and Communication Engineering",
+"reach": "BORDERLINE",
+"points": 21.5,
+"pct": 21.1
+},
+{
+"rank": 320,
+"ic": "410",
+"bc": "4111",
+"inst": "Sant Longowal Institute of Engineering and Technology",
+"branch": "Electrical Engineering",
+"reach": "BORDERLINE",
+"points": 21.0,
+"pct": 20.8
+},
+{
+"rank": 321,
+"ic": "410",
+"bc": "5217",
+"inst": "Sant Longowal Institute of Engineering and Technology",
+"branch": "Electrical Engineering",
+"reach": "No-data",
+"points": 21.0,
+"pct": 20.8
+},
+{
+"rank": 322,
+"ic": "406",
+"bc": "4110",
+"inst": "School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",
+"branch": "Computer Science and Engineering",
+"reach": "SAFE",
+"points": 21.0,
+"pct": 20.4
+},
+{
+"rank": 323,
+"ic": "422",
+"bc": "4111",
+"inst": "Punjab Engineering College, Chandigarh",
+"branch": "Electrical Engineering",
+"reach": "No-data",
+"points": 20.9,
+"pct": 20.2
+},
+{
+"rank": 324,
+"ic": "447",
+"bc": "413K",
+"inst": "National Institute of Electronics and Information Technology, Ajmer (Rajasthan)",
+"branch": "Computer Science and Engineering (Internet of Things, Cyber Security including Block Chain Technology )",
+"reach": "BORDERLINE",
+"points": 20.9,
+"pct": 20.0
+},
+{
+"rank": 325,
+"ic": "438",
+"bc": "4110",
+"inst": "Institute of Engineering and Technology, Dr. H. S. Gour University. Sagar (A Central University)",
+"branch": "Computer Science and Engineering",
+"reach": "BORDERLINE",
+"points": 20.3,
+"pct": 19.3
+},
+{
+"rank": 326,
+"ic": "440",
+"bc": "4114",
+"inst": "Birla Institute of Technology, Deoghar Off-Campus",
+"branch": "Electronics and Communication Engineering",
+"reach": "BORDERLINE",
+"points": 20.2,
+"pct": 18.8
+},
+{
+"rank": 327,
+"ic": "448",
+"bc": "413L",
+"inst": "National Institute of Electronics and Information Technology, Gorakhpur (UP)",
+"branch": "Computer Science and Engineering with minor in AI and ML",
+"reach": "BORDERLINE",
+"points": 19.9,
+"pct": 18.6
+},
+{
+"rank": 328,
+"ic": "406",
+"bc": "4188",
+"inst": "School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",
+"branch": "Artificial Intelligence and Data Science",
+"reach": "BORDERLINE",
+"points": 19.8,
+"pct": 18.4
+},
+{
+"rank": 329,
+"ic": "443",
+"bc": "411V",
+"inst": "Gati Shakti Vishwavidyalaya, Vadodara",
+"branch": "B.Tech in Artificial Intelligenece and Data Science (Transportation and Logistics)",
+"reach": "No-data",
+"points": 19.7,
+"pct": 18.2
+},
+{
+"rank": 330,
+"ic": "434",
+"bc": "4603",
+"inst": "Chhattisgarh Swami Vivekanada Technical University, Bhilai (CSVTU Bhilai)",
+"branch": "Computer Science Engineering (Artificial Intelligence)",
+"reach": "SAFE",
+"points": 19.0,
+"pct": 17.7
+},
+{
+"rank": 331,
+"ic": "434",
+"bc": "4604",
+"inst": "Chhattisgarh Swami Vivekanada Technical University, Bhilai (CSVTU Bhilai)",
+"branch": "Computer Science Engineering (Data Science)",
+"reach": "SAFE",
+"points": 19.0,
+"pct": 17.7
+},
+{
+"rank": 332,
+"ic": "426",
+"bc": "4125",
+"inst": "Puducherry Technological University, Puducherry",
+"branch": "Mechanical Engineering",
+"reach": "BORDERLINE",
+"points": 19.0,
+"pct": 17.3
+},
+{
+"rank": 333,
+"ic": "440",
+"bc": "4144",
+"inst": "Birla Institute of Technology, Deoghar Off-Campus",
+"branch": "Electrical and Electronics Engineering",
+"reach": "BORDERLINE",
+"points": 18.7,
+"pct": 17.1
+},
+{
+"rank": 334,
+"ic": "410",
+"bc": "4148",
+"inst": "Sant Longowal Institute of Engineering and Technology",
+"branch": "Instrumentation and Control Engineering",
+"reach": "No-data",
+"points": 18.5,
+"pct": 16.9
+},
+{
+"rank": 335,
+"ic": "406",
+"bc": "4146",
+"inst": "School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",
+"branch": "Information Technology",
+"reach": "SAFE",
+"points": 18.5,
+"pct": 16.6
+},
+{
+"rank": 336,
+"ic": "444",
+"bc": "4110",
+"inst": "CU Jharkhand",
+"branch": "Computer Science and Engineering",
+"reach": "No-data",
+"points": 18.5,
+"pct": 16.4
+},
+{
+"rank": 337,
+"ic": "444",
+"bc": "A24-41",
+"inst": "CU Jharkhand",
+"branch": "Integrated B. Tech. - M. Tech in Computer Science & Engineering",
+"reach": "BORDERLINE",
+"points": 18.5,
+"pct": 16.4
+},
+{
+"rank": 338,
+"ic": "405",
+"bc": "4111",
+"inst": "Institute of Infrastructure, Technology, Research and Management-Ahmedabad",
+"branch": "Electrical Engineering",
+"reach": "LIKELY",
+"points": 18.4,
+"pct": 16.0
+},
+{
+"rank": 339,
+"ic": "408",
+"bc": "4137",
+"inst": "National Institute of Electronics and Information Technology, Aurangabad (Maharashtra)",
+"branch": "Electronics System Engineering",
+"reach": "BORDERLINE",
+"points": 18.3,
+"pct": 15.7
+},
+{
+"rank": 340,
+"ic": "410",
+"bc": "4125",
+"inst": "Sant Longowal Institute of Engineering and Technology",
+"branch": "Mechanical Engineering",
+"reach": "No-data",
+"points": 18.0,
+"pct": 15.5
+},
+{
+"rank": 341,
+"ic": "410",
+"bc": "5233",
+"inst": "Sant Longowal Institute of Engineering and Technology",
+"branch": "Mechanical Engineering",
+"reach": "No-data",
+"points": 18.0,
+"pct": 15.5
+},
+{
+"rank": 342,
+"ic": "422",
+"bc": "4125",
+"inst": "Punjab Engineering College, Chandigarh",
+"branch": "Mechanical Engineering",
+"reach": "No-data",
+"points": 18.0,
+"pct": 15.1
+},
+{
+"rank": 343,
+"ic": "427",
+"bc": "410E",
+"inst": "Ghani Khan Choudhary Institute of Engineering and Technology, Malda, West Bengal",
+"branch": "Computer Science Engineering (Artificial lntelligence and Machine Learning)",
+"reach": "No-data",
+"points": 17.2,
+"pct": 14.6
+},
+{
+"rank": 344,
+"ic": "406",
+"bc": "4114",
+"inst": "School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",
+"branch": "Electronics and Communication Engineering",
+"reach": "LIKELY",
+"points": 17.0,
+"pct": 14.4
+},
+{
+"rank": 345,
+"ic": "426",
+"bc": "4107",
+"inst": "Puducherry Technological University, Puducherry",
+"branch": "Chemical Engineering",
+"reach": "LIKELY",
+"points": 17.0,
+"pct": 14.2
+},
+{
+"rank": 346,
+"ic": "422",
+"bc": "4136",
+"inst": "Punjab Engineering College, Chandigarh",
+"branch": "Production and Industrial Engineering",
+"reach": "No-data",
+"points": 17.0,
+"pct": 14.0
+},
+{
+"rank": 347,
+"ic": "438",
+"bc": "4114",
+"inst": "Institute of Engineering and Technology, Dr. H. S. Gour University. Sagar (A Central University)",
+"branch": "Electronics and Communication Engineering",
+"reach": "No-data",
+"points": 16.3,
+"pct": 13.7
+},
+{
+"rank": 348,
+"ic": "410",
+"bc": "4107",
+"inst": "Sant Longowal Institute of Engineering and Technology",
+"branch": "Chemical Engineering",
+"reach": "No-data",
+"points": 16.1,
+"pct": 13.5
+},
+{
+"rank": 349,
+"ic": "443",
+"bc": "411R",
+"inst": "Gati Shakti Vishwavidyalaya, Vadodara",
+"branch": "B.Tech in Electronics & Communication Engineering (Rail Engineering)",
+"reach": "No-data",
+"points": 16.0,
+"pct": 12.9
+},
+{
+"rank": 350,
+"ic": "448",
+"bc": "413M",
+"inst": "National Institute of Electronics and Information Technology, Gorakhpur (UP)",
+"branch": "B. Tech in Electronics and Communication Engineering with minor in Wearable Electronics",
+"reach": "BORDERLINE",
+"points": 15.9,
+"pct": 12.6
+},
+{
+"rank": 351,
+"ic": "440",
+"bc": "4125",
+"inst": "Birla Institute of Technology, Deoghar Off-Campus",
+"branch": "Mechanical Engineering",
+"reach": "BORDERLINE",
+"points": 15.8,
+"pct": 12.4
+},
+{
+"rank": 352,
+"ic": "435",
+"bc": "5D01",
+"inst": "Institute of Chemical Technology, Mumbai: Indian Oil Odisha Campus, Bhubaneswar",
+"branch": "Chemical Engineering",
+"reach": "LIKELY",
+"points": 15.6,
+"pct": 12.2
+},
+{
+"rank": 353,
+"ic": "406",
+"bc": "4111",
+"inst": "School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",
+"branch": "Electrical Engineering",
+"reach": "BORDERLINE",
+"points": 15.5,
+"pct": 12.0
+},
+{
+"rank": 354,
+"ic": "426",
+"bc": "4109",
+"inst": "Puducherry Technological University, Puducherry",
+"branch": "Civil Engineering",
+"reach": "LIKELY",
+"points": 15.5,
+"pct": 11.8
+},
+{
+"rank": 355,
+"ic": "443",
+"bc": "411S",
+"inst": "Gati Shakti Vishwavidyalaya, Vadodara",
+"branch": "B.Tech in Electrical Engineering ( Rail  Engineering)",
+"reach": "No-data",
+"points": 15.5,
+"pct": 11.5
+},
+{
+"rank": 356,
+"ic": "405",
+"bc": "4125",
+"inst": "Institute of Infrastructure, Technology, Research and Management-Ahmedabad",
+"branch": "Mechanical Engineering",
+"reach": "LIKELY",
+"points": 15.4,
+"pct": 11.3
+},
+{
+"rank": 357,
+"ic": "449",
+"bc": "410I",
+"inst": "Rajiv Gandhi National Aviation University, Fursatganj, Amethi (UP)",
+"branch": "Electronics and Communication Engineering (Avionics)",
+"reach": "BORDERLINE",
+"points": 15.3,
+"pct": 11.1
+},
+{
+"rank": 358,
+"ic": "426",
+"bc": "4178",
+"inst": "Puducherry Technological University, Puducherry",
+"branch": "Mechatronics Engineering",
+"reach": "SAFE",
+"points": 15.0,
+"pct": 10.9
+},
+{
+"rank": 359,
+"ic": "410",
+"bc": "4109",
+"inst": "Sant Longowal Institute of Engineering and Technology",
+"branch": "Civil Engineering",
+"reach": "No-data",
+"points": 14.6,
+"pct": 10.6
+},
+{
+"rank": 360,
+"ic": "422",
+"bc": "4109",
+"inst": "Punjab Engineering College, Chandigarh",
+"branch": "Civil Engineering",
+"reach": "No-data",
+"points": 14.5,
+"pct": 10.4
+},
+{
+"rank": 361,
+"ic": "422",
+"bc": "4101",
+"inst": "Punjab Engineering College, Chandigarh",
+"branch": "Aerospace Engineering",
+"reach": "No-data",
+"points": 14.0,
+"pct": 10.0
+},
+{
+"rank": 362,
+"ic": "409",
+"bc": "4125",
+"inst": "National Institute of Advanced Manufacturing Technology, Ranchi",
+"branch": "Mechanical Engineering",
+"reach": "BORDERLINE",
+"points": 13.1,
+"pct": 9.8
+},
+{
+"rank": 363,
+"ic": "444",
+"bc": "4111",
+"inst": "CU Jharkhand",
+"branch": "Electrical Engineering",
+"reach": "No-data",
+"points": 13.0,
+"pct": 9.3
+},
+{
+"rank": 364,
+"ic": "444",
+"bc": "A24-39",
+"inst": "CU Jharkhand",
+"branch": "Integrated B. Tech. - M. Tech in Electrical Engineering",
+"reach": "BORDERLINE",
+"points": 13.0,
+"pct": 9.3
+},
+{
+"rank": 365,
+"ic": "422",
+"bc": "4127",
+"inst": "Punjab Engineering College, Chandigarh",
+"branch": "Metallurgical and Materials Engineering",
+"reach": "No-data",
+"points": 13.0,
+"pct": 8.9
+},
+{
+"rank": 366,
+"ic": "406",
+"bc": "4125",
+"inst": "School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",
+"branch": "Mechanical Engineering",
+"reach": "No-data",
+"points": 12.6,
+"pct": 8.6
+},
+{
+"rank": 367,
+"ic": "443",
+"bc": "411T",
+"inst": "Gati Shakti Vishwavidyalaya, Vadodara",
+"branch": "B.Tech in Mechanical Engineering ( Rail  Engineering)",
+"reach": "No-data",
+"points": 12.5,
+"pct": 8.4
+},
+{
+"rank": 368,
+"ic": "427",
+"bc": "4111",
+"inst": "Ghani Khan Choudhary Institute of Engineering and Technology, Malda, West Bengal",
+"branch": "Electrical Engineering",
+"reach": "No-data",
+"points": 12.5,
+"pct": 8.2
+},
+{
+"rank": 369,
+"ic": "409",
+"bc": "4136",
+"inst": "National Institute of Advanced Manufacturing Technology, Ranchi",
+"branch": "Production and Industrial Engineering",
+"reach": "BORDERLINE",
+"points": 12.2,
+"pct": 8.0
+},
+{
+"rank": 370,
+"ic": "405",
+"bc": "4109",
+"inst": "Institute of Infrastructure, Technology, Research and Management-Ahmedabad",
+"branch": "Civil Engineering",
+"reach": "LIKELY",
+"points": 11.9,
+"pct": 7.8
+},
+{
+"rank": 371,
+"ic": "406",
+"bc": "4149",
+"inst": "School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",
+"branch": "Industrial and Production Engineering",
+"reach": "No-data",
+"points": 11.6,
+"pct": 7.5
+},
+{
+"rank": 372,
+"ic": "405",
+"bc": "4151",
+"inst": "Institute of Infrastructure, Technology, Research and Management-Ahmedabad",
+"branch": "Computer Engineering",
+"reach": "LIKELY",
+"points": 11.4,
+"pct": 7.3
+},
+{
+"rank": 373,
+"ic": "408",
+"bc": "412K",
+"inst": "National Institute of Electronics and Information Technology, Aurangabad (Maharashtra)",
+"branch": "Electronic Engineering",
+"reach": "LIKELY",
+"points": 10.8,
+"pct": 7.1
+},
+{
+"rank": 374,
+"ic": "406",
+"bc": "4107",
+"inst": "School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",
+"branch": "Chemical Engineering",
+"reach": "BORDERLINE",
+"points": 10.6,
+"pct": 6.9
+},
+{
+"rank": 375,
+"ic": "427",
+"bc": "4125",
+"inst": "Ghani Khan Choudhary Institute of Engineering and Technology, Malda, West Bengal",
+"branch": "Mechanical Engineering",
+"reach": "No-data",
+"points": 9.5,
+"pct": 5.5
+},
+{
+"rank": 376,
+"ic": "409",
+"bc": "4151",
+"inst": "National Institute of Advanced Manufacturing Technology, Ranchi",
+"branch": "Computer Engineering",
+"reach": "SAFE",
+"points": 9.2,
+"pct": 5.3
+},
+{
+"rank": 377,
+"ic": "406",
+"bc": "4109",
+"inst": "School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",
+"branch": "Civil Engineering",
+"reach": "No-data",
+"points": 9.1,
+"pct": 5.1
+},
+{
+"rank": 378,
+"ic": "443",
+"bc": "411U",
+"inst": "Gati Shakti Vishwavidyalaya, Vadodara",
+"branch": "B.Tech in Civil Engineering (Rail Engineering)",
+"reach": "No-data",
+"points": 9.0,
+"pct": 4.9
+},
+{
+"rank": 379,
+"ic": "406",
+"bc": "413F",
+"inst": "School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",
+"branch": "Animation and VFX",
+"reach": "BORDERLINE",
+"points": 8.6,
+"pct": 4.4
+},
+{
+"rank": 380,
+"ic": "443",
+"bc": "411W",
+"inst": "Gati Shakti Vishwavidyalaya, Vadodara",
+"branch": "B.Tech in Aviation Engineering",
+"reach": "No-data",
+"points": 8.5,
+"pct": 4.2
+},
+{
+"rank": 381,
+"ic": "409",
+"bc": "4156",
+"inst": "National Institute of Advanced Manufacturing Technology, Ranchi",
+"branch": "Metallurgy and Materials Engineering",
+"reach": "BORDERLINE",
+"points": 8.2,
+"pct": 4.0
+},
+{
+"rank": 382,
+"ic": "438",
+"bc": "411O",
+"inst": "Institute of Engineering and Technology, Dr. H. S. Gour University. Sagar (A Central University)",
+"branch": "Aeronautical Engineering",
+"reach": "No-data",
+"points": 7.9,
+"pct": 3.8
+},
+{
+"rank": 383,
+"ic": "438",
+"bc": "411P",
+"inst": "Institute of Engineering and Technology, Dr. H. S. Gour University. Sagar (A Central University)",
+"branch": "Dairy Engineering",
+"reach": "No-data",
+"points": 7.9,
+"pct": 3.8
+},
+{
+"rank": 384,
+"ic": "438",
+"bc": "411Q",
+"inst": "Institute of Engineering and Technology, Dr. H. S. Gour University. Sagar (A Central University)",
+"branch": "Fashion and Apparel Engineering",
+"reach": "No-data",
+"points": 7.9,
+"pct": 3.8
+},
+{
+"rank": 385,
+"ic": "434",
+"bc": "4109",
+"inst": "Chhattisgarh Swami Vivekanada Technical University, Bhilai (CSVTU Bhilai)",
+"branch": "Civil Engineering",
+"reach": "BORDERLINE",
+"points": 7.8,
+"pct": 2.9
+},
+{
+"rank": 386,
+"ic": "445",
+"bc": "413J",
+"inst": "National Institute of Electronics and Information Technology, Ropar (Punjab)",
+"branch": "B.Tech in CSE (AI and ML)",
+"reach": "BORDERLINE",
+"points": 6.8,
+"pct": 2.4
+},
+{
+"rank": 387,
+"ic": "449",
+"bc": "4101",
+"inst": "Rajiv Gandhi National Aviation University, Fursatganj, Amethi (UP)",
+"branch": "Aerospace Engineering",
+"reach": "BORDERLINE",
+"points": 6.8,
+"pct": 2.2
+},
+{
+"rank": 388,
+"ic": "444",
+"bc": "4109",
+"inst": "CU Jharkhand",
+"branch": "Civil Engineering",
+"reach": "No-data",
+"points": 6.6,
+"pct": 2.0
+},
+{
+"rank": 389,
+"ic": "444",
+"bc": "A24-40",
+"inst": "CU Jharkhand",
+"branch": "Integrated B. Tech. - M. Tech in Civil Engineering",
+"reach": "BORDERLINE",
+"points": 6.6,
+"pct": 2.0
+},
+{
+"rank": 390,
+"ic": "427",
+"bc": "410X",
+"inst": "Ghani Khan Choudhary Institute of Engineering and Technology, Malda, West Bengal",
+"branch": "Civil and Environmental Engineering",
+"reach": "No-data",
+"points": 6.0,
+"pct": 1.6
+},
+{
+"rank": 391,
+"ic": "444",
+"bc": "A24-38",
+"inst": "CU Jharkhand",
+"branch": "Integrated B. Tech.- M. Tech in Metallurgical & Materials Engineering",
+"reach": "BORDERLINE",
+"points": 5.1,
+"pct": 1.1
+},
+{
+"rank": 392,
+"ic": "444",
+"bc": "4127",
+"inst": "CU Jharkhand",
+"branch": "Metallurgical and Materials Engineering",
+"reach": "No-data",
+"points": 5.1,
+"pct": 1.1
+},
+{
+"rank": 393,
+"ic": "433",
+"bc": "4197",
+"inst": "Indian Institute of Handloom Technology(IIHT), Varanasi",
+"branch": "Handloom and Textile Technology",
+"reach": "LIKELY",
+"points": 0.9,
+"pct": 0.7
+},
+{
+"rank": 394,
+"ic": "404",
+"bc": "4160",
+"inst": "Indian Institute of Carpet Technology, Bhadohi",
+"branch": "Carpet  and Textile Technology",
+"reach": "No-data",
+"points": 0.9,
+"pct": 0.4
+},
+{
+"rank": 395,
+"ic": "442",
+"bc": "4197",
+"inst": "Indian Institute of Handloom Technology, Salem",
+"branch": "Handloom and Textile Technology",
+"reach": "LIKELY",
+"points": 0.0,
+"pct": 0.2
+},
+{
+"rank": 396,
+"ic": "223",
+"bc": "5258",
+"inst": "National Institute of Technology, Rourkela",
+"branch": "Ceramic Engineering and M.Tech Industrial Ceramic",
+"reach": "No-data",
+"points": 86.4,
+"pct": 94.0
+},
+{
+"rank": 397,
+"ic": "223",
+"bc": "4155",
+"inst": "National Institute of Technology, Rourkela",
+"branch": "Industrial Design",
+"reach": "No-data",
+"points": 86.4,
+"pct": 94.0
+},
+{
+"rank": 398,
+"ic": "223",
+"bc": "4169",
+"inst": "National Institute of Technology, Rourkela",
+"branch": "Food Process Engineering",
+"reach": "No-data",
+"points": 83.4,
+"pct": 91.6
+},
+{
+"rank": 399,
+"ic": "211",
+"bc": "4130",
+"inst": "National Institute of Technology Karnataka, Surathkal",
+"branch": "Mining Engineering",
+"reach": "No-data",
+"points": 83.2,
+"pct": 91.1
+},
+{
+"rank": 400,
+"ic": "223",
+"bc": "4106",
+"inst": "National Institute of Technology, Rourkela",
+"branch": "Ceramic Engineering",
+"reach": "SAFE",
+"points": 82.4,
+"pct": 90.5
+},
+{
+"rank": 401,
+"ic": "223",
+"bc": "5247",
+"inst": "National Institute of Technology, Rourkela",
+"branch": "Mining Engineering",
+"reach": "No-data",
+"points": 80.9,
+"pct": 89.4
+},
+{
+"rank": 402,
+"ic": "223",
+"bc": "4130",
+"inst": "National Institute of Technology, Rourkela",
+"branch": "Mining Engineering",
+"reach": "No-data",
+"points": 80.9,
+"pct": 89.4
+},
+{
+"rank": 403,
+"ic": "223",
+"bc": "4152",
+"inst": "National Institute of Technology, Rourkela",
+"branch": "Bio Medical Engineering",
+"reach": "No-data",
+"points": 80.4,
+"pct": 88.9
+},
+{
+"rank": 404,
+"ic": "223",
+"bc": "5503",
+"inst": "National Institute of Technology, Rourkela",
+"branch": "Chemistry",
+"reach": "No-data",
+"points": 79.2,
+"pct": 87.1
+},
+{
+"rank": 405,
+"ic": "223",
+"bc": "5509",
+"inst": "National Institute of Technology, Rourkela",
+"branch": "Life Science",
+"reach": "No-data",
+"points": 79.2,
+"pct": 87.1
+},
+{
+"rank": 406,
+"ic": "223",
+"bc": "5508",
+"inst": "National Institute of Technology, Rourkela",
+"branch": "Mathematics",
+"reach": "No-data",
+"points": 79.2,
+"pct": 87.1
+},
+{
+"rank": 407,
+"ic": "223",
+"bc": "5507",
+"inst": "National Institute of Technology, Rourkela",
+"branch": "Physics",
+"reach": "No-data",
+"points": 79.2,
+"pct": 87.1
+},
+{
+"rank": 408,
+"ic": "206",
+"bc": "4117",
+"inst": "National Institute of Technology Calicut",
+"branch": "Engineering Physics",
+"reach": "BORDERLINE",
+"points": 75.4,
+"pct": 82.9
+},
+{
+"rank": 409,
+"ic": "203",
+"bc": "520F",
+"inst": "Maulana Azad National Institute of Technology Bhopal",
+"branch": "Mathematics and Data Science",
+"reach": "No-data",
+"points": 74.9,
+"pct": 82.0
+},
+{
+"rank": 410,
+"ic": "230",
+"bc": "4130",
+"inst": "Visvesvaraya National Institute of Technology, Nagpur",
+"branch": "Mining Engineering",
+"reach": "No-data",
+"points": 73.6,
+"pct": 79.2
+},
+{
+"rank": 411,
+"ic": "228",
+"bc": "5503",
+"inst": "National Institute of Technology, Warangal",
+"branch": "Chemistry",
+"reach": "SAFE",
+"points": 68.9,
+"pct": 70.7
+},
+{
+"rank": 412,
+"ic": "228",
+"bc": "5508",
+"inst": "National Institute of Technology, Warangal",
+"branch": "Mathematics",
+"reach": "SAFE",
+"points": 68.9,
+"pct": 70.7
+},
+{
+"rank": 413,
+"ic": "228",
+"bc": "5507",
+"inst": "National Institute of Technology, Warangal",
+"branch": "Physics",
+"reach": "No-data",
+"points": 68.9,
+"pct": 70.7
+},
+{
+"rank": 414,
+"ic": "229",
+"bc": "5503",
+"inst": "Sardar Vallabhbhai National Institute of Technology, Surat",
+"branch": "Chemistry",
+"reach": "SAFE",
+"points": 63.5,
+"pct": 61.4
+},
+{
+"rank": 415,
+"ic": "229",
+"bc": "4117",
+"inst": "Sardar Vallabhbhai National Institute of Technology, Surat",
+"branch": "Engineering Physics",
+"reach": "BORDERLINE",
+"points": 63.5,
+"pct": 61.4
+},
+{
+"rank": 416,
+"ic": "229",
+"bc": "5508",
+"inst": "Sardar Vallabhbhai National Institute of Technology, Surat",
+"branch": "Mathematics",
+"reach": "LIKELY",
+"points": 63.5,
+"pct": 61.4
+},
+{
+"rank": 417,
+"ic": "229",
+"bc": "5507",
+"inst": "Sardar Vallabhbhai National Institute of Technology, Surat",
+"branch": "Physics",
+"reach": "LIKELY",
+"points": 63.5,
+"pct": 61.4
+},
+{
+"rank": 418,
+"ic": "208",
+"bc": "5503",
+"inst": "National Institute of Technology Durgapur",
+"branch": "Chemistry",
+"reach": "No-data",
+"points": 61.7,
+"pct": 56.3
+},
+{
+"rank": 419,
+"ic": "232",
+"bc": "4130",
+"inst": "Indian Institute of Engineering Science and Technology, Shibpur",
+"branch": "Mining Engineering",
+"reach": "No-data",
+"points": 60.2,
+"pct": 54.5
+},
+{
+"rank": 420,
+"ic": "216",
+"bc": "4130",
+"inst": "National Institute of Technology Raipur",
+"branch": "Mining Engineering",
+"reach": "No-data",
+"points": 56.6,
+"pct": 51.0
+},
+{
+"rank": 421,
+"ic": "216",
+"bc": "4152",
+"inst": "National Institute of Technology Raipur",
+"branch": "Bio Medical Engineering",
+"reach": "SAFE",
+"points": 56.1,
+"pct": 50.1
+},
+{
+"rank": 422,
+"ic": "402",
+"bc": "4167",
+"inst": "Birla Institute of Technology, Mesra, Ranchi",
+"branch": "Food Engineering  and Technology",
+"reach": "BORDERLINE",
+"points": 42.5,
+"pct": 34.6
+},
+{
+"rank": 423,
+"ic": "310",
+"bc": "4117",
+"inst": "Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",
+"branch": "Engineering Physics",
+"reach": "No-data",
+"points": 41.2,
+"pct": 33.5
+},
+{
+"rank": 424,
+"ic": "402",
+"bc": "5507",
+"inst": "Birla Institute of Technology, Mesra, Ranchi",
+"branch": "Physics",
+"reach": "No-data",
+"points": 38.3,
+"pct": 31.0
+},
+{
+"rank": 425,
+"ic": "323",
+"bc": "413D",
+"inst": "Indian Institute of Information Technology Bhopal",
+"branch": "Physics and Computational Engineering",
+"reach": "BORDERLINE",
+"points": 32.5,
+"pct": 28.8
+},
+{
+"rank": 426,
+"ic": "451",
+"bc": "4191",
+"inst": "Shri G. S. Institute of Technology and Science Indore",
+"branch": "Biomedical Engineering",
+"reach": "No-data",
+"points": 20.6,
+"pct": 19.7
+},
+{
+"rank": 427,
+"ic": "410",
+"bc": "4164",
+"inst": "Sant Longowal Institute of Engineering and Technology",
+"branch": "Food Technology",
+"reach": "BORDERLINE",
+"points": 14.1,
+"pct": 10.2
+},
+{
+"rank": 428,
+"ic": "428",
+"bc": "4152",
+"inst": "Central University of Rajasthan, Rajasthan",
+"branch": "Bio Medical Engineering",
+"reach": "BORDERLINE",
+"points": 10.0,
+"pct": 6.7
+},
+{
+"rank": 429,
+"ic": "410",
+"bc": "5503",
+"inst": "Sant Longowal Institute of Engineering and Technology",
+"branch": "Chemistry",
+"reach": "No-data",
+"points": 9.9,
+"pct": 6.4
+},
+{
+"rank": 430,
+"ic": "410",
+"bc": "5508",
+"inst": "Sant Longowal Institute of Engineering and Technology",
+"branch": "Mathematics",
+"reach": "No-data",
+"points": 9.9,
+"pct": 6.4
+},
+{
+"rank": 431,
+"ic": "410",
+"bc": "5507",
+"inst": "Sant Longowal Institute of Engineering and Technology",
+"branch": "Physics",
+"reach": "No-data",
+"points": 9.9,
+"pct": 6.4
+},
+{
+"rank": 432,
+"ic": "431",
+"bc": "4164",
+"inst": "National Institute of Food Technology Entrepreneurship and Management, Thanjavur",
+"branch": "Food Technology",
+"reach": "SAFE",
+"points": 8.9,
+"pct": 4.7
+},
+{
+"rank": 433,
+"ic": "438",
+"bc": "4167",
+"inst": "Institute of Engineering and Technology, Dr. H. S. Gour University. Sagar (A Central University)",
+"branch": "Food Engineering  and Technology",
+"reach": "No-data",
+"points": 7.9,
+"pct": 3.8
+},
+{
+"rank": 434,
+"ic": "430",
+"bc": "4183",
+"inst": "National Institute of Food Technology Entrepreneurship and Management, Kundli",
+"branch": "Food Technology and Management",
+"reach": "SAFE",
+"points": 7.6,
+"pct": 2.7
+},
+{
+"rank": 435,
+"ic": "427",
+"bc": "4164",
+"inst": "Ghani Khan Choudhary Institute of Engineering and Technology, Malda, West Bengal",
+"branch": "Food Technology",
+"reach": "No-data",
+"points": 5.5,
+"pct": 1.3
+},
+{
+"rank": 436,
+"ic": "214",
+"bc": "4110",
+"inst": "National Institute of Technology Patna",
+"branch": "Computer Science and Engineering",
+"reach": "OUT",
+"points": 69.2,
+"pct": 71.6
+},
+{
+"rank": 437,
+"ic": "214",
+"bc": "520I",
+"inst": "National Institute of Technology Patna",
+"branch": "Computer Science and Engineering with Specialization in Cyber Security",
+"reach": "LIKELY",
+"points": 69.2,
+"pct": 71.6
+},
+{
+"rank": 438,
+"ic": "214",
+"bc": "520H",
+"inst": "National Institute of Technology Patna",
+"branch": "Computer Science and Engineering with Specialization in Data Science",
+"reach": "No-data",
+"points": 68.5,
+"pct": 69.8
+},
+{
+"rank": 439,
+"ic": "214",
+"bc": "4188",
+"inst": "National Institute of Technology Patna",
+"branch": "Artificial Intelligence and Data Science",
+"reach": "OUT",
+"points": 68.0,
+"pct": 69.2
+},
+{
+"rank": 440,
+"ic": "214",
+"bc": "520O",
+"inst": "National Institute of Technology Patna",
+"branch": "Mathematics and Computing Technology",
+"reach": "No-data",
+"points": 67.2,
+"pct": 67.4
+},
+{
+"rank": 441,
+"ic": "214",
+"bc": "411H",
+"inst": "National Institute of Technology Patna",
+"branch": "Electronics Engineering (VLSI Design and Technology)",
+"reach": "BORDERLINE",
+"points": 65.7,
+"pct": 65.4
+},
+{
+"rank": 442,
+"ic": "214",
+"bc": "520J",
+"inst": "National Institute of Technology Patna",
+"branch": "Electronics and Communication Engineering with Specialization in Microelectronics and VLSI System Design",
+"reach": "LIKELY",
+"points": 65.7,
+"pct": 65.4
+},
+{
+"rank": 443,
+"ic": "214",
+"bc": "4114",
+"inst": "National Institute of Technology Patna",
+"branch": "Electronics and Communication Engineering",
+"reach": "LIKELY",
+"points": 65.2,
+"pct": 63.9
+},
+{
+"rank": 444,
+"ic": "214",
+"bc": "4111",
+"inst": "National Institute of Technology Patna",
+"branch": "Electrical Engineering",
+"reach": "SAFE",
+"points": 63.7,
+"pct": 61.9
+},
+{
+"rank": 445,
+"ic": "214",
+"bc": "520K",
+"inst": "National Institute of Technology Patna",
+"branch": "Electrical Engineering with Specialization In Power System Engineering",
+"reach": "No-data",
+"points": 63.7,
+"pct": 61.9
+},
+{
+"rank": 446,
+"ic": "214",
+"bc": "4125",
+"inst": "National Institute of Technology Patna",
+"branch": "Mechanical Engineering",
+"reach": "SAFE",
+"points": 60.8,
+"pct": 55.4
+},
+{
+"rank": 447,
+"ic": "214",
+"bc": "520L",
+"inst": "National Institute of Technology Patna",
+"branch": "Mechanical Engineering with Specialization in Manufacturing and Industrial Engineering",
+"reach": "BORDERLINE",
+"points": 60.8,
+"pct": 55.4
+},
+{
+"rank": 448,
+"ic": "214",
+"bc": "521R",
+"inst": "National Institute of Technology Patna",
+"branch": "Chemical Technology",
+"reach": "LIKELY",
+"points": 58.8,
+"pct": 53.4
+},
+{
+"rank": 449,
+"ic": "214",
+"bc": "4109",
+"inst": "National Institute of Technology Patna",
+"branch": "Civil Engineering",
+"reach": "SAFE",
+"points": 57.3,
+"pct": 51.9
+},
+{
+"rank": 450,
+"ic": "214",
+"bc": "520M",
+"inst": "National Institute of Technology Patna",
+"branch": "Civil Engineering with Specialization in Construction Technology and Management",
+"reach": "No-data",
+"points": 57.3,
+"pct": 51.9
+},
+{
+"rank": 451,
+"ic": "214",
+"bc": "411B",
+"inst": "National Institute of Technology Patna",
+"branch": "Mechatronics and Automation Engineering",
+"reach": "No-data",
+"points": 56.8,
+"pct": 51.2
+},
+{
+"rank": 452,
+"ic": "214",
+"bc": "520N",
+"inst": "National Institute of Technology Patna",
+"branch": "Material Science and Engineering",
+"reach": "No-data",
+"points": 55.8,
+"pct": 49.4
+},
+{
+"rank": 453,
+"ic": "322",
+"bc": "4110",
+"inst": "Indian Institute of Information Technology Bhagalpur",
+"branch": "Computer Science and Engineering",
+"reach": "SAFE",
+"points": 32.8,
+"pct": 29.0
+},
+{
+"rank": 454,
+"ic": "322",
+"bc": "4124",
+"inst": "Indian Institute of Information Technology Bhagalpur",
+"branch": "Mathematics and Computing",
+"reach": "LIKELY",
+"points": 30.8,
+"pct": 27.5
+},
+{
+"rank": 455,
+"ic": "322",
+"bc": "4114",
+"inst": "Indian Institute of Information Technology Bhagalpur",
+"branch": "Electronics and Communication Engineering",
+"reach": "LIKELY",
+"points": 28.8,
+"pct": 27.1
+},
+{
+"rank": 456,
+"ic": "441",
+"bc": "4110",
+"inst": "Birla Institute of Technology, Patna Off-Campus",
+"branch": "Computer Science and Engineering",
+"reach": "SAFE",
+"points": 21.5,
+"pct": 21.3
+},
+{
+"rank": 457,
+"ic": "322",
+"bc": "411B",
+"inst": "Indian Institute of Information Technology Bhagalpur",
+"branch": "Mechatronics and Automation Engineering",
+"reach": "LIKELY",
+"points": 20.4,
+"pct": 19.5
+},
+{
+"rank": 458,
+"ic": "441",
+"bc": "A22-01",
+"inst": "Birla Institute of Technology, Patna Off-Campus",
+"branch": "Artificial Intelligence and Machine Learning",
+"reach": "LIKELY",
+"points": 20.3,
+"pct": 19.1
+},
+{
+"rank": 459,
+"ic": "441",
+"bc": "5506",
+"inst": "Birla Institute of Technology, Patna Off-Campus",
+"branch": "Mathematics and Computing",
+"reach": "No-data",
+"points": 19.5,
+"pct": 18.0
+},
+{
+"rank": 460,
+"ic": "441",
+"bc": "4114",
+"inst": "Birla Institute of Technology, Patna Off-Campus",
+"branch": "Electronics and Communication Engineering",
+"reach": "LIKELY",
+"points": 17.5,
+"pct": 14.9
+},
+{
+"rank": 461,
+"ic": "441",
+"bc": "4144",
+"inst": "Birla Institute of Technology, Patna Off-Campus",
+"branch": "Electrical and Electronics Engineering",
+"reach": "LIKELY",
+"points": 16.0,
+"pct": 13.3
+},
+{
+"rank": 462,
+"ic": "446",
+"bc": "4110",
+"inst": "National Institute of Electronics and Information Technology, Patna (Bihar)",
+"branch": "Computer Science and Engineering",
+"reach": "BORDERLINE",
+"points": 16.0,
+"pct": 13.1
+},
+{
+"rank": 463,
+"ic": "441",
+"bc": "4125",
+"inst": "Birla Institute of Technology, Patna Off-Campus",
+"branch": "Mechanical Engineering",
+"reach": "BORDERLINE",
+"points": 13.1,
+"pct": 9.5
+},
+{
+"rank": 464,
+"ic": "441",
+"bc": "4109",
+"inst": "Birla Institute of Technology, Patna Off-Campus",
+"branch": "Civil Engineering",
+"reach": "BORDERLINE",
+"points": 9.6,
+"pct": 5.8
+}
+]

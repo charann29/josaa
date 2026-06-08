@@ -1,0 +1,575 @@
+# Master URL Catalog (by platform)
+
+**535 unique URLs.**
+
+## YouTube (video) (119)
+
+- [JOSAA 2024: BEST CHOICE FILLING Order (PDF) for NITs IIITs IITs GFTIs | Neha Agrawal](https://www.youtube.com/watch?v=vqPx4j_I4Gc) — Choice-filling order & locking · 💬
+- [JOSAA Counselling 2024 | IITs, NITs, IIITs & GFTI Choice filling | best preference order live](https://www.youtube.com/watch?v=DfHPowlx3EY) — Choice-filling order & locking · 💬
+- [JoSAA Counselling 2024: Best Choice Filling Order For IITs, NITs, IIITs & GFTIs | Harsh Sir](https://www.youtube.com/watch?v=rSh0tGcO9CI) — Choice-filling order & locking · 💬
+- [JoSAA 2024 | All Categories | Best Choice Filling Order | IITs, NITs, IIITs and GFTIs](https://www.youtube.com/watch?v=rdGaJhFrkqU) — Choice-filling order & locking · 💬
+- [JoSAA 2024 | All Categories | Best Choice Filling Order | IITs, NITs, IIITs & GFTIs | Vinay Shur Sir](https://www.youtube.com/watch?v=FtjWuRwRdz8) — Choice-filling order & locking · 💬
+- [JOSAA Choice Filling Order 2024 || Free Preference List pdf || JOSAA Counselling Procedure](https://www.youtube.com/watch?v=ryTeZ77j5XA) — Choice-filling order & locking · 💬
+- [How to Fill Choices in JoSAA 2024? | JoSAA Counselling](https://www.youtube.com/watch?v=5LTLV52HEG4) — Choice-filling order & locking · 💬
+- [JOSAA Counselling 2025: Choice Filling Order | Free Preference List](https://www.youtube.com/watch?v=-JyPFlVRP20) — Choice-filling order & locking · 💬
+- [JoSAA 2025 - Ideal Choice Filling Order | ALL CATEGORIES | IIT NIT IIIT & GFTI](https://www.youtube.com/watch?v=ogXcVFnJazU) — Choice-filling order & locking · 💬
+- [Choice Filling in JoSAA, CSAB 2025 | Preference Order FULL Detail](https://www.youtube.com/watch?v=L-mn1URxohE) — Choice-filling order & locking · 💬
+- [JOSAA 2025: Best Choice Filling Order Step-by-Step Live Guide (NITs, IITs, IIITs)](https://www.youtube.com/watch?v=bqZq1IrrpEE) — Choice-filling order & locking · 💬
+- [JoSAA 2025 | Ideal Choice Filling Order | ALL CATEGORIES | IIT NIT IIIT & GFTI | Vinay Shur Sir](https://www.youtube.com/watch?v=4EAEiGAgmqY) — Choice-filling order & locking · 💬
+- [JoSAA Counselling 2025 Choice Filling ka Best Order | Mega Live Q&A | ALLEN](https://www.youtube.com/watch?v=BRDq305s9AA) — Choice-filling order & locking · 💬
+- [JoSAA Choice Filling Mistakes to Avoid in 2025!](https://www.youtube.com/watch?v=MrlM-hcZ0cA) — Choice-filling order & locking · 💬
+- [JoSAA Counselling 2025: Avoid These BIG Mistakes | Choice Filling Tips & Common Errors](https://www.youtube.com/watch?v=HGUrzstctnc) — Choice-filling order & locking · 💬
+- [JoSAA Counselling 2025 | Smartest Choice Filling Advice | LIVE Q&A | Mistakes to Avoid!](https://www.youtube.com/live/66nDbxRFe9k) — Choice-filling order & locking · 💬
+- [JoSAA Counselling 2026 | Get the Smartest Choice Filling Advice | LIVE Q&A | Mistakes to Avoid!](https://www.youtube.com/watch?v=qgXYmaP9Edo) — Choice-filling order & locking · 💬
+- [How Mock Seat Allotment Works in JoSAA 2025 | Complete Guide for Students](https://www.youtube.com/watch?v=4ENu6yNNaag) — Choice-filling order & locking · 💬
+- [JOSAA 2025 Mock Seat Allotment Out || Allotment ke baad kya karna hai? || Choice Filling kaise karna hai](https://www.youtube.com/watch?v=KsQggV30xng) — Choice-filling order & locking · 💬
+- [JoSAA Counselling Procedure 2026: Detailed Guide, Choice Filling Strategies, Key Steps & Documents](https://www.youtube.com/watch?v=nzvJnt977vU) — Choice-filling order & locking · 💬
+- [All about JoSAA Counselling 2026 | Choice filling strategies | Snehit Mishra](https://www.youtube.com/watch?v=Wm_hidwZ3CE) — Choice-filling order & locking · 💬
+- [JoSAA Counselling 2026: Step-by-Step Registration & Choice Filling Guide | Harsh Sir](https://www.youtube.com/watch?v=qqjnBz16sdc) — Choice-filling order & locking · 💬
+- [All About JOSAA Counselling You Should Know | JEE Mains 2026 | NIT, IIT, GFTI, IIIT | Harsh Sir](https://www.youtube.com/watch?v=I-8WVYcF2hM) — General / cross-cutting · 💬
+- [Make These Documents Ready Before JOSAA Counselling Starts | JEE 2026 | Harsh Sir](https://www.youtube.com/watch?v=eII0PJUC0Cs) — Documents & reporting · 💬
+- [JEE 2026 Counselling Dates Released: JoSAA, CSAB, JAC Delhi | Complete Guide | Harsh Sir](https://www.youtube.com/watch?v=DaJ6SAOXb80) — Exam registration friction · 💬
+- [JoSAA Choice Filling 2025 FULL Guide Step-by-Step | JEE 2025 Counselling | Harsh sir](https://www.youtube.com/watch?v=s7d-hcqXf_s) — Choice-filling order & locking · 💬
+- [Drop Now or Wait for JoSAA Counselling? JEE 2024 | Harsh Sir](https://www.youtube.com/watch?v=BaIAO9Cnc00) — Drop-year decision · 💬
+- [JoSAA Counselling 2025 Choice Filling Process | IIT & NIT Admission | Live Q&A | ALLEN](https://www.youtube.com/watch?v=U_nowHeXG0s) — Choice-filling order & locking · 💬
+- [JoSAA Counselling 2025 Choice Filling se pehle | Marks vs Ranks vs IIT | Live Q&A | ALLEN](https://www.youtube.com/watch?v=XjwZ1VoMQzE) — Percentile vs rank / normalization · 💬
+- [JoSAA Counselling 2023 | IITs Best Choice filling order at your rank | Vinay Shur Sir | Vedantu JEE](https://www.youtube.com/watch?v=NUP17FzhHaU) — Choice-filling order & locking · 💬
+- [All About JOSAA Counselling process 2023 | Steps and Documents Required | Vinay Shur Sir | Vedantu](https://www.youtube.com/watch?v=7miGZtCxzl0) — Documents & reporting · 💬
+- [JoSAA Counselling 2025 | Smart Choice Filling Tips & LIVE Doubt Solving | Avoid These Common Mistakes (Competishun)](https://www.youtube.com/watch?v=0L85zp_71sI) — Choice-filling order & locking · 💬
+- [JoSAA Counselling 2025 LIVE: Choose the Best College & Branch Smartly! | Expert Tips (Competishun)](https://www.youtube.com/watch?v=6Q1F_K4WVA4) — Branch vs College agony · 💬
+- [Low Marks in JEE Mains | CSAB Counselling 2025 Explained | Dates, Documents & Step-by-Step Process](https://www.youtube.com/watch?v=lo7_LNiJr_A) — General / cross-cutting · 💬
+- [CSAB 2025: Mock Seat Result Out!! What Next!? Full Procedure](https://www.youtube.com/watch?v=9KUwy75FvVw) — Float / Freeze / Slide · 💬
+- [All about CSAB counselling 2026 | Choice filling Strategy | Snehit Mishra](https://www.youtube.com/watch?v=PfBcU2jNgMg) — General / cross-cutting · 💬
+- [LIVE | JoSAA 2026 Allotment Procedure & Option Registration Explained | Ask Your Doubts LIVE](https://www.youtube.com/watch?v=kuxt2MnEuS8) — Float / Freeze / Slide · 💬
+- [How to Choose College and Branch in JoSAA Counselling 2025 part 1 | Shobhit Sir | AIR 15](https://www.youtube.com/shorts/DSUAcmNE8Zw) — Branch vs College agony · 💬
+- [JOSAA Counselling | College and Stream Predictor Tool | MathonGo](https://www.youtube.com/watch?v=xTiVz4I8tLY) — Percentile vs rank / normalization · 💬
+- [JOSAA FEE Refund 2025 | JOSAA Refund Policy | JOSAA Withdrawal Process](https://www.youtube.com/watch?v=ReETPVgwD_E) — Private/state deposit forfeiture · 💬
+- [Will you get JoSAA fee refund if you forgot to withdraw the seat?](https://www.youtube.com/watch?v=V1GNrSD83dE) — Private/state deposit forfeiture · 💬
+- [JoSAA & JAC Delhi Counselling 2025 - 6 Mistakes that can cost your seat](https://m.youtube.com/watch?v=OTSp8Z5CetM) — Choice-filling order & locking · 💬
+- [JOSAA Counselling 2024 Explained in Hindi | Mistakes to Avoid](https://www.youtube.com/watch?v=9hreTDaSd8Q) — Choice-filling order & locking · 💬
+- [JoSAA Counselling Procedure 2024: Detailed Guide, Choice Filling Strategies, Key Steps & Documents](https://www.youtube.com/watch?v=bzhEbJp4j7U) — Choice-filling order & locking · 💬
+- [JoSAA Counselling 2024: Live Registration Process & Choice Filling | Complete Process Step By Step](https://www.youtube.com/watch?v=DkuiPRrv2hk) — Exam registration friction · 💬
+- [JOSAA Counselling 2024 - Choice Filling for NIT at Low Percentile](https://www.youtube.com/watch?v=5Cc7OpvYBJ0) — Percentile vs rank / normalization · 💬
+- [JEE Main College Predictor | JOSAA Counselling Predictor Tool | MathonGo](https://www.youtube.com/watch?v=T7Y5JP-hihk) — Predictor distrust & lead-gen spam · 💬
+- [FREE College Predictor Tool for JEE | Opening & Closing Ranks | Rank Vs College | JOSAA Counselling](https://www.youtube.com/watch?v=yVtTKZLMSjA) — Predictor distrust & lead-gen spam · 💬
+- [JEE Over | JOSAA Counselling 2025 Explained | Dates, Documents & Step-by-Step Process | NIT,IIT](https://www.youtube.com/watch?v=yZwPe80px5I) — Documents & reporting · 💬
+- [JoSAA Seat Allotment 2024 | Freeze, Float & Slide Explained](https://www.youtube.com/watch?v=CAiSjkixvzs) — Float / Freeze / Slide · 💬
+- [FREEZE, FLOAT, SLIDE JoSAA Counselling 2025 | Choose Willingness JOSAA | JOSAA 2025 Seat Allotment](https://www.youtube.com/watch?v=uhV1VARxE60) — Float / Freeze / Slide · 💬
+- [JOSAA Seat Allocation Choices: Freeze vs Float vs Slide! | Simple Guide | IGNITTE](https://www.youtube.com/watch?v=yPU_pywf6ug) — Float / Freeze / Slide · 💬
+- [JoSAA 2025 Seat Allotment Guide: Got a Seat or Not? Next Steps Explained](https://www.youtube.com/watch?v=1JzIiCRLaMU) — Float / Freeze / Slide · 💬
+- [Best IIT vs Best Branch? | Make the Right Choice in JoSAA 2026](https://www.youtube.com/watch?v=MZm3K_4hwEw) — Branch vs College agony · 💬
+- [College vs Branch | JOSAA Counselling 2025 | Shobhit Sir AIR15](https://www.youtube.com/watch?v=NzKCPjte8oc) — Branch vs College agony · 💬
+- [How to Choose COLLEGE & BRANCH in JoSAA | Higher IIT Lower Branch or Lower IIT Higher Branch?](https://www.youtube.com/watch?v=7AajK9hP8jc) — Branch vs College agony · 💬
+- [JOSAA 2025 Counselling | CSAB Special Round | What You MUST Know | LIVE | InfinityLearn-JEE](https://www.youtube.com/watch?v=aOzxeF96OOs) — Quota / category / gender pool · 💬
+- [JOSAA Round 5 & 6 Expected Cut Off | CSAB is Very Special](https://www.youtube.com/watch?v=8kAmaxX-uNk) — Percentile vs rank / normalization · 💬
+- [JoSAA Counselling 2025 Complete Step-by-Step Process | Live Choice filling | Complete Registration](https://www.youtube.com/watch?v=0k05s2EYfmw) — Choice-filling order & locking · 💬
+- [JoSAA 2025 Pre-Document Upload Process | Step-by-Step](https://www.youtube.com/watch?v=MtYgMyEriCA) — Documents & reporting · 💬
+- [JoSAA 2024 Allotment | All about Choice Filling](https://www.youtube.com/watch?v=K3uBLydmJH8) — Choice-filling order & locking · 💬
+- [JOSAA 2024: Best Branches to Choose in Engineering Colleges (IITs, NITs...)](https://www.youtube.com/watch?v=vzJqzYfsE8A) — Branch vs College agony · 💬
+- [YouTube — JoSAA 2025 Freeze, Float or Slide? Best Option Explained](https://www.youtube.com/watch?v=u6uqIQLYBgc) — Float / Freeze / Slide · 💬
+- [FREEZE vs FLOAT vs SLIDE | How to choose during Counselling (VipulBagga #shorts)](https://www.youtube.com/watch?v=fnyrjiX0kyA) — Float / Freeze / Slide
+- [Freeze Float Slide में क्या Difference होता है? Which to Choose? JoSAA Counselling](https://www.youtube.com/watch?v=0TMrkoH9dK0) — Float / Freeze / Slide
+- [College Predictor | NITs & IIITs Opening and Closing Rank acc. to JOSAA Counselling](https://www.youtube.com/watch?v=RlVGrbLk3Ak) — Float / Freeze / Slide · 💬
+- [JoSAA 2025 Choice Filling Strategy — New Seats & Lower Cutoffs Explained](https://www.youtube.com/watch?v=BicNyFB6MGY) — Float / Freeze / Slide · 💬
+- [JoSAA Counselling 2025: Smartest Choice Filling Advice, Live Q&A](https://www.youtube.com/watch?v=66nDbxRFe9k) — Choice-filling order & locking · 💬
+- [JoSAA Counselling 2025 — Choice Filling Strategy Guide](https://www.youtube.com/watch?v=IGbOVzFEONg) — Choice-filling order & locking · 💬
+- [All About JOSAA Counselling JEE 2026 | JEE Mains #josaa #josaacounselling #jee2026 #shorts #iit](https://www.youtube.com/watch?v=FbtNt57U7fY) — Choice-filling order & locking · 💬
+- [JOSAA Counselling Round 1 Result | IIT BOMBAY | Seat Allotment |#jeeadvance2023 #iitbombay](https://www.youtube.com/watch?v=McQu4W0RtRc) — Choice-filling order & locking · 💬
+- [🚨MOCK SEAT ALLOCATION JOSAA 2026✅ | JOSAA Mock Seat Allotment #jee #iitjee #iit #shorts](https://www.youtube.com/watch?v=DAjdltv1MDM) — Choice-filling order & locking · 💬
+- [MOCK SEAT ALLOCATION JOSAA 2026✅ | JOSAA Mock Seat Allotment | JOSAA Counselling 2026 #shorts](https://www.youtube.com/watch?v=qRGc5CIvxGo) — Choice-filling order & locking · 💬
+- [🔥 my josaa round 6 result 😌 #josaa2023 #josaa #csab #csab2023 #college #iit #iiit #nit](https://www.youtube.com/watch?v=x-NxArm7M84) — Choice-filling order & locking · 💬
+- [JOSAA Round 1 Result✅ | JOSAA Counselling 2025 Round 1 | JOSAA 2025](https://www.youtube.com/watch?v=YskgjTEB3-A) — Choice-filling order & locking · 💬
+- [🚨How to Check JOSAA Mock Seat Allotment 2026✅ | Mock Seat Allotment JOSAA 2026 #shorts](https://www.youtube.com/watch?v=4oTSZ3NACjI) — Choice-filling order & locking · 💬
+- [Mock Seat Round क्या होता है  ? Is it Real Seat allocation ? JOSAA Counselling 2023](https://www.youtube.com/watch?v=RqPxkc-kBEQ) — Choice-filling order & locking · 💬
+- [JoSAA Mock Seat Allotment Reailty | How Accurate is Mock Seat Allocation | JoSAA 2025 Counselling](https://www.youtube.com/watch?v=hxP8YHTBaQs) — Choice-filling order & locking · 💬
+- [JOSAA Mock Seat Allotment 1 2024 #iit #josaa2024 #iitbombay](https://www.youtube.com/watch?v=0ePFFEC__II) — Choice-filling order & locking · 💬
+- [JOSAA Mock Round 2 Allotment✅ | JOSAA Mock Seat Allotment 2026 | JOSAA Counselling 2026 #shorts](https://www.youtube.com/watch?v=g40p-HLN69U) — Choice-filling order & locking · 💬
+- [JOSAA Counselling Mock Seat Allotment Shocking Update✅ | Mock Seat Allotment Josaa Counselling 2026](https://www.youtube.com/watch?v=DVM4rf4n8Q8) — Choice-filling order & locking · 💬
+- [JoSAA mock seat allotment🤩🤩🤩| #josaa #josaacounseling   #jee #pw](https://www.youtube.com/watch?v=jizHAA6BOP8) — Choice-filling order & locking · 💬
+- [JOSAA Choice Filling Mock Allotment ! #iit #jee](https://www.youtube.com/watch?v=uF9icVnngkA) — Choice-filling order & locking · 💬
+- [JOSAA SEAT ALLOTMENT | Mock Round 2 | AIR 179 IIT DELHI | JEE ADVANCED COUNSELLING |  #IIT #JOSAA](https://www.youtube.com/watch?v=WDZOLzZ3Bxc) — Choice-filling order & locking · 💬
+- [JoSAA Counselling 2026 Complete Overview | Registration, Choice Filling, Seat Allotment](https://www.youtube.com/watch?v=EXz2hsPbVlE) — Choice-filling order & locking · 💬
+- [JOSAA Counselling Mock Seat Allocation Urgent Update✅ Big Confusion🤔 |Mock Seat Allotment Josaa 2026](https://www.youtube.com/watch?v=FyeclBTALII) — Choice-filling order & locking · 💬
+- [JoSAA 2026 Mock Allotment-1 Results 🔥 | IIT/NIT/IIIT Seat Chances | Counselling Strategy 2026](https://www.youtube.com/watch?v=LQymxDf69yQ) — Choice-filling order & locking · 💬
+- [JOSAA లో MOCK ALLOTMENT ఎప్పుడు ఎలా వస్తుంది #PHANI sir](https://www.youtube.com/watch?v=Dai3el-HFyA) — Choice-filling order & locking · 💬
+- [SEAT ALLOTMENT IN  IIT NIT IIIT |JoSAA-2026|OC OBC SC ST EWS PWD Complete Guide| Category - Analysis](https://www.youtube.com/watch?v=wrrze1nVZb4) — Choice-filling order & locking · 💬
+- [JoSAA-2026 |MOCK ALLOTMENT | ఎలా ఇస్తారు చూడండి |  సీటు రాకుంటే ఏం చెయ్యాలి...? ఈ తప్పులు చేయకండి..](https://www.youtube.com/watch?v=AMGvBJ_-QVk) — Choice-filling order & locking · 💬
+- [URGENT✅|JoSAA 2026 Mock Seat Allocation|What Is Mock Seat In JoSAA Counselling|JoSAA 2026 Choice ](https://www.youtube.com/watch?v=u-nBTSF01Z8) — Choice-filling order & locking · 💬
+- [JOSAA Counselling Mock Seat Allocation Latest Update✅ | Mock Seat Allotment Josaa 2026 #josaa #csab](https://www.youtube.com/watch?v=kl3gymfN2WM) — Choice-filling order & locking · 💬
+- [🚨 JoSAA 2026 Mock Allotment Out! Verify Choice Filling Before Final Locking](https://www.youtube.com/watch?v=EH8-o9VYUQE) — Choice-filling order & locking · 💬
+- [Urgent🔴 Update Regarding Josaa Mock Allotment](https://www.youtube.com/watch?v=573ep6jg9c4) — Choice-filling order & locking · 💬
+- [JOSAA Mock Seat Allocation 2026 | JOSAA Counselling Procedure 2026 | Mock Seat Allocation Round 1, 2](https://www.youtube.com/watch?v=lsRCDkV60J4) — Choice-filling order & locking · 💬
+- [😱JOSAA 2026 Total Registration!Mock Seat Allotment 1 Cutoffs?JOSAA 2026 ROUND 1 Cutoffs?Low Cutoffs ](https://www.youtube.com/watch?v=vozTEmdS1pU) — Choice-filling order & locking · 💬
+- [🚨 JoSAA Mock Seat Allotment JOSAA COUNSELLING 2026 Explained | Don't Make These Counselling Mistakes](https://www.youtube.com/watch?v=fgS0OPOcaw0) — Choice-filling order & locking · 💬
+- [JoSAA 2026 Mock Allotment మిస్ అవకండి! Choices Fill Before June 7, 8 PM || NANO myClassroom](https://www.youtube.com/watch?v=3ASE0mA2t8Y) — Choice-filling order & locking · 💬
+- [🚨 JoSAA Mock Seat Allotment 2026 Explained | JOSAA counselling 2026 Mock Seat Allotment](https://www.youtube.com/watch?v=qMknc3QpKCo) — Choice-filling order & locking · 💬
+- [JOSAA Mock Allotment Result | Round 2 allotment update | #Counselling #Josaa #Cutoff #Mock #JEE_2021](https://www.youtube.com/watch?v=J6VqQo-6Ewo) — Choice-filling order & locking · 💬
+- [Josaa counseling 2022 Mock allotment Details | Use of mock allotment #cutoff #Mock #allotment #Josaa](https://www.youtube.com/watch?v=yBzoALLDD70) — Choice-filling order & locking · 💬
+- [Josaa counselling 2022 Mock allotment timings | What to do after that ? #Mock #allotment #Josaa #NIT](https://www.youtube.com/watch?v=z40Udk6N01U) — Choice-filling order & locking · 💬
+- [Josaa Counseling 2025 Mock Allotment Details | What to do after mock allotment ? #Mock_Allotment](https://www.youtube.com/watch?v=ucX2BiydrwQ) — Choice-filling order & locking · 💬
+- [Last Chance Before Mock Allotment! Check Your Choice Filling | JoSAA 2026](https://www.youtube.com/watch?v=1_oxycN9fO8) — Choice-filling order & locking · 💬
+- [Mock Seat Allotment in JoSAA 2026 🚀| Choice Filling Kaise Karein? | Josaa Counselling 2026 #josaa](https://www.youtube.com/watch?v=QxlrP10vGic) — Choice-filling order & locking · 💬
+- [JoSAA B.ARCH COUNSELLING PROCEDURE 2021 | MOCK ALLOTMENT 01 | ARCHITECTURE](https://www.youtube.com/watch?v=RsjTdNAk6mc) — Choice-filling order & locking · 💬
+- [Josaa 2023 Mock allotment 2 done now ✅ | How to change the choice to get seat ? #Mock #allotment](https://www.youtube.com/watch?v=d4AMYRfUjOY) — Choice-filling order & locking · 💬
+- [JOSAA COUNSELLING 2023 ||💥MOCK ALLOTMENT में 🔥COLLEGE नहीं 🤔मिला तो क्या करे ?](https://www.youtube.com/watch?v=fBkliNOJsAM) — Choice-filling order & locking · 💬
+- [JoSAA B.ARCH COUNSELLING PROCEDURE 2021 | MOCK ALLOTMENT 02 | ARCHITECTURE](https://www.youtube.com/watch?v=yTse6WdylUE) — Choice-filling order & locking · 💬
+- [Josaa counselling 2023 Mock allotment urgent update ✅ | What to do after mock allotment #josaa2023](https://www.youtube.com/watch?v=RjlmngfN6A4) — Choice-filling order & locking · 💬
+- [JOSAA Mock Allotment Result | Latest Update on mock result | What to do next ? #Mock #Josaa #Results](https://www.youtube.com/watch?v=ZuXUmPL47to) — Choice-filling order & locking · 💬
+- [Josaa counselling mock allotment complete information in one minute ✅#counselling #mock_allotment](https://www.youtube.com/watch?v=oxOYUfaj3bk) — Choice-filling order & locking · 💬
+- [🚨 Mock Allotment से पहले ये काम कर लो! वरना पछताना पड़ सकता है | JoSAA 2026](https://www.youtube.com/watch?v=o5OqFMy9RCw) — Choice-filling order & locking · 💬
+- [JOSAA Counseling 2026 Urgent update for mock allotment | What to do after mock allotment #josaa](https://www.youtube.com/watch?v=I2rgt-bdwqI) — Choice-filling order & locking · 💬
+- [🚨 JOSAA 2026 Mock Choice Filling 1 Last Day | వీళ్లకే సీటు వచ్చే ఛాన్స్ ఎక్కువ! | Open/OBC/SC/ST](https://www.youtube.com/watch?v=qiqLhjeuLOg) — Choice-filling order & locking · 💬
+- [JOSAA Counseling 2026 Urgent update for mock allotment | What to do after mock allotment #josaa](https://www.youtube.com/watch?v=L8I_zaXzFeo) — Choice-filling order & locking · 💬
+- [JoSAA 2025 Mock Allotment Out! Check now & lock choices before June 12! ✅🎓 #JoSAA2025](https://www.youtube.com/watch?v=AElwLOovx3U) — Choice-filling order & locking · 💬
+- [JoSAA  Counselling MOCK Allotment #GenuineInformation #josaa2021 #jossacounselling #igdtuw](https://www.youtube.com/watch?v=n2-ep_-VUwE) — Choice-filling order & locking · 💬
+- [JOSAA Counselling 2026 ���� Mock Seat Allotment Urgent Update ✅ | Biggest Confusion Finally Cleared 🤔](https://www.youtube.com/watch?v=B1jYMI8GcoA) — Choice-filling order & locking · 💬
+
+## Reddit (110)
+
+- [Core in top NIT or CSE/ECE/IT in lower NITs?](https://www.reddit.com/r/JEENEETards/comments/13h1b5e/core_in_top_nit_or_cseceit_in_lower_nits/) — Branch vs College agony · 💬
+- [Core branches in top 3 NITs vs CSE in lower IIITs](https://www.reddit.com/r/Btechtards/comments/1dclmm9/core_branches_in_top_3_nits_vs_cse_in_lower_iiits/) — Branch vs College agony · 💬
+- [CS branch in non-NIT or lower branch in lower NIT](https://www.reddit.com/r/JEENEETards/comments/1d0tq0a/cs_branch_in_nonnit_or_lower_branch_in_lower_nit/) — Branch vs College agony · 💬
+- [Should I consider lower branches in Top NITs?](https://www.reddit.com/r/Btechtards/comments/14bu7aw/should_i_consider_lower_branches_in_top_nits/) — Branch vs College agony · 💬
+- [Should I go for lower branches in NITs or CSE in (private/lower college)?](https://www.reddit.com/r/Indian_Academia/comments/wb50vm/should_i_go_for_lower_branches_in_nits_or_cse_in/) — Branch vs College agony · 💬
+- [NIT core or VIT CSE](https://www.reddit.com/r/JEENEETards/comments/1cphp4z/nit_core_or_vit_cse/) — Branch vs College agony · 💬
+- [Are lower branches like that bad?](https://www.reddit.com/r/JEENEETards/comments/xqa3nr/are_lower_branches_like_that_bad/) — Branch vs College agony · 💬
+- [CSE vs core engineering branches](https://www.reddit.com/r/Btechtards/comments/1dkgpcg/cse_vs_core_engineering_branches/) — Branch vs College agony · 💬
+- [Branch vs college confusion](https://www.reddit.com/r/Btechtards/comments/1cjco5k/branch_vs_college_confusion/) — Branch vs College agony · 💬
+- [People who got decent rank in Advanced yet chose NIT CS, do you regret it?](https://www.reddit.com/r/Btechtards/comments/1dheuaa/people_who_got_decent_rank_in_advance_yet_chose/) — Branch vs College agony · 💬
+- [Did I fuck up? I chose NIT Warangal CSE over old IIT (lower branch)](https://www.reddit.com/r/JEENEETards/comments/154w2yl/did_i_fuck_up_i_chose_nitwarangal_cse_over_old/) — Branch vs College agony · 💬
+- [IIT vs NIT](https://www.reddit.com/r/JEENEETards/comments/13wlzb1/iit_vs_nit/) — Branch vs College agony · 💬
+- [Parents are forcing to do CS](https://www.reddit.com/r/Btechtards/comments/wyrsg0/parents_are_forcing_to_do_cs/) — Branch vs College agony · 💬
+- [Scared to take CSE cause of conservative parents, what should I do?](https://www.reddit.com/r/Btechtards/comments/1dgfh6b/scared_to_take_cse_cause_of_conservative_parents/) — Branch vs College agony · 💬
+- [My parents are forcing me into IIT](https://www.reddit.com/r/JEENEETards/comments/14f1fa0/my_parents_are_forcing_me_into_iit/) — Branch vs College agony · 💬
+- [Is it compulsory to take CSE????](https://www.reddit.com/r/Btechtards/comments/1j3xc3m/is_it_compulsory_to_take_cse/) — Branch vs College agony · 💬
+- [How to explain my mom that NIT Warangal is a good college](https://www.reddit.com/r/JEENEETards/comments/1cu0twc/how_to_explain_my_mom_that_nit_warangal_is_a_good/) — Branch vs College agony · 💬
+- [Bro literally everyone I know wants to do CSE](https://www.reddit.com/r/JEENEETards/comments/14jk8ie/bro_literally_everyone_i_know_wants_to_do_cse/) — Branch vs College agony · 💬
+- [Those who are in Tier 3 colleges, what are your (experiences)?](https://www.reddit.com/r/Btechtards/comments/182jvx6/those_who_are_in_tier_3_colleges_what_are_your/) — Branch vs College agony · 💬
+- [NIT Trichy/Surathkal EEE vs NIT Warangal ECE](https://www.reddit.com/r/JEENEETards/comments/1coqwru/nit_trichy_nit_surathkal_eee_vs_nit_warangal_ece/) — Branch vs College agony · 💬
+- [Things I wish I knew before joining B.Tech CSE](https://www.reddit.com/r/Indian_Academia/comments/p3o577/things_i_wish_which_i_knew_before_joining_btech/) — Branch vs College agony · 💬
+- [Will I ever regret joining BITS instead of an (IIT/NIT)?](https://www.reddit.com/r/JEENEETards/comments/wp7n0h/sorry_if_rude_will_i_ever_regret_joining_bits/) — Branch vs College agony · 💬
+- [FOR THOSE CONFUSED IN JOSAA CHOICE FILLING ORDER](https://www.reddit.com/r/JEENEETards/comments/1l3zjav/for_those_confused_in_josaa_choice_filling_order/) — Choice-filling order & locking · 💬
+- [How to fill josaa choices? A detailed guide on choice filling preference order for NITs, IIITs](https://www.reddit.com/r/JEENEETards/comments/1dhqk2k/how_to_fill_josaa_choices_a_detailed_guide_on/) — Choice-filling order & locking · 💬
+- [How to fill josaa choices? A detailed guide on choice filling preference order for NITs, IIITs](https://www.reddit.com/r/Btechtards/comments/1dhp36n/how_to_fill_josaa_choices_a_detailed_guide_on/) — Choice-filling order & locking · 💬
+- [What should be the best choice filling order in josaa if you...](https://www.reddit.com/r/JEE/comments/1dik1vk/what_should_be_the_best_choice_filling_order_in/) — Choice-filling order & locking · 💬
+- [How much does preference order matter in josaa](https://www.reddit.com/r/JEE/comments/1l34ouc/how_much_does_preference_order_matter_in_josaa/) — Choice-filling order & locking · 💬
+- [Deciding order for round 1 choice filling josaa](https://www.reddit.com/r/JEE/comments/1l8ylzx/deciding_order_for_round_1_choice_filling_josaa/) — Choice-filling order & locking · 💬
+- [Help to choose order for choice filling in jossa](https://www.reddit.com/r/JEE/comments/1dcplzt/help_to_choose_order_for_choice_filling_in_jossa/) — Choice-filling order & locking · 💬
+- [Give your Jossa choice filling order](https://www.reddit.com/r/JEENEETards/comments/1dcat6i/give_your_jossa_choice_filling_order/) — Choice-filling order & locking · 💬
+- [JOSAA choice filling](https://www.reddit.com/r/JEENEETards/comments/14d4kkc/josaa_choice_filling/) — Choice-filling order & locking · 💬
+- [Give some Josaa choice filling tips and awareness during counselling](https://www.reddit.com/r/JEENEETards/comments/1db4bm8/give_some_josaa_choice_filling_tips_and_awareness/) — Choice-filling order & locking · 💬
+- [JOSAA Counselling AMA for 24tards (Don't skip)](https://www.reddit.com/r/JEENEETards/comments/1dbvkjf/josaa_counselling_ama_for_24tards_dont_skip/) — Choice-filling order & locking · 💬
+- [Confused about JOSAA counselling choice filling](https://www.reddit.com/r/JEENEETards/comments/1l2ze0z/confused_about_josaa_counselling_choice_filling/) — Choice-filling order & locking · 💬
+- [Help needed in JOSAA choice filling](https://www.reddit.com/r/JEENEETards/comments/1kzds4y/help_needed_in_josaa_choice_filling/) — Choice-filling order & locking · 💬
+- [Help needed with JOSAA choice filling / degrees](https://www.reddit.com/r/JEE/comments/1l4zpsi/help_needed_with_josaa_choice_filling_degrees/) — Choice-filling order & locking · 💬
+- [Choice filling in JoSAA counselling](https://www.reddit.com/r/JEE/comments/1l1pu5l/choice_filling_in_josaa_counselling/) — Choice-filling order & locking · 💬
+- [Choice filling in josaa counselling](https://www.reddit.com/r/JEENEETards/comments/1l1liob/choice_filling_in_josaa_counselling/) — Choice-filling order & locking · 💬
+- [How many minimum choices should i fill in josaa counselling?](https://www.reddit.com/r/Btechtards/comments/14i3qmd/how_many_minimum_choices_should_i_fill_in_josaa/) — Choice-filling order & locking · 💬
+- [How many choices are you guys filling for josaa?](https://www.reddit.com/r/JEEAdv25dailyupdates/comments/1l43gyc/how_many_choices_are_you_guys_filling_for_josaa/) — Choice-filling order & locking · 💬
+- [What preference order should i fill in josaa with...](https://www.reddit.com/r/Indian_Academia/comments/xchthh/what_preference_order_should_i_fill_in_josaa_with/) — Choice-filling order & locking · 💬
+- [How to arrange these IITs as my preference in...](https://www.reddit.com/r/Indian_Academia/comments/xi2xcl/how_to_arrange_these_iits_as_my_preference_in/) — Choice-filling order & locking · 💬
+- [Which college should i prefer in josaa choice...](https://www.reddit.com/r/Indian_Academia/comments/xje7mc/which_college_should_i_prefer_in_josaa_choice/) — Branch vs College agony · 💬
+- [Josaa preference order](https://www.reddit.com/r/Btechtards/comments/qc9j4n/josaa_preference_order/) — Choice-filling order & locking · 💬
+- [Seniors please help this is my josaa preference...](https://www.reddit.com/r/Btechtards/comments/xexodr/seniors_please_help_this_is_my_josaa_preference/) — Choice-filling order & locking · 💬
+- [URGENT - SYSTEM LOCKED WRONG CHOICES & SHOWING WRONG SAVING DATE & TIME](https://www.reddit.com/r/JEENEETards/comments/1djerpe/urgent_system_locked_wrong_choices_showing_wrong/) — Float / Freeze / Slide · 💬
+- [forgot to lock the josaa choices although i have filled whatever i wanted](https://www.reddit.com/r/JEE/comments/1l9kdz3/forgot_to_lock_the_josaa_choices_although_i_have/) — Float / Freeze / Slide · 💬
+- [HELP ME WHY ARE MY CHOICES LOCKED!](https://www.reddit.com/r/JEENEETards/comments/1djek1p/help_me_why_are_my_choices_locked/) — Float / Freeze / Slide · 💬
+- [Did anyone lock their choices in JoSAA yet?](https://www.reddit.com/r/JEENEETards/comments/xizk18/did_anyone_lock_their_choices_in_josaa_yet/) — Float / Freeze / Slide · 💬
+- [Where can I find the choice filling order list? josaa round 1 result came](https://www.reddit.com/r/JEENEETards/comments/1lb0spd/where_can_i_find_the_choice_filling_order_list/) — Choice-filling order & locking · 💬
+- [Where can I check my choice filling order right...](https://www.reddit.com/r/CSAB_2025/comments/1mmjx5v/where_can_i_check_my_choice_filling_order_right/) — Choice-filling order & locking · 💬
+- [Tomorrow is CSAB choice filling and I need help!](https://www.reddit.com/r/JEENEETards/comments/1eg13yn/tomorrow_is_csab_choice_filling_and_i_need_help/) — Choice-filling order & locking · 💬
+- [For all those who are confused about their choice filling and JOSAA](https://www.reddit.com/r/JEEAdv24dailyupdates/comments/1dflq30/for_all_those_who_are_confused_about_their_choice/) — Choice-filling order & locking · 💬
+- [Analyzed 500+ JoSAA choices from last year - Here's the framework that actually works](https://www.reddit.com/r/JEENEETards/comments/1l6hrrj/analyzed_500_josaa_choices_from_last_year_heres/) — Choice-filling order & locking · 💬
+- [Don't fill your JOSAA choices blindly! We scraped and analyzed 2024 JoSAA data](https://www.reddit.com/r/JEENEETards/comments/1kye8lx/dont_fill_your_josaa_choices_blindly_we_scraped/) — Choice-filling order & locking · 💬
+- [[UPDATE] Don't Fill Your JoSAA Choices Blindly!](https://www.reddit.com/r/JEENEETards/comments/1l5mr7z/update_dont_fill_your_josaa_choices_blindly_now/) — Choice-filling order & locking · 💬
+- [JoSAA Choice Filling Help — Full Automated Filling (~600+ choices)](https://www.reddit.com/r/JEENEETards/comments/1l5e87b/josaa_choice_filling_help_full_automated_filling/) — Choice-filling order & locking · 💬
+- [How to fill choice preferences in josaa / jac](https://www.reddit.com/r/NSUT_Delhi/comments/1kv2nfz/how_to_fill_choice_preferences_in_josaa_jac/) — Choice-filling order & locking · 💬
+- [JoSAA refund (r/Vit)](https://www.reddit.com/r/Vit/comments/1f3a7ty/josaa_refund/) — Private/state deposit forfeiture · 💬
+- [Flot? Freeze? Slide?](https://www.reddit.com/r/JEENEETards/comments/1dlrboz/flot_freeze_slide/) — Float / Freeze / Slide · 💬
+- [Question regarding Float option in JOSAA](https://www.reddit.com/r/JEENEETards/comments/1dkch9t/question_regarding_float_option_in_josaa/) — Float / Freeze / Slide · 💬
+- [No Float or slide option in JoSAA](https://www.reddit.com/r/JEENEETards/comments/1dmoakx/no_float_or_slide_option_in_josaa/) — Float / Freeze / Slide · 💬
+- [Guys.. Should I freeze or float?](https://www.reddit.com/r/JEEAdv25dailyupdates/comments/1lc19g8/guys_should_i_freeze_or_float/) — Float / Freeze / Slide · 💬
+- [Should I Freeze or Float](https://www.reddit.com/r/JEEAdv25dailyupdates/comments/1lc1xw8/should_i_freeze_or_float/) — Float / Freeze / Slide · 💬
+- [Joint Seat Allocation Authority (JoSAA) Counselling Process](https://www.reddit.com/r/JEENEETards/comments/wwflbr/joint_seat_allocation_authority_josaa_counselling/) — Float / Freeze / Slide · 💬
+- [If I get a college in first round and choose float, can I stick with round-1 college if round-2 gives a better one?](https://www.reddit.com/r/JEENEETards/comments/14jczpc/if_i_get_a_college_in_first_round_and_choose_the/) — Float / Freeze / Slide · 💬
+- [I have been alloted a seat in JOSAA](https://www.reddit.com/r/JEENEETards/comments/14oc03a/i_have_been_alloted_a_seat_in_josaa/) — Float / Freeze / Slide · 💬
+- [People who have got an upgraded seat in josaa round 2](https://www.reddit.com/r/JEENEETards/comments/xs46t6/people_who_have_got_an_upgraded_seat_in_josaa/) — Float / Freeze / Slide · 💬
+- [What to do after getting the seat acceptance letter from JoSAA?](https://www.reddit.com/r/Btechtards/comments/14p9ke9/what_to_do_after_getting_the_seat_acceptance/) — Float / Freeze / Slide · 💬
+- [Doubt regarding JOSAA counselling](https://www.reddit.com/r/Btechtards/comments/1den9tv/doubt_regarding_josaa_counselling/) — Float / Freeze / Slide · 💬
+- [Josaa provisional seat allotment doubt](https://www.reddit.com/r/Btechtards/comments/1dmkjpj/josaa_provisional_seat_allotment_doubt/) — Float / Freeze / Slide · 💬
+- [JOSAA Algorithm - Seat Allocation Question](https://www.reddit.com/r/Btechtards/comments/14f9bkt/josaa_algorithm_seat_allocation_question/) — Float / Freeze / Slide · 💬
+- [Suppose I got a seat in JoSAA at any round, I paid the seat acceptance fee...](https://www.reddit.com/r/Btechtards/comments/14pbj06/suppose_i_got_a_seat_in_josaa_at_any_round_i_paid/) — Private/state deposit forfeiture · 💬
+- [Seat acceptance fee is 30k or 35k??](https://www.reddit.com/r/JEEAdv25dailyupdates/comments/1lb06r5/seat_acceptance_fee_is_30k_or_35k/) — Private/state deposit forfeiture · 💬
+- [JOSAA Withdrawal](https://www.reddit.com/r/JEENEETards/comments/1dpjcs9/josaa_withdrawal/) — Private/state deposit forfeiture · 💬
+- [Withdrawal of seat and CSAB counselling](https://www.reddit.com/r/Btechtards/comments/qw23va/withdrawal_of_seat_and_csab_councelling/) — Private/state deposit forfeiture · 💬
+- [Anybody here who got a seat in JOSAA but hadn't eventually joined](https://www.reddit.com/r/Btechtards/comments/14vts63/anybody_here_who_got_a_seat_in_josaa_but_hadnt/) — Private/state deposit forfeiture · 💬
+- [Help regarding JoSAA and CSAB](https://www.reddit.com/r/Btechtards/comments/15dht4o/help_regarding_josaa_and_csab/) — Branch vs College agony · 💬
+- [JAC and JoSAA going forward](https://www.reddit.com/r/Btechtards/comments/156mukk/jac_and_josaa_going_forward/) — General / cross-cutting · 💬
+- [How to fill JoSAA choices? A detailed guide on choice filling preference order](https://www.reddit.com/r/Btechtards/comments/1egukxm/how_to_fill_josaa_choices_a_detailed_guide_on/) — Choice-filling order & locking · 💬
+- [How to fill JoSAA choices? A detailed guide (2025 repost)](https://www.reddit.com/r/Btechtards/comments/1l2dhje/how_to_fill_josaa_choices_a_detailed_guide_on/) — Choice-filling order & locking · 💬
+- [JOSAA MOCK SEAT ALLOCATION](https://www.reddit.com/r/JEENEETards/comments/1dgdj5n/josaa_mock_seat_allocation/) — Float / Freeze / Slide · 💬
+- [Josaa seat allotment](https://www.reddit.com/r/JEENEETards/comments/1l7s456/josaa_seat_allotment/) — Float / Freeze / Slide · 💬
+- [Should I bother sitting for JOSAA counselling?](https://www.reddit.com/r/Btechtards/comments/1da77v6/should_i_bother_sitting_for_josaa_counselling/) — Branch vs College agony · 💬
+- [COLLEGE SCAM ALERT!!](https://www.reddit.com/r/Btechtards/comments/18tj7r2/college_scam_alert/) — Scams & misinformation · 💬
+- [Real or scam??](https://www.reddit.com/r/Btechtards/comments/1b0j0jr/real_or_scam/) — Scams & misinformation · 💬
+- [Management Quota](https://www.reddit.com/r/Btechtards/comments/1chxtad/management_quota/) — Branch vs College agony · 💬
+- [management quota](https://www.reddit.com/r/Btechtards/comments/13sbiyn/management_quota/) — Branch vs College agony · 💬
+- [management quota admissions](https://www.reddit.com/r/Btechtards/comments/1clqgw6/management_quota_admissions/) — Branch vs College agony · 💬
+- [Is going for management quota in RVCE, BMSCE etc worth it?](https://www.reddit.com/r/Btechtards/comments/zczkm2/is_going_for_management_quota_in_rvce_bmsce_etc/) — Branch vs College agony · 💬
+- [Management quota at top tier 3 state college or merit at...](https://www.reddit.com/r/Btechtards/comments/11wib3e/management_quota_at_top_tier_3_state_college_or/) — Branch vs College agony · 💬
+- [Best college for btech with management quota](https://www.reddit.com/r/Btechtards/comments/1cj2q25/best_college_for_btech_with_management_quota/) — Branch vs College agony · 💬
+- [Management Quota IN TIER 1 COLLEGES](https://www.reddit.com/r/Btechtards/comments/157c51d/management_quota_in_tier_1_colleges/) — Branch vs College agony · 💬
+- [JEE mains, VIT, Manipal scam exposed](https://www.reddit.com/r/JEENEETards/comments/124h4kv/jee_mains_vit_manipal_scam_exposed/) — Scams & misinformation · 💬
+- [How is nobody doing anything about COMEDK taking 15L fine if you get a seat and don't report in round 3?](https://www.reddit.com/r/Btechtards/comments/15m4or9/how_is_nobody_doing_anything_about_comedk_taking/) — Private/state deposit forfeiture · 💬
+- [Anyone joining Sharda University?](https://www.reddit.com/r/Btechtards/comments/1ds17g7/anyone_joining_sharda_university/) — Scams & misinformation · 💬
+- [RIP to those who paid 22 lakhs for this](https://www.reddit.com/r/Btechtards/comments/1mbag45/rip_to_those_who_paid_22_lakhs_for_this/) — Scams & misinformation · 💬
+- [Home state reservation is decided on the basis of?](https://www.reddit.com/r/JEENEETards/comments/190ll0f/home_state_reservation_is_decided_on_the_basis_of/) — Quota / category / gender pool · 💬
+- [Question regarding HS and OS quota in NIT](https://www.reddit.com/r/JEENEETards/comments/1do4b08/question_regarding_hs_and_os_quota_in_nit/) — Quota / category / gender pool · 💬
+- [Help Needed: JoSAA Mock Seat Allocation Issue](https://www.reddit.com/r/JEENEETards/comments/1dhyofp/help_needed_josaa_mock_seat_allocation_issue/) — Choice-filling order & locking · 💬
+- [Help regarding JoSAA counseling](https://www.reddit.com/r/Btechtards/comments/1djk385/help_regarding_josaa_counseling/) — Exam registration friction · 💬
+- [r/IndianStartups](https://www.reddit.com/r/IndianStartups/) — General / cross-cutting · 💬
+- [r/JEE](https://www.reddit.com/r/JEE/) — Choice-filling order & locking · 💬
+- [r/JEENEETards — India's JEE & NEET aspirant megacommunity](https://www.reddit.com/r/JEENEETards/) — General / cross-cutting · 💬
+- [r/Btechtards — BTech/engineering students, aspirants & STEM](https://www.reddit.com/r/Btechtards/) — Branch vs College agony · 💬
+- [r/Indian_Academia — Indian higher ed, admissions & career advice](https://www.reddit.com/r/Indian_Academia/) — General / cross-cutting · 💬
+- [r/mht_cet — Maharashtra MHT-CET engineering admissions](https://www.reddit.com/r/mht_cet/) — Quota / category / gender pool · 💬
+- [r/CBSE — CBSE students (upstream feeder for JEE/JoSAA)](https://www.reddit.com/r/CBSE/) — General / cross-cutting · 💬
+- [r/IndianTeenagers — general Indian teen community (funnel)](https://www.reddit.com/r/IndianTeenagers/) — General / cross-cutting · 💬
+- [r/developersIndia — Indian software/tech community (downstream)](https://www.reddit.com/r/developersIndia/) — Branch vs College agony · 💬
+
+## Quora (93)
+
+- [What is the sufficient number of choices to fill in for JoSAA?](https://www.quora.com/What-is-the-sufficient-number-of-choices-to-fill-in-for-JoSAA) — Choice-filling order & locking · 💬
+- [What should be my preference order during JoSAA choice filling?](https://www.quora.com/What-should-be-my-preference-order-during-JoSAA-choice-filling) — Choice-filling order & locking · 💬
+- [Should we fill the choice on the basis of college rank or our own rank?](https://www.quora.com/What-should-be-the-choice-filling-order-in-the-JoSAA-counselling-Should-we-fill-the-choice-on-the-basis-of-college-rank-or-our-own-rank) — Choice-filling order & locking · 💬
+- [What do the slide, freeze, and float options mean in the JoSAA?](https://www.quora.com/What-do-the-slide-freeze-and-float-options-mean-in-the-JoSAA) — Float / Freeze / Slide · 💬
+- [What is meant by the terms freeze, float, and slide present in JoSAA (2015)?](https://www.quora.com/What-is-meant-by-the-terms-freeze-float-and-slide-present-in-the-joSAA-2015) — Float / Freeze / Slide · 💬
+- [What will happen if I choose float instead of slide during my JoSAA counselling?](https://www.quora.com/What-will-happen-if-I-choose-float-instead-of-slide-during-my-JOSAA-counselling) — Float / Freeze / Slide · 💬
+- [Selected float in round 1, no seat in rounds 3-4 — can I now switch to slide?](https://josaacounsellingqueries.quora.com/In-1st-round-I-have-allotted-a-sit-Then-I-selected-float-option-In-the-3rd-and-4th-round-no-sit-have-been-alloted-So) — Float / Freeze / Slide · 💬
+- [Will I lose my previous seat if I click float for a better branch?](https://www.quora.com/Will-I-lose-my-my-previous-allotted-seat-if-I-click-on-float-in-the-counseling-process-for-the-next-round-for-a-better-branch-What-will-happen-if-I-do-not-get-the-desired-branch-in-the-next-rounds) — Float / Freeze / Slide · 💬
+- [Are previous-round seats lost if I chose float or slide and proceed to next round?](https://josaatips.quora.com/Are-the-seats-of-the-previous-round-lost-if-I-chose-the-float-or-slide-option-and-proceed-to-the-next-round-in-JoSAA-cou) — Float / Freeze / Slide · 💬
+- [Do we need to do anything to continue the float option after the second round?](https://www.quora.com/Do-we-need-to-do-anything-to-continue-float-option-after-second-round-of-counselling-of-JoSAA) — Float / Freeze / Slide · 💬
+- [Getting a seat in round 1 but want to participate further — what should I do?](https://www.quora.com/If-Im-getting-a-seat-in-the-first-round-of-JoSAA-but-want-to-participate-in-further-rounds-what-should-I-do) — Float / Freeze / Slide · 💬
+- [Can I get a higher-preference seat in the same college if I float in round 1?](https://www.quora.com/Can-I-get-a-higher-preference-seat-in-the-same-college-if-I-choose-the-float-option-in-the-first-round-of-the-JoSAA) — Float / Freeze / Slide · 💬
+- [Got a higher-preference seat in round 2, want to float for round 3 — what to do?](https://www.quora.com/I-got-a-higher-preference-seat-in-the-2nd-round-of-the-JoSAA-counselling-I-want-to-float-further-for-the-3rd-round-What-should-I-do) — Float / Freeze / Slide · 💬
+- [What is the review of JEE Main college predictors?](https://www.quora.com/What-is-the-review-of-JEE-Main-college-predictors) — Predictor distrust & lead-gen spam · 💬
+- [Good branch or good college after JEE Main/Advanced selection?](https://www.quora.com/What-do-we-have-to-choose-a-good-branch-or-a-good-college-after-selection-in-the-JEE-Main-or-JEE-Advanced) — Branch vs College agony · 💬
+- [Good branch or good college after JEE (Quora Space version)](https://jeeandboardsinfo.quora.com/What-do-we-have-to-choose-a-good-branch-or-a-good-college-after-selection-in-the-JEE-Main-or-JEE-Advanced) — Branch vs College agony · 💬
+- [With your JEE Advanced rank, which college and branch are you expecting?](https://www.quora.com/With-your-rank-in-the-JEE-Advanced-which-college-and-branch-are-you-expecting) — Branch vs College agony · 💬
+- [Does choice of branch matter more than college reputation for career success?](https://www.quora.com/Does-choice-of-engineering-branch-matter-more-than-college-reputation-for-career-success) — Branch vs College agony · 💬
+- [Choosing between engineering colleges — branch or college first?](https://www.quora.com/While-choosing-between-engineering-colleges-should-I-give-preference-to-the-branch-or-the-college) — Branch vs College agony · 💬
+- [What should I choose: best college or best branch?](https://edunikh.quora.com/What-should-I-choose-if-I-get-admission-in-best-college-or-best-branch) — Branch vs College agony · 💬
+- [Interest vs scope/placement when choosing a BTech branch?](https://www.quora.com/What-should-be-given-more-importance-interest-or-scope-and-placement-in-the-future-while-choosing-a-branch-for-a-BTech) — Branch vs College agony · 💬
+- [Can we get the refund of seat acceptance fees in JoSAA?](https://www.quora.com/Can-we-get-the-refund-of-Seat-acceptance-fees-in-JoSAA) — Private/state deposit forfeiture · 💬
+- [How much time does JoSAA take to refund seat acceptance fees?](https://www.quora.com/How-much-time-does-JoSAA-take-to-refund-seat-acceptance-fees) — Private/state deposit forfeiture · 💬
+- [If I forget to withdraw after round 6, can I get a fee refund?](https://www.quora.com/If-I-forget-to-withdraw-from-the-JoSAA-2025-counselling-after-the-6th-round-can-I-get-a-fee-refund) — Private/state deposit forfeiture · 💬
+- [When will the seat acceptance fee be refunded to students who withdrew?](https://www.quora.com/When-will-the-seat-acceptance-fee-be-refunded-to-the-students-who-withdrew-their-seat-from-JoSAA-counselling) — Private/state deposit forfeiture · 💬
+- [How to get money back if allotted a seat in CSAB Round 2 but don't want it?](https://josaatips.quora.com/How-to-get-my-money-back-if-I-will-be-allotted-a-seat-in-CSAB-Round-2-but-I-dont-want-to-accept-that-seat) — Private/state deposit forfeiture · 💬
+- [Why Careers360 is sharing my phone no and email with every institute - bombarded with hundreds of spam mails, SMS & phone calls](https://www.careers360.com/question-why-careers360-is-going-about-sharing-my-phone-no-and-email-with-every-other-institute-without-my-knowledge-i-am-bombarded-with-hundreds-of-spam-mails-sms-phone-calls-there-seem-to-be-no-way-to-delete-or-deactivate-my-accounti-cant-think-of-any-other-way-to-air-my-message-so-i-posted-it-here) — Predictor distrust & lead-gen spam · 💬
+- [Want to delete my account and remove my phone number (Careers360)](https://www.careers360.com/question-want-to-delete-my-account-and-remove-my-phone-number) — Predictor distrust & lead-gen spam · 💬
+- [I paid 499 for Careers360 college predictor and got nothing - are they a scam?](https://www.careers360.com/question-i-paid-499-for-college-predictor-in-career360-and-after-payment-page-bank-was-successful-it-returned-to-the-page-saying-they-are-clearing-up-their-home-page-and-some-maintenance-activity-is-underway-will-i-get-any-information-worth-for-the-college-predictor-or-are-they-scam-please-reply) — Predictor distrust & lead-gen spam · 💬
+- [How accurate is the college predictor of Careers360? (Quora)](https://www.quora.com/How-accurate-is-the-college-predictor-of-Careers360) — Predictor distrust & lead-gen spam · 💬
+- [How accurate is Careers360 JEE Mains rank predictor? Is it reliable?](https://www.quora.com/How-accurate-is-career360-Jee-mains-rank-predictor-Is-it-reliable-Can-anyone-share-his-her-experience) — Predictor distrust & lead-gen spam · 💬
+- [How can I avoid getting spam calls & messages from Shiksha regarding MBA?](https://ask.shiksha.com/how-can-i-avoid-getting-spam-calls-messages-from-shiksha-regarding-mba-qna-6377947) — Predictor distrust & lead-gen spam · 💬
+- [Getting calls from Shiksha for different B-schools - how to stop and remove my number?](https://ask.shiksha.com/i-am-getting-calls-from-shiksha-for-different-b-schools-how-to-stop-and-how-to-remove-my-number-from-there-qna-5823843) — Predictor distrust & lead-gen spam · 💬
+- [How can I stop receiving calls from colleges I didn't even apply for through Shiksha.com?](https://ask.shiksha.com/how-can-i-stop-receiving-calls-from-colleges-i-didn-t-even-apply-for-through-shiksha-com-qna-6158661) — Predictor distrust & lead-gen spam · 💬
+- [Since I registered on Shiksha I'm getting calls from various B-schools - how to stop it?](https://ask.shiksha.com/since-the-time-i-registered-on-shiksha-i-am-getting-calls-from-various-b-schools-that-i-have-registered-with-them-qna-2458591) — Predictor distrust & lead-gen spam · 💬
+- [Does SRM actually refund the admission fees taken at the time of counselling?](https://www.quora.com/Does-SRM-actually-refund-the-admission-fees-taken-at-the-time-of-counselling) — Private/state deposit forfeiture · 💬
+- [How do I cancel admission and apply for fees refund in SRM University?](https://www.quora.com/How-do-I-cancel-admission-and-apply-for-fees-refund-in-SRM-University) — Private/state deposit forfeiture · 💬
+- [How do I cancel SRM admission online?](https://www.quora.com/How-do-I-cancel-SRM-admission-online) — Private/state deposit forfeiture · 💬
+- [Has anybody received a refund from SRM University?](https://www.quora.com/Has-anybody-received-a-refund-from-SRM-University) — Private/state deposit forfeiture · 💬
+- [Can SRM (Vadapalani) cancel the application and refund the amount?](https://www.quora.com/Can-SRM-vadapalani-cancel-the-application-and-refund-the-amount) — Private/state deposit forfeiture · 💬
+- [Does SRM actually refund the admission fees taken at the time of counselling (SRM Quora Space answer)](https://srmuniversity.quora.com/Does-SRM-actually-refund-the-admission-fees-taken-at-the-time-of-counselling/answer/Melwin-Jacob) — Private/state deposit forfeiture · 💬
+- [Can I get the refund if I don't want to join NIT Durgapur even after paying the Admission & Partial Fee of 40000 in JoSAA?](https://www.quora.com/Can-I-get-the-refund-if-I-dont-want-to-join-NIT-Durgapur-even-after-paying-the-Admission-Partial-Fee-Payment-of-40000-in-JoSSA) — Private/state deposit forfeiture · 💬
+- [BITS refund policy: 10% forfeited if you withdraw within 15 days of completing admission formalities - when does that clock start?](https://bitspilani.quora.com/BITS-refund-policy-says-that-10-of-fees-is-forfeited-If-a-candidate-pays-the-entire-fees-but-withdraws-within-15-days-o) — Private/state deposit forfeiture · 💬
+- [What is the refund policy of BITS Pilani for withdrawal between rounds?](https://www.quora.com/What-is-the-refund-policy-of-BITS-Pilani-for-withdrawal-between-rounds) — Private/state deposit forfeiture · 💬
+- [Going to BITS Pilani/Goa this year - what's the procedure for counselling and admission?](https://www.quora.com/So-I-am-probably-going-to-BITS-Pilani-or-Goa-this-year-Whats-the-procedure-for-counseling-and-admission) — Exam registration friction · 💬
+- [How does the state quota work in JEE? I don't live in Chandigarh but I study there. Will I get home quota at PEC Chandigarh?](https://www.quora.com/How-does-the-state-quota-work-in-the-JEE-I-don-t-live-in-Chandigarh-but-I-study-there-Will-I-get-a-home-quota-in-PEC-Chandigarsh) — Quota / category / gender pool · 💬
+- [URGENT: Do you know of any fraud JEE/AIPMT coaching institutes? Share to save others' time and money](https://www.quora.com/URGENT-Do-you-know-of-any-fraud-JEE-or-aipmt-coaching-institutes-Can-you-help-others-by-sharing-your-views-to-save-their-time-and-money) — Scams & misinformation · 💬
+- [How do I know whether a medical admission consultant (agent) is fraud or not?](https://www.quora.com/How-do-I-know-whether-a-medical-admission-consultant-agent-is-fraud-or-not) — Scams & misinformation · 💬
+- [Do I have to pay the 35,000 JoSAA fee after round 1 even if I Floated for a better college?](https://www.quora.com/Do-I-have-to-pay-fees-for-JoSAA-35-000-after-1-round-seat-allocation-even-though-I-didn-t-get-my-desired-college-and-have-opted-for-float-option-for-further-rounds) — Private/state deposit forfeiture · 💬
+- [What happens if I don't withdraw until round 6 after accepting an IIT seat?](https://www.quora.com/What-will-happen-if-I-do-not-withdraw-from-the-JoSAA-counselling-process-until-the-sixth-round-considering-I-have-been-allotted-a-seat-in-IIT-and-I-have-accepted-that) — Float / Freeze / Slide · 💬
+- [Why am I getting 'Not Eligible' in JoSAA seat allotment round 2?](https://www.quora.com/Why-I-am-getting-not-eligible-in-JoSAA-seat-allotment-in-second-round) — Exam registration friction · 💬
+- [JoSAA raised a query on my EWS certificate issuing authority in round 1 DV — will my candidature be cancelled?](https://www.quora.com/I-have-been-raised-with-a-query-regarding-the-EWS-certificate-issuing-authority-by-JOSAA-in-the-first-round-of-document-verification-If-I-am-not-able-solve-the-issue-on-time-will-my-candidature-get-cancelled) — Documents & reporting · 💬
+- [What happens if there is a problem with my JoSAA documents?](https://www.quora.com/What-will-happen-if-there-is-a-problem-with-my-JoSAA-documents) — Documents & reporting · 💬
+- [Got an NIT seat in JoSAA but want to drop and reattempt JEE Advanced — what do I do?](https://www.quora.com/I-got-one-seat-NIT-in-JoSAA-counselling-but-I-don-t-need-it-I-want-to-repeat-the-JEE-Advanced-exam-in-2025-What-do-I-do-for-next-year-to-write-the-Jee-Advanced-exam) — Drop-year decision · 💬
+- [Can I get into an NIT after a second drop if I already accepted a JoSAA seat this year?](https://www.quora.com/Can-I-get-into-NIT-after-taking-a-second-drop-if-I-already-got-a-seat-in-JoSAA-this-year) — Drop-year decision · 💬
+- [Can I reattempt JEE Mains (2nd drop) if I did JoSAA this year and got a college but didn't take it?](https://www.quora.com/Can-I-sit-the-JEE-Mains-again-2nd-drop-if-I-sit-in-JoSAA-counseling-this-year-1st-drop-and-got-college-but-dont-take-college) — Drop-year decision · 💬
+- [In JoSAA do we fill IIT and NIT preferences in one list or separate lists?](https://www.quora.com/During-JoSAA-counselling-we-have-to-fill-college-preferences-for-NITs-and-IITs-in-the-same-list-or-do-we-have-separate-lists-for-both-of-them) — Choice-filling order & locking · 💬
+- [What should be the order of branch vs college choices in JoSAA?](https://www.quora.com/What-should-be-the-order-of-branch-and-college-choices-in-JOSAA) — Branch vs College agony · 💬
+- [Is JoSAA counselling for NIT and IIT done separately or together?](https://www.quora.com/Is-JoSAA-counselling-of-NIT-and-IIT-done-separately-or-together-as-the-JEE-Mains-result-comes-early) — General / cross-cutting · 💬
+- [Which rank decides JoSAA allotment — JEE Mains or Advanced?](https://www.quora.com/Which-rank-helps-us-to-get-into-college-by-JoSAA-counselling-the-JEE-Mains-or-Advanced) — Percentile vs rank / normalization · 💬
+- [How reliable is JoSAA mock seat allotment? Did it improve after the mock?](https://iitnewbatch.quora.com/https-www-quora-com-How-reliable-and-accurate-is-the-mock-seat-allotment-of-JoSAA-Can-you-tell-your-round-wise-allotme) — Predictor distrust & lead-gen spam · 💬
+- [How accurate is the JoSAA mock seat allocation result?](https://www.quora.com/How-accurate-is-the-mock-seat-allocation-result-of-JoSAA) — Predictor distrust & lead-gen spam · 💬
+- [How hard is NIT Durgapur branch change after first year (CGPA + JEE rank)?](https://www.quora.com/Since-NIT-Durgapur-looks-at-both-CGPA-and-the-JEE-Main-rank-for-a-branch-change-how-difficult-is-it-to-change-branches-after-the-first-year) — Branch change · 💬
+- [What CGPA is needed to change to CSE at IIT Delhi after first year?](https://www.quora.com/What-CGPA-is-required-for-changing-branch-to-CSE-both-BTech-and-Dual-at-IIT-Delhi-after-1st-year) — Branch change · 💬
+- [What are some tips to fill choices in JoSAA counselling?](https://www.quora.com/What-are-some-tips-to-fill-choices-in-JoSAA-counselling) — Choice-filling order & locking · 💬
+- [What should be the order of choice when filling in the JoSAA? Will opting for choices which are out of my reach make any damage to my seat?](https://www.quora.com/What-should-be-the-order-of-choice-when-filling-in-the-JoSAA-Will-opting-for-choices-which-are-out-of-my-reach-make-any-damage-to-my-seat) — Choice-filling order & locking · 💬
+- [What is the correct method of choice filling in the JoSAA counselling to get the best college?](https://www.quora.com/What-is-the-correct-method-of-choice-filling-in-the-JoSAA-counselling-to-get-the-best-college) — Choice-filling order & locking · 💬
+- [How do I fill choices in JoSAA to get a better college?](https://www.quora.com/How-do-I-fill-choices-in-Jossa-to-get-better-college) — Choice-filling order & locking · 💬
+- [I've filled only 25 choices in JoSAA since I'm interested only in mechanical. Is that bad because friends are filling 100?](https://www.quora.com/Ive-filled-only-25-choices-in-the-JOSAA-online-choice-filling-portal-for-the-JEE-counselling-since-Im-interested-only-in-mechanical-and-nothing-else-Is-that-bad-because-my-friends-are-filling-like-100-choices) — Choice-filling order & locking · 💬
+- [Can we change the preference order in JoSAA counseling after the round 1 result?](https://www.quora.com/Can-we-change-the-preference-order-in-JoSAA-counseling-after-the-round-1-result) — Choice-filling order & locking · 💬
+- [In JoSAA website, where do we get the option to freeze, float, and slide?](https://www.quora.com/In-JoSAA-website-where-do-we-get-the-option-to-freeze-float-and-slide) — Float / Freeze / Slide · 💬
+- [Which is the best college predictor for JEE?](https://www.quora.com/Which-is-the-best-college-predictor-for-JEE) — Predictor distrust & lead-gen spam · 💬
+- [Which is the best JEE main rank predictor?](https://www.quora.com/Which-is-the-best-JEE-main-rank-predictor) — Predictor distrust & lead-gen spam · 💬
+- [Which is better, newly IIIT CSE or old NIT with a core branch?](https://www.quora.com/Which-is-better-newly-IIIT-CSE-or-old-NIT-with-a-core-branch) — Branch vs College agony · 💬
+- [Should I go for the core branch in NITs or CSE in IIITs?](https://www.quora.com/Should-I-go-for-the-core-branch-in-NITs-or-CSE-in-IIITs) — Branch vs College agony · 💬
+- [Do you regret choosing the lower branch in IIT over CSE in IIIT/NIT?](https://www.quora.com/Do-you-regret-choosing-the-lower-branch-in-IIT-over-CSE-in-IIIT-NIT) — Branch vs College agony · 💬
+- [Should we take a lower branch at IIT or CS in any NIT or IIIT?](https://www.quora.com/Should-we-take-a-lower-branch-at-IIT-or-CS-in-any-NIT-or-IIIT) — Branch vs College agony · 💬
+- [In JEE Mains 2025 I scored 94.33 percentile. My category is SC. What would be my category rank?](https://www.quora.com/In-JEE-Mains-2025-I-scored-94-33-percentile-My-category-is-SC-What-would-be-my-category-rank) — Percentile vs rank / normalization · 💬
+- [I got 92.08 percentile in JEE Mains 2025 Jan attempt. Which is the best college I can get?](https://www.quora.com/I-got-92-08-percentile-in-the-JEE-Mains-2025-Jan-attempt-Which-is-the-best-college-I-can-get-Which-branch-is-my-priority) — Percentile vs rank / normalization · 💬
+- [I got 89.4 percentile in JEE Mains 2025. Can I get into any good colleges?](https://www.quora.com/I-got-89-4-percentile-in-the-JEE-Mains-2025-Can-I-get-into-any-good-colleges) — Percentile vs rank / normalization · 💬
+- [What if in JoSAA counselling I freeze a seat and then withdraw before the last round? Will I get the seat acceptance fee back?](https://www.quora.com/What-if-in-JoSAA-counselling-I-freeze-a-seat-and-then-I-withdraw-before-the-last-round-Will-I-get-the-seat-acceptance-fee-back) — Private/state deposit forfeiture · 💬
+- [Is a branch transfer possible after the first year in NIT?](https://www.quora.com/Is-a-branch-transfer-possible-after-the-first-year-in-NIT) — Branch change · 💬
+- [Is it worth it to take a drop for JEE in 2024 for 2025?](https://www.quora.com/Is-it-worth-it-to-take-a-drop-for-JEE-in-2024-for-2025) — Drop-year decision · 💬
+- [What documents are needed while physically reporting for JoSAA counselling?](https://www.quora.com/What-documents-are-needed-while-physically-reporting-for-JoSAA-counselling) — Documents & reporting · 💬
+- [Quora: good Discord servers for JEE aspirants?](https://www.quora.com/Are-there-any-good-discord-servers-for-JEE-aspirants-for-doubt-solving-discussion) — General / cross-cutting · 💬
+- [Quora - good Telegram/WhatsApp groups for JEE](https://www.quora.com/What-are-some-good-Telegram-and-WhatsApp-groups-for-JEE-preparation-and-for-doubt-clearing) — General / cross-cutting · 💬
+- [Quora (JEE/JoSAA admissions topics)](https://www.quora.com/) — Choice-filling order & locking · 💬
+- [How effective is Careers360 Rank Predictor?](https://www.quora.com/How-effective-is-Careers360-Rank-Predictor) — Predictor distrust & lead-gen spam · 💬
+- [Which rank predictor is trustable for JEE Main? Is Mera Selection any good?](https://www.quora.com/Which-rank-predictor-is-trustable-for-the-JEE-Main-Is-Mera-Selection-any-good-If-not-what-are-some-suggestions-of-good-ones) — Predictor distrust & lead-gen spam · 💬
+- [Which rank predictor is the most reliable for the JEE Advanced?](https://www.quora.com/Which-rank-predictor-is-the-most-reliable-for-the-JEE-Advanced) — Predictor distrust & lead-gen spam · 💬
+- [If you used the ALLEN percentile predictor for JEE Mains, was it accurate?](https://www.quora.com/If-you-used-the-ALLEN-percentile-predictor-for-the-JEE-Mains-February-attempt-was-it-accurate) — Percentile vs rank / normalization · 💬
+- [Quora — Who is the best counsellor for JoSAA under a budget?](https://www.quora.com/Who-is-the-best-councilor-for-JoSAA-under-a-budget) — Choice-filling order & locking · 💬
+- [Float/freeze/slide in JoSAA if joining CSAB? — Quora question](https://www.quora.com/What-should-I-do-float-freeze-slide-in-JoSAA-if-I-want-to-join-the-CSAB-counselling) — Float / Freeze / Slide · 💬
+
+## Article (72)
+
+- [Career 360 - yet another scam (MouthShut review)](https://www.mouthshut.com/review/careers360-review-ttlrrqtmonp) — Predictor distrust & lead-gen spam
+- [Careers360 Reviews: Customer Reviews & Ratings (rated 2.33/5)](https://www.mouthshut.com/websites/careers360-reviews-925775467) — Predictor distrust & lead-gen spam
+- [COLLEGE DEKHO = FAKE PROMISES (MouthShut review)](https://www.mouthshut.com/review/collegedekho-review-nrnotntlpop) — Predictor distrust & lead-gen spam
+- [CollegeDekho Reviews and Ratings (MouthShut)](https://www.mouthshut.com/websites/collegedekho-reviews-926191949) — Predictor distrust & lead-gen spam
+- [collegedekho.com Reviews: Is this site a scam or legit? (Scam Detector)](https://www.scam-detector.com/validator/collegedekho-com-review/) — Scams & misinformation
+- [collegedunia.com Reviews: scam or legit (Scam Detector) - notes data sold to third parties for spam/telemarketing](https://www.scam-detector.com/validator/collegedunia-com-review/) — Scams & misinformation
+- [shiksha.com Reviews: Is this site a scam or legit? (Scam Detector)](https://www.scam-detector.com/validator/shiksha-com-review/) — Scams & misinformation
+- [CBSE, NEET, JEE And XAT Student Data Available Online For Just Rs 999](https://www.newsx.com/india/cbse-neet-jee-and-xat-student-data-available-online-for-just-rs-999-230429/) — Scams & misinformation
+- [Personal Data of CBSE, NEET, JEE Students Allegedly Sold Online for Rs 999 to Rs 5000](https://www.newshubonline.com/personal-data-of-cbse-neet-and-jee-students-being-allegedly-sold-online-for-rs-999-to-rs-5000-has-come-to-light/) — Scams & misinformation
+- [Indian Student Data Weaponized in Phishing and Financial Fraud Campaigns](https://gbhackers.com/phishing-and-financial-fraud-campaigns/) — Scams & misinformation
+- [JEE Advanced 2026 Data Breach Claims Misleading, No Sensitive Data Compromised: IIT Roorkee](https://www.outlookindia.com/national/jee-advanced-2026-data-breach-claims-misleading-no-sensitive-data-compromised-says-iit-roorkee) — Scams & misinformation
+- [CollegeDekho Employee Reviews (Glassdoor, rating dropped 13%)](https://www.glassdoor.co.in/Reviews/CollegeDekho-Reviews-E1560407.htm) — Predictor distrust & lead-gen spam
+- [783+ JEE Main Telegram Group Links 2025 (directory)](https://telegrouplink.com/jee-main-telegram-group-links/) — General / cross-cutting
+- [1000+ IIT JEE Telegram Group Links & Channel List 2024](https://telegroupslinks.com/iit-jee-telegram-group-links/) — General / cross-cutting
+- [965+ IIT JEE Telegram Group Links list 2025](https://telegrouplink.com/iit-jee-telegram-group-links/) — General / cross-cutting
+- [Best Telegram Channels for JEE Main 2026 Preparation](https://www.sarvgyan.com/articles/best-telegram-channels-for-jee-main-preparation) — General / cross-cutting
+- [50+ Startup Directories & Launch Platforms to Submit Your Startup](https://startupproject.org/resources/places-to-launch/) — General / cross-cutting
+- [75+ startup directories to submit your startup listing](https://rishabhdev.com/submit-your-startup-directories/) — General / cross-cutting
+- [Top 20+ Startup Directories and Business Listing Sites in India (Free)](https://theprint.in/ani-press-releases/top-20-startup-directories-and-business-listing-sites-in-india-free/2672839/) — General / cross-cutting
+- [Inc42](https://inc42.com/) — General / cross-cutting · 💬
+- [GummySearch stats — r/JEENEETards (scale & topic data)](https://gummysearch.com/r/JEENEETards/) — General / cross-cutting
+- [GummySearch stats — r/Btechtards (scale & flair data)](https://gummysearch.com/r/Btechtards/) — Branch vs College agony
+- [Joint Seat Allocation Authority (JOSAA) | Official Portal](https://josaa.nic.in/) — Choice-filling order & locking
+- [JoSAA Registration 2026 - Last Date, Choice Filling, Complete Procedure](https://engineering.careers360.com/articles/josaa-registration-and-choice-filling) — Choice-filling order & locking
+- [JoSAA Choice Filling 2026 (Open): Link, How to Fill JoSAA Counselling Choices](https://www.shiksha.com/b-tech/josaa-counselling-choice-filling) — Choice-filling order & locking
+- [How to Fill Choices in JoSAA Counselling 2026? Process, Docs](https://www.matrixedu.in/blog/how-to-fill-choices-in-josaa-counselling/) — Choice-filling order & locking
+- [JoSAA 2026 Choice Filling Strategy – Best Order for IIT, NIT & IIIT](https://www.class24.study/blog/josaa-choice-filling-strategy-2026-best-order-for-iit-nit) — Choice-filling order & locking
+- [JOSAA Choice Filling Order 2026: Best Preference Order for IITs, NITs, IIITs & GFTIs](https://www.manabadi.co.in/entrance-exams/josaa-choice-filling-order/) — Choice-filling order & locking
+- [JoSAA Choice Filling 2026 - Dates, Process, Freeze, Float, Slide, Withdraw](https://www.collegedekho.com/articles/josaa-choice-filling/) — Float / Freeze / Slide
+- [JoSAA Choice Filling 2026 | Best Strategy & Upgrade Tips](https://www.sikarcoachings.com/josaa-choice-filling-best-strategy-maximum-upgrade/) — Choice-filling order & locking
+- [JoSAA 2026 Registration and Choice Filling Guide for IITs, NITs and IIITs](https://ogcollege.io/blog/josaa-2026-registration-and-choice-filling-guide-how-to-fill-choices-for-iits-nits-and-iiits) — Choice-filling order & locking
+- [How to Fill Choices in JoSAA Counselling 2026: Tips and Major Mistakes to Avoid](https://www.shiksha.com/engineering/articles/how-to-fill-choices-in-josaa-counselling-blogId-200916) — Choice-filling order & locking
+- [Major Mistakes to Avoid During JoSAA Counselling 2026](https://engineering.careers360.com/articles/major-mistakes-avoid-in-josaa-counselling) — Choice-filling order & locking
+- [Dream, Reach, Safe: The Perfect JoSAA Choice Filling Strategy 2026](https://jeecounsellor.me/articles/choice-filling-strategies.html) — Choice-filling order & locking
+- [Analysing Previous Year's Cutoff Trends for Smarter JoSAA Choice Filling](https://www.kollegeapply.com/articles/analysing-previous-years-cutoff-trends-for-smarter-josaa-choice-filling-854) — Choice-filling order & locking
+- [JoSAA Previous Year Cutoff Analysis - IITs, NITs, IIITs and GFTIs](https://cracku.in/josaa-previous-year-cutoff/) — Choice-filling order & locking
+- [What Is Freeze, Float, Slide in JoSAA 2026 After JEE Main?](https://infinitylearn.com/knowledge-base/freeze-vs-float-vs-slide-in-jee-main-josaa-counselling) — Float / Freeze / Slide
+- [What is Float After JoSAA Round 1 Allotment 2025](https://news.getmyuni.com/what-is-float-after-josaa-round-1-allotment-2025) — Float / Freeze / Slide
+- [Important Instructions Regarding Float After JoSAA Seat Allotment 2025](https://www.collegedekho.com/news/important-instructions-regarding-float-after-josaa-seat-allotment-2025-67358/) — Float / Freeze / Slide
+- [JoSAA 2026 Seat Allotment Result: How to Confirm Seat (Freeze/Float/Slide)](https://www.shiksha.com/engineering/articles/josaa-seat-allotment-result-blogId-200964) — Float / Freeze / Slide
+- [JoSAA Mock Seat Allotment 2026: How to Check & What to Do Next](https://www.shiksha.com/engineering/articles/josaa-mock-seat-allotment-blogId-200930) — Choice-filling order & locking
+- [JoSAA 2026 Complete Guide: Registration, Choice Filling, Cutoffs, Strategy](https://caderaedu.com/blog/josaa-2026-complete-guide-registration-choice-filling-cutoffs-strategy) — Choice-filling order & locking
+- [JoSAA Round 3 Seat Allotment: Accepting Seat vs Waiting for Round 4 - Which is Better?](https://www.collegedekho.com/news/josaa-round-3-seat-allotment-result-2025-out-live-updates-accepting-seat-vs-waiting-for-round-4-which-is-better-68138/) — Float / Freeze / Slide
+- [JEE Main College Predictor 2026 (JoSAA) - Collegedunia](https://collegedunia.com/jee-main-college-predictor) — Predictor distrust & lead-gen spam
+- [JEE Main College Predictor 2026 - Shiksha](https://www.shiksha.com/engineering/jee-main-college-predictor) — Predictor distrust & lead-gen spam
+- [JEE Main 2026 College Predictor - CollegeDekho](https://www.collegedekho.com/exam/jee-main/college-predictor) — Predictor distrust & lead-gen spam
+- [JEE Main College Predictor 2026 (JoSAA) - MathonGo](https://tools.mathongo.com/jee-main-college-predictor) — Predictor distrust & lead-gen spam
+- [JEE Main Rank Predictor 2026 - Marks vs Percentile & AIR (Vedantu)](https://www.vedantu.com/rank-predictor) — Percentile vs rank / normalization
+- [Misleading Tactics Exposed by Coaching Institutes' Advertisements](https://engineering.careers360.com/articles/misleading-tactics-exposed-coaching-institutes-advertisements) — Scams & misinformation
+- [V4Edusolution — JEE Counselling Packages 2026 (Pricing & Plans)](https://jee.v4edusolution.com/packages) — Choice-filling order & locking
+- [V4Edusolution — Best JEE Counsellor in India 2026 (IIT/NIT/IIIT/GFTI)](https://jee.v4edusolution.com/) — Choice-filling order & locking
+- [Admission Advice — JoSAA Counselling by Experts](https://admissionadvice.in/josaa-counselling-by-experts/) — Choice-filling order & locking
+- [BODMAS Education — JoSAA Counselling 2026 (Registration & Seat Allotment)](https://bodmaseducation.com/josaa-counselling) — Choice-filling order & locking
+- [CollegeDekho — JoSAA 2026 Counselling Fees & Refund](https://www.collegedekho.com/articles/josaa-counselling-fees-refund/) — Private/state deposit forfeiture
+- [Cracku — JoSAA 2026 Counselling Fee (Category-Wise Seat Acceptance Fee)](https://cracku.in/josaa-2026-counselling-fee/) — Private/state deposit forfeiture
+- [Admission Advice — JoSAA Counselling Fees 2026 (SAF, PAF, Refund Rules)](https://admissionadvice.in/josaa-counselling-fees-2026/) — Private/state deposit forfeiture
+- [JoSAA Choice List Generator 2026 — Engineering Hulk](https://engineeringhulk.com/jee/tools/choice-list-builder/) — Choice-filling order & locking · 💬
+- [JEE (Advanced) 2025 Results — IIT Kanpur official page](https://www.iitk.ac.in/jee-advanced-2025-results) — Percentile vs rank / normalization
+- [JEE Advanced 2025 Results Press Release (2 June 2025)](https://jeeadv.ac.in/documents/Result2025PressRelease.pdf) — Percentile vs rank / normalization
+- [JEE Advanced 2025 Joint Implementation Committee (JIC) Report](https://jeeadv.ac.in/reports/2025.pdf) — Quota / category / gender pool
+- [JEE Advanced 2025: Record Highest-Ever Registrations — ALLEN blog](https://myexam.allen.in/jee-advanced-2025-record-of-highest-ever-registrations-in-any-jee-advanced-exam/) — Percentile vs rank / normalization
+- [JEE Advanced Registration Trends (year-wise) — iQuanta](https://www.iquanta.in/blog/jee-advanced-registration-trends/) — Percentile vs rank / normalization
+- [JEE Main Registration Trend — Previous Years Analysis — iQuanta](https://www.iquanta.in/blog/jee-main-registration-trend/) — Percentile vs rank / normalization
+- [JEE Main 2026 Result: 15,38,468 Candidates Appeared — Aakash](https://www.aakash.ac.in/blog/jee-main-2026-result-statistics-candidates-appeared/) — Percentile vs rank / normalization
+- [JEE Mains 2026 Result Statistics — Candidates Appeared/Qualified — PW](https://www.pw.live/iit-jee/exams/jee-mains-2026-results-statistics) — Percentile vs rank / normalization
+- [Lowest JEE Main Registration This Year? Past-Year Trends — Careers360](https://engineering.careers360.com/articles/lowest-registration-in-history-for-jee-main) — General / cross-cutting
+- [JEE Main 2025: Why Fewer Students Registering — CollegeSearch](https://www.collegesearch.in/articles/jee-main-2025-only-5-51-lakh-registrations-till-now-discover-reasons) — General / cross-cutting
+- [JEE Advanced — Wikipedia (historical stats table)](https://en.wikipedia.org/wiki/Joint_Entrance_Examination_%E2%80%93_Advanced) — General / cross-cutting
+- [JoSAA 2026 Online Counselling Begins Today — ETV Bharat](https://www.etvbharat.com/en/bharat/josaa-counselling-2026-begins-today-iit-bombay-cse-likely-to-close-at-air-61-enn26060202359) — Exam registration friction
+- [JoSAA Mock Seat Allotment Round 1 Out (2025) — iQuanta](https://www.iquanta.in/blog/josaa-mock-seat-allotment-out-2025/) — Float / Freeze / Slide
+- [JoSAA Mock Allotment 2026 Live Updates (June 8) — CollegeDekho](https://www.collegedekho.com/news/josaa-mock-allotment-result-2026-live-updates-78987/) — Float / Freeze / Slide
+- [JoSAA Opening and Closing Rank (OR-CR) College-Wise — Careers360](https://engineering.careers360.com/articles/josaa-opening-and-closing-rank) — Percentile vs rank / normalization
+
+## Forum (63)
+
+- [File a Consumer Complaint Against Careers360.com (Voxya)](https://voxya.com/company/careers360.com-complaints/1200388) — Predictor distrust & lead-gen spam
+- [Shiksha.com Complaints & Reviews (531 complaints, mostly unresolved)](https://www.consumercomplaints.in/shiksha-com-b115449) — Predictor distrust & lead-gen spam · 💬
+- [I just paid advance fees of 2 lakh for admission in VIT Vellore, if I get a better college will they refund the 2 lakhs?](https://www.careers360.com/question-i-just-paid-advanced-fees-of-2-lakh-for-admission-in-vit-vellore-if-i-get-a-better-college-or-change-my-mind-will-they-refund-me-the-2-lakhs-if-yes-then-how-can-someone-explain-the-steps-to-get-my-money-refunded) — Private/state deposit forfeiture · 💬
+- [What is the cancellation procedure of admission at BITS Pilani Hyderabad and the refund of the fee?](https://collegedunia.com/qna/question/11682-what-is-the-cancellation-procedure-of-an-admission-at-bits-pilani-hyderabad-campus-and-the-refund-of-the-fee) — Private/state deposit forfeiture · 💬
+- [What about BITS admissions for waiting-list candidates?](https://www.careers360.com/question-what-about-bits-admissions-for-waiting-list-candidates) — Private/state deposit forfeiture · 💬
+- [Allotted a JoSAA seat - if I don't pay the partial admission fee in the window, seat cancels; will I get my 33000 refund?](https://www.careers360.com/question-i-have-been-alloted-a-seat-in-josaa-round-my-question-is-if-i-dont-pay-the-partial-admission-fee-in-9-nov-to-13-nov-then-my-seat-will-get-cancelled-my-question-will-get-my-33000-rs-refund) — Private/state deposit forfeiture · 💬
+- [Can I withdraw or exit after JoSAA confirmed seat allotment, fee payment and admission?](https://www.careers360.com/question-can-i-withdraw-or-exit-after-josaa-confirmed-seat-allotmentfee-payment-and-admission) — Private/state deposit forfeiture · 💬
+- [Can I withdraw after 6th round of JoSAA and get refund of 35k + 40k PAF, and how does CSAB affect refunds?](https://www.careers360.com/question-can-i-withdraw-after-the-6th-round-of-josaa-counsellingand-will-i-get-refund-for-the-nitsystem-of-35k-also-can-anybody-explain-how-to-participate-for-csab-rounds-through-josaa-and-whether-i-would-get-the-refund-of-the-partial-admission-fees-of-40k-and-the-earlier-fees-of-35k-after-csab-round-2) — Private/state deposit forfeiture · 💬
+- [JoSAA fee not refunded yet - when will it refund?](https://www.careers360.com/question-josaa-fee-not-refunded-yet-when-it-will-refund) — Private/state deposit forfeiture · 💬
+- [I paid SAF 35000 + partial admission 40k + 36500 CSAB fee - is anything refundable?](https://www.careers360.com/question-i-paid-seat-acceptance-fee35000-and-partial-admission-40kand-36500-csab-fee-is-there-any-refundable) — Private/state deposit forfeiture · 💬
+- [Does SRM University refund fees if a student wishes to withdraw the admission?](https://ask.shiksha.com/does-srm-university-refund-fees-in-case-a-student-wishes-to-withdraw-the-admission-qna-11305518) — Private/state deposit forfeiture · 💬
+- [Is the SRM fee refundable?](https://ask.shiksha.com/is-the-srm-fee-refundable-qna-10376797) — Private/state deposit forfeiture · 💬
+- [Is JoSAA counselling fees refundable?](https://ask.shiksha.com/is-josaa-counselling-fees-refundable-qna-7357329) — Private/state deposit forfeiture · 💬
+- [JoSAA fees refund process](https://ask.shiksha.com/josaa-fees-refund-process-qna-6507703) — Private/state deposit forfeiture · 💬
+- [Josaa round 2 megathread](https://www.reddit.com/r/JEENEETards/comments/1dpp638/josaa_round_2_megathread/) — Float / Freeze / Slide · 💬
+- [JOSAA Round 4 Discussion Megathread](https://www.reddit.com/r/JEENEETards/comments/1dztjc2/josaa_round_4_discussion_megathread/) — Float / Freeze / Slide · 💬
+- [JOSAA R5 Megathread](https://www.reddit.com/r/JEENEETards/comments/1e5fwhn/josaa_r5_megathread/) — Float / Freeze / Slide · 💬
+- [JOSAA ROUND 1 SEAT ALLOTMENT Discussion Megathread](https://www.reddit.com/r/JEENEETards/comments/1lb057c/josaa_round_1_seat_allotment_discussion_megathread/) — Float / Freeze / Slide · 💬
+- [Born in Bihar but completed 10th and 12th from Jharkhand — what is my home state?](https://www.careers360.com/question-what-is-basically-the-home-state-quota-in-jee-mains-i-was-born-in-bihar-but-i-have-completed-my-class-10th-and-class-12th-from-jharkhand-so-what-is-my-home-state) — Quota / category / gender pool · 💬
+- [10th from one state, 12th from another — can I get benefit of two home state quotas?](https://www.careers360.com/question-what-if-i-have-given-10th-board-from-one-state-and-12th-board-from-another-state-can-i-get-benifit-of-2-home-state-quota-in-jee-main) — Quota / category / gender pool · 💬
+- [Can I take benefit of two home state quotas in JEE Main?](https://www.careers360.com/question-can-i-take-benifit-of-two-home-state-quota-in-jee-main) — Quota / category / gender pool · 💬
+- [What is female supernumerary in NIT?](https://www.careers360.com/question-what-is-female-supernumerary-in-nit) — Quota / category / gender pool · 💬
+- [What is meant by female-only and female supernumerary in the seat matrix?](https://www.careers360.com/question-what-is-meant-by-female-only-and-female-supernumery-in-seat-matrix-available) — Quota / category / gender pool · 💬
+- [Difference between all India quota and home state quota in JoSAA counselling](https://www.careers360.com/question-difference-between-all-india-quota-and-home-state-quota-in-josaa-counselling) — Quota / category / gender pool · 💬
+- [DISBOARD - Discord servers tagged 'jee'](https://disboard.org/servers/tag/jee) — General / cross-cutting
+- [What to do about denied JEE EWS certificate in West Bengal (jeeprep group)](https://www.facebook.com/groups/jeeprep/posts/2438733382859194/) — Quota / category / gender pool · 💬
+- [I need JEE Mains result print for JoSAA but the website shows an error — what can I do?](https://www.careers360.com/question-i-want-jee-mains-result-print-for-josaa-counselling-but-now-the-website-is-showing-errorwhat-i-can-do) — Exam registration friction · 💬
+- [How accurate and reliable is the JoSAA mock seat allotment?](https://www.careers360.com/question-how-accurate-and-reliable-is-the-mock-seat-allotment-of-josaa) — Predictor distrust & lead-gen spam · 💬
+- [NIT Surathkal Admission Process (JEE Main + JoSAA) — PaGaLGuY](https://www.pagalguy.com/colleges/national-institute-of-technology-nit-surathkal/admission-process) — General / cross-cutting
+- [JEE Counselling Forum (Facebook group)](https://www.facebook.com/groups/jeeprep/) — Choice-filling order & locking · 💬
+- [JEE Main Study Plan group (droppers & Class 12)](https://www.facebook.com/groups/314199809736437/) — Drop-year decision · 💬
+- [JEE MAIN 2025 & 2026 Facebook group](https://www.facebook.com/groups/758721317528536/) — General / cross-cutting · 💬
+- [JEE / NIT admission discussion Facebook group](https://www.facebook.com/groups/1143641272471082/) — Quota / category / gender pool · 💬
+- [IIT aspirants Facebook group](https://www.facebook.com/groups/396099454252072/) — General / cross-cutting · 💬
+- [JEE 2025 aspirants Facebook group](https://www.facebook.com/groups/2761372790578741/) — General / cross-cutting · 💬
+- [r/JEENEETards on DISBOARD](https://disboard.org/server/1117294391707570176) — General / cross-cutting
+- [JEE NEET GANG on DISBOARD](https://disboard.org/server/1043443094948954132) — General / cross-cutting
+- [JEE NEET GANG on Discord.Do](https://discord.do/jee-neet-gang/) — General / cross-cutting
+- [JEE 2025 prep (Discord.me listing)](https://discord.me/jee-2025-prep) — Documents & reporting
+- [Study With Mee (Discord.me listing)](https://discord.me/studywithmeeofficial) — General / cross-cutting
+- [Books Coffee and Dreams (Discord.me listing)](https://discord.me/books-coffee-and-dreams) — General / cross-cutting
+- [The Oasis (Discord.me listing)](https://discord.me/oasis-for-aspirants) — General / cross-cutting
+- [ScholarSquad (Discord.me listing)](https://discord.me/scholarsquad) — General / cross-cutting
+- [THE CBSE COMMUNITY (Discord.me listing)](https://discord.me/cbse-discord) — General / cross-cutting
+- [TOPPER LOG on DISBOARD](https://disboard.org/server/1351179346878140476) — General / cross-cutting
+- [StudyVerse (India) on DISBOARD](https://disboard.org/server/1367895828395458732) — General / cross-cutting
+- [JEE PRO on DISBOARD](https://disboard.org/server/689824205772029962) — General / cross-cutting
+- [r/JEE on DISBOARD](https://disboard.org/server/1218477844611731496) — General / cross-cutting
+- [NEET FAM on DISBOARD](https://disboard.org/server/810850391004676096) — General / cross-cutting
+- [JEENEETards on Discord.Do](https://discord.do/jeeneetards/) — General / cross-cutting
+- [Discadia — IIT/JEE server search](https://discadia.com/?q=iit) — General / cross-cutting
+- [Indie Hackers - India group](https://www.indiehackers.com/group/india) — General / cross-cutting · 💬
+- [Indie Hackers - Products directory](https://www.indiehackers.com/products) — General / cross-cutting · 💬
+- [PaGaLGuY](https://www.pagalguy.com/) — Branch vs College agony · 💬
+- [Careers360 - JEE Main College Predictor & QnA community](https://engineering.careers360.com/jee-main-college-predictor) — Percentile vs rank / normalization · 💬
+- [r/Indian_Academia — Engineering Admissions Choices megathread (mirror)](https://libreddit.some-things.org/r/Indian_Academia/comments/p5yiox/2021_engineering_admissions_choices_thread/) — Choice-filling order & locking · 💬
+- [Frequently Asked Questions on JoSAA](https://www.potentialconcept.in/blog/faq-jossa-2023) — Choice-filling order & locking
+- [rank2college (GitHub, Next.js)](https://github.com/amanbind898/rank2college) — Choice-filling order & locking · 💬
+- [Sbrjt/josaa-cutoffs (GitHub + live site)](https://github.com/Sbrjt/josaa-cutoffs) — Float / Freeze / Slide · 💬
+- [ksauraj/jee_counsellor (GitHub)](https://github.com/ksauraj/jee_counsellor) — Choice-filling order & locking · 💬
+- [seshaljain/josaa-scrape (GitHub)](https://github.com/seshaljain/josaa-scrape) — Documents & reporting
+- [Quantum-Codes/JoSAA_2024 (GitHub)](https://github.com/Quantum-Codes/JoSAA_2024) — Documents & reporting
+- [GitHub Topic: josaa](https://github.com/topics/josaa) — General / cross-cutting
+
+## App (26)
+
+- [Product Hunt](https://www.producthunt.com/) — General / cross-cutting · 💬
+- [EduRev (Education Revolution) on Product Hunt](https://www.producthunt.com/products/edurev-education-revolution) — General / cross-cutting · 💬
+- [Free JEE Main College & Rank Predictor (No Login) - MyJeePredictor](https://www.myjeepredictor.in/) — Predictor distrust & lead-gen spam
+- [JoSAA College Predictor 2026 - JEERankPredictor](https://www.jeerankpredictor.in/josaa-college-predictor) — Predictor distrust & lead-gen spam
+- [JEE Main College Predictor 2026 - ExamMint](https://jee.exammint.in/) — Float / Freeze / Slide
+- [JoSAA College Predictor 2026 - JoSAA Live](https://www.josaalive.in/predictor) — Predictor distrust & lead-gen spam
+- [JEE Main Percentile Predictor 2026 (Free, No Login)](https://jeepredictor.in/) — Percentile vs rank / normalization
+- [JoSAA Opening & Closing Rank Counselling Free Tool - eSaral](https://www.esaral.com/jossa-opening-and-closing-rank/) — Float / Freeze / Slide
+- [MyExams.AI — JoSAA Counselling Expert 2026 (IIT-NIT Admission Guidance)](https://myexams.ai/jee-main-josaa-counselling/) — Choice-filling order & locking
+- [JeeCounselors / Zeline — JoSAA Counseling Signup (checkout)](https://www.jeecounselors.com/signup) — Choice-filling order & locking
+- [CounsellingSuite — Expert Counselor for JoSAA, CSAB 2026 (Free Session)](https://counsellingsuite.com/) — Choice-filling order & locking
+- [JoSAA Counselling Helper — Personalized One-on-One Guidance](https://www.josaacounsellinghelper.in/) — Choice-filling order & locking
+- [JEE Counselling JOSAA, CSAB (Android app)](https://play.google.com/store/apps/details?id=com.nitcounseling.counselingsuite) — Choice-filling order & locking · 💬
+- [CollegeTpoint Engineering App (Android)](https://play.google.com/store/apps/details?id=com.collegetpointapp&hl=en&gl=US) — Branch vs College agony
+- [JeeAB360 Predictor - JEE / STD 12 (Android)](https://play.google.com/store/apps/details?id=com.adarshbarnwal.notesapp&hl=en_IN) — Predictor distrust & lead-gen spam
+- [JEE Admission Information (Android)](https://play.google.com/store/apps/details?id=com.josaa&hl=en_IN) — Branch vs College agony
+- [All India Admission for JoSAA (iOS App Store)](https://apps.apple.com/us/app/all-india-admission-for-josaa/id1508262718) — Predictor distrust & lead-gen spam
+- [rank7.ai — AI JoSAA Choice List Generator](https://rank7.ai/) — Choice-filling order & locking · 💬
+- [StepVista JoSAA Choice Filling & NIT Priority Optimizer](https://stepvista.com/josaa-optimizer/) — Choice-filling order & locking · 💬
+- [JeeCounselors — Free JoSAA & CSAB Choice Filling Strategy Tool](https://www.jeecounselors.com/josaa-csab-choice-guide) — Choice-filling order & locking · 💬
+- [RankMatrix — Free JEE College & Branch Predictor (no signup)](https://www.rankmatrix.in/predict) — Choice-filling order & locking · 💬
+- [Xandy Learning — JoSAA 2025 College Predictor](https://jeepredictor.xandylearning.in/) — Percentile vs rank / normalization
+- [JoSAA College Predictor (Vercel hobby app)](https://josaacollegepredictor.vercel.app/) — Percentile vs rank / normalization
+- [JEE College Predictor 2026 (Netlify multi-counselling)](https://jee-college-predictor.netlify.app/) — Quota / category / gender pool
+- [Glimpse — Google Trends enhancement tool (volume estimates)](https://meetglimpse.com/google-trends/) — General / cross-cutting
+- [Google Trends — interest-over-time for JoSAA/JEE counselling terms](https://trends.google.com/trends/) — General / cross-cutting
+
+## Telegram (24)
+
+- [JEE Main Aspirants (Telegram)](https://t.me/JEEMainAspirants) — General / cross-cutting · 💬
+- [JEE 1 / Udaan (Telegram)](https://t.me/jeeudaan) — General / cross-cutting · 💬
+- [JEE SIMPLIFIED (Telegram)](https://t.me/jeesimplified) — General / cross-cutting · 💬
+- [JEE SIMPLIFIED @jee2026 (Telegram)](https://t.me/jee2026simplified) — General / cross-cutting · 💬
+- [Namo Kaul - JEE 2025/2026 & NEET (Telegram)](https://t.me/namochat) — General / cross-cutting · 💬
+- [ALLEN JEE Official (Telegram)](https://t.me/ALLENJEEofficial) — General / cross-cutting
+- [PW Lakshya JEE 2024-25 (Telegram)](https://t.me/Pw_lakshyaJee_2024_25) — General / cross-cutting
+- [Physics Wallah - Alakh Pandey Official (Telegram)](https://t.me/Physics_Wallah_Official_Channel) — General / cross-cutting
+- [Physics Wallah IIT JEE NEET (Telegram)](https://t.me/Physics_Wallah_IIT_JEE_NEET) — Documents & reporting
+- [JEE Wallah / PW JEE Wallah (Telegram)](https://t.me/pwjeewallah) — General / cross-cutting
+- [MathonGo Official JEE 2026 (Telegram)](https://t.me/mathongo_official_2026) — General / cross-cutting
+- [JEE ADVANCED 2026/2027/2028 (RA JEE) - TGStat profile](https://in.tgstat.com/channel/@JEEAdvanced_2026) — General / cross-cutting
+- [TEST SERIES FOR JEE (@JEE_Test_Seriess) - TGStat](https://in.tgstat.com/channel/@JEE_Test_Seriess) — Documents & reporting
+- [INORGANIC LOVERS (Telegram)](https://t.me/inorganiclover) — Branch vs College agony · 💬
+- [STBG - Set Time Bound Goal (Telegram)](https://t.me/stbgAMU) — Branch vs College agony · 💬
+- [IIT JEE Mains & Advance](https://t.me/IIT_JEE_Mains_Advance) — General / cross-cutting · 💬
+- [IIT Aspirants (engineeringaspirant)](https://t.me/engineeringaspirant) — General / cross-cutting · 💬
+- [Study Point (iitjeehelps)](https://t.me/iitjeehelps) — General / cross-cutting · 💬
+- [Competishun IIT-JEE](https://t.me/competishun_official) — General / cross-cutting
+- [MathonGo Official – JEE 2025](https://t.me/mathongo_2025) — General / cross-cutting
+- [Radius JEE](https://t.me/radiusjee) — General / cross-cutting
+- [JEE Full Study Material](https://t.me/JEE_Full_Study_Material) — Documents & reporting · 💬
+- [IIT JEE Notes (material/books/notes)](https://t.me/iit_jee_material_books_notes) — Documents & reporting · 💬
+- [790+ JEE WhatsApp Group Links 2025](https://www.whtsagrouplinks.com/jee-whatsapp-group-links/) — General / cross-cutting · 💬
+
+## Instagram (12)
+
+- [JoSAA Counselling (JEE) (@josaacounsellingjee)](https://www.instagram.com/josaacounsellingjee/) — Choice-filling order & locking · 💬
+- [JOSAA IIT/NIT COUNSELLING ASSISTANT/GUIDE (@josaa_counselling)](https://www.instagram.com/josaa_counselling/) — Choice-filling order & locking · 💬
+- [College Pravesh (@college.pravesh)](https://www.instagram.com/college.pravesh/) — General / cross-cutting · 💬
+- [College Pravesh - JoSAA 2025 Counselling Guide: IIT & NIT (Reel/Post)](https://www.instagram.com/p/DKiK03FzufE/) — Choice-filling order & locking · 💬
+- [Career Kick Services (@careerkickservices) - IIT-JEE & NEET PAN India Counseling Center](https://www.instagram.com/careerkickservices/) — General / cross-cutting · 💬
+- [Career Kick Services - JEE Main 2025: All About JoSAA Counselling (Reel)](https://www.instagram.com/careerkickservices/reel/DGQSWjNtQqz/) — General / cross-cutting · 💬
+- [Harsh Priyam (@priyam_harsh)](https://www.instagram.com/priyam_harsh/) — General / cross-cutting · 💬
+- [Harsh Priyam - All About JoSAA Counselling JEE 2025 (Reel)](https://www.instagram.com/reel/DJCOjSAS29o/) — General / cross-cutting · 💬
+- [Harsh Priyam - You Can Sit in JoSAA Counselling Without... (Reel)](https://www.instagram.com/reel/DI37y3JsuLG/) — Exam registration friction · 💬
+- [JEE WALLAH (@pwjee_wallah) - Physics Wallah JEE](https://www.instagram.com/pwjee_wallah/) — General / cross-cutting · 💬
+- [Aman Dhattarwal - 3 Mistakes in IIT JEE Preparation (Reel)](https://www.instagram.com/reel/C8HegUmyHOV/) — General / cross-cutting · 💬
+- [Sarthak Goyal (@iamsarthakgoyal)](https://www.instagram.com/iamsarthakgoyal/) — General / cross-cutting · 💬
+
+## Discord (6)
+
+- [r/JEE Official Discord Server](https://discord.com/invite/KNudBGbQHr) — General / cross-cutting · 💬
+- [r/JEENEETards Discord Server](https://discord.com/invite/r-jeeneetards-1117294391707570176) — General / cross-cutting · 💬
+- [JEE NEET GANG Discord Server](https://discord.com/invite/jee-neet-gang-1043443094948954132) — General / cross-cutting · 💬
+- [JEENEETards (Archived 2022-2025) Discord](https://discord.com/invite/jeeneetards-741608866474754079) — General / cross-cutting
+- [JEE Aspirants Discord (Discord.me listing)](https://discord.me/jee) — General / cross-cutting · 💬
+- [JEE to IIT Discord (Discadia listing)](https://discadia.com/server/jee-to-iit/) — General / cross-cutting · 💬
+
+## YouTube (channel) (4)
+
+- [Counselify (channel)](https://www.youtube.com/@counselify) — Choice-filling order & locking · 💬
+- [Snehit Mishra (channel)](https://www.youtube.com/channel/UCrGYrwzlB5e3kal7IX2xheg) — Choice-filling order & locking · 💬
+- [Resonance Eduventures (channel)](https://www.youtube.com/channel/UC_bdItm01JN2xXRz5hXJwTQ) — General / cross-cutting · 💬
+- [Aman Dhattarwal - YouTube channel](https://www.youtube.com/channel/UCmXZxX_qexEZxhb5_vQKPCw) — Branch vs College agony · 💬
+
+## directory (3)
+
+- [BetaList](https://betalist.com/) — General / cross-cutting · 💬
+- [SaaSHub](https://www.saashub.com/best-startup-directory-software) — General / cross-cutting · 💬
+- [Startups.fyi (via BetaList)](https://betalist.com/startups/startups-fyi) — General / cross-cutting · 💬
+
+## Other (3)
+
+- [JeeCounselors (JEE/JoSAA counselling service)](https://www.jeecounselors.com/) — Choice-filling order & locking
+- [JoSAA Official Opening & Closing Ranks Archive](https://josaa.admissions.nic.in/applicant/seatmatrix/openingclosingrankarchieve.aspx) — Float / Freeze / Slide
+- [Divastra (Prabhat Ranjan) — IIT JEE College Counselling & B.Tech Admission Guidance](https://divastra.github.io/counselling.html) — Choice-filling order & locking
+

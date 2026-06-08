@@ -1,0 +1,1866 @@
+{
+  "generated": "2026-06-08T00:48:54.544Z",
+  "count": 100,
+  "successCount": 100,
+  "failedCount": 1,
+  "subreddits": 9,
+  "threads": [
+    {
+      "url": "https://www.reddit.com/r/JEENEETards/comments/1dgdj5n/josaa_mock_seat_allocation/",
+      "title": "JOSAA MOCK SEAT ALLOCATION",
+      "subreddit": "JEENEETards",
+      "author": "Grandmaster1o",
+      "score": 123,
+      "upvote_ratio": 0.95,
+      "num_comments": 695,
+      "created_utc": 1718440847,
+      "created_date": "2024-06-15",
+      "flair": "JEE :snoo:",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "float_freeze_slide",
+      "lanes": [
+        "float_freeze_slide"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEENEETards/comments/1dbvkjf/josaa_counselling_ama_for_24tards_dont_skip/",
+      "title": "JOSAA Counselling AMA for 24tards (Don't skip)",
+      "subreddit": "JEENEETards",
+      "author": "SabMohMayaaHai",
+      "score": 86,
+      "upvote_ratio": 0.98,
+      "num_comments": 567,
+      "created_utc": 1717944821,
+      "created_date": "2024-06-09",
+      "flair": "JEE :snoo:",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "choice_filling",
+      "lanes": [
+        "reddit_choice_filling_order"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/Btechtards/comments/1mbag45/rip_to_those_who_paid_22_lakhs_for_this/",
+      "title": "RIP to those who paid 22 lakhs for this 100xschool SCAM",
+      "subreddit": "Btechtards",
+      "author": "Prestigious-Oven6444",
+      "score": 2249,
+      "upvote_ratio": 0.95,
+      "num_comments": 349,
+      "created_utc": 1753690330,
+      "created_date": "2025-07-28",
+      "flair": "Serious",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "scams_misinfo",
+      "lanes": [
+        "scams_and_quota_confusion"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/Btechtards/comments/1b0j0jr/real_or_scam/",
+      "title": "Real or scam??",
+      "subreddit": "Btechtards",
+      "author": "sigma___mohit",
+      "score": 361,
+      "upvote_ratio": 0.94,
+      "num_comments": 228,
+      "created_utc": 1708958250,
+      "created_date": "2024-02-26",
+      "flair": "Discussion",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "scams_misinfo",
+      "lanes": [
+        "scams_and_quota_confusion"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEENEETards/comments/1cu0twc/how_to_explain_my_mom_that_nit_warangal_is_a_good/",
+      "title": "HOW TO EXPLAIN MY MOM THAT NIT WARANGAL IS A GOOD COLLEGE ",
+      "subreddit": "JEENEETards",
+      "author": "Fluffylwj",
+      "score": 183,
+      "upvote_ratio": 0.98,
+      "num_comments": 218,
+      "created_utc": 1715937287,
+      "created_date": "2024-05-17",
+      "flair": "SERIOUS POST",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "branch_vs_college",
+      "lanes": [
+        "branch_vs_college"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEENEETards/comments/14jk8ie/bro_literally_everyone_i_know_wants_to_do_cse/",
+      "title": "Bro literally everyone I know wants to do cse 💀💀 they are even sacrificing old IITs and taking admissions in state colleges and new IIITs for it WTF!",
+      "subreddit": "JEENEETards",
+      "author": "JohnWickFTW",
+      "score": 290,
+      "upvote_ratio": 0.96,
+      "num_comments": 215,
+      "created_utc": 1687792993,
+      "created_date": "2023-06-26",
+      "flair": "Rant :snoo_feelsbadman:",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "branch_vs_college",
+      "lanes": [
+        "branch_vs_college"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/Btechtards/comments/182jvx6/those_who_are_in_tier_3_colleges_what_are_your/",
+      "title": "Those who are in Tier 3 colleges... What are your plans to reach to your max potential?",
+      "subreddit": "Btechtards",
+      "author": "JEEAdventurer",
+      "score": 203,
+      "upvote_ratio": 0.98,
+      "num_comments": 131,
+      "created_utc": 1700801309,
+      "created_date": "2023-11-24",
+      "flair": "General Doubt",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "branch_vs_college",
+      "lanes": [
+        "branch_vs_college"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/Btechtards/comments/1j3xc3m/is_it_compulsory_to_take_cse/",
+      "title": "Is it compulsory to take CSE ????",
+      "subreddit": "Btechtards",
+      "author": "[deleted]",
+      "score": 163,
+      "upvote_ratio": 0.94,
+      "num_comments": 126,
+      "created_utc": 1741157960,
+      "created_date": "2025-03-05",
+      "flair": "Rant/Vent",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "branch_vs_college",
+      "lanes": [
+        "branch_vs_college"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/Btechtards/comments/15m4or9/how_is_nobody_doing_anything_about_comedk_taking/",
+      "title": "How is nobody doing anything about comedk taking 15L fine if you get a seat and don't report in round 3?",
+      "subreddit": "Btechtards",
+      "author": "[deleted]",
+      "score": 142,
+      "upvote_ratio": 0.96,
+      "num_comments": 124,
+      "created_utc": 1691554983,
+      "created_date": "2023-08-09",
+      "flair": "College Choice",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "deposit_forfeiture",
+      "lanes": [
+        "scams_and_quota_confusion"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/Btechtards/comments/18tj7r2/college_scam_alert/",
+      "title": "COLLEGE SCAM ALERT!!",
+      "subreddit": "Btechtards",
+      "author": "Proper_Perspective72",
+      "score": 309,
+      "upvote_ratio": 0.96,
+      "num_comments": 123,
+      "created_utc": 1703842026,
+      "created_date": "2023-12-29",
+      "flair": "College Choice",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "scams_misinfo",
+      "lanes": [
+        "scams_and_quota_confusion"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEEAdv25dailyupdates/comments/1lc19g8/guys_should_i_freeze_or_float/",
+      "title": "[deleted by user]",
+      "subreddit": "JEEAdv25dailyupdates",
+      "author": "[deleted]",
+      "score": 44,
+      "upvote_ratio": 0.98,
+      "num_comments": 118,
+      "created_utc": 1749996695,
+      "created_date": "2025-06-15",
+      "flair": "",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "float_freeze_slide",
+      "lanes": [
+        "float_freeze_slide"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEENEETards/comments/xqa3nr/are_lower_branches_like_that_bad/",
+      "title": "Are lower branches like that bad?",
+      "subreddit": "JEENEETards",
+      "author": "[deleted]",
+      "score": 47,
+      "upvote_ratio": 0.95,
+      "num_comments": 86,
+      "created_utc": 1664364390,
+      "created_date": "2022-09-28",
+      "flair": "gromint offisial serius diskusion🚩",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "branch_vs_college",
+      "lanes": [
+        "branch_vs_college"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEEAdv25dailyupdates/comments/1l43gyc/how_many_choices_are_you_guys_filling_for_josaa/",
+      "title": "How many choices are you guys filling for josaa?",
+      "subreddit": "JEEAdv25dailyupdates",
+      "author": "Silvercrest75",
+      "score": 20,
+      "upvote_ratio": 1,
+      "num_comments": 85,
+      "created_utc": 1749140539,
+      "created_date": "2025-06-05",
+      "flair": "Guidance Needed :snoo_hug:",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "choice_filling",
+      "lanes": [
+        "reddit_choice_filling_order"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/Btechtards/comments/1dgfh6b/scared_to_take_cse_cause_of_conservative_parents/",
+      "title": "[deleted by user]",
+      "subreddit": "Btechtards",
+      "author": "[deleted]",
+      "score": 68,
+      "upvote_ratio": 0.9,
+      "num_comments": 75,
+      "created_utc": 1718449318,
+      "created_date": "2024-06-15",
+      "flair": "",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "branch_vs_college",
+      "lanes": [
+        "branch_vs_college"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/Indian_Academia/comments/p3o577/things_i_wish_which_i_knew_before_joining_btech/",
+      "title": "Things I wish which I knew before joining B.Tech CSE and while doing it.",
+      "subreddit": "Indian_Academia",
+      "author": "[deleted]",
+      "score": 229,
+      "upvote_ratio": 0.93,
+      "num_comments": 74,
+      "created_utc": 1628870901,
+      "created_date": "2021-08-13",
+      "flair": "CSE/ECE",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "branch_vs_college",
+      "lanes": [
+        "branch_vs_college"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/Btechtards/comments/1dheuaa/people_who_got_decent_rank_in_advance_yet_chose/",
+      "title": "People who got decent rank in advance yet chose NIT CS, do you all regret missing out on the IIT tag?",
+      "subreddit": "Btechtards",
+      "author": "Any_Angle8771",
+      "score": 43,
+      "upvote_ratio": 0.93,
+      "num_comments": 69,
+      "created_utc": 1718565100,
+      "created_date": "2024-06-16",
+      "flair": "College Admission/Counselling",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "branch_vs_college",
+      "lanes": [
+        "branch_vs_college"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEENEETards/comments/1eg13yn/tomorrow_is_csab_choice_filling_and_i_need_help/",
+      "title": "Tomorrow is CSAB choice filling and I need help!",
+      "subreddit": "JEENEETards",
+      "author": "NaughtyAmbivert",
+      "score": 4,
+      "upvote_ratio": 0.75,
+      "num_comments": 69,
+      "created_utc": 1722364908,
+      "created_date": "2024-07-30",
+      "flair": "GENERAL HELP ",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "choice_filling",
+      "lanes": [
+        "reddit_choice_filling_order"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEENEETards/comments/wwflbr/joint_seat_allocation_authority_josaa_counselling/",
+      "title": "Joint Seat Allocation Authority (JoSAA) Counselling Process.",
+      "subreddit": "JEENEETards",
+      "author": "exhaustedRetard",
+      "score": 201,
+      "upvote_ratio": 1,
+      "num_comments": 65,
+      "created_utc": 1661335776,
+      "created_date": "2022-08-24",
+      "flair": "SERIOUS POST",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "float_freeze_slide",
+      "lanes": [
+        "float_freeze_slide"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEENEETards/comments/124h4kv/jee_mains_vit_manipal_scam_exposed/",
+      "title": "[deleted by user]",
+      "subreddit": "JEENEETards",
+      "author": "[deleted]",
+      "score": 60,
+      "upvote_ratio": 0.97,
+      "num_comments": 56,
+      "created_utc": 1679989510,
+      "created_date": "2023-03-28",
+      "flair": "",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "scams_misinfo",
+      "lanes": [
+        "scams_and_quota_confusion"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEENEETards/comments/14f1fa0/my_parents_are_forcing_me_into_iit/",
+      "title": "My parents are forcing me into IIT",
+      "subreddit": "JEENEETards",
+      "author": "VulcanisedCrimson",
+      "score": 34,
+      "upvote_ratio": 0.91,
+      "num_comments": 50,
+      "created_utc": 1687334771,
+      "created_date": "2023-06-21",
+      "flair": "JEE :snoo:",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "branch_vs_college",
+      "lanes": [
+        "branch_vs_college"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/Btechtards/comments/1ds17g7/anyone_joining_sharda_university/",
+      "title": "Anyone joining SHARDA University?",
+      "subreddit": "Btechtards",
+      "author": "ITsMeWhoIAm",
+      "score": 3,
+      "upvote_ratio": 0.62,
+      "num_comments": 50,
+      "created_utc": 1719753193,
+      "created_date": "2024-06-30",
+      "flair": "College Admission/Counselling",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "scams_misinfo",
+      "lanes": [
+        "scams_and_quota_confusion"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/Btechtards/comments/1cjco5k/branch_vs_college_confusion/",
+      "title": "Branch vs College confusion ",
+      "subreddit": "Btechtards",
+      "author": "[deleted]",
+      "score": 61,
+      "upvote_ratio": 0.93,
+      "num_comments": 43,
+      "created_utc": 1714753106,
+      "created_date": "2024-05-03",
+      "flair": "Serious",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "branch_vs_college",
+      "lanes": [
+        "branch_vs_college"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEENEETards/comments/154w2yl/did_i_fuck_up_i_chose_nitwarangal_cse_over_old/",
+      "title": "Did I fuck up? (I chose NITWarangal cse over old IIT lower than mechanical branches.)",
+      "subreddit": "JEENEETards",
+      "author": "Next_Finding786",
+      "score": 38,
+      "upvote_ratio": 0.9,
+      "num_comments": 42,
+      "created_utc": 1689871222,
+      "created_date": "2023-07-20",
+      "flair": "Rant :snoo_feelsbadman:",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "branch_vs_college",
+      "lanes": [
+        "branch_vs_college"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEENEETards/comments/1djek1p/help_me_why_are_my_choices_locked/",
+      "title": "HELP ME WHY ARE MY CHOICES LOCKED !",
+      "subreddit": "JEENEETards",
+      "author": "Living_Plastic3623",
+      "score": 0,
+      "upvote_ratio": 0.43,
+      "num_comments": 42,
+      "created_utc": 1718787549,
+      "created_date": "2024-06-19",
+      "flair": "SERIOUS POST",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "float_freeze_slide",
+      "lanes": [
+        "reddit_choice_filling_order"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/Btechtards/comments/14vts63/anybody_here_who_got_a_seat_in_josaa_but_hadnt/",
+      "title": "Anybody here who got a seat in JOSAA but hadn't eventually gone to the college ?(after paying the seat acceptance and partial admission fees)",
+      "subreddit": "Btechtards",
+      "author": "[deleted]",
+      "score": 8,
+      "upvote_ratio": 0.84,
+      "num_comments": 42,
+      "created_utc": 1688994967,
+      "created_date": "2023-07-10",
+      "flair": "General Doubt",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "deposit_forfeiture",
+      "lanes": [
+        "float_freeze_slide"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/Btechtards/comments/157c51d/management_quota_in_tier_1_colleges/",
+      "title": "Management Quota IN TIER 1 COLLEGES",
+      "subreddit": "Btechtards",
+      "author": "[deleted]",
+      "score": 30,
+      "upvote_ratio": 0.8,
+      "num_comments": 41,
+      "created_utc": 1690110754,
+      "created_date": "2023-07-23",
+      "flair": "General Doubt",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "branch_vs_college",
+      "lanes": [
+        "scams_and_quota_confusion"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/Btechtards/comments/wyrsg0/parents_are_forcing_to_do_cs/",
+      "title": "Parents are forcing to do CS",
+      "subreddit": "Btechtards",
+      "author": "[deleted]",
+      "score": 25,
+      "upvote_ratio": 0.94,
+      "num_comments": 40,
+      "created_utc": 1661569156,
+      "created_date": "2022-08-27",
+      "flair": "other",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "branch_vs_college",
+      "lanes": [
+        "branch_vs_college"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEENEETards/comments/wp7n0h/sorry_if_rude_will_i_ever_regret_joining_bits/",
+      "title": "sorry if rude. Will i ever regret joining BITS instead of an IIT? im getting CSE in BITS, and would most definitely not get CSE or elec in an old IIT. Pls no hate",
+      "subreddit": "JEENEETards",
+      "author": "Business-Kale-1406",
+      "score": 5,
+      "upvote_ratio": 0.65,
+      "num_comments": 37,
+      "created_utc": 1660589665,
+      "created_date": "2022-08-15",
+      "flair": "BITS",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "branch_vs_college",
+      "lanes": [
+        "branch_vs_college"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEEAdv25dailyupdates/comments/1lb06r5/seat_acceptance_fee_is_30k_or_35k/",
+      "title": "Seat acceptance fee is 30k Or 35k??",
+      "subreddit": "JEEAdv25dailyupdates",
+      "author": "CosmosWM",
+      "score": 23,
+      "upvote_ratio": 1,
+      "num_comments": 36,
+      "created_utc": 1749875921,
+      "created_date": "2025-06-14",
+      "flair": "Guidance Needed :snoo_hug:",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "deposit_forfeiture",
+      "lanes": [
+        "float_freeze_slide"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/Indian_Academia/comments/wb50vm/should_i_go_for_lower_branches_in_nits_or_cse_in/",
+      "title": "Should I go for lower branches in NITs or CSE in IIITs?",
+      "subreddit": "Indian_Academia",
+      "author": "[deleted]",
+      "score": 14,
+      "upvote_ratio": 0.9,
+      "num_comments": 34,
+      "created_utc": 1659101768,
+      "created_date": "2022-07-29",
+      "flair": "AdmissionProcedure/Fees/CollegeAdmin",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "branch_vs_college",
+      "lanes": [
+        "branch_vs_college"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/Indian_Academia/comments/xi2xcl/how_to_arrange_these_iits_as_my_preference_in/",
+      "title": "How to arrange these IITs as my preference in JOSAA",
+      "subreddit": "Indian_Academia",
+      "author": "devilonova",
+      "score": 35,
+      "upvote_ratio": 0.86,
+      "num_comments": 34,
+      "created_utc": 1663565250,
+      "created_date": "2022-09-19",
+      "flair": "Engineering",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "choice_filling",
+      "lanes": [
+        "reddit_choice_filling_order"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEENEETards/comments/1dcat6i/give_your_jossa_choice_filling_order/",
+      "title": "Give your Jossa choice filling order ",
+      "subreddit": "JEENEETards",
+      "author": "Puzzled_Jaguar2",
+      "score": 16,
+      "upvote_ratio": 1,
+      "num_comments": 33,
+      "created_utc": 1717986061,
+      "created_date": "2024-06-10",
+      "flair": "JEE :snoo:",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "choice_filling",
+      "lanes": [
+        "reddit_choice_filling_order"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEENEETards/comments/1db4bm8/give_some_josaa_choice_filling_tips_and_awareness/",
+      "title": "Give some Josaa choice filling tips and awareness durung counselling",
+      "subreddit": "JEENEETards",
+      "author": "[deleted]",
+      "score": 6,
+      "upvote_ratio": 0.8,
+      "num_comments": 29,
+      "created_utc": 1717857288,
+      "created_date": "2024-06-08",
+      "flair": "SERIOUS POST",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "choice_filling",
+      "lanes": [
+        "reddit_choice_filling_order"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEENEETards/comments/1d0tq0a/cs_branch_in_nonnit_or_lower_branch_in_lower_nit/",
+      "title": "CS branch in non-NIT or lower branch in lower NIT? Pls btado",
+      "subreddit": "JEENEETards",
+      "author": "[deleted]",
+      "score": 3,
+      "upvote_ratio": 0.8,
+      "num_comments": 28,
+      "created_utc": 1716698517,
+      "created_date": "2024-05-26",
+      "flair": "GENERAL HELP ",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "branch_vs_college",
+      "lanes": [
+        "branch_vs_college"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/Btechtards/comments/qw23va/withdrawal_of_seat_and_csab_councelling/",
+      "title": "Withdrawal of seat and CSAB councelling.",
+      "subreddit": "Btechtards",
+      "author": "GrappleshotHalo",
+      "score": 15,
+      "upvote_ratio": 1,
+      "num_comments": 28,
+      "created_utc": 1637164006,
+      "created_date": "2021-11-17",
+      "flair": "General Doubt",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "deposit_forfeiture",
+      "lanes": [
+        "float_freeze_slide"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/Btechtards/comments/156mukk/jac_and_josaa_going_forward/",
+      "title": "JAC and JoSAA going forward",
+      "subreddit": "Btechtards",
+      "author": "royallyfuckedupp",
+      "score": 23,
+      "upvote_ratio": 0.97,
+      "num_comments": 27,
+      "created_utc": 1690039186,
+      "created_date": "2023-07-22",
+      "flair": "College Choice",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "general",
+      "lanes": [
+        "float_freeze_slide"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/Btechtards/comments/zczkm2/is_going_for_management_quota_in_rvce_bmsce_etc/",
+      "title": "Is going for management quota in rvce, bmsce etc worth it?",
+      "subreddit": "Btechtards",
+      "author": "anirudhkolli11",
+      "score": 16,
+      "upvote_ratio": 0.87,
+      "num_comments": 27,
+      "created_utc": 1670222970,
+      "created_date": "2022-12-05",
+      "flair": "General Doubt",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "branch_vs_college",
+      "lanes": [
+        "scams_and_quota_confusion"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEENEETards/comments/1dpjcs9/josaa_withdrawal/",
+      "title": "JOSAA Withdrawal",
+      "subreddit": "JEENEETards",
+      "author": "Desperate-Badger-707",
+      "score": 2,
+      "upvote_ratio": 1,
+      "num_comments": 23,
+      "created_utc": 1719464907,
+      "created_date": "2024-06-27",
+      "flair": "SERIOUS POST",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "deposit_forfeiture",
+      "lanes": [
+        "float_freeze_slide"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/Btechtards/comments/14i3qmd/how_many_minimum_choices_should_i_fill_in_josaa/",
+      "title": "How many minimum choices should i fill in josaa counselling?",
+      "subreddit": "Btechtards",
+      "author": "[deleted]",
+      "score": 3,
+      "upvote_ratio": 0.8,
+      "num_comments": 21,
+      "created_utc": 1687641047,
+      "created_date": "2023-06-24",
+      "flair": "College Choice",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "choice_filling",
+      "lanes": [
+        "reddit_choice_filling_order"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEENEETards/comments/1kye8lx/dont_fill_your_josaa_choices_blindly_we_scraped/",
+      "title": "Don't fill your JOSAA choices blindly! We scraped and analyzed 2024 JoSAA data to help you in your choice filling",
+      "subreddit": "JEENEETards",
+      "author": "hi-brawlstars",
+      "score": 22,
+      "upvote_ratio": 0.92,
+      "num_comments": 21,
+      "created_utc": 1748533789,
+      "created_date": "2025-05-29",
+      "flair": "Statistics :anup_sir:",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "choice_filling",
+      "lanes": [
+        "reddit_choice_filling_order"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/Btechtards/comments/1dmkjpj/josaa_provisional_seat_allotment_doubt/",
+      "title": "Josaa provisional seat allotment doubt",
+      "subreddit": "Btechtards",
+      "author": "Dependent_Rooster_39",
+      "score": 15,
+      "upvote_ratio": 0.89,
+      "num_comments": 21,
+      "created_utc": 1719143947,
+      "created_date": "2024-06-23",
+      "flair": "College Admission/Counselling",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "float_freeze_slide",
+      "lanes": [
+        "float_freeze_slide"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEENEETards/comments/13h1b5e/core_in_top_nit_or_cseceit_in_lower_nits/",
+      "title": "Core in top NIT or cs/ece/it in lower NITs...",
+      "subreddit": "JEENEETards",
+      "author": "imnotf9",
+      "score": 6,
+      "upvote_ratio": 0.75,
+      "num_comments": 19,
+      "created_utc": 1684035011,
+      "created_date": "2023-05-14",
+      "flair": "gromint offisial serius diskusion🚩",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "branch_vs_college",
+      "lanes": [
+        "branch_vs_college"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEENEETards/comments/1cphp4z/nit_core_or_vit_cse/",
+      "title": "NIT Core or VIT CSE",
+      "subreddit": "JEENEETards",
+      "author": "AverageStudent_1302",
+      "score": 3,
+      "upvote_ratio": 0.67,
+      "num_comments": 19,
+      "created_utc": 1715434667,
+      "created_date": "2024-05-11",
+      "flair": "GENERAL HELP ",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "branch_vs_college",
+      "lanes": [
+        "branch_vs_college"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEENEETards/comments/13wlzb1/iit_vs_nit/",
+      "title": "IIT vs NIT",
+      "subreddit": "JEENEETards",
+      "author": "Boring_inside0",
+      "score": 5,
+      "upvote_ratio": 0.86,
+      "num_comments": 18,
+      "created_utc": 1685538816,
+      "created_date": "2023-05-31",
+      "flair": "JEE :snoo:",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "branch_vs_college",
+      "lanes": [
+        "branch_vs_college"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEENEETards/comments/190ll0f/home_state_reservation_is_decided_on_the_basis_of/",
+      "title": "Home state reservation is decided on the basis of ?",
+      "subreddit": "JEENEETards",
+      "author": "Lethality-God",
+      "score": 5,
+      "upvote_ratio": 1,
+      "num_comments": 18,
+      "created_utc": 1704608123,
+      "created_date": "2024-01-07",
+      "flair": "JEE :snoo:",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "quota_category",
+      "lanes": [
+        "scams_and_quota_confusion"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/Btechtards/comments/11wib3e/management_quota_at_top_tier_3_state_college_or/",
+      "title": "Management quota at top tier 3 state college or merit at average tier 3 college?",
+      "subreddit": "Btechtards",
+      "author": "[deleted]",
+      "score": 14,
+      "upvote_ratio": 0.95,
+      "num_comments": 16,
+      "created_utc": 1679317363,
+      "created_date": "2023-03-20",
+      "flair": "Computer Science Engineering Discussion/Doubt",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "branch_vs_college",
+      "lanes": [
+        "scams_and_quota_confusion"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/Btechtards/comments/14bu7aw/should_i_consider_lower_branches_in_top_nits/",
+      "title": "Should I consider lower branches in Top NITs ???",
+      "subreddit": "Btechtards",
+      "author": "CGbhakt420",
+      "score": 12,
+      "upvote_ratio": 0.94,
+      "num_comments": 15,
+      "created_utc": 1687016533,
+      "created_date": "2023-06-17",
+      "flair": "College Choice",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "branch_vs_college",
+      "lanes": [
+        "branch_vs_college"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/Btechtards/comments/1dhp36n/how_to_fill_josaa_choices_a_detailed_guide_on/",
+      "title": "How to fill josaa choices ? A detailed guide on choice filling preference order for nit's ,iiit's.",
+      "subreddit": "Btechtards",
+      "author": "[deleted]",
+      "score": 15,
+      "upvote_ratio": 0.89,
+      "num_comments": 15,
+      "created_utc": 1718596306,
+      "created_date": "2024-06-17",
+      "flair": "General",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "choice_filling",
+      "lanes": [
+        "reddit_choice_filling_order"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEENEETards/comments/1djerpe/urgent_system_locked_wrong_choices_showing_wrong/",
+      "title": "URGENT - SYSTEM LOCKED WRONG CHOICES &amp; SHOWING WRONG SAVING DATE &amp; TIME EVEN THOUGH I SAVED MULTIPLE TIMES LATER THAT TIME",
+      "subreddit": "JEENEETards",
+      "author": "OutcomeDifficult748",
+      "score": 1,
+      "upvote_ratio": 1,
+      "num_comments": 15,
+      "created_utc": 1718788440,
+      "created_date": "2024-06-19",
+      "flair": "SERIOUS POST",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "float_freeze_slide",
+      "lanes": [
+        "reddit_choice_filling_order"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/Btechtards/comments/xexodr/seniors_please_help_this_is_my_josaa_preference/",
+      "title": "Seniors please help, this is my josaa preference order for 2022, what should i change please help me decide(full story in comments)",
+      "subreddit": "Btechtards",
+      "author": "Dave_Tave",
+      "score": 8,
+      "upvote_ratio": 0.9,
+      "num_comments": 14,
+      "created_utc": 1663250605,
+      "created_date": "2022-09-15",
+      "flair": "College Choice",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "choice_filling",
+      "lanes": [
+        "reddit_choice_filling_order"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEENEETards/comments/14d4kkc/josaa_choice_filling/",
+      "title": "JOSAA choice filling",
+      "subreddit": "JEENEETards",
+      "author": "ImprovementBasic1077",
+      "score": 24,
+      "upvote_ratio": 0.97,
+      "num_comments": 12,
+      "created_utc": 1687149440,
+      "created_date": "2023-06-19",
+      "flair": "SERIOUS POST",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "choice_filling",
+      "lanes": [
+        "reddit_choice_filling_order"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEENEETards/comments/1l5e87b/josaa_choice_filling_help_full_automated_filling/",
+      "title": "JoSAA Choice Filling Help — Full Automated Filling (~600+ choices)",
+      "subreddit": "JEENEETards",
+      "author": "Hot-Profession-5432",
+      "score": 5,
+      "upvote_ratio": 1,
+      "num_comments": 12,
+      "created_utc": 1749277776,
+      "created_date": "2025-06-07",
+      "flair": "GENERAL HELP ",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "choice_filling",
+      "lanes": [
+        "reddit_choice_filling_order"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEENEETards/comments/1dlrboz/flot_freeze_slide/",
+      "title": "Flot? Freeze ? Slide?",
+      "subreddit": "JEENEETards",
+      "author": "CherryOk4647",
+      "score": 2,
+      "upvote_ratio": 1,
+      "num_comments": 12,
+      "created_utc": 1719046329,
+      "created_date": "2024-06-22",
+      "flair": "GENERAL HELP ",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "float_freeze_slide",
+      "lanes": [
+        "float_freeze_slide"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEENEETards/comments/1dmoakx/no_float_or_slide_option_in_josaa/",
+      "title": "No Float or slide option in JoSAA",
+      "subreddit": "JEENEETards",
+      "author": "Electrical-Leave818",
+      "score": 3,
+      "upvote_ratio": 0.81,
+      "num_comments": 12,
+      "created_utc": 1719155445,
+      "created_date": "2024-06-23",
+      "flair": "SERIOUS POST",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "float_freeze_slide",
+      "lanes": [
+        "float_freeze_slide"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/Btechtards/comments/1da77v6/should_i_bother_sitting_for_josaa_counselling/",
+      "title": "Should I bother sitting for JOSAA counselling?",
+      "subreddit": "Btechtards",
+      "author": "[deleted]",
+      "score": 3,
+      "upvote_ratio": 0.81,
+      "num_comments": 12,
+      "created_utc": 1717755495,
+      "created_date": "2024-06-07",
+      "flair": "College Admission/Counselling",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "branch_vs_college",
+      "lanes": [
+        "float_freeze_slide"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/Btechtards/comments/14p9ke9/what_to_do_after_getting_the_seat_acceptance/",
+      "title": "What to do after getting the seat acceptance letter from JoSAA?",
+      "subreddit": "Btechtards",
+      "author": "[deleted]",
+      "score": 6,
+      "upvote_ratio": 1,
+      "num_comments": 11,
+      "created_utc": 1688360893,
+      "created_date": "2023-07-03",
+      "flair": "General Doubt",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "float_freeze_slide",
+      "lanes": [
+        "float_freeze_slide"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEENEETards/comments/14oc03a/i_have_been_alloted_a_seat_in_josaa/",
+      "title": "I have been alloted a seat in josaa",
+      "subreddit": "JEENEETards",
+      "author": "inconsistent47",
+      "score": 5,
+      "upvote_ratio": 0.86,
+      "num_comments": 10,
+      "created_utc": 1688262804,
+      "created_date": "2023-07-02",
+      "flair": "Doubt :snoo_thoughtful:",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "float_freeze_slide",
+      "lanes": [
+        "float_freeze_slide"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEENEETards/comments/1do4b08/question_regarding_hs_and_os_quota_in_nit/",
+      "title": "Question regarding HS and OS quota in NIT",
+      "subreddit": "JEENEETards",
+      "author": "Easy_Profession7033",
+      "score": 3,
+      "upvote_ratio": 1,
+      "num_comments": 10,
+      "created_utc": 1719316950,
+      "created_date": "2024-06-25",
+      "flair": "JEE :snoo:",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "quota_category",
+      "lanes": [
+        "scams_and_quota_confusion"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEE/comments/1l34ouc/how_much_does_preference_order_matter_in_josaa/",
+      "title": "How much does preference order matter in josaa ?",
+      "subreddit": "JEE",
+      "author": "Still-Membership-198",
+      "score": 2,
+      "upvote_ratio": 1,
+      "num_comments": 9,
+      "created_utc": 1749041293,
+      "created_date": "2025-06-04",
+      "flair": "Doubts",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "choice_filling",
+      "lanes": [
+        "reddit_choice_filling_order"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/CSAB_2025/comments/1mmjx5v/where_can_i_check_my_choice_filling_order_right/",
+      "title": "Where can I check my choice filling order right now??",
+      "subreddit": "CSAB_2025",
+      "author": "[deleted]",
+      "score": 2,
+      "upvote_ratio": 1,
+      "num_comments": 9,
+      "created_utc": 1754835926,
+      "created_date": "2025-08-10",
+      "flair": "Counselling doubt",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "choice_filling",
+      "lanes": [
+        "reddit_choice_filling_order"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEEAdv25dailyupdates/comments/1lc1xw8/should_i_freeze_or_float/",
+      "title": "[deleted by user]",
+      "subreddit": "JEEAdv25dailyupdates",
+      "author": "[deleted]",
+      "score": 6,
+      "upvote_ratio": 0.8,
+      "num_comments": 9,
+      "created_utc": 1749998535,
+      "created_date": "2025-06-15",
+      "flair": "",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "float_freeze_slide",
+      "lanes": [
+        "float_freeze_slide"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/Btechtards/comments/1egukxm/how_to_fill_josaa_choices_a_detailed_guide_on/",
+      "title": "How to fill josaa choices ? A detailed guide on choice filling preference order for nit's ,iiit's.\n",
+      "subreddit": "Btechtards",
+      "author": "[deleted]",
+      "score": 10,
+      "upvote_ratio": 0.86,
+      "num_comments": 9,
+      "created_utc": 1722450620,
+      "created_date": "2024-07-31",
+      "flair": "General",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "choice_filling",
+      "lanes": [
+        "float_freeze_slide"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/Btechtards/comments/qc9j4n/josaa_preference_order/",
+      "title": "Josaa preference order",
+      "subreddit": "Btechtards",
+      "author": "asadafagahajak44",
+      "score": 5,
+      "upvote_ratio": 1,
+      "num_comments": 8,
+      "created_utc": 1634760022,
+      "created_date": "2021-10-20",
+      "flair": "General Doubt",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "choice_filling",
+      "lanes": [
+        "reddit_choice_filling_order"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEENEETards/comments/xizk18/did_anyone_lock_their_choices_in_josaa_yet/",
+      "title": "Did anyone lock their choices in JoSAA yet?",
+      "subreddit": "JEENEETards",
+      "author": "[deleted]",
+      "score": 5,
+      "upvote_ratio": 1,
+      "num_comments": 8,
+      "created_utc": 1663649942,
+      "created_date": "2022-09-20",
+      "flair": "Discussion",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "float_freeze_slide",
+      "lanes": [
+        "reddit_choice_filling_order"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEENEETards/comments/14jczpc/if_i_get_a_college_in_first_round_and_choose_the/",
+      "title": "If i get a college in first round, and choose the float option, suppose in the second round, i get a better college, but i wanna stick to the college that i got in the first round, and proceed to the third/further rounds. is it possible to do that?",
+      "subreddit": "JEENEETards",
+      "author": "[deleted]",
+      "score": 4,
+      "upvote_ratio": 1,
+      "num_comments": 8,
+      "created_utc": 1687773391,
+      "created_date": "2023-06-26",
+      "flair": "Discussion :doge:",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "float_freeze_slide",
+      "lanes": [
+        "float_freeze_slide"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEENEETards/comments/1dhqk2k/how_to_fill_josaa_choices_a_detailed_guide_on/",
+      "title": "How to fill josaa choices ? A detailed guide on choice filling preference order for nit's ,iiit's.\n",
+      "subreddit": "JEENEETards",
+      "author": "[deleted]",
+      "score": 12,
+      "upvote_ratio": 0.94,
+      "num_comments": 7,
+      "created_utc": 1718601784,
+      "created_date": "2024-06-17",
+      "flair": "JEE :snoo:",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "choice_filling",
+      "lanes": [
+        "reddit_choice_filling_order",
+        "scams_and_quota_confusion"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEENEETards/comments/1kzds4y/help_needed_in_josaa_choice_filling/",
+      "title": "Help needed in JOSAA choice filling",
+      "subreddit": "JEENEETards",
+      "author": "FuriousWierdo00",
+      "score": 4,
+      "upvote_ratio": 0.84,
+      "num_comments": 7,
+      "created_utc": 1748634955,
+      "created_date": "2025-05-30",
+      "flair": "SERIOUS POST",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "choice_filling",
+      "lanes": [
+        "reddit_choice_filling_order"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEENEETards/comments/1lb0spd/where_can_i_find_the_choice_filling_order_list/",
+      "title": "[deleted by user]",
+      "subreddit": "JEENEETards",
+      "author": "[deleted]",
+      "score": 3,
+      "upvote_ratio": 0.81,
+      "num_comments": 7,
+      "created_utc": 1749878075,
+      "created_date": "2025-06-14",
+      "flair": "",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "choice_filling",
+      "lanes": [
+        "reddit_choice_filling_order"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/Btechtards/comments/1dkgpcg/cse_vs_core_engineering_branches/",
+      "title": "CSE vs core engineering branches",
+      "subreddit": "Btechtards",
+      "author": "Acrobatic_Sundae8813",
+      "score": 1,
+      "upvote_ratio": 1,
+      "num_comments": 6,
+      "created_utc": 1718902933,
+      "created_date": "2024-06-20",
+      "flair": "Mechanical ",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "branch_vs_college",
+      "lanes": [
+        "branch_vs_college"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEE/comments/1dik1vk/what_should_be_the_best_choice_filling_order_in/",
+      "title": "[deleted by user]",
+      "subreddit": "JEE",
+      "author": "[deleted]",
+      "score": 6,
+      "upvote_ratio": 1,
+      "num_comments": 6,
+      "created_utc": 1718692416,
+      "created_date": "2024-06-18",
+      "flair": "",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "choice_filling",
+      "lanes": [
+        "reddit_choice_filling_order"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/Indian_Academia/comments/xje7mc/which_college_should_i_prefer_in_josaa_choice/",
+      "title": "Which College should I prefer in JoSAA choice filling order? (2nd Gen IITs or Old NITs)",
+      "subreddit": "Indian_Academia",
+      "author": "NoobPlayZZ30",
+      "score": 7,
+      "upvote_ratio": 1,
+      "num_comments": 6,
+      "created_utc": 1663693230,
+      "created_date": "2022-09-20",
+      "flair": "Engineering",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "branch_vs_college",
+      "lanes": [
+        "reddit_choice_filling_order"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEEAdv24dailyupdates/comments/1dflq30/for_all_those_who_are_confused_about_their_choice/",
+      "title": "For all those who are confused about their choice filling and JOSAA",
+      "subreddit": "JEEAdv24dailyupdates",
+      "author": "[deleted]",
+      "score": 15,
+      "upvote_ratio": 1,
+      "num_comments": 6,
+      "created_utc": 1718352573,
+      "created_date": "2024-06-14",
+      "flair": "Help Needed :snoo_facepalm:",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "choice_filling",
+      "lanes": [
+        "reddit_choice_filling_order"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/Btechtards/comments/1den9tv/doubt_regarding_josaa_counselling/",
+      "title": "Doubt regarding JOSAA counselling",
+      "subreddit": "Btechtards",
+      "author": "BubblyNectarine8279",
+      "score": 1,
+      "upvote_ratio": 1,
+      "num_comments": 6,
+      "created_utc": 1718242422,
+      "created_date": "2024-06-13",
+      "flair": "College Admission/Counselling",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "float_freeze_slide",
+      "lanes": [
+        "float_freeze_slide"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEENEETards/comments/1coqwru/nit_trichy_nit_surathkal_eee_vs_nit_warangal_ece/",
+      "title": "NIT TRICHY, NIT SURATHKAL EEE VS NIT WARANGAL ECE",
+      "subreddit": "JEENEETards",
+      "author": "United_Mortgage1477",
+      "score": 0,
+      "upvote_ratio": 0.5,
+      "num_comments": 5,
+      "created_utc": 1715351362,
+      "created_date": "2024-05-10",
+      "flair": "GENERAL HELP ",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "branch_vs_college",
+      "lanes": [
+        "branch_vs_college"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEE/comments/1l4zpsi/help_needed_with_josaa_choice_filling_degrees/",
+      "title": "Help needed with JOSAA choice filling / degrees.",
+      "subreddit": "JEE",
+      "author": "DustyAsh69",
+      "score": 2,
+      "upvote_ratio": 1,
+      "num_comments": 5,
+      "created_utc": 1749234459,
+      "created_date": "2025-06-06",
+      "flair": "Question",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "choice_filling",
+      "lanes": [
+        "reddit_choice_filling_order"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/NSUT_Delhi/comments/1kv2nfz/how_to_fill_choice_preferences_in_josaa_jac/",
+      "title": "How to fill choice preferences in josaa, jac, ggsipu etc? How to fill preferences without missing chances of fu up?",
+      "subreddit": "NSUT_Delhi",
+      "author": "No-Echo8356",
+      "score": 2,
+      "upvote_ratio": 1,
+      "num_comments": 5,
+      "created_utc": 1748179984,
+      "created_date": "2025-05-25",
+      "flair": "JAC 2025 Admissions",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "choice_filling",
+      "lanes": [
+        "reddit_choice_filling_order"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEENEETards/comments/1dkch9t/question_regarding_float_option_in_josaa/",
+      "title": "[deleted by user]",
+      "subreddit": "JEENEETards",
+      "author": "[deleted]",
+      "score": 1,
+      "upvote_ratio": 1,
+      "num_comments": 5,
+      "created_utc": 1718892326,
+      "created_date": "2024-06-20",
+      "flair": "",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "float_freeze_slide",
+      "lanes": [
+        "float_freeze_slide"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEENEETards/comments/xs46t6/people_who_have_got_an_upgraded_seat_in_josaa/",
+      "title": "People who have got an upgraded seat in josaa round 2",
+      "subreddit": "JEENEETards",
+      "author": "sharamaarahihe",
+      "score": 4,
+      "upvote_ratio": 1,
+      "num_comments": 5,
+      "created_utc": 1664551522,
+      "created_date": "2022-09-30",
+      "flair": "Advanced++ retard",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "float_freeze_slide",
+      "lanes": [
+        "float_freeze_slide"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/Btechtards/comments/14pbj06/suppose_i_got_a_seat_in_josaa_at_any_round_i_paid/",
+      "title": "Suppose I got a seat in josaa at any round , I paid the seat acceptance fees and uploaded documents. Now I want to go to csab . What will be the procedure. And what about the pAF . And how the seat acceptance fees will be adjusted",
+      "subreddit": "Btechtards",
+      "author": "Character-Soup5723",
+      "score": 1,
+      "upvote_ratio": 0.67,
+      "num_comments": 5,
+      "created_utc": 1688367420,
+      "created_date": "2023-07-03",
+      "flair": "General Doubt",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "deposit_forfeiture",
+      "lanes": [
+        "float_freeze_slide"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEENEETards/comments/1l7s456/josaa_seat_allotment/",
+      "title": "Josaa seat allotment",
+      "subreddit": "JEENEETards",
+      "author": "Time-Ostrich-4175",
+      "score": 1,
+      "upvote_ratio": 1,
+      "num_comments": 5,
+      "created_utc": 1749538486,
+      "created_date": "2025-06-10",
+      "flair": "GENERAL HELP ",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "float_freeze_slide",
+      "lanes": [
+        "float_freeze_slide"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/Btechtards/comments/1cj2q25/best_college_for_btech_with_management_quota/",
+      "title": "[deleted by user]",
+      "subreddit": "Btechtards",
+      "author": "[deleted]",
+      "score": 4,
+      "upvote_ratio": 0.83,
+      "num_comments": 5,
+      "created_utc": 1714721185,
+      "created_date": "2024-05-03",
+      "flair": "",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "branch_vs_college",
+      "lanes": [
+        "scams_and_quota_confusion"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/Indian_Academia/comments/xchthh/what_preference_order_should_i_fill_in_josaa_with/",
+      "title": "What preference order should I fill in Josaa with these stats?",
+      "subreddit": "Indian_Academia",
+      "author": "PsychoThinker1822",
+      "score": 4,
+      "upvote_ratio": 1,
+      "num_comments": 4,
+      "created_utc": 1663001357,
+      "created_date": "2022-09-12",
+      "flair": "AdmissionProcedure/Fees/CollegeAdmin",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "choice_filling",
+      "lanes": [
+        "reddit_choice_filling_order"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/Btechtards/comments/14f9bkt/josaa_algorithm_seat_allocation_question/",
+      "title": "JOSAA Algorithm -Seat Allocation Question",
+      "subreddit": "Btechtards",
+      "author": "reddit_proton",
+      "score": 2,
+      "upvote_ratio": 1,
+      "num_comments": 4,
+      "created_utc": 1687357908,
+      "created_date": "2023-06-21",
+      "flair": "General Doubt",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "float_freeze_slide",
+      "lanes": [
+        "float_freeze_slide"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/Btechtards/comments/15dht4o/help_regarding_josaa_and_csab/",
+      "title": "Help regarding Josaa and csab",
+      "subreddit": "Btechtards",
+      "author": "Wanttogetsuggestions",
+      "score": 8,
+      "upvote_ratio": 1,
+      "num_comments": 4,
+      "created_utc": 1690711292,
+      "created_date": "2023-07-30",
+      "flair": "College Choice",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "branch_vs_college",
+      "lanes": [
+        "float_freeze_slide"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEENEETards/comments/1dhyofp/help_needed_josaa_mock_seat_allocation_issue/",
+      "title": "Help Needed: JOSAA Mock Seat Allocation Issue - Showing Open Category Instead of EWS",
+      "subreddit": "JEENEETards",
+      "author": "[deleted]",
+      "score": 2,
+      "upvote_ratio": 1,
+      "num_comments": 4,
+      "created_utc": 1718632540,
+      "created_date": "2024-06-17",
+      "flair": "GENERAL HELP ",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "choice_filling",
+      "lanes": [
+        "scams_and_quota_confusion"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/Btechtards/comments/1dclmm9/core_branches_in_top_3_nits_vs_cse_in_lower_iiits/",
+      "title": "Core Branches in Top 3 Nits vs CSE in lower IIITs",
+      "subreddit": "Btechtards",
+      "author": "True_Combination_414",
+      "score": 2,
+      "upvote_ratio": 0.75,
+      "num_comments": 3,
+      "created_utc": 1718026431,
+      "created_date": "2024-06-10",
+      "flair": "College Admission/Counselling",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "branch_vs_college",
+      "lanes": [
+        "branch_vs_college"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEE/comments/1dcplzt/help_to_choose_order_for_choice_filling_in_jossa/",
+      "title": "[deleted by user]",
+      "subreddit": "JEE",
+      "author": "[deleted]",
+      "score": 1,
+      "upvote_ratio": 1,
+      "num_comments": 3,
+      "created_utc": 1718036596,
+      "created_date": "2024-06-10",
+      "flair": "",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "choice_filling",
+      "lanes": [
+        "reddit_choice_filling_order"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEENEETards/comments/1l5mr7z/update_dont_fill_your_josaa_choices_blindly_now/",
+      "title": "[UPDATE] Don't Fill Your JoSAA Choices Blindly! (Now with NITs, IIITs, GFTIs!)",
+      "subreddit": "JEENEETards",
+      "author": "hi-brawlstars",
+      "score": 7,
+      "upvote_ratio": 1,
+      "num_comments": 3,
+      "created_utc": 1749308253,
+      "created_date": "2025-06-07",
+      "flair": "Statistics :anup_sir:",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "choice_filling",
+      "lanes": [
+        "reddit_choice_filling_order"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/Vit/comments/1f3a7ty/josaa_refund/",
+      "title": "Josaa Refund",
+      "subreddit": "Vit",
+      "author": "Chemical-Anything187",
+      "score": 0,
+      "upvote_ratio": 0.5,
+      "num_comments": 3,
+      "created_utc": 1724851763,
+      "created_date": "2024-08-28",
+      "flair": "Ask VITians",
+      "is_locked": false,
+      "is_archived": true,
+      "theme": "deposit_forfeiture",
+      "lanes": [
+        "VIT/SRM/BITS parallel private-counselling deposit forfeiture, deadline clashes with JoSAA, refund confusion"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/Btechtards/comments/13sbiyn/management_quota/",
+      "title": "management quota",
+      "subreddit": "Btechtards",
+      "author": "Jaded_Swan_3963",
+      "score": 1,
+      "upvote_ratio": 1,
+      "num_comments": 3,
+      "created_utc": 1685103180,
+      "created_date": "2023-05-26",
+      "flair": "General Doubt",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "branch_vs_college",
+      "lanes": [
+        "scams_and_quota_confusion"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEE/comments/1l1pu5l/choice_filling_in_josaa_counselling/",
+      "title": "Choice filling in JoSAA counselling",
+      "subreddit": "JEE",
+      "author": "Easy-Ad3584",
+      "score": 1,
+      "upvote_ratio": 1,
+      "num_comments": 2,
+      "created_utc": 1748889345,
+      "created_date": "2025-06-02",
+      "flair": "General",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "choice_filling",
+      "lanes": [
+        "reddit_choice_filling_order"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEE/comments/1l9kdz3/forgot_to_lock_the_josaa_choices_although_i_have/",
+      "title": "forgot to lock the josaa choices although i have filled whatever i wanted. does it autolock the choices after the time is over?",
+      "subreddit": "JEE",
+      "author": "Legitimate_Stop_51",
+      "score": 1,
+      "upvote_ratio": 1,
+      "num_comments": 2,
+      "created_utc": 1749728798,
+      "created_date": "2025-06-12",
+      "flair": "Question",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "float_freeze_slide",
+      "lanes": [
+        "reddit_choice_filling_order"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEENEETards/comments/1l6hrrj/analyzed_500_josaa_choices_from_last_year_heres/",
+      "title": "Analyzed 500+ JoSAA choices from last year - Here's the framework that actually works (College vs Branch dilemma solved)",
+      "subreddit": "JEENEETards",
+      "author": "Which_Pitch1288",
+      "score": 14,
+      "upvote_ratio": 0.89,
+      "num_comments": 2,
+      "created_utc": 1749403830,
+      "created_date": "2025-06-08",
+      "flair": "GENERAL HELP ",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "choice_filling",
+      "lanes": [
+        "reddit_choice_filling_order"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/Btechtards/comments/1chxtad/management_quota/",
+      "title": "Management Quota",
+      "subreddit": "Btechtards",
+      "author": "_Shanghai99K",
+      "score": 0,
+      "upvote_ratio": 0.5,
+      "num_comments": 2,
+      "created_utc": 1714598929,
+      "created_date": "2024-05-01",
+      "flair": "General",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "branch_vs_college",
+      "lanes": [
+        "scams_and_quota_confusion"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEENEETards/comments/1l3zjav/for_those_confused_in_josaa_choice_filling_order/",
+      "title": "FOR THOSE CONFUSED IN JOSAA CHOICE FILLING ORDER",
+      "subreddit": "JEENEETards",
+      "author": "KiddoSid",
+      "score": 9,
+      "upvote_ratio": 1,
+      "num_comments": 1,
+      "created_utc": 1749130996,
+      "created_date": "2025-06-05",
+      "flair": "SERIOUS POST",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "choice_filling",
+      "lanes": [
+        "reddit_choice_filling_order"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEE/comments/1l8ylzx/deciding_order_for_round_1_choice_filling_josaa/",
+      "title": "[deleted by user]",
+      "subreddit": "JEE",
+      "author": "[deleted]",
+      "score": 1,
+      "upvote_ratio": 1,
+      "num_comments": 1,
+      "created_utc": 1749662729,
+      "created_date": "2025-06-11",
+      "flair": "",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "choice_filling",
+      "lanes": [
+        "reddit_choice_filling_order"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEENEETards/comments/1l2ze0z/confused_about_josaa_counselling_choice_filling/",
+      "title": "Confused about JOSAA counselling choice filling",
+      "subreddit": "JEENEETards",
+      "author": "CoolBoi3366",
+      "score": 4,
+      "upvote_ratio": 0.84,
+      "num_comments": 1,
+      "created_utc": 1749021873,
+      "created_date": "2025-06-04",
+      "flair": "2 + 4 = 7 Advice :clown-face:",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "choice_filling",
+      "lanes": [
+        "reddit_choice_filling_order"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/JEENEETards/comments/1l1liob/choice_filling_in_josaa_counselling/",
+      "title": "Choice filling in JoSAA counselling",
+      "subreddit": "JEENEETards",
+      "author": "Easy-Ad3584",
+      "score": 2,
+      "upvote_ratio": 1,
+      "num_comments": 1,
+      "created_utc": 1748879384,
+      "created_date": "2025-06-02",
+      "flair": "JEE :snoo:",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "choice_filling",
+      "lanes": [
+        "reddit_choice_filling_order"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/Btechtards/comments/1clqgw6/management_quota_admissions/",
+      "title": "management quota admissions ",
+      "subreddit": "Btechtards",
+      "author": "No_Composer_4886",
+      "score": 1,
+      "upvote_ratio": 1,
+      "num_comments": 1,
+      "created_utc": 1715020550,
+      "created_date": "2024-05-06",
+      "flair": "CSE",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "branch_vs_college",
+      "lanes": [
+        "scams_and_quota_confusion"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/Btechtards/comments/1l2dhje/how_to_fill_josaa_choices_a_detailed_guide_on/",
+      "title": "[deleted by user]",
+      "subreddit": "Btechtards",
+      "author": "[deleted]",
+      "score": 6,
+      "upvote_ratio": 0.88,
+      "num_comments": 0,
+      "created_utc": 1748961229,
+      "created_date": "2025-06-03",
+      "flair": "",
+      "is_locked": false,
+      "is_archived": false,
+      "theme": "choice_filling",
+      "lanes": [
+        "float_freeze_slide"
+      ]
+    }
+  ],
+  "subredditStats": [
+    {
+      "subreddit": "JEENEETards",
+      "threads": 43,
+      "totalScore": 1254,
+      "totalComments": 2502
+    },
+    {
+      "subreddit": "Btechtards",
+      "threads": 37,
+      "totalScore": 3837,
+      "totalComments": 1704
+    },
+    {
+      "subreddit": "JEEAdv25dailyupdates",
+      "threads": 4,
+      "totalScore": 93,
+      "totalComments": 248
+    },
+    {
+      "subreddit": "Indian_Academia",
+      "threads": 5,
+      "totalScore": 289,
+      "totalComments": 152
+    },
+    {
+      "subreddit": "JEE",
+      "threads": 7,
+      "totalScore": 14,
+      "totalComments": 28
+    },
+    {
+      "subreddit": "CSAB_2025",
+      "threads": 1,
+      "totalScore": 2,
+      "totalComments": 9
+    },
+    {
+      "subreddit": "JEEAdv24dailyupdates",
+      "threads": 1,
+      "totalScore": 15,
+      "totalComments": 6
+    },
+    {
+      "subreddit": "NSUT_Delhi",
+      "threads": 1,
+      "totalScore": 2,
+      "totalComments": 5
+    },
+    {
+      "subreddit": "Vit",
+      "threads": 1,
+      "totalScore": 0,
+      "totalComments": 3
+    }
+  ]
+}

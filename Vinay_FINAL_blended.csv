@@ -1,0 +1,511 @@
+Priority,Type,Institute,Branch,Reach (PwD)
+1,NIT,"National Institute of Technology, Warangal",Computer Science and Engineering,OUT
+2,NIT,"National Institute of Technology, Warangal",Computer Science and Engineering ( Artificial Intelligence & Data Science),OUT
+3,NIT,"National Institute of Technology, Warangal",Mathematics and Computing,BORDERLINE
+4,NIT,"National Institute of Technology, Warangal",Electronics and Communication Engineering (VLSI Design and Technology),OUT
+5,NIT,"National Institute of Technology, Warangal",Electronics and Communication Engineering,OUT
+6,NIT,"National Institute of Technology, Warangal",Electrical and Electronics Engineering,OUT
+7,NIT,"National Institute of Technology, Warangal",Mechanical Engineering,LIKELY
+8,NIT,"National Institute of Technology, Warangal",Chemical Engineering,LIKELY
+9,NIT,"National Institute of Technology, Warangal",Chemical Engineering,No-data
+10,NIT,"National Institute of Technology, Warangal",Civil Engineering,OUT
+11,NIT,"National Institute of Technology, Warangal",Metallurgical and Materials Engineering,SAFE
+12,NIT,"National Institute of Technology, Warangal",Metallurgical and Materials Engineering,No-data
+13,NIT,"National Institute of Technology, Warangal",Bio Technology,LIKELY
+14,NIT,"National Institute of Technology, Warangal",Chemistry,SAFE
+15,NIT,"National Institute of Technology, Warangal",Mathematics,SAFE
+16,NIT,"National Institute of Technology, Warangal",Physics,No-data
+17,GFTI,University of Hyderabad,Computer Science and Engineering,SAFE
+18,GFTI,University of Hyderabad,Materials Engineering,LIKELY
+19,NIT,"National Institute of Technology, Tiruchirappalli",Computer Science and Engineering,OUT
+20,NIT,"National Institute of Technology, Tiruchirappalli",Electronics and Communication Engineering,OUT
+21,NIT,"National Institute of Technology, Tiruchirappalli",Electrical and Electronics Engineering,OUT
+22,NIT,"National Institute of Technology, Tiruchirappalli",Instrumentation and Control Engineering,LIKELY
+23,NIT,"National Institute of Technology, Tiruchirappalli",Mechanical Engineering,OUT
+24,NIT,"National Institute of Technology, Tiruchirappalli",Production Engineering,SAFE
+25,NIT,"National Institute of Technology, Tiruchirappalli",Chemical Engineering,OUT
+26,NIT,"National Institute of Technology, Tiruchirappalli",Civil Engineering,BORDERLINE
+27,NIT,"National Institute of Technology, Tiruchirappalli",Metallurgical and Materials Engineering,OUT
+28,NIT,"National Institute of Technology Karnataka, Surathkal",Computer Science and Engineering,OUT
+29,NIT,"National Institute of Technology Karnataka, Surathkal",Artificial Intelligence,OUT
+30,NIT,"National Institute of Technology Karnataka, Surathkal",Computational and Data Science,No-data
+31,NIT,"National Institute of Technology Karnataka, Surathkal",Information Technology,OUT
+32,NIT,"National Institute of Technology Karnataka, Surathkal",Electronics and Communication Engineering,No-data
+33,NIT,"National Institute of Technology Karnataka, Surathkal",Electrical and Electronics Engineering,OUT
+34,NIT,"National Institute of Technology Karnataka, Surathkal",Mechanical Engineering,BORDERLINE
+35,NIT,"National Institute of Technology Karnataka, Surathkal",Chemical Engineering,LIKELY
+36,NIT,"National Institute of Technology Karnataka, Surathkal",Civil Engineering,LIKELY
+37,NIT,"National Institute of Technology Karnataka, Surathkal",Metallurgical and Materials Engineering,SAFE
+38,NIT,"National Institute of Technology Karnataka, Surathkal",Mining Engineering,No-data
+39,NIT,"National Institute of Technology, Rourkela",Computer Science and Engineering,OUT
+40,NIT,"National Institute of Technology, Rourkela",Artificial Intelligence,No-data
+41,NIT,"National Institute of Technology, Rourkela",Electronics and Communication Engineering,OUT
+42,NIT,"National Institute of Technology, Rourkela",Electronics and Instrumentation Engineering,No-data
+43,NIT,"National Institute of Technology, Rourkela",Electrical Engineering,OUT
+44,NIT,"National Institute of Technology, Rourkela",Mechanical Engineering,SAFE
+45,NIT,"National Institute of Technology, Rourkela",Ceramic Engineering and M.Tech Industrial Ceramic,No-data
+46,NIT,"National Institute of Technology, Rourkela",Industrial Design,No-data
+47,NIT,"National Institute of Technology, Rourkela",Chemical Engineering,No-data
+48,NIT,"National Institute of Technology, Rourkela",Chemical Engineering,LIKELY
+49,NIT,"National Institute of Technology, Rourkela",Food Process Engineering,No-data
+50,NIT,"National Institute of Technology, Rourkela",Civil Engineering,SAFE
+51,NIT,"National Institute of Technology, Rourkela",Ceramic Engineering,SAFE
+52,NIT,"National Institute of Technology, Rourkela",Metallurgical and Materials Engineering,SAFE
+53,NIT,"National Institute of Technology, Rourkela",Metallurgical and Materials Engineering,No-data
+54,NIT,"National Institute of Technology, Rourkela",Mining Engineering,No-data
+55,NIT,"National Institute of Technology, Rourkela",Mining Engineering,No-data
+56,NIT,"National Institute of Technology, Rourkela",Bio Medical Engineering,No-data
+57,NIT,"National Institute of Technology, Rourkela",Bio Technology,BORDERLINE
+58,NIT,"National Institute of Technology, Rourkela",Chemistry,No-data
+59,NIT,"National Institute of Technology, Rourkela",Life Science,No-data
+60,NIT,"National Institute of Technology, Rourkela",Mathematics,No-data
+61,NIT,"National Institute of Technology, Rourkela",Physics,No-data
+62,NIT,Motilal Nehru National Institute of Technology Allahabad,Computer Science and Engineering,OUT
+63,NIT,Motilal Nehru National Institute of Technology Allahabad,Electronics and Communication Engineering,OUT
+64,NIT,Motilal Nehru National Institute of Technology Allahabad,Electrical Engineering,BORDERLINE
+65,NIT,Motilal Nehru National Institute of Technology Allahabad,Mechanical Engineering,SAFE
+66,NIT,Motilal Nehru National Institute of Technology Allahabad,Production and Industrial Engineering,SAFE
+67,NIT,Motilal Nehru National Institute of Technology Allahabad,Chemical Engineering,LIKELY
+68,NIT,Motilal Nehru National Institute of Technology Allahabad,Engineering and Computational Mechanics,No-data
+69,NIT,Motilal Nehru National Institute of Technology Allahabad,Civil Engineering,OUT
+70,NIT,Motilal Nehru National Institute of Technology Allahabad,Materials Engineering,No-data
+71,NIT,Motilal Nehru National Institute of Technology Allahabad,Bio Technology,SAFE
+72,NIT,National Institute of Technology Calicut,Computer Science and Engineering,OUT
+73,NIT,National Institute of Technology Calicut,Electronics and Communication Engineering,OUT
+74,NIT,National Institute of Technology Calicut,Electrical and Electronics Engineering,OUT
+75,NIT,National Institute of Technology Calicut,Mechanical Engineering,SAFE
+76,NIT,National Institute of Technology Calicut,Production Engineering,SAFE
+77,NIT,National Institute of Technology Calicut,Chemical Engineering,LIKELY
+78,NIT,National Institute of Technology Calicut,Energy Engineering,BORDERLINE
+79,NIT,National Institute of Technology Calicut,Civil Engineering,SAFE
+80,NIT,National Institute of Technology Calicut,Materials Science and Engineering,LIKELY
+81,NIT,National Institute of Technology Calicut,Bio Technology,BORDERLINE
+82,NIT,National Institute of Technology Calicut,Engineering Physics,BORDERLINE
+83,NIT,Malaviya National Institute of Technology Jaipur,Computer Science and Engineering,OUT
+84,NIT,Malaviya National Institute of Technology Jaipur,Artificial Intelligence and Data Engineering,No-data
+85,NIT,Malaviya National Institute of Technology Jaipur,Electronics and Communication Engineering,OUT
+86,NIT,Malaviya National Institute of Technology Jaipur,Electrical Engineering,SAFE
+87,NIT,Malaviya National Institute of Technology Jaipur,Mechanical Engineering,SAFE
+88,NIT,Malaviya National Institute of Technology Jaipur,Chemical Engineering,SAFE
+89,NIT,Malaviya National Institute of Technology Jaipur,Civil Engineering,BORDERLINE
+90,NIT,Malaviya National Institute of Technology Jaipur,Metallurgical and Materials Engineering,SAFE
+91,NIT,"Visvesvaraya National Institute of Technology, Nagpur",Computer Science and Engineering,OUT
+92,NIT,"Visvesvaraya National Institute of Technology, Nagpur",Electronics and Communication Engineering,OUT
+93,NIT,"Visvesvaraya National Institute of Technology, Nagpur",Electrical and Electronics Engineering,SAFE
+94,NIT,"Visvesvaraya National Institute of Technology, Nagpur",Mechanical Engineering,SAFE
+95,NIT,"Visvesvaraya National Institute of Technology, Nagpur",Chemical Engineering,SAFE
+96,NIT,"Visvesvaraya National Institute of Technology, Nagpur",Civil Engineering,SAFE
+97,NIT,"Visvesvaraya National Institute of Technology, Nagpur",Metallurgical and Materials Engineering,SAFE
+98,NIT,"Visvesvaraya National Institute of Technology, Nagpur",Mining Engineering,No-data
+99,NIT,"National Institute of Technology, Kurukshetra",Computer Science and Engineering,No-data
+100,NIT,"National Institute of Technology, Kurukshetra",Computer Science and Engineering,OUT
+101,NIT,"National Institute of Technology, Kurukshetra",Artificial Intelligence and Data Science,No-data
+102,NIT,"National Institute of Technology, Kurukshetra",Artificial Intelligence and Machine Learning,OUT
+103,NIT,"National Institute of Technology, Kurukshetra",Mathematics and Computing,OUT
+104,NIT,"National Institute of Technology, Kurukshetra",Information Technology,OUT
+105,NIT,"National Institute of Technology, Kurukshetra",Microelectronics & VLSI Engineering,No-data
+106,NIT,"National Institute of Technology, Kurukshetra",Electronics and Communication Engineering,OUT
+107,NIT,"National Institute of Technology, Kurukshetra",Electronics and Communication Engineering,No-data
+108,NIT,"National Institute of Technology, Kurukshetra",Electrical Engineering,LIKELY
+109,NIT,"National Institute of Technology, Kurukshetra",Electrical Engineering,BORDERLINE
+110,NIT,"National Institute of Technology, Kurukshetra",Mechanical Engineering,SAFE
+111,NIT,"National Institute of Technology, Kurukshetra",Mechanical Engineering,LIKELY
+112,NIT,"National Institute of Technology, Kurukshetra",Industrial Internet of Things,SAFE
+113,NIT,"National Institute of Technology, Kurukshetra",Production and Industrial Engineering,SAFE
+114,NIT,"National Institute of Technology, Kurukshetra",Computer Engineering,OUT
+115,NIT,"National Institute of Technology, Kurukshetra",ROBOTICS & AUTOMATION,BORDERLINE
+116,NIT,"National Institute of Technology, Kurukshetra",SUSTAINABLE ENERGY TECHNOLOGIES,No-data
+117,NIT,"National Institute of Technology, Kurukshetra",Civil Engineering,BORDERLINE
+118,NIT,"National Institute of Technology, Kurukshetra",Civil Engineering,No-data
+119,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",Computer Science and Engineering,OUT
+120,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",Artificial Intelligence,OUT
+121,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",Artificial Intelligence,OUT
+122,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",Mathematics and Computing,OUT
+123,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",Electronics and VLSI Engineering,BORDERLINE
+124,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",Electronics and Communication Engineering,BORDERLINE
+125,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",Electrical Engineering,LIKELY
+126,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",Mechanical Engineering,SAFE
+127,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",Industrial Chemistry,LIKELY
+128,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",Chemical Engineering,SAFE
+129,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",Civil Engineering,SAFE
+130,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",Chemistry,SAFE
+131,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",Engineering Physics,BORDERLINE
+132,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",Mathematics,LIKELY
+133,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",Physics,LIKELY
+134,NIT,National Institute of Technology Delhi,Computer Science and Engineering,No-data
+135,NIT,National Institute of Technology Delhi,Artificial Intelligence and Data Science,OUT
+136,NIT,National Institute of Technology Delhi,Electronics and Communication Engineering,OUT
+137,NIT,National Institute of Technology Delhi,Electrical Engineering,BORDERLINE
+138,NIT,National Institute of Technology Delhi,Mechanical Engineering,BORDERLINE
+139,NIT,National Institute of Technology Delhi,Aerospace Engineering,No-data
+140,NIT,National Institute of Technology Delhi,VLSI Design and Technology,No-data
+141,NIT,National Institute of Technology Delhi,Civil Engineering,BORDERLINE
+142,NIT,"National Institute of Technology, Jamshedpur",Computer Science and Engineering,OUT
+143,NIT,"National Institute of Technology, Jamshedpur",Electronics and Communication Engineering,LIKELY
+144,NIT,"National Institute of Technology, Jamshedpur",Electrical Engineering,SAFE
+145,NIT,"National Institute of Technology, Jamshedpur",Mechanical Engineering,SAFE
+146,NIT,"National Institute of Technology, Jamshedpur",Production and Industrial Engineering,SAFE
+147,NIT,"National Institute of Technology, Jamshedpur",Engineering and Computational Mechanics,No-data
+148,NIT,"National Institute of Technology, Jamshedpur",Civil Engineering,LIKELY
+149,NIT,"National Institute of Technology, Jamshedpur",Metallurgical and Materials Engineering,No-data
+150,NIT,Maulana Azad National Institute of Technology Bhopal,Computer Science and Engineering,OUT
+151,NIT,Maulana Azad National Institute of Technology Bhopal,Mathematics and Data Science,No-data
+152,NIT,Maulana Azad National Institute of Technology Bhopal,Electronics and Communication Engineering,OUT
+153,NIT,Maulana Azad National Institute of Technology Bhopal,Electrical Engineering,SAFE
+154,NIT,Maulana Azad National Institute of Technology Bhopal,Energy and Electrical Vehicle Engineering,No-data
+155,NIT,Maulana Azad National Institute of Technology Bhopal,Mechanical Engineering,SAFE
+156,NIT,Maulana Azad National Institute of Technology Bhopal,Chemical Engineering,LIKELY
+157,NIT,Maulana Azad National Institute of Technology Bhopal,B. Tech. and M. Tech. in Engineering and Computational Mechanics (Dual Degree),No-data
+158,NIT,Maulana Azad National Institute of Technology Bhopal,Civil Engineering,SAFE
+159,NIT,Maulana Azad National Institute of Technology Bhopal,Materials Science and Metallurgical Engineering,SAFE
+160,NIT,National Institute of Technology Durgapur,Computer Science and Engineering,OUT
+161,NIT,National Institute of Technology Durgapur,B.Tech in Mathematics and Computing,LIKELY
+162,NIT,National Institute of Technology Durgapur,Electronics and Communication Engineering,OUT
+163,NIT,National Institute of Technology Durgapur,Electrical Engineering,SAFE
+164,NIT,National Institute of Technology Durgapur,Mechanical Engineering,SAFE
+165,NIT,National Institute of Technology Durgapur,Chemical Engineering,SAFE
+166,NIT,National Institute of Technology Durgapur,Chemical Engineering,No-data
+167,NIT,National Institute of Technology Durgapur,Civil Engineering,SAFE
+168,NIT,National Institute of Technology Durgapur,Metallurgical and Materials Engineering,SAFE
+169,NIT,National Institute of Technology Durgapur,Bio Technology,LIKELY
+170,NIT,National Institute of Technology Durgapur,Biotechnology,No-data
+171,NIT,National Institute of Technology Durgapur,Chemistry,No-data
+172,NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",Computer Science and Engineering,OUT
+173,NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",Data Science and Engineering,OUT
+174,NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",Mathematics and Computing,BORDERLINE
+175,NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",Information Technology,OUT
+176,NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",Electronics and VLSI Engineering,LIKELY
+177,NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",Electronics and Communication Engineering,BORDERLINE
+178,NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",Electrical Engineering,LIKELY
+179,NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",Instrumentation and Control Engineering,SAFE
+180,NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",Mechanical Engineering,SAFE
+181,NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",Industrial and Production Engineering,LIKELY
+182,NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",Chemical Engineering,SAFE
+183,NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",Textile Technology,SAFE
+184,NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",Civil Engineering,LIKELY
+185,NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",Bio Technology,BORDERLINE
+186,NIT,National Institute of Technology Hamirpur,Computer Science and Engineering,OUT
+187,NIT,National Institute of Technology Hamirpur,Computer Science and Engineering,OUT
+188,NIT,National Institute of Technology Hamirpur,Mathematics and Computing,LIKELY
+189,NIT,National Institute of Technology Hamirpur,Electronics and Communication Engineering,BORDERLINE
+190,NIT,National Institute of Technology Hamirpur,Electronics and Communication Engineering,SAFE
+191,NIT,National Institute of Technology Hamirpur,Electrical Engineering,SAFE
+192,NIT,National Institute of Technology Hamirpur,Mechanical Engineering,SAFE
+193,NIT,National Institute of Technology Hamirpur,Chemical Engineering,SAFE
+194,NIT,National Institute of Technology Hamirpur,Civil Engineering,SAFE
+195,NIT,National Institute of Technology Hamirpur,Materials Science and Engineering,SAFE
+196,NIT,National Institute of Technology Hamirpur,Engineering Physics,BORDERLINE
+197,NIT,National Institute of Technology Goa,Computer Science and Engineering,No-data
+198,NIT,National Institute of Technology Goa,Electronics and Communication Engineering,OUT
+199,NIT,National Institute of Technology Goa,Electrical and Electronics Engineering,SAFE
+200,NIT,National Institute of Technology Goa,Mechanical Engineering,BORDERLINE
+201,NIT,National Institute of Technology Goa,Civil Engineering,BORDERLINE
+202,NIT,National Institute of Technology Raipur,Computer Science and Engineering,OUT
+203,NIT,National Institute of Technology Raipur,Information Technology,OUT
+204,NIT,National Institute of Technology Raipur,Electronics and Communication Engineering,BORDERLINE
+205,NIT,National Institute of Technology Raipur,Electrical Engineering,LIKELY
+206,NIT,National Institute of Technology Raipur,Mechanical Engineering,SAFE
+207,NIT,National Institute of Technology Raipur,Chemical Engineering,SAFE
+208,NIT,National Institute of Technology Raipur,Civil Engineering,SAFE
+209,NIT,National Institute of Technology Raipur,Metallurgical and Materials Engineering,SAFE
+210,NIT,National Institute of Technology Raipur,Mining Engineering,No-data
+211,NIT,National Institute of Technology Raipur,Bio Medical Engineering,SAFE
+212,NIT,National Institute of Technology Raipur,Bio Technology,No-data
+213,NIT,"Indian Institute of Engineering Science and Technology, Shibpur",Computer Science and Engineering,OUT
+214,NIT,"Indian Institute of Engineering Science and Technology, Shibpur",Information Technology,LIKELY
+215,NIT,"Indian Institute of Engineering Science and Technology, Shibpur",Electronics and Telecommunication Engineering,SAFE
+216,NIT,"Indian Institute of Engineering Science and Technology, Shibpur",Electrical Engineering,SAFE
+217,NIT,"Indian Institute of Engineering Science and Technology, Shibpur",Mechanical Engineering,SAFE
+218,NIT,"Indian Institute of Engineering Science and Technology, Shibpur",Aerospace Engineering,LIKELY
+219,NIT,"Indian Institute of Engineering Science and Technology, Shibpur",Civil Engineering,SAFE
+220,NIT,"Indian Institute of Engineering Science and Technology, Shibpur",Metallurgy and Materials Engineering,SAFE
+221,NIT,"Indian Institute of Engineering Science and Technology, Shibpur",Mining Engineering,No-data
+222,NIT,"National Institute of Technology, Andhra Pradesh",Computer Science and Engineering,OUT
+223,NIT,"National Institute of Technology, Andhra Pradesh",Electronics and Communication Engineering,BORDERLINE
+224,NIT,"National Institute of Technology, Andhra Pradesh",Electrical and Electronics Engineering,SAFE
+225,NIT,"National Institute of Technology, Andhra Pradesh",Mechanical Engineering,SAFE
+226,NIT,"National Institute of Technology, Andhra Pradesh",Chemical Engineering,BORDERLINE
+227,NIT,"National Institute of Technology, Andhra Pradesh",Civil Engineering,LIKELY
+228,NIT,"National Institute of Technology, Andhra Pradesh",Metallurgical and Materials Engineering,No-data
+229,NIT,"National Institute of Technology, Andhra Pradesh",Bio Technology,LIKELY
+230,NIT,"National Institute of Technology, Uttarakhand",Computer Science and Engineering,OUT
+231,NIT,"National Institute of Technology, Uttarakhand",Electronics and Communication Engineering,LIKELY
+232,NIT,"National Institute of Technology, Uttarakhand",Electrical and Electronics Engineering,No-data
+233,NIT,"National Institute of Technology, Uttarakhand",Mechanical Engineering,No-data
+234,NIT,"National Institute of Technology, Uttarakhand",Civil Engineering,BORDERLINE
+235,NIT,National Institute of Technology Puducherry,Computer Science and Engineering,OUT
+236,NIT,National Institute of Technology Puducherry,Electronics and Communication Engineering,OUT
+237,NIT,National Institute of Technology Puducherry,Electrical and Electronics Engineering,LIKELY
+238,NIT,National Institute of Technology Puducherry,Mechanical Engineering,LIKELY
+239,NIT,National Institute of Technology Puducherry,Civil Engineering,OUT
+240,NIT,"National Institute of Technology, Srinagar",Computer Science and Engineering,SAFE
+241,NIT,"National Institute of Technology, Srinagar",Information Technology,LIKELY
+242,NIT,"National Institute of Technology, Srinagar",Electronics and Communication Engineering,SAFE
+243,NIT,"National Institute of Technology, Srinagar",Electrical Engineering,SAFE
+244,NIT,"National Institute of Technology, Srinagar",Mechanical Engineering,SAFE
+245,NIT,"National Institute of Technology, Srinagar",Chemical Engineering,SAFE
+246,NIT,"National Institute of Technology, Srinagar",Civil Engineering,SAFE
+247,NIT,"National Institute of Technology, Srinagar",Metallurgical and Materials Engineering,SAFE
+248,IIIT,Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior,Computer Science and Engineering,OUT
+249,IIIT,Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior,Electrical and Electronics Engineering,SAFE
+250,IIIT,Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior,Integrated B. Tech.(IT) and M. Tech (IT),LIKELY
+251,IIIT,Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior,Integrated B. Tech.(IT) and MBA,LIKELY
+252,IIIT,Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior,Mathematics and Scientific Computing,BORDERLINE
+253,IIIT,"Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur",Computer Science and Engineering,LIKELY
+254,IIIT,"Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur",Electronics and Communication Engineering,SAFE
+255,IIIT,"Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur",Mechanical Engineering,SAFE
+256,IIIT,"Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur",Smart Manufacturing,SAFE
+257,IIIT,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",Computer Science and Engineering,OUT
+258,IIIT,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",Computer Science and Engineering,LIKELY
+259,IIIT,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",Computer Science and Engineering with Major in Artificial Intelligence,BORDERLINE
+260,IIIT,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",B.Tech. in Electronics and Communication Engineering and M.Tech. in Microelectronics and VLSI Systems,BORDERLINE
+261,IIIT,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",B.Tech. in Electronics and Communication Engineering and M.Tech. in VLSI Design,LIKELY
+262,IIIT,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",B.Tech. in Electronics and Communication Engineering and M.Tech. in Communication Systems,LIKELY
+263,IIIT,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",Electronics and Communication Engineering,SAFE
+264,IIIT,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",B.Tech in Mechanical Engineering and M.Tech in AI and Robotics,LIKELY
+265,IIIT,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",Mechanical Engineering,SAFE
+266,IIIT,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",Design Engineering,BORDERLINE
+267,IIIT,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",Smart Manufacturing,SAFE
+268,IIIT,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",Engineering Physics,No-data
+269,IIIT,Indian Institute of Information Technology (IIIT) Pune,Computer Science and Engineering,SAFE
+270,IIIT,Indian Institute of Information Technology (IIIT) Pune,Electronics and Communication Engineering,SAFE
+271,IIIT,"Indian Institute of Information Technology (IIIT)Kota, Rajasthan",Computer Science and Engineering,SAFE
+272,IIIT,"Indian Institute of Information Technology (IIIT)Kota, Rajasthan",Artificial Intelligence and Data Engineering,LIKELY
+273,IIIT,"Indian Institute of Information Technology (IIIT)Kota, Rajasthan",Electronics and Communication Engineering,SAFE
+274,IIIT,Indian Institute of Information Technology Bhopal,Computer Science and Engineering,SAFE
+275,IIIT,Indian Institute of Information Technology Bhopal,Computer Science and Engineering (Cyber Physical System),BORDERLINE
+276,IIIT,Indian Institute of Information Technology Bhopal,Computer Science and Engineering (Cyber Physical System),No-data
+277,IIIT,Indian Institute of Information Technology Bhopal,Computer Science and Engineering (Cyber Security),LIKELY
+278,IIIT,Indian Institute of Information Technology Bhopal,Computer Science and Engineering (Artificial Intelligence),BORDERLINE
+279,IIIT,Indian Institute of Information Technology Bhopal,Computer Science and Engineering (Artificial Intelligence),BORDERLINE
+280,IIIT,Indian Institute of Information Technology Bhopal,Computer Science and Engineering (Data Science),BORDERLINE
+281,IIIT,Indian Institute of Information Technology Bhopal,B.Tech in Mathematics and Computing,BORDERLINE
+282,IIIT,Indian Institute of Information Technology Bhopal,Information Technology,SAFE
+283,IIIT,Indian Institute of Information Technology Bhopal,Electronics and Communication Engineering,LIKELY
+284,IIIT,Indian Institute of Information Technology Bhopal,Physics and Computational Engineering,BORDERLINE
+285,IIIT,Indian Institute of Information Technology Surat,Computer Science and Engineering,LIKELY
+286,IIIT,Indian Institute of Information Technology Surat,Computer Science and Engineering (Cyber Security),OUT
+287,IIIT,Indian Institute of Information Technology Surat,Computer Science and Engineering (Artificial Intelligence and Machine Learning),BORDERLINE
+288,IIIT,Indian Institute of Information Technology Surat,Electronics and Communication Engineering,SAFE
+289,IIIT,Indian Institute of Information Technology (IIIT) Nagpur,Computer Science Engineering (Human Computer lnteraction and Gaming Technology),SAFE
+290,IIIT,Indian Institute of Information Technology (IIIT) Nagpur,Computer Science and Engineering,SAFE
+291,IIIT,Indian Institute of Information Technology (IIIT) Nagpur,Computer Science Engineering (Artificial lntelligence and Machine Learning),LIKELY
+292,IIIT,Indian Institute of Information Technology (IIIT) Nagpur,Computer Science Engineering (Data Science and Analytics),SAFE
+293,IIIT,Indian Institute of Information Technology (IIIT) Nagpur,Electronics and Communication Engineering,SAFE
+294,IIIT,Indian Institute of Information Technology (IIIT) Nagpur,Electronics and Communication Engineering (Internet of Things),SAFE
+295,IIIT,Indian Institute of Information Technology Tiruchirappalli,Computer Science and Engineering,BORDERLINE
+296,IIIT,Indian Institute of Information Technology Tiruchirappalli,Computer Science and Engineering ( Artificial Intelligence & Data Science),OUT
+297,IIIT,Indian Institute of Information Technology Tiruchirappalli,Electronics and Communication Engineering (VLSI Design),BORDERLINE
+298,IIIT,Indian Institute of Information Technology Tiruchirappalli,Electronics and Communication Engineering,LIKELY
+299,IIIT,"Indian Institute of Information Technology(IIIT) Kilohrad, Sonepat, Haryana",Computer Science and Engineering,SAFE
+300,IIIT,"Indian Institute of Information Technology(IIIT) Kilohrad, Sonepat, Haryana",CSE ( Data Science & Analytics),LIKELY
+301,IIIT,"Indian Institute of Information Technology(IIIT) Kilohrad, Sonepat, Haryana",Information Technology,SAFE
+302,IIIT,"Indian Institute of Information Technology(IIIT) Una, Himachal Pradesh",Computer Science and Engineering,SAFE
+303,IIIT,"Indian Institute of Information Technology(IIIT) Una, Himachal Pradesh",Computer Science and Engineering (Cyber Security),LIKELY
+304,IIIT,"Indian Institute of Information Technology(IIIT) Una, Himachal Pradesh",Computer Science and Engineering (Data Science),No-data
+305,IIIT,"Indian Institute of Information Technology(IIIT) Una, Himachal Pradesh",Information Technology,LIKELY
+306,IIIT,"Indian Institute of Information Technology(IIIT) Una, Himachal Pradesh",Electronics and Communication Engineering,SAFE
+307,IIIT,"Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh",Computer Science and Engineering,BORDERLINE
+308,IIIT,"Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh",Computer Science and Engineering,LIKELY
+309,IIIT,"Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh",Artificial Intelligence and Data Science,LIKELY
+310,IIIT,"Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh",Electronics and Communication Engineering,LIKELY
+311,IIIT,"Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh",Electronics and Communication Engineering with specialization in Design and Manufacturing,LIKELY
+312,IIIT,"Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh",Mechanical Engineering,LIKELY
+313,IIIT,"Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh",Mechanical Engineering with specialization in Design and Manufacturing,SAFE
+314,IIIT,Indian Institute of Information Technology (IIIT) Ranchi,Computer Science and Engineering,SAFE
+315,IIIT,Indian Institute of Information Technology (IIIT) Ranchi,Computer Science and Engineering (with Specialization of Data Science and Artificial Intelligence),SAFE
+316,IIIT,Indian Institute of Information Technology (IIIT) Ranchi,B.Tech in Mathematics and Computing,BORDERLINE
+317,IIIT,Indian Institute of Information Technology (IIIT) Ranchi,Electronics and Communication Engineering,SAFE
+318,IIIT,Indian Institute of Information Technology (IIIT) Ranchi,Electronics and Communication Engineering (with Specialization of Embedded Systems and Internet of Things),LIKELY
+319,IIIT,"Indian Institute of Information Technology, Allahabad",Information Technology,OUT
+320,IIIT,"Indian Institute of Information Technology, Allahabad",Information Technology-Business Informatics,OUT
+321,IIIT,"Indian Institute of Information Technology, Allahabad",Electronics and Communication Engineering,OUT
+322,IIIT,Indian Institute of Information Technology Lucknow,Computer Science,BORDERLINE
+323,IIIT,Indian Institute of Information Technology Lucknow,Computer Science and Business,SAFE
+324,IIIT,Indian Institute of Information Technology Lucknow,Computer Science and Artificial Intelligence,BORDERLINE
+325,IIIT,Indian Institute of Information Technology Lucknow,Information Technology,LIKELY
+326,NIT,National Institute of Technology Patna,Computer Science and Engineering,OUT
+327,NIT,National Institute of Technology Patna,Computer Science and Engineering with Specialization in Cyber Security,LIKELY
+328,NIT,National Institute of Technology Patna,Computer Science and Engineering with Specialization in Data Science,No-data
+329,NIT,National Institute of Technology Patna,Artificial Intelligence and Data Science,OUT
+330,NIT,National Institute of Technology Patna,Mathematics and Computing Technology,No-data
+331,NIT,National Institute of Technology Patna,Electronics Engineering (VLSI Design and Technology),BORDERLINE
+332,NIT,National Institute of Technology Patna,Electronics and Communication Engineering with Specialization in Microelectronics and VLSI System Design,LIKELY
+333,NIT,National Institute of Technology Patna,Electronics and Communication Engineering,LIKELY
+334,NIT,National Institute of Technology Patna,Electrical Engineering,SAFE
+335,NIT,National Institute of Technology Patna,Electrical Engineering with Specialization In Power System Engineering,No-data
+336,NIT,National Institute of Technology Patna,Mechanical Engineering,SAFE
+337,NIT,National Institute of Technology Patna,Mechanical Engineering with Specialization in Manufacturing and Industrial Engineering,BORDERLINE
+338,NIT,National Institute of Technology Patna,Chemical Technology,LIKELY
+339,NIT,National Institute of Technology Patna,Mechatronics and Automation Engineering,No-data
+340,NIT,National Institute of Technology Patna,Civil Engineering,SAFE
+341,NIT,National Institute of Technology Patna,Civil Engineering with Specialization in Construction Technology and Management,No-data
+342,NIT,National Institute of Technology Patna,Material Science and Engineering,No-data
+343,GFTI,"Birla Institute of Technology, Mesra, Ranchi",Computer Science and Engineering,LIKELY
+344,GFTI,"Birla Institute of Technology, Mesra, Ranchi",Artificial Intelligence and Machine Learning,SAFE
+345,GFTI,"Birla Institute of Technology, Mesra, Ranchi",Quantitative Economics & Data Science,No-data
+346,GFTI,"Birla Institute of Technology, Mesra, Ranchi",Mathematics and Computing,LIKELY
+347,GFTI,"Birla Institute of Technology, Mesra, Ranchi",Electronics and Communication Engineering,SAFE
+348,GFTI,"Birla Institute of Technology, Mesra, Ranchi",Electrical and Electronics Engineering,LIKELY
+349,GFTI,"Birla Institute of Technology, Mesra, Ranchi",Mechanical Engineering,LIKELY
+350,GFTI,"Birla Institute of Technology, Mesra, Ranchi",Production and Industrial Engineering,LIKELY
+351,GFTI,"Birla Institute of Technology, Mesra, Ranchi",Chemical Engineering,LIKELY
+352,GFTI,"Birla Institute of Technology, Mesra, Ranchi",Food Engineering  and Technology,BORDERLINE
+353,GFTI,"Birla Institute of Technology, Mesra, Ranchi",Civil Engineering,LIKELY
+354,GFTI,"Birla Institute of Technology, Mesra, Ranchi",Bio Technology,SAFE
+355,GFTI,"Birla Institute of Technology, Mesra, Ranchi",Physics,No-data
+356,GFTI,"International Institute of Information Technology, Naya Raipur",Computer Science and Engineering,LIKELY
+357,GFTI,"International Institute of Information Technology, Naya Raipur",Data Science and Artificial Intelligence,OUT
+358,GFTI,"International Institute of Information Technology, Naya Raipur",Electronics and Communication Engineering,LIKELY
+359,GFTI,Shri G. S. Institute of Technology and Science Indore,Computer Science and Engineering,No-data
+360,GFTI,Shri G. S. Institute of Technology and Science Indore,Information Technology,No-data
+361,GFTI,Shri G. S. Institute of Technology and Science Indore,Electronics and Instrumentation Engineering,No-data
+362,GFTI,Shri G. S. Institute of Technology and Science Indore,Electronics and Telecommunication Engineering,No-data
+363,GFTI,Shri G. S. Institute of Technology and Science Indore,Electrical Engineering,No-data
+364,GFTI,Shri G. S. Institute of Technology and Science Indore,Mechanical Engineering,No-data
+365,GFTI,Shri G. S. Institute of Technology and Science Indore,Industrial and Production Engineering,No-data
+366,GFTI,Shri G. S. Institute of Technology and Science Indore,Civil Engineering,No-data
+367,GFTI,Shri G. S. Institute of Technology and Science Indore,Biomedical Engineering,No-data
+368,GFTI,"Jawaharlal Nehru University, Delhi",Computer Science and Engineering,BORDERLINE
+369,GFTI,"Jawaharlal Nehru University, Delhi",Electronics and Communication Engineering,SAFE
+370,GFTI,"International Institute of Information Technology, Bhubaneswar",Computer Science and Engineering,SAFE
+371,GFTI,"International Institute of Information Technology, Bhubaneswar",Information Technology,SAFE
+372,GFTI,"International Institute of Information Technology, Bhubaneswar",Electronics and Telecommunication Engineering,SAFE
+373,GFTI,"International Institute of Information Technology, Bhubaneswar",Electrical and Electronics Engineering,LIKELY
+374,GFTI,"International Institute of Information Technology, Bhubaneswar",Computer Engineering,SAFE
+375,GFTI,"J.K. Institute of Applied Physics & Technology, Department of Electronics & Communication, University of Allahabad- Allahabad",Computer Science and Engineering,BORDERLINE
+376,GFTI,"J.K. Institute of Applied Physics & Technology, Department of Electronics & Communication, University of Allahabad- Allahabad",Computer Science and Engineering with Major in Artificial Intelligence,LIKELY
+377,GFTI,"J.K. Institute of Applied Physics & Technology, Department of Electronics & Communication, University of Allahabad- Allahabad",Electronics and Communication Engineering,SAFE
+378,GFTI,"Puducherry Technological University, Puducherry",Computer Science and Engineering,BORDERLINE
+379,GFTI,"Puducherry Technological University, Puducherry",Information Technology,BORDERLINE
+380,GFTI,"Puducherry Technological University, Puducherry",Electronics and Communication Engineering,SAFE
+381,GFTI,"Puducherry Technological University, Puducherry",Electronics and Instrumentation Engineering,LIKELY
+382,GFTI,"Puducherry Technological University, Puducherry",Electrical and Electronics Engineering,No-data
+383,GFTI,"Puducherry Technological University, Puducherry",Mechanical Engineering,BORDERLINE
+384,GFTI,"Puducherry Technological University, Puducherry",Chemical Engineering,LIKELY
+385,GFTI,"Puducherry Technological University, Puducherry",Mechatronics Engineering,SAFE
+386,GFTI,"Puducherry Technological University, Puducherry",Civil Engineering,LIKELY
+387,GFTI,"Central University of Rajasthan, Rajasthan",Computer Science and Engineering,SAFE
+388,GFTI,"Central University of Rajasthan, Rajasthan",Electronics and Communication Engineering,BORDERLINE
+389,GFTI,"Central University of Rajasthan, Rajasthan",Bio Medical Engineering,BORDERLINE
+390,GFTI,"National Institute of Electronics and Information Technology, Aurangabad (Maharashtra)",Computer Science and Engineering,BORDERLINE
+391,GFTI,"National Institute of Electronics and Information Technology, Aurangabad (Maharashtra)",Electronics System Engineering,BORDERLINE
+392,GFTI,"National Institute of Electronics and Information Technology, Aurangabad (Maharashtra)",Electronic Engineering,LIKELY
+393,GFTI,"Birla Institute of Technology, Deoghar Off-Campus",Computer Science and Engineering,LIKELY
+394,GFTI,"Birla Institute of Technology, Deoghar Off-Campus",Electronics and Communication Engineering,BORDERLINE
+395,GFTI,"Birla Institute of Technology, Deoghar Off-Campus",Electrical and Electronics Engineering,BORDERLINE
+396,GFTI,"Birla Institute of Technology, Deoghar Off-Campus",Mechanical Engineering,BORDERLINE
+397,GFTI,Sant Longowal Institute of Engineering and Technology,Computer Science and Engineering,SAFE
+398,GFTI,Sant Longowal Institute of Engineering and Technology,Computer Science and Engineering,BORDERLINE
+399,GFTI,Sant Longowal Institute of Engineering and Technology,Artificial Intelligence and Data Science,BORDERLINE
+400,GFTI,Sant Longowal Institute of Engineering and Technology,Electronics and Communication Engineering,BORDERLINE
+401,GFTI,Sant Longowal Institute of Engineering and Technology,Electrical Engineering,BORDERLINE
+402,GFTI,Sant Longowal Institute of Engineering and Technology,Electrical Engineering,No-data
+403,GFTI,Sant Longowal Institute of Engineering and Technology,Instrumentation and Control Engineering,No-data
+404,GFTI,Sant Longowal Institute of Engineering and Technology,Mechanical Engineering,No-data
+405,GFTI,Sant Longowal Institute of Engineering and Technology,Mechanical Engineering,No-data
+406,GFTI,Sant Longowal Institute of Engineering and Technology,Chemical Engineering,No-data
+407,GFTI,Sant Longowal Institute of Engineering and Technology,Food Technology,BORDERLINE
+408,GFTI,Sant Longowal Institute of Engineering and Technology,Civil Engineering,No-data
+409,GFTI,Sant Longowal Institute of Engineering and Technology,Chemistry,No-data
+410,GFTI,Sant Longowal Institute of Engineering and Technology,Mathematics,No-data
+411,GFTI,Sant Longowal Institute of Engineering and Technology,Physics,No-data
+412,GFTI,"National Institute of Electronics and Information Technology, Ajmer (Rajasthan)","Computer Science and Engineering (Internet of Things, Cyber Security including Block Chain Technology )",BORDERLINE
+413,GFTI,"Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir",Computer Science and Engineering,SAFE
+414,GFTI,"Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir",B.Tech in Mathematics and Computing,BORDERLINE
+415,GFTI,"Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir",Electronics and Communication Engineering,No-data
+416,GFTI,"Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir",Electrical Engineering,BORDERLINE
+417,GFTI,"Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir",Mechanical Engineering,BORDERLINE
+418,GFTI,"Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir",Robotics and AI,BORDERLINE
+419,GFTI,"Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir",Civil Engineering,No-data
+420,GFTI,"Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir",Bio Technology,No-data
+421,GFTI,"National Institute of Electronics and Information Technology, Gorakhpur (UP)",Computer Science and Engineering with minor in AI and ML,BORDERLINE
+422,GFTI,"National Institute of Electronics and Information Technology, Gorakhpur (UP)",B. Tech in Electronics and Communication Engineering with minor in Wearable Electronics,BORDERLINE
+423,GFTI,"School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",Computer Science and Engineering,SAFE
+424,GFTI,"School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",Artificial Intelligence and Data Science,BORDERLINE
+425,GFTI,"School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",Information Technology,SAFE
+426,GFTI,"School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",Electronics and Communication Engineering,LIKELY
+427,GFTI,"School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",Electrical Engineering,BORDERLINE
+428,GFTI,"School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",Mechanical Engineering,No-data
+429,GFTI,"School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",Industrial and Production Engineering,No-data
+430,GFTI,"School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",Chemical Engineering,BORDERLINE
+431,GFTI,"School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",Animation and VFX,BORDERLINE
+432,GFTI,"School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",Civil Engineering,No-data
+433,GFTI,"Institute of Engineering and Technology, Dr. H. S. Gour University. Sagar (A Central University)",Computer Science and Engineering,BORDERLINE
+434,GFTI,"Institute of Engineering and Technology, Dr. H. S. Gour University. Sagar (A Central University)",Electronics and Communication Engineering,No-data
+435,GFTI,"Institute of Engineering and Technology, Dr. H. S. Gour University. Sagar (A Central University)",Aeronautical Engineering,No-data
+436,GFTI,"Institute of Engineering and Technology, Dr. H. S. Gour University. Sagar (A Central University)",Dairy Engineering,No-data
+437,GFTI,"Institute of Engineering and Technology, Dr. H. S. Gour University. Sagar (A Central University)",Fashion and Apparel Engineering,No-data
+438,GFTI,"Institute of Engineering and Technology, Dr. H. S. Gour University. Sagar (A Central University)",Food Engineering  and Technology,No-data
+439,GFTI,"Gurukula Kangri Vishwavidyalaya, Haridwar",Computer Science and Engineering,SAFE
+440,GFTI,"Gurukula Kangri Vishwavidyalaya, Haridwar",Electronics and Communication Engineering,LIKELY
+441,GFTI,"Gurukula Kangri Vishwavidyalaya, Haridwar",Electrical Engineering,LIKELY
+442,GFTI,"Gurukula Kangri Vishwavidyalaya, Haridwar",Mechanical Engineering,BORDERLINE
+443,GFTI,Central University of Jammu,Computer Science and Engineering,LIKELY
+444,GFTI,Central University of Jammu,Computer Science and Engineering with specialization in Cyber Security,SAFE
+445,GFTI,Central University of Jammu,Mathematics and Computing,No-data
+446,GFTI,Central University of Jammu,Electronics and Communication Engineering,LIKELY
+447,GFTI,Central University of Jammu,Electronics and Communication Engineering (Avionics),No-data
+448,GFTI,CU Jharkhand,Computer Science and Engineering,No-data
+449,GFTI,CU Jharkhand,Integrated B. Tech. - M. Tech in Computer Science & Engineering,BORDERLINE
+450,GFTI,CU Jharkhand,Electrical Engineering,No-data
+451,GFTI,CU Jharkhand,Integrated B. Tech. - M. Tech in Electrical Engineering,BORDERLINE
+452,GFTI,CU Jharkhand,Civil Engineering,No-data
+453,GFTI,CU Jharkhand,Integrated B. Tech. - M. Tech in Civil Engineering,BORDERLINE
+454,GFTI,CU Jharkhand,Integrated B. Tech.- M. Tech in Metallurgical & Materials Engineering,BORDERLINE
+455,GFTI,CU Jharkhand,Metallurgical and Materials Engineering,No-data
+456,GFTI,"Institute of Infrastructure, Technology, Research and Management-Ahmedabad",Electrical Engineering,LIKELY
+457,GFTI,"Institute of Infrastructure, Technology, Research and Management-Ahmedabad",Mechanical Engineering,LIKELY
+458,GFTI,"Institute of Infrastructure, Technology, Research and Management-Ahmedabad",Computer Engineering,LIKELY
+459,GFTI,"Institute of Infrastructure, Technology, Research and Management-Ahmedabad",Civil Engineering,LIKELY
+460,GFTI,"Chhattisgarh Swami Vivekanada Technical University, Bhilai (CSVTU Bhilai)",Computer Science Engineering (Artificial Intelligence),SAFE
+461,GFTI,"Ghani Khan Choudhary Institute of Engineering and Technology, Malda, West Bengal",Computer Science Engineering (Artificial lntelligence and Machine Learning),No-data
+462,GFTI,"Chhattisgarh Swami Vivekanada Technical University, Bhilai (CSVTU Bhilai)",Computer Science Engineering (Data Science),SAFE
+463,GFTI,"Gati Shakti Vishwavidyalaya, Vadodara",B.Tech in Artificial Intelligenece and Data Science (Transportation and Logistics),No-data
+464,GFTI,"Rajiv Gandhi National Aviation University, Fursatganj, Amethi (UP)",Electronics and Communication Engineering (Avionics),BORDERLINE
+465,GFTI,"Gati Shakti Vishwavidyalaya, Vadodara",B.Tech in Electronics & Communication Engineering (Rail Engineering),No-data
+466,GFTI,"Gati Shakti Vishwavidyalaya, Vadodara",B.Tech in Electrical Engineering ( Rail  Engineering),No-data
+467,GFTI,"Ghani Khan Choudhary Institute of Engineering and Technology, Malda, West Bengal",Electrical Engineering,No-data
+468,GFTI,"Gati Shakti Vishwavidyalaya, Vadodara",B.Tech in Mechanical Engineering ( Rail  Engineering),No-data
+469,GFTI,"Ghani Khan Choudhary Institute of Engineering and Technology, Malda, West Bengal",Mechanical Engineering,No-data
+470,GFTI,"National Institute of Advanced Manufacturing Technology, Ranchi",Mechanical Engineering,BORDERLINE
+471,GFTI,"National Institute of Advanced Manufacturing Technology, Ranchi",Production and Industrial Engineering,BORDERLINE
+472,GFTI,"Institute of Chemical Technology, Mumbai: Indian Oil Odisha Campus, Bhubaneswar",Chemical Engineering,LIKELY
+473,GFTI,"Rajiv Gandhi National Aviation University, Fursatganj, Amethi (UP)",Aerospace Engineering,BORDERLINE
+474,GFTI,"Gati Shakti Vishwavidyalaya, Vadodara",B.Tech in Aviation Engineering,No-data
+475,GFTI,"National Institute of Electronics and Information Technology, Ropar (Punjab)",B.Tech in CSE (AI and ML),BORDERLINE
+476,GFTI,"Indian Institute of Carpet Technology, Bhadohi",Carpet  and Textile Technology,No-data
+477,GFTI,"National Institute of Advanced Manufacturing Technology, Ranchi",Computer Engineering,SAFE
+478,GFTI,"National Institute of Food Technology Entrepreneurship and Management, Thanjavur",Food Technology,SAFE
+479,GFTI,"Ghani Khan Choudhary Institute of Engineering and Technology, Malda, West Bengal",Food Technology,No-data
+480,GFTI,"National Institute of Food Technology Entrepreneurship and Management, Kundli",Food Technology and Management,SAFE
+481,GFTI,"Indian Institute of Handloom Technology, Salem",Handloom and Textile Technology,LIKELY
+482,GFTI,"Indian Institute of Handloom Technology(IIHT), Varanasi",Handloom and Textile Technology,LIKELY
+483,GFTI,"Gati Shakti Vishwavidyalaya, Vadodara",B.Tech in Civil Engineering (Rail Engineering),No-data
+484,GFTI,"Chhattisgarh Swami Vivekanada Technical University, Bhilai (CSVTU Bhilai)",Civil Engineering,BORDERLINE
+485,GFTI,"Ghani Khan Choudhary Institute of Engineering and Technology, Malda, West Bengal",Civil and Environmental Engineering,No-data
+486,GFTI,"National Institute of Advanced Manufacturing Technology, Ranchi",Metallurgy and Materials Engineering,BORDERLINE
+487,GFTI,"Punjab Engineering College, Chandigarh",Computer Science and Engineering,No-data
+488,GFTI,"Punjab Engineering College, Chandigarh",Computer Science Engineering (Artificial Intelligence),No-data
+489,GFTI,"Punjab Engineering College, Chandigarh",Computer Science Engineering (Data Science),No-data
+490,GFTI,"Punjab Engineering College, Chandigarh",Mathematics and Computing,No-data
+491,GFTI,"Punjab Engineering College, Chandigarh",Electronics Engineering (VLSI Design and Technology),No-data
+492,GFTI,"Punjab Engineering College, Chandigarh",Electronics and Communication Engineering,No-data
+493,GFTI,"Punjab Engineering College, Chandigarh",Electrical Engineering,No-data
+494,GFTI,"Punjab Engineering College, Chandigarh",Mechanical Engineering,No-data
+495,GFTI,"Punjab Engineering College, Chandigarh",Production and Industrial Engineering,No-data
+496,GFTI,"Punjab Engineering College, Chandigarh",Aerospace Engineering,No-data
+497,GFTI,"Punjab Engineering College, Chandigarh",Civil Engineering,No-data
+498,GFTI,"Punjab Engineering College, Chandigarh",Metallurgical and Materials Engineering,No-data
+499,IIIT,Indian Institute of Information Technology Bhagalpur,Computer Science and Engineering,SAFE
+500,IIIT,Indian Institute of Information Technology Bhagalpur,Mathematics and Computing,LIKELY
+501,IIIT,Indian Institute of Information Technology Bhagalpur,Electronics and Communication Engineering,LIKELY
+502,IIIT,Indian Institute of Information Technology Bhagalpur,Mechatronics and Automation Engineering,LIKELY
+503,GFTI,"Birla Institute of Technology, Patna Off-Campus",Computer Science and Engineering,SAFE
+504,GFTI,"Birla Institute of Technology, Patna Off-Campus",Artificial Intelligence and Machine Learning,LIKELY
+505,GFTI,"Birla Institute of Technology, Patna Off-Campus",Mathematics and Computing,No-data
+506,GFTI,"Birla Institute of Technology, Patna Off-Campus",Electronics and Communication Engineering,LIKELY
+507,GFTI,"Birla Institute of Technology, Patna Off-Campus",Electrical and Electronics Engineering,LIKELY
+508,GFTI,"Birla Institute of Technology, Patna Off-Campus",Mechanical Engineering,BORDERLINE
+509,GFTI,"Birla Institute of Technology, Patna Off-Campus",Civil Engineering,BORDERLINE
+510,GFTI,"National Institute of Electronics and Information Technology, Patna (Bihar)",Computer Science and Engineering,BORDERLINE

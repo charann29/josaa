@@ -1,0 +1,636 @@
+Priority,Tier,Type,Institute,BranchCode,Branch,Reach
+1,GOOD,NIT,"National Institute of Technology, Tiruchirappalli",4110,Computer Science and Engineering,Out
+2,GOOD,NIT,"National Institute of Technology Karnataka, Surathkal",4110,Computer Science and Engineering,Out
+3,GOOD,NIT,"National Institute of Technology, Rourkela",4110,Computer Science and Engineering,Out
+4,GOOD,NIT,"National Institute of Technology, Warangal",4110,Computer Science and Engineering,Out
+5,GOOD,NIT,"National Institute of Technology Karnataka, Surathkal",4185,Artificial Intelligence,Out
+6,GOOD,NIT,"National Institute of Technology Karnataka, Surathkal",410Q,Computational and Data Science,Out
+7,GOOD,NIT,National Institute of Technology Calicut,4110,Computer Science and Engineering,Out
+8,GOOD,NIT,"National Institute of Technology, Rourkela",4185,Artificial Intelligence,Out
+9,GOOD,NIT,"National Institute of Technology, Warangal",412F,Computer Science and Engineering ( Artificial Intelligence & Data Science),Out
+10,GOOD,NIT,"National Institute of Technology, Rourkela",411F,B.Tech in Mathematics and Computing,No-data
+11,GOOD,NIT,"Visvesvaraya National Institute of Technology, Nagpur",4110,Computer Science and Engineering,Out
+12,GOOD,NIT,"National Institute of Technology Karnataka, Surathkal",4146,Information Technology,Out
+13,GOOD,NIT,"National Institute of Technology, Warangal",4124,Mathematics and Computing,Reach
+14,GOOD,NIT,Malaviya National Institute of Technology Jaipur,4110,Computer Science and Engineering,Out
+15,GOOD,NIT,"National Institute of Technology, Tiruchirappalli",4114,Electronics and Communication Engineering,Out
+16,GOOD,NIT,"Visvesvaraya National Institute of Technology, Nagpur",413Z,Computer Science and Engineering (Artificial Intelligence and Data Science),No-data
+17,GOOD,NIT,Motilal Nehru National Institute of Technology Allahabad,4110,Computer Science and Engineering,Out
+18,GOOD,NIT,"National Institute of Technology Karnataka, Surathkal",4114,Electronics and Communication Engineering,Out
+19,GOOD,NIT,"Visvesvaraya National Institute of Technology, Nagpur",4124,Mathematics and Computing,No-data
+20,GOOD,NIT,"National Institute of Technology, Warangal",410Z,Electronics and Communication Engineering (VLSI Design and Technology),Out
+21,GOOD,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",4110,Computer Science and Engineering,Out
+22,GOOD,NIT,Malaviya National Institute of Technology Jaipur,411G,Artificial Intelligence and Data Engineering,Out
+23,GOOD,NIT,"National Institute of Technology, Rourkela",4114,Electronics and Communication Engineering,Out
+24,GOOD,NIT,"National Institute of Technology, Tiruchirappalli",4144,Electrical and Electronics Engineering,Out
+25,GOOD,NIT,Malaviya National Institute of Technology Jaipur,4124,Mathematics and Computing,No-data
+26,GOOD,NIT,"Indian Institute of Engineering Science and Technology, Shibpur",4110,Computer Science and Engineering,Reach
+27,GOOD,NIT,"National Institute of Technology, Warangal",4114,Electronics and Communication Engineering,Out
+28,GOOD,NIT,"National Institute of Technology Karnataka, Surathkal",4144,Electrical and Electronics Engineering,Out
+29,GOOD,NIT,"National Institute of Technology, Rourkela",4142,Electronics and Instrumentation Engineering,Out
+30,GOOD,NIT,Motilal Nehru National Institute of Technology Allahabad,4124,Mathematics and Computing,No-data
+31,GOOD,NIT,"Visvesvaraya National Institute of Technology, Nagpur",411H,Electronics Engineering (VLSI Design and Technology),No-data
+32,GOOD,NIT,National Institute of Technology Durgapur,4110,Computer Science and Engineering,Out
+33,GOOD,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",4185,Artificial Intelligence,Out
+34,GOOD,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",5B06,Artificial Intelligence,Out
+35,GOOD,NIT,National Institute of Technology Calicut,4114,Electronics and Communication Engineering,Out
+36,GOOD,NIT,"National Institute of Technology, Rourkela",4111,Electrical Engineering,Out
+37,GOOD,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",4124,Mathematics and Computing,Reach
+38,GOOD,NIT,Maulana Azad National Institute of Technology Bhopal,4110,Computer Science and Engineering,Out
+39,GOOD,NIT,"Visvesvaraya National Institute of Technology, Nagpur",4114,Electronics and Communication Engineering,Out
+40,GOOD,NIT,"National Institute of Technology, Warangal",4144,Electrical and Electronics Engineering,Reach
+41,GOOD,NIT,"National Institute of Technology, Warangal",413O,Electrical and Electronics Engineering (Electric Mobility),No-data
+42,GOOD,NIT,"Indian Institute of Engineering Science and Technology, Shibpur",4124,Mathematics and Computing,No-data
+43,GOOD,NIT,"National Institute of Technology, Kurukshetra",4110,Computer Science and Engineering,Out
+44,GOOD,NIT,"National Institute of Technology, Kurukshetra",5216,Computer Science and Engineering,Out
+45,GOOD,NIT,Malaviya National Institute of Technology Jaipur,4114,Electronics and Communication Engineering,Out
+46,GOOD,NIT,National Institute of Technology Calicut,4144,Electrical and Electronics Engineering,Out
+47,GOOD,NIT,"National Institute of Technology, Tiruchirappalli",4148,Instrumentation and Control Engineering,Good
+48,GOOD,NIT,National Institute of Technology Durgapur,411F,B.Tech in Mathematics and Computing,Borderline
+49,GOOD,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",410V,Electronics and VLSI Engineering,Borderline
+50,GOOD,NIT,"National Institute of Technology, Jamshedpur",4110,Computer Science and Engineering,Out
+51,GOOD,NIT,Maulana Azad National Institute of Technology Bhopal,520F,Mathematics and Data Science,Out
+52,GOOD,NIT,"Indian Institute of Engineering Science and Technology, Shibpur",4146,Information Technology,Borderline
+53,GOOD,NIT,"National Institute of Technology, Tiruchirappalli",4125,Mechanical Engineering,Out
+54,GOOD,NIT,Motilal Nehru National Institute of Technology Allahabad,4114,Electronics and Communication Engineering,Out
+55,GOOD,NIT,"Visvesvaraya National Institute of Technology, Nagpur",4144,Electrical and Electronics Engineering,Good
+56,GOOD,NIT,"National Institute of Technology, Silchar",4110,Computer Science and Engineering,Out
+57,GOOD,NIT,"National Institute of Technology, Kurukshetra",4188,Artificial Intelligence and Data Science,Out
+58,GOOD,NIT,"National Institute of Technology, Kurukshetra",410P,Artificial Intelligence and Machine Learning,Out
+59,GOOD,NIT,"National Institute of Technology Karnataka, Surathkal",4125,Mechanical Engineering,Out
+60,GOOD,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",4114,Electronics and Communication Engineering,Borderline
+61,GOOD,NIT,Malaviya National Institute of Technology Jaipur,4111,Electrical Engineering,Good
+62,GOOD,NIT,"National Institute of Technology, Tiruchirappalli",4145,Production Engineering,Good
+63,GOOD,NIT,"National Institute of Technology, Kurukshetra",4124,Mathematics and Computing,Out
+64,GOOD,NIT,"National Institute of Technology, Rourkela",4125,Mechanical Engineering,Borderline
+65,GOOD,NIT,Motilal Nehru National Institute of Technology Allahabad,4111,Electrical Engineering,Reach
+66,GOOD,IIIT,"Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur",4110,Computer Science and Engineering,Reach
+67,GOOD,NIT,"National Institute of Technology, Kurukshetra",4146,Information Technology,Out
+68,GOOD,NIT,"National Institute of Technology, Warangal",4125,Mechanical Engineering,Borderline
+69,GOOD,NIT,National Institute of Technology Durgapur,4114,Electronics and Communication Engineering,Out
+70,GOOD,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",4111,Electrical Engineering,Good
+71,GOOD,NIT,"Indian Institute of Engineering Science and Technology, Shibpur",4153,Electronics and Telecommunication Engineering,Good
+72,GOOD,NIT,"National Institute of Technology, Tiruchirappalli",4107,Chemical Engineering,Out
+73,GOOD,NIT,"National Institute of Technology, Rourkela",5258,Ceramic Engineering and M.Tech Industrial Ceramic,Out
+74,GOOD,NIT,"National Institute of Technology, Rourkela",4155,Industrial Design,Out
+75,GOOD,NIT,"National Institute of Technology, Kurukshetra",412B,Microelectronics & VLSI Engineering,Out
+76,GOOD,IIIT,Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior,4110,Computer Science and Engineering,Out
+77,GOOD,NIT,National Institute of Technology Calicut,4125,Mechanical Engineering,Borderline
+78,GOOD,NIT,Maulana Azad National Institute of Technology Bhopal,4114,Electronics and Communication Engineering,Reach
+79,GOOD,NIT,"Indian Institute of Engineering Science and Technology, Shibpur",4111,Electrical Engineering,SAFE
+80,GOOD,NIT,"National Institute of Technology Karnataka, Surathkal",4107,Chemical Engineering,Good
+81,GOOD,IIIT,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",4110,Computer Science and Engineering,Out
+82,GOOD,IIIT,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",5216,Computer Science and Engineering,Reach
+83,GOOD,NIT,"Visvesvaraya National Institute of Technology, Nagpur",4125,Mechanical Engineering,Good
+84,GOOD,NIT,"National Institute of Technology, Kurukshetra",4114,Electronics and Communication Engineering,Out
+85,GOOD,NIT,"National Institute of Technology, Kurukshetra",5234,Electronics and Communication Engineering,Out
+86,GOOD,NIT,National Institute of Technology Durgapur,4111,Electrical Engineering,Good
+87,GOOD,NIT,"National Institute of Technology, Rourkela",4107,Chemical Engineering,Reach
+88,GOOD,NIT,"National Institute of Technology, Rourkela",5210,Chemical Engineering,No-data
+89,GOOD,NIT,"National Institute of Technology, Tiruchirappalli",4109,Civil Engineering,Out
+90,GOOD,NIT,National Institute of Technology Calicut,4145,Production Engineering,SAFE
+91,GOOD,IIIT,Indian Institute of Information Technology Lucknow,4184,Computer Science,Reach
+92,GOOD,IIIT,Indian Institute of Information Technology Lucknow,410C,Computer Science and Business,Borderline
+93,GOOD,IIIT,"Indian Institute of Information Technology, Allahabad",5424,B. Tech. Information Technology-Business Informatics (IT- BIn) - Master of Business Administration (MBA),No-data
+94,GOOD,IIIT,"Indian Institute of Information Technology, Allahabad",4146,Information Technology,Out
+95,GOOD,IIIT,"Indian Institute of Information Technology, Allahabad",5280,Information Technology,No-data
+96,GOOD,IIIT,"Indian Institute of Information Technology, Allahabad",4186,Information Technology-Business Informatics,Out
+97,GOOD,NIT,Malaviya National Institute of Technology Jaipur,4125,Mechanical Engineering,Borderline
+98,GOOD,NIT,"National Institute of Technology, Jamshedpur",4114,Electronics and Communication Engineering,Borderline
+99,GOOD,NIT,Maulana Azad National Institute of Technology Bhopal,4111,Electrical Engineering,Good
+100,GOOD,NIT,Maulana Azad National Institute of Technology Bhopal,413N,Electrical Engineering with E Mobility,No-data
+101,GOOD,NIT,Maulana Azad National Institute of Technology Bhopal,412X,Energy and Electrical Vehicle Engineering,Out
+102,GOOD,IIIT,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",4196,Computer Science and Engineering with Major in Artificial Intelligence,Out
+103,GOOD,NIT,"National Institute of Technology, Warangal",4107,Chemical Engineering,Reach
+104,GOOD,NIT,"National Institute of Technology, Warangal",5210,Chemical Engineering,Out
+105,GOOD,NIT,"National Institute of Technology Karnataka, Surathkal",4109,Civil Engineering,Reach
+106,GOOD,IIIT,Indian Institute of Information Technology (IIIT) Nagpur,410G,Computer Science Engineering (Human Computer lnteraction and Gaming Technology),Good
+107,GOOD,IIIT,Indian Institute of Information Technology (IIIT) Nagpur,4110,Computer Science and Engineering,Good
+108,GOOD,NIT,Motilal Nehru National Institute of Technology Allahabad,4125,Mechanical Engineering,Borderline
+109,GOOD,NIT,"National Institute of Technology, Silchar",4114,Electronics and Communication Engineering,Borderline
+110,GOOD,NIT,"National Institute of Technology, Kurukshetra",4111,Electrical Engineering,Good
+111,GOOD,NIT,"National Institute of Technology, Kurukshetra",5217,Electrical Engineering,Out
+112,GOOD,IIIT,Indian Institute of Information Technology Lucknow,4190,Computer Science and Artificial Intelligence,Borderline
+113,GOOD,NIT,National Institute of Technology Calicut,4107,Chemical Engineering,Good
+114,GOOD,NIT,"National Institute of Technology, Rourkela",4109,Civil Engineering,Borderline
+115,GOOD,NIT,"National Institute of Technology, Tiruchirappalli",4127,Metallurgical and Materials Engineering,Reach
+116,GOOD,IIIT,Indian Institute of Information Technology (IIIT) Pune,4110,Computer Science and Engineering,Good
+117,GOOD,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",4125,Mechanical Engineering,SAFE
+118,GOOD,IIIT,"Indian Institute of Information Technology, Allahabad",4114,Electronics and Communication Engineering,Reach
+119,GOOD,IIIT,"Indian Institute of Information Technology, Allahabad",5234,Electronics and Communication Engineering,No-data
+120,GOOD,NIT,"National Institute of Technology, Jamshedpur",4111,Electrical Engineering,Good
+121,GOOD,IIIT,Indian Institute of Information Technology (IIIT) Nagpur,410E,Computer Science Engineering (Artificial lntelligence and Machine Learning),No-data
+122,GOOD,IIIT,Indian Institute of Information Technology (IIIT) Nagpur,410F,Computer Science Engineering (Data Science and Analytics),Good
+123,GOOD,NIT,"National Institute of Technology, Silchar",4142,Electronics and Instrumentation Engineering,Good
+124,GOOD,NIT,"Visvesvaraya National Institute of Technology, Nagpur",4107,Chemical Engineering,SAFE
+125,GOOD,NIT,"Visvesvaraya National Institute of Technology, Nagpur",413Y,Chemical Technology (Bioprocess Technology),No-data
+126,GOOD,NIT,"National Institute of Technology, Warangal",4109,Civil Engineering,Out
+127,GOOD,NIT,"National Institute of Technology Karnataka, Surathkal",4127,Metallurgical and Materials Engineering,Good
+128,GOOD,IIIT,"Indian Institute of Information Technology (IIIT)Kota, Rajasthan",4110,Computer Science and Engineering,SAFE
+129,GOOD,NIT,"Indian Institute of Engineering Science and Technology, Shibpur",4125,Mechanical Engineering,SAFE
+130,GOOD,IIIT,"Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur",4114,Electronics and Communication Engineering,Good
+131,GOOD,NIT,"National Institute of Technology, Silchar",4111,Electrical Engineering,Good
+132,GOOD,NIT,Malaviya National Institute of Technology Jaipur,4107,Chemical Engineering,SAFE
+133,GOOD,NIT,National Institute of Technology Calicut,4109,Civil Engineering,Borderline
+134,GOOD,NIT,"National Institute of Technology, Rourkela",4106,Ceramic Engineering,SAFE
+135,GOOD,NIT,"National Institute of Technology, Rourkela",4169,Food Process Engineering,Out
+136,GOOD,NIT,"National Institute of Technology, Rourkela",4127,Metallurgical and Materials Engineering,Good
+137,GOOD,NIT,"National Institute of Technology, Rourkela",5243,Metallurgical and Materials Engineering,Out
+138,GOOD,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",410B,Industrial Chemistry,SAFE
+139,GOOD,IIIT,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",523T,B.Tech. in Electronics and Communication Engineering and M.Tech. in Microelectronics and VLSI Systems,Good
+140,GOOD,GFTI,University of Hyderabad,5314,Computer Science and Engineering,No-data
+141,GOOD,IIIT,Indian Institute of Information Technology (IIIT) Pune,4188,Artificial Intelligence and Data Science,No-data
+142,GOOD,IIIT,Indian Institute of Information Technology Lucknow,4146,Information Technology,Out
+143,GOOD,NIT,National Institute of Technology Durgapur,4125,Mechanical Engineering,SAFE
+144,GOOD,NIT,Motilal Nehru National Institute of Technology Allahabad,4107,Chemical Engineering,Good
+145,GOOD,NIT,"Visvesvaraya National Institute of Technology, Nagpur",4109,Civil Engineering,SAFE
+146,GOOD,NIT,"National Institute of Technology, Warangal",4127,Metallurgical and Materials Engineering,Borderline
+147,GOOD,NIT,"National Institute of Technology, Warangal",5243,Metallurgical and Materials Engineering,Out
+148,GOOD,NIT,"National Institute of Technology Karnataka, Surathkal",4130,Mining Engineering,Out
+149,GOOD,GFTI,"Punjab Engineering College, Chandigarh",4110,Computer Science and Engineering,No-data
+150,GOOD,IIIT,"Indian Institute of Information Technology (IIIT)Kota, Rajasthan",411G,Artificial Intelligence and Data Engineering,SAFE
+151,GOOD,NIT,Maulana Azad National Institute of Technology Bhopal,4125,Mechanical Engineering,SAFE
+152,GOOD,IIIT,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",521Q,B.Tech. in Electronics and Communication Engineering and M.Tech. in Communication Systems,SAFE
+153,GOOD,IIIT,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",4114,Electronics and Communication Engineering,Good
+154,GOOD,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",4107,Chemical Engineering,SAFE
+155,GOOD,NIT,Malaviya National Institute of Technology Jaipur,4109,Civil Engineering,Reach
+156,GOOD,NIT,National Institute of Technology Calicut,4198,Energy Engineering,Good
+157,GOOD,NIT,National Institute of Technology Calicut,4123,Materials Science and Engineering,Good
+158,GOOD,NIT,"National Institute of Technology, Rourkela",4130,Mining Engineering,Out
+159,GOOD,NIT,"National Institute of Technology, Rourkela",5247,Mining Engineering,Out
+160,GOOD,NIT,"National Institute of Technology, Kurukshetra",4125,Mechanical Engineering,SAFE
+161,GOOD,NIT,"National Institute of Technology, Kurukshetra",5233,Mechanical Engineering,SAFE
+162,GOOD,IIIT,Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior,4144,Electrical and Electronics Engineering,Good
+163,GOOD,GFTI,"Punjab Engineering College, Chandigarh",4603,Computer Science Engineering (Artificial Intelligence),No-data
+164,GOOD,GFTI,"Punjab Engineering College, Chandigarh",4604,Computer Science Engineering (Data Science),No-data
+165,GOOD,NIT,Motilal Nehru National Institute of Technology Allahabad,4109,Civil Engineering,Reach
+166,GOOD,NIT,"Visvesvaraya National Institute of Technology, Nagpur",4127,Metallurgical and Materials Engineering,SAFE
+167,GOOD,IIIT,Indian Institute of Information Technology (IIIT) Pune,413X,Microelectronics and VLSI Design,No-data
+168,GOOD,NIT,"National Institute of Technology, Jamshedpur",4125,Mechanical Engineering,SAFE
+169,GOOD,IIIT,Indian Institute of Information Technology (IIIT) Nagpur,4114,Electronics and Communication Engineering,SAFE
+170,GOOD,IIIT,Indian Institute of Information Technology (IIIT) Nagpur,410H,Electronics and Communication Engineering (Internet of Things),SAFE
+171,GOOD,NIT,National Institute of Technology Durgapur,4107,Chemical Engineering,SAFE
+172,GOOD,NIT,National Institute of Technology Durgapur,5257,Chemical Engineering,Out
+173,GOOD,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",4109,Civil Engineering,Good
+174,GOOD,NIT,Malaviya National Institute of Technology Jaipur,4127,Metallurgical and Materials Engineering,Good
+175,GOOD,NIT,"National Institute of Technology, Rourkela",4152,Bio Medical Engineering,Out
+176,GOOD,NIT,"National Institute of Technology, Rourkela",4104,Bio Technology,Good
+177,GOOD,NIT,"National Institute of Technology, Kurukshetra",411C,Industrial Internet of Things,Good
+178,GOOD,NIT,"National Institute of Technology, Kurukshetra",4136,Production and Industrial Engineering,SAFE
+179,GOOD,GFTI,"Punjab Engineering College, Chandigarh",4124,Mathematics and Computing,No-data
+180,GOOD,NIT,"National Institute of Technology, Silchar",4125,Mechanical Engineering,SAFE
+181,GOOD,IIIT,Indian Institute of Information Technology (IIIT) Pune,4114,Electronics and Communication Engineering,Good
+182,GOOD,NIT,Maulana Azad National Institute of Technology Bhopal,4107,Chemical Engineering,SAFE
+183,GOOD,NIT,"Indian Institute of Engineering Science and Technology, Shibpur",4109,Civil Engineering,SAFE
+184,GOOD,NIT,Motilal Nehru National Institute of Technology Allahabad,4192,Engineering and Computational Mechanics,Out
+185,GOOD,NIT,Motilal Nehru National Institute of Technology Allahabad,412H,Materials Engineering,No-data
+186,GOOD,NIT,"Visvesvaraya National Institute of Technology, Nagpur",4130,Mining Engineering,Out
+187,GOOD,NIT,"National Institute of Technology, Warangal",4104,Bio Technology,Reach
+188,GOOD,NIT,"National Institute of Technology, Jamshedpur",4136,Production and Industrial Engineering,SAFE
+189,GOOD,IIIT,"Indian Institute of Information Technology (IIIT)Kota, Rajasthan",4114,Electronics and Communication Engineering,SAFE
+190,GOOD,NIT,National Institute of Technology Durgapur,4109,Civil Engineering,SAFE
+191,GOOD,NIT,National Institute of Technology Calicut,4104,Bio Technology,Reach
+192,GOOD,NIT,"National Institute of Technology, Rourkela",5503,Chemistry,Out
+193,GOOD,NIT,"National Institute of Technology, Rourkela",4117,Engineering Physics,No-data
+194,GOOD,GFTI,"Punjab Engineering College, Chandigarh",411H,Electronics Engineering (VLSI Design and Technology),No-data
+195,GOOD,IIIT,"Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur",4125,Mechanical Engineering,SAFE
+196,GOOD,NIT,Maulana Azad National Institute of Technology Bhopal,4109,Civil Engineering,Good
+197,GOOD,NIT,"Indian Institute of Engineering Science and Technology, Shibpur",4101,Aerospace Engineering,Good
+198,GOOD,NIT,"Indian Institute of Engineering Science and Technology, Shibpur",5501,Applied Geology,No-data
+199,GOOD,NIT,"Indian Institute of Engineering Science and Technology, Shibpur",4156,Metallurgy and Materials Engineering,SAFE
+200,GOOD,NIT,"National Institute of Technology, Warangal",5503,Chemistry,Good
+201,GOOD,NIT,"National Institute of Technology, Warangal",5508,Mathematics,Good
+202,GOOD,NIT,"National Institute of Technology, Warangal",5507,Physics,Out
+203,GOOD,GFTI,"Punjab Engineering College, Chandigarh",4114,Electronics and Communication Engineering,No-data
+204,GOOD,NIT,"National Institute of Technology, Kurukshetra",4109,Civil Engineering,SAFE
+205,GOOD,NIT,"National Institute of Technology, Kurukshetra",5213,Civil Engineering,Out
+206,GOOD,NIT,National Institute of Technology Durgapur,4127,Metallurgical and Materials Engineering,SAFE
+207,GOOD,NIT,National Institute of Technology Calicut,5A09,B. Tech. (Mathematics & Computing) M. Tech. in (Mathematics & Computing),No-data
+208,GOOD,NIT,National Institute of Technology Calicut,4117,Engineering Physics,Good
+209,GOOD,IIIT,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",5A11,B.Tech in Mechanical Engineering and M.Tech in AI and Robotics,SAFE
+210,GOOD,IIIT,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",4125,Mechanical Engineering,Good
+211,GOOD,NIT,"National Institute of Technology, Jamshedpur",4109,Civil Engineering,Reach
+212,GOOD,NIT,Maulana Azad National Institute of Technology Bhopal,4180,Materials and Metallurgical Engineering,No-data
+213,GOOD,NIT,Maulana Azad National Institute of Technology Bhopal,4501,Planning,Out
+214,GOOD,NIT,"Indian Institute of Engineering Science and Technology, Shibpur",4130,Mining Engineering,Out
+215,GOOD,NIT,Motilal Nehru National Institute of Technology Allahabad,4104,Bio Technology,SAFE
+216,GOOD,NIT,"Visvesvaraya National Institute of Technology, Nagpur",4117,Engineering Physics,No-data
+217,GOOD,GFTI,"Punjab Engineering College, Chandigarh",4111,Electrical Engineering,No-data
+218,GOOD,NIT,"National Institute of Technology, Silchar",4109,Civil Engineering,SAFE
+219,GOOD,NIT,"National Institute of Technology, Kurukshetra",412A,ROBOTICS & AUTOMATION,Reach
+220,GOOD,NIT,"National Institute of Technology, Kurukshetra",412D,SUSTAINABLE ENERGY TECHNOLOGIES,Out
+221,GOOD,NIT,Malaviya National Institute of Technology Jaipur,4117,Engineering Physics,No-data
+222,GOOD,NIT,"National Institute of Technology, Jamshedpur",4192,Engineering and Computational Mechanics,Out
+223,GOOD,NIT,"National Institute of Technology, Jamshedpur",4127,Metallurgical and Materials Engineering,Out
+224,GOOD,NIT,National Institute of Technology Durgapur,4104,Bio Technology,SAFE
+225,GOOD,NIT,National Institute of Technology Durgapur,5296,Biotechnology,Out
+226,GOOD,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",5H3C,Chemistry,No-data
+227,GOOD,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",4117,Engineering Physics,SAFE
+228,GOOD,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",5H3E,Mathematics,No-data
+229,GOOD,NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",5H3D,Physics,No-data
+230,GOOD,NIT,"Indian Institute of Engineering Science and Technology, Shibpur",5503,Chemistry,No-data
+231,GOOD,NIT,"Indian Institute of Engineering Science and Technology, Shibpur",5507,Physics,No-data
+232,GOOD,IIIT,"Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur",4176,Smart Manufacturing,SAFE
+233,GOOD,NIT,National Institute of Technology Durgapur,5503,Chemistry,Out
+234,GOOD,GFTI,"Punjab Engineering College, Chandigarh",4125,Mechanical Engineering,No-data
+235,GOOD,NIT,Maulana Azad National Institute of Technology Bhopal,522S,B. Tech. and M. Tech. in Engineering and Computational Mechanics (Dual Degree),Out
+236,GOOD,IIIT,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",413C,Design Engineering,SAFE
+237,GOOD,IIIT,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",4176,Smart Manufacturing,SAFE
+238,GOOD,GFTI,"Punjab Engineering College, Chandigarh",4136,Production and Industrial Engineering,No-data
+239,GOOD,IIIT,Indian Institute of Information Technology (IIIT) Pune,413W,Cyber Security,No-data
+240,GOOD,GFTI,"Punjab Engineering College, Chandigarh",4109,Civil Engineering,No-data
+241,GOOD,GFTI,University of Hyderabad,5313,Materials Engineering,SAFE
+242,GOOD,IIIT,Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior,5B01,Integrated B. Tech.(IT) and M. Tech (IT),Reach
+243,GOOD,IIIT,Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior,5C01,Integrated B. Tech.(IT) and MBA,Good
+244,GOOD,IIIT,Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior,411M,Mathematics and Scientific Computing,Good
+245,GOOD,GFTI,"Punjab Engineering College, Chandigarh",4101,Aerospace Engineering,No-data
+246,GOOD,GFTI,"Punjab Engineering College, Chandigarh",4127,Metallurgical and Materials Engineering,No-data
+247,GOOD,IIIT,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",4117,Engineering Physics,Out
+248,Safety-tail,NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",4110,Computer Science and Engineering,Out
+249,Safety-tail,NIT,National Institute of Technology Delhi,4110,Computer Science and Engineering,Out
+250,Safety-tail,NIT,National Institute of Technology Goa,4110,Computer Science and Engineering,Out
+251,Safety-tail,NIT,National Institute of Technology Hamirpur,4110,Computer Science and Engineering,Out
+252,Safety-tail,NIT,National Institute of Technology Hamirpur,5216,Computer Science and Engineering,Reach
+253,Safety-tail,NIT,National Institute of Technology Puducherry,4110,Computer Science and Engineering,Out
+254,Safety-tail,NIT,National Institute of Technology Raipur,4110,Computer Science and Engineering,Out
+255,Safety-tail,NIT,"National Institute of Technology, Andhra Pradesh",4110,Computer Science and Engineering,Out
+256,Safety-tail,NIT,"National Institute of Technology, Srinagar",4110,Computer Science and Engineering,Good
+257,Safety-tail,NIT,"National Institute of Technology, Uttarakhand",4110,Computer Science and Engineering,Out
+258,Safety-tail,IIIT,INDIAN INSTITUTE OF INFORMATION TECHNOLOGY SENAPATI MANIPUR,4110,Computer Science and Engineering,Out
+259,Safety-tail,IIIT,INDIAN INSTITUTE OF INFORMATION TECHNOLOGY SENAPATI MANIPUR,4195,Computer Science and Engineering with specialization in Cyber Security,Out
+260,Safety-tail,IIIT,INDIAN INSTITUTE OF INFORMATION TECHNOLOGY SENAPATI MANIPUR,413H,Computer Science and Engineering with specialization in Quantum Technologies,Out
+261,Safety-tail,IIIT,Indian Institute of Information Technology (IIIT) Ranchi,4110,Computer Science and Engineering,SAFE
+262,Safety-tail,IIIT,Indian Institute of Information Technology Bhopal,4110,Computer Science and Engineering,SAFE
+263,Safety-tail,IIIT,Indian Institute of Information Technology Bhopal,411Y,Computer Science and Engineering (Cyber Physical System),SAFE
+264,Safety-tail,IIIT,Indian Institute of Information Technology Bhopal,410J,Computer Science and Engineering (Cyber Security),SAFE
+265,Safety-tail,IIIT,"Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh",4110,Computer Science and Engineering,Good
+266,Safety-tail,IIIT,"Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh",5216,Computer Science and Engineering,Good
+267,Safety-tail,IIIT,Indian Institute of Information Technology Surat,4110,Computer Science and Engineering,Good
+268,Safety-tail,IIIT,Indian Institute of Information Technology Surat,410J,Computer Science and Engineering (Cyber Security),Reach
+269,Safety-tail,IIIT,Indian Institute of Information Technology Tiruchirappalli,4110,Computer Science and Engineering,Good
+270,Safety-tail,IIIT,"Indian Institute of Information Technology(IIIT) Kilohrad, Sonepat, Haryana",4110,Computer Science and Engineering,SAFE
+271,Safety-tail,IIIT,"Indian Institute of Information Technology(IIIT) Una, Himachal Pradesh",4110,Computer Science and Engineering,SAFE
+272,Safety-tail,IIIT,"Indian Institute of Information Technology(IIIT) Una, Himachal Pradesh",410J,Computer Science and Engineering (Cyber Security),Good
+273,Safety-tail,IIIT,"Indian Institute of Information Technology, Agartala",4110,Computer Science and Engineering,SAFE
+274,Safety-tail,NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",4185,Artificial Intelligence,No-data
+275,Safety-tail,NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",4187,Data Science and Engineering,Reach
+276,Safety-tail,NIT,National Institute of Technology Delhi,4188,Artificial Intelligence and Data Science,Out
+277,Safety-tail,NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",4124,Mathematics and Computing,Reach
+278,Safety-tail,NIT,National Institute of Technology Hamirpur,4124,Mathematics and Computing,Borderline
+279,Safety-tail,IIIT,INDIAN INSTITUTE OF INFORMATION TECHNOLOGY SENAPATI MANIPUR,410R,Computer Science and Engineering with specialization in Artificial Intelligence and Data Science,Out
+280,Safety-tail,IIIT,Indian Institute of Information Technology (IIIT) Ranchi,4602,Computer Science and Engineering (with Specialization of Data Science and Artificial Intelligence),SAFE
+281,Safety-tail,IIIT,Indian Institute of Information Technology Bhopal,412G,Computer Science and Engineering (Artificial Intelligence),SAFE
+282,Safety-tail,IIIT,Indian Institute of Information Technology Bhopal,412E,Computer Science and Engineering (Data Science),Good
+283,Safety-tail,IIIT,Indian Institute of Information Technology Surat,410W,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Borderline
+284,Safety-tail,IIIT,Indian Institute of Information Technology Tiruchirappalli,412F,Computer Science and Engineering ( Artificial Intelligence & Data Science),Reach
+285,Safety-tail,IIIT,"Indian Institute of Information Technology(IIIT) Kilohrad, Sonepat, Haryana",411J,Computer Science & Engineering (Data Science and Analytics),No-data
+286,Safety-tail,IIIT,"Indian Institute of Information Technology(IIIT) Kilohrad, Sonepat, Haryana",412G,Computer Science and Engineering (Artificial Intelligence),No-data
+287,Safety-tail,IIIT,"Indian Institute of Information Technology(IIIT) Una, Himachal Pradesh",412E,Computer Science and Engineering (Data Science),Out
+288,Safety-tail,GFTI,"Assam University, Silchar",4110,Computer Science and Engineering,Good
+289,Safety-tail,GFTI,"Birla Institute of Technology, Deoghar Off-Campus",4110,Computer Science and Engineering,SAFE
+290,Safety-tail,GFTI,"Birla Institute of Technology, Mesra, Ranchi",4110,Computer Science and Engineering,Good
+291,Safety-tail,GFTI,CU Jharkhand,4110,Computer Science and Engineering,Out
+292,Safety-tail,GFTI,Central University of Jammu,4110,Computer Science and Engineering,SAFE
+293,Safety-tail,GFTI,Central University of Jammu,4195,Computer Science and Engineering with specialization in Cyber Security,SAFE
+294,Safety-tail,GFTI,"Central University of Punjab, Bathinda",4110,Computer Science and Engineering,No-data
+295,Safety-tail,GFTI,"Central University of Rajasthan, Rajasthan",4110,Computer Science and Engineering,SAFE
+296,Safety-tail,GFTI,"Central institute of Technology Kokrajar, Assam",4110,Computer Science and Engineering,SAFE
+297,Safety-tail,GFTI,"Chhattisgarh Swami Vivekanada Technical University, Bhilai (CSVTU Bhilai)",4110,Computer Science and Engineering,No-data
+298,Safety-tail,GFTI,"Gurukula Kangri Vishwavidyalaya, Haridwar",4110,Computer Science and Engineering,SAFE
+299,Safety-tail,GFTI,"Institute of Engineering and Technology, Dr. H. S. Gour University. Sagar (A Central University)",4110,Computer Science and Engineering,SAFE
+300,Safety-tail,GFTI,"International Institute of Information Technology, Bhubaneswar",4110,Computer Science and Engineering,Good
+301,Safety-tail,GFTI,"International Institute of Information Technology, Naya Raipur",4110,Computer Science and Engineering,SAFE
+302,Safety-tail,GFTI,"Jawaharlal Nehru University, Delhi",4110,Computer Science and Engineering,Good
+303,Safety-tail,GFTI,"National Institute of Advanced Manufacturing Technology, Ranchi",4110,Computer Science and Engineering,No-data
+304,Safety-tail,GFTI,"National Institute of Electronics and Information Technology, Ajmer (Rajasthan)",413K,"Computer Science and Engineering (Internet of Things, Cyber Security including Block Chain Technology )",SAFE
+305,Safety-tail,GFTI,"National Institute of Electronics and Information Technology, Aurangabad (Maharashtra)",4110,Computer Science and Engineering,SAFE
+306,Safety-tail,GFTI,"National Institute of Electronics and Information Technology, Gorakhpur (UP)",413L,Computer Science and Engineering with minor in AI and ML,SAFE
+307,Safety-tail,GFTI,"Puducherry Technological University, Puducherry",4110,Computer Science and Engineering,SAFE
+308,Safety-tail,GFTI,Sant Longowal Institute of Engineering and Technology,4110,Computer Science and Engineering,SAFE
+309,Safety-tail,GFTI,Sant Longowal Institute of Engineering and Technology,5216,Computer Science and Engineering,SAFE
+310,Safety-tail,GFTI,"School of Engineering, Tezpur University, Napaam, Tezpur",5418,B.Tech. (Computer Science and Engineering) - MBA,Out
+311,Safety-tail,GFTI,"School of Engineering, Tezpur University, Napaam, Tezpur",4110,Computer Science and Engineering,Out
+312,Safety-tail,GFTI,"School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",4110,Computer Science and Engineering,SAFE
+313,Safety-tail,GFTI,Shri G. S. Institute of Technology and Science Indore,4110,Computer Science and Engineering,Out
+314,Safety-tail,GFTI,"Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir",4110,Computer Science and Engineering,SAFE
+315,Safety-tail,IIIT,"Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh",4188,Artificial Intelligence and Data Science,Borderline
+316,Safety-tail,IIIT,"Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh",523U,Artificial Intelligence and Data Science,No-data
+317,Safety-tail,NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",4146,Information Technology,Reach
+318,Safety-tail,NIT,National Institute of Technology Raipur,4146,Information Technology,Reach
+319,Safety-tail,NIT,"National Institute of Technology, Srinagar",4146,Information Technology,Good
+320,Safety-tail,IIIT,Indian Institute of Information Technology (IIIT) Ranchi,411F,B.Tech in Mathematics and Computing,SAFE
+321,Safety-tail,IIIT,Indian Institute of Information Technology Bhopal,411F,B.Tech in Mathematics and Computing,SAFE
+322,Safety-tail,IIIT,Indian Institute of Information Technology Surat,411F,B.Tech in Mathematics and Computing,No-data
+323,Safety-tail,NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",410V,Electronics and VLSI Engineering,Good
+324,Safety-tail,GFTI,"Birla Institute of Technology, Deoghar Off-Campus",410W,Computer Science and Engineering (Artificial Intelligence and Machine Learning),No-data
+325,Safety-tail,GFTI,"Birla Institute of Technology, Mesra, Ranchi",410W,Computer Science and Engineering (Artificial Intelligence and Machine Learning),No-data
+326,Safety-tail,GFTI,"Chhattisgarh Swami Vivekanada Technical University, Bhilai (CSVTU Bhilai)",4603,Computer Science Engineering (Artificial Intelligence),SAFE
+327,Safety-tail,GFTI,"Chhattisgarh Swami Vivekanada Technical University, Bhilai (CSVTU Bhilai)",4604,Computer Science Engineering (Data Science),SAFE
+328,Safety-tail,GFTI,"Ghani Khan Choudhary Institute of Engineering and Technology, Malda, West Bengal",410E,Computer Science Engineering (Artificial lntelligence and Machine Learning),No-data
+329,Safety-tail,GFTI,"J.K. Institute of Applied Physics & Technology, Department of Electronics & Communication, University of Allahabad- Allahabad",4196,Computer Science and Engineering with Major in Artificial Intelligence,SAFE
+330,Safety-tail,GFTI,"National Institute of Electronics and Information Technology, Aizawl",410W,Computer Science and Engineering (Artificial Intelligence and Machine Learning),No-data
+331,Safety-tail,GFTI,"Birla Institute of Technology, Mesra, Ranchi",5511,Quantitative Economics & Data Science,Out
+332,Safety-tail,GFTI,"Central University of Punjab, Bathinda",523V,Artificial Intelligence and Machine Learning,No-data
+333,Safety-tail,GFTI,"Gati Shakti Vishwavidyalaya, Vadodara",411V,B.Tech in Artificial Intelligenece and Data Science (Transportation and Logistics),Out
+334,Safety-tail,GFTI,"International Institute of Information Technology, Naya Raipur",4181,Data Science and Artificial Intelligence,Reach
+335,Safety-tail,GFTI,National Institute of Technical Teachers Training and Research Bhopal,410P,Artificial Intelligence and Machine Learning,No-data
+336,Safety-tail,GFTI,"Puducherry Technological University, Puducherry",4188,Artificial Intelligence and Data Science,No-data
+337,Safety-tail,GFTI,"Rajiv Gandhi National Aviation University, Fursatganj, Amethi (UP)",413R,Artificial Intelligence & Data Science - Aviation Systems,No-data
+338,Safety-tail,GFTI,Sant Longowal Institute of Engineering and Technology,4188,Artificial Intelligence and Data Science,SAFE
+339,Safety-tail,GFTI,"School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",4188,Artificial Intelligence and Data Science,SAFE
+340,Safety-tail,IIIT,Indian Institute of Information Technology Bhopal,4146,Information Technology,SAFE
+341,Safety-tail,IIIT,"Indian Institute of Information Technology(IIIT) Kilohrad, Sonepat, Haryana",4146,Information Technology,SAFE
+342,Safety-tail,NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",4114,Electronics and Communication Engineering,Reach
+343,Safety-tail,NIT,National Institute of Technology Delhi,4114,Electronics and Communication Engineering,Out
+344,Safety-tail,NIT,National Institute of Technology Goa,4114,Electronics and Communication Engineering,Reach
+345,Safety-tail,NIT,National Institute of Technology Hamirpur,4114,Electronics and Communication Engineering,Good
+346,Safety-tail,NIT,National Institute of Technology Hamirpur,5234,Electronics and Communication Engineering,Borderline
+347,Safety-tail,NIT,National Institute of Technology Puducherry,4114,Electronics and Communication Engineering,Reach
+348,Safety-tail,NIT,National Institute of Technology Raipur,4114,Electronics and Communication Engineering,Reach
+349,Safety-tail,NIT,"National Institute of Technology, Andhra Pradesh",4114,Electronics and Communication Engineering,Good
+350,Safety-tail,NIT,"National Institute of Technology, Srinagar",4114,Electronics and Communication Engineering,SAFE
+351,Safety-tail,NIT,"National Institute of Technology, Uttarakhand",4114,Electronics and Communication Engineering,SAFE
+352,Safety-tail,GFTI,"Birla Institute of Technology, Deoghar Off-Campus",5506,Mathematics and Computing,No-data
+353,Safety-tail,GFTI,"Birla Institute of Technology, Mesra, Ranchi",5506,Mathematics and Computing,SAFE
+354,Safety-tail,GFTI,Central University of Jammu,4124,Mathematics and Computing,Out
+355,Safety-tail,GFTI,"Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir",411F,B.Tech in Mathematics and Computing,SAFE
+356,Safety-tail,IIIT,INDIAN INSTITUTE OF INFORMATION TECHNOLOGY SENAPATI MANIPUR,410M,Electronics and Communication Engineering with specialization in VLSI and Embedded Systems,Out
+357,Safety-tail,IIIT,Indian Institute of Information Technology Tiruchirappalli,413G,Electronics and Communication Engineering (VLSI Design),Borderline
+358,Safety-tail,NIT,National Institute of Technology Agartala,4110,Computer Science and Engineering,Borderline
+359,Safety-tail,NIT,National Institute of Technology Arunachal Pradesh,4110,Computer Science and Engineering,Reach
+360,Safety-tail,NIT,National Institute of Technology Sikkim,4110,Computer Science and Engineering,Reach
+361,Safety-tail,NIT,"National Institute of Technology, Manipur",4110,Computer Science and Engineering,Good
+362,Safety-tail,NIT,"National Institute of Technology, Manipur",5216,Computer Science and Engineering,No-data
+363,Safety-tail,NIT,"National Institute of Technology, Mizoram",4110,Computer Science and Engineering,Good
+364,Safety-tail,GFTI,"International Institute of Information Technology, Bhubaneswar",4146,Information Technology,Good
+365,Safety-tail,GFTI,"Mizoram University, Aizawl",4146,Information Technology,SAFE
+366,Safety-tail,GFTI,"North-Eastern Hill University, Shillong",4146,Information Technology,SAFE
+367,Safety-tail,GFTI,"Puducherry Technological University, Puducherry",4146,Information Technology,SAFE
+368,Safety-tail,GFTI,"School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",4146,Information Technology,SAFE
+369,Safety-tail,GFTI,Shri G. S. Institute of Technology and Science Indore,4146,Information Technology,Out
+370,Safety-tail,IIIT,INDIAN INSTITUTE OF INFORMATION TECHNOLOGY SENAPATI MANIPUR,4114,Electronics and Communication Engineering,Out
+371,Safety-tail,IIIT,Indian Institute of Information Technology (IIIT) Ranchi,4114,Electronics and Communication Engineering,SAFE
+372,Safety-tail,IIIT,Indian Institute of Information Technology (IIIT) Ranchi,4601,Electronics and Communication Engineering (with Specialization of Embedded Systems and Internet of Things),SAFE
+373,Safety-tail,IIIT,Indian Institute of Information Technology Bhopal,4114,Electronics and Communication Engineering,SAFE
+374,Safety-tail,IIIT,"Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh",5234,Electronics and Communication Engineering,SAFE
+375,Safety-tail,IIIT,"Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh",4174,Electronics and Communication Engineering with specialization in Design and Manufacturing,Good
+376,Safety-tail,IIIT,Indian Institute of Information Technology Surat,4114,Electronics and Communication Engineering,SAFE
+377,Safety-tail,IIIT,Indian Institute of Information Technology Tiruchirappalli,4114,Electronics and Communication Engineering,SAFE
+378,Safety-tail,IIIT,"Indian Institute of Information Technology(IIIT) Una, Himachal Pradesh",4114,Electronics and Communication Engineering,SAFE
+379,Safety-tail,NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",4111,Electrical Engineering,Good
+380,Safety-tail,NIT,National Institute of Technology Delhi,4111,Electrical Engineering,Borderline
+381,Safety-tail,NIT,National Institute of Technology Goa,4144,Electrical and Electronics Engineering,Good
+382,Safety-tail,NIT,National Institute of Technology Hamirpur,4111,Electrical Engineering,SAFE
+383,Safety-tail,NIT,National Institute of Technology Puducherry,4144,Electrical and Electronics Engineering,Borderline
+384,Safety-tail,NIT,National Institute of Technology Raipur,4111,Electrical Engineering,Borderline
+385,Safety-tail,NIT,"National Institute of Technology, Andhra Pradesh",4144,Electrical and Electronics Engineering,Good
+386,Safety-tail,NIT,"National Institute of Technology, Srinagar",4111,Electrical Engineering,SAFE
+387,Safety-tail,NIT,"National Institute of Technology, Uttarakhand",4144,Electrical and Electronics Engineering,Out
+388,Safety-tail,GFTI,"National Institute of Electronics and Information Technology, Ropar (Punjab)",410Z,Electronics and Communication Engineering (VLSI Design and Technology),No-data
+389,Safety-tail,NIT,National Institute of Technology Sikkim,410P,Artificial Intelligence and Machine Learning,No-data
+390,Safety-tail,GFTI,"Assam University, Silchar",4114,Electronics and Communication Engineering,SAFE
+391,Safety-tail,GFTI,"Birla Institute of Technology, Deoghar Off-Campus",4114,Electronics and Communication Engineering,SAFE
+392,Safety-tail,GFTI,"Birla Institute of Technology, Mesra, Ranchi",4114,Electronics and Communication Engineering,SAFE
+393,Safety-tail,GFTI,Central University of Jammu,4114,Electronics and Communication Engineering,SAFE
+394,Safety-tail,GFTI,Central University of Jammu,410I,Electronics and Communication Engineering (Avionics),Out
+395,Safety-tail,GFTI,"Central University of Rajasthan, Rajasthan",4114,Electronics and Communication Engineering,SAFE
+396,Safety-tail,GFTI,"Central institute of Technology Kokrajar, Assam",4114,Electronics and Communication Engineering,Out
+397,Safety-tail,GFTI,"Gurukula Kangri Vishwavidyalaya, Haridwar",4114,Electronics and Communication Engineering,SAFE
+398,Safety-tail,GFTI,"Institute of Engineering and Technology, Dr. H. S. Gour University. Sagar (A Central University)",4114,Electronics and Communication Engineering,Out
+399,Safety-tail,GFTI,"International Institute of Information Technology, Naya Raipur",4114,Electronics and Communication Engineering,SAFE
+400,Safety-tail,GFTI,"J.K. Institute of Applied Physics & Technology, Department of Electronics & Communication, University of Allahabad- Allahabad",4114,Electronics and Communication Engineering,SAFE
+401,Safety-tail,GFTI,"Jawaharlal Nehru University, Delhi",4114,Electronics and Communication Engineering,SAFE
+402,Safety-tail,GFTI,"Mizoram University, Aizawl",4114,Electronics and Communication Engineering,SAFE
+403,Safety-tail,GFTI,"National Institute of Electronics and Information Technology, Gorakhpur (UP)",413M,B. Tech in Electronics and Communication Engineering with minor in Wearable Electronics,SAFE
+404,Safety-tail,GFTI,National Institute of Technical Teachers Training and Research Bhopal,4114,Electronics and Communication Engineering,No-data
+405,Safety-tail,GFTI,"North-Eastern Hill University, Shillong",4114,Electronics and Communication Engineering,SAFE
+406,Safety-tail,GFTI,"Puducherry Technological University, Puducherry",4114,Electronics and Communication Engineering,SAFE
+407,Safety-tail,GFTI,"Rajiv Gandhi National Aviation University, Fursatganj, Amethi (UP)",410I,Electronics and Communication Engineering (Avionics),SAFE
+408,Safety-tail,GFTI,Sant Longowal Institute of Engineering and Technology,4114,Electronics and Communication Engineering,SAFE
+409,Safety-tail,GFTI,"School of Engineering, Tezpur University, Napaam, Tezpur",5420,B.Tech. (Electronics and Communication Engineering) - MBA,Out
+410,Safety-tail,GFTI,"School of Engineering, Tezpur University, Napaam, Tezpur",4114,Electronics and Communication Engineering,Out
+411,Safety-tail,GFTI,"School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",4114,Electronics and Communication Engineering,SAFE
+412,Safety-tail,GFTI,"Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir",4114,Electronics and Communication Engineering,Out
+413,Safety-tail,NIT,"National Institute of Technology, Mizoram",4124,Mathematics and Computing,Out
+414,Safety-tail,GFTI,"Gati Shakti Vishwavidyalaya, Vadodara",411R,B.Tech in Electronics & Communication Engineering (Rail Engineering),Out
+415,Safety-tail,GFTI,"International Institute of Information Technology, Bhubaneswar",4153,Electronics and Telecommunication Engineering,SAFE
+416,Safety-tail,GFTI,"Puducherry Technological University, Puducherry",4142,Electronics and Instrumentation Engineering,SAFE
+417,Safety-tail,GFTI,Shri G. S. Institute of Technology and Science Indore,4142,Electronics and Instrumentation Engineering,Out
+418,Safety-tail,GFTI,Shri G. S. Institute of Technology and Science Indore,4153,Electronics and Telecommunication Engineering,Out
+419,Safety-tail,GFTI,"Birla Institute of Technology, Deoghar Off-Campus",4144,Electrical and Electronics Engineering,SAFE
+420,Safety-tail,GFTI,"Birla Institute of Technology, Mesra, Ranchi",4144,Electrical and Electronics Engineering,SAFE
+421,Safety-tail,GFTI,CU Jharkhand,4111,Electrical Engineering,Out
+422,Safety-tail,GFTI,"Gati Shakti Vishwavidyalaya, Vadodara",411S,B.Tech in Electrical Engineering ( Rail  Engineering),Out
+423,Safety-tail,GFTI,"Ghani Khan Choudhary Institute of Engineering and Technology, Malda, West Bengal",4111,Electrical Engineering,No-data
+424,Safety-tail,GFTI,"Gurukula Kangri Vishwavidyalaya, Haridwar",4111,Electrical Engineering,SAFE
+425,Safety-tail,GFTI,"Institute of Infrastructure, Technology, Research and Management-Ahmedabad",4111,Electrical Engineering,SAFE
+426,Safety-tail,GFTI,"International Institute of Information Technology, Bhubaneswar",4144,Electrical and Electronics Engineering,SAFE
+427,Safety-tail,GFTI,Islamic University of Science and Technology Kashmir,4111,Electrical Engineering,No-data
+428,Safety-tail,GFTI,"Mizoram University, Aizawl",4111,Electrical Engineering,SAFE
+429,Safety-tail,GFTI,National Institute of Technical Teachers Training and Research Bhopal,4111,Electrical Engineering,No-data
+430,Safety-tail,GFTI,"Puducherry Technological University, Puducherry",4144,Electrical and Electronics Engineering,Out
+431,Safety-tail,GFTI,Sant Longowal Institute of Engineering and Technology,4111,Electrical Engineering,SAFE
+432,Safety-tail,GFTI,Sant Longowal Institute of Engineering and Technology,5217,Electrical Engineering,Out
+433,Safety-tail,GFTI,"School of Engineering, Tezpur University, Napaam, Tezpur",4111,Electrical Engineering,SAFE
+434,Safety-tail,GFTI,"School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",4111,Electrical Engineering,SAFE
+435,Safety-tail,GFTI,Shri G. S. Institute of Technology and Science Indore,4111,Electrical Engineering,Out
+436,Safety-tail,GFTI,"Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir",4111,Electrical Engineering,SAFE
+437,Safety-tail,NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",4148,Instrumentation and Control Engineering,SAFE
+438,Safety-tail,NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",4125,Mechanical Engineering,SAFE
+439,Safety-tail,NIT,National Institute of Technology Delhi,4125,Mechanical Engineering,Borderline
+440,Safety-tail,NIT,National Institute of Technology Goa,4125,Mechanical Engineering,SAFE
+441,Safety-tail,NIT,National Institute of Technology Hamirpur,4125,Mechanical Engineering,SAFE
+442,Safety-tail,NIT,National Institute of Technology Puducherry,4125,Mechanical Engineering,SAFE
+443,Safety-tail,NIT,National Institute of Technology Raipur,4125,Mechanical Engineering,Borderline
+444,Safety-tail,NIT,"National Institute of Technology, Andhra Pradesh",4125,Mechanical Engineering,SAFE
+445,Safety-tail,NIT,"National Institute of Technology, Srinagar",4125,Mechanical Engineering,SAFE
+446,Safety-tail,NIT,"National Institute of Technology, Uttarakhand",4125,Mechanical Engineering,Out
+447,Safety-tail,NIT,National Institute of Technology Agartala,4114,Electronics and Communication Engineering,Good
+448,Safety-tail,NIT,National Institute of Technology Arunachal Pradesh,4114,Electronics and Communication Engineering,SAFE
+449,Safety-tail,NIT,National Institute of Technology Sikkim,4114,Electronics and Communication Engineering,SAFE
+450,Safety-tail,NIT,"National Institute of Technology, Manipur",4114,Electronics and Communication Engineering,SAFE
+451,Safety-tail,NIT,"National Institute of Technology, Manipur",5234,Electronics and Communication Engineering,No-data
+452,Safety-tail,NIT,"National Institute of Technology, Mizoram",4114,Electronics and Communication Engineering,SAFE
+453,Safety-tail,NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",4149,Industrial and Production Engineering,SAFE
+454,Safety-tail,IIIT,"Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh",5233,Mechanical Engineering,SAFE
+455,Safety-tail,IIIT,"Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh",4175,Mechanical Engineering with specialization in Design and Manufacturing,SAFE
+456,Safety-tail,NIT,National Institute of Technology Agartala,4142,Electronics and Instrumentation Engineering,SAFE
+457,Safety-tail,NIT,National Institute of Technology Agartala,4111,Electrical Engineering,SAFE
+458,Safety-tail,NIT,National Institute of Technology Arunachal Pradesh,4111,Electrical Engineering,SAFE
+459,Safety-tail,NIT,National Institute of Technology Sikkim,4144,Electrical and Electronics Engineering,SAFE
+460,Safety-tail,NIT,"National Institute of Technology, Manipur",4111,Electrical Engineering,SAFE
+461,Safety-tail,NIT,"National Institute of Technology, Manipur",5217,Electrical Engineering,No-data
+462,Safety-tail,NIT,"National Institute of Technology, Mizoram",4111,Electrical Engineering,SAFE
+463,Safety-tail,GFTI,"Central institute of Technology Kokrajar, Assam",4121,Instrumentation Engineering,Out
+464,Safety-tail,GFTI,Sant Longowal Institute of Engineering and Technology,4148,Instrumentation and Control Engineering,Out
+465,Safety-tail,NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",4107,Chemical Engineering,SAFE
+466,Safety-tail,NIT,National Institute of Technology Hamirpur,4107,Chemical Engineering,SAFE
+467,Safety-tail,NIT,National Institute of Technology Raipur,4107,Chemical Engineering,SAFE
+468,Safety-tail,NIT,"National Institute of Technology, Andhra Pradesh",4107,Chemical Engineering,SAFE
+469,Safety-tail,NIT,"National Institute of Technology, Srinagar",4107,Chemical Engineering,SAFE
+470,Safety-tail,GFTI,"Birla Institute of Technology, Deoghar Off-Campus",4125,Mechanical Engineering,SAFE
+471,Safety-tail,GFTI,"Birla Institute of Technology, Mesra, Ranchi",4125,Mechanical Engineering,SAFE
+472,Safety-tail,GFTI,"Gati Shakti Vishwavidyalaya, Vadodara",411T,B.Tech in Mechanical Engineering ( Rail  Engineering),Out
+473,Safety-tail,GFTI,"Ghani Khan Choudhary Institute of Engineering and Technology, Malda, West Bengal",4125,Mechanical Engineering,No-data
+474,Safety-tail,GFTI,"Gurukula Kangri Vishwavidyalaya, Haridwar",4125,Mechanical Engineering,SAFE
+475,Safety-tail,GFTI,"Institute of Infrastructure, Technology, Research and Management-Ahmedabad",4125,Mechanical Engineering,SAFE
+476,Safety-tail,GFTI,"National Institute of Advanced Manufacturing Technology, Ranchi",4125,Mechanical Engineering,SAFE
+477,Safety-tail,GFTI,National Institute of Technical Teachers Training and Research Bhopal,4125,Mechanical Engineering,No-data
+478,Safety-tail,GFTI,"Puducherry Technological University, Puducherry",4125,Mechanical Engineering,SAFE
+479,Safety-tail,GFTI,Sant Longowal Institute of Engineering and Technology,4125,Mechanical Engineering,Out
+480,Safety-tail,GFTI,Sant Longowal Institute of Engineering and Technology,5233,Mechanical Engineering,Out
+481,Safety-tail,GFTI,"School of Engineering, Tezpur University, Napaam, Tezpur",5422,B.Tech. (Mechanical Engineering) - MBA,Out
+482,Safety-tail,GFTI,"School of Engineering, Tezpur University, Napaam, Tezpur",4125,Mechanical Engineering,SAFE
+483,Safety-tail,GFTI,"School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",4125,Mechanical Engineering,Out
+484,Safety-tail,GFTI,Shri G. S. Institute of Technology and Science Indore,4125,Mechanical Engineering,Out
+485,Safety-tail,GFTI,"Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir",4125,Mechanical Engineering,SAFE
+486,Safety-tail,NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",4109,Civil Engineering,Borderline
+487,Safety-tail,NIT,National Institute of Technology Delhi,4109,Civil Engineering,Good
+488,Safety-tail,NIT,National Institute of Technology Goa,4109,Civil Engineering,Good
+489,Safety-tail,NIT,National Institute of Technology Hamirpur,4109,Civil Engineering,SAFE
+490,Safety-tail,NIT,National Institute of Technology Puducherry,4109,Civil Engineering,Reach
+491,Safety-tail,NIT,National Institute of Technology Raipur,4109,Civil Engineering,SAFE
+492,Safety-tail,NIT,"National Institute of Technology, Andhra Pradesh",4109,Civil Engineering,Good
+493,Safety-tail,NIT,"National Institute of Technology, Srinagar",4109,Civil Engineering,SAFE
+494,Safety-tail,NIT,"National Institute of Technology, Uttarakhand",4109,Civil Engineering,Good
+495,Safety-tail,GFTI,"Birla Institute of Technology, Mesra, Ranchi",4136,Production and Industrial Engineering,SAFE
+496,Safety-tail,GFTI,"National Institute of Advanced Manufacturing Technology, Ranchi",4136,Production and Industrial Engineering,SAFE
+497,Safety-tail,GFTI,"School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",4149,Industrial and Production Engineering,Out
+498,Safety-tail,GFTI,Shri G. S. Institute of Technology and Science Indore,4149,Industrial and Production Engineering,Out
+499,Safety-tail,GFTI,"Birla Institute of Technology, Mesra, Ranchi",4107,Chemical Engineering,SAFE
+500,Safety-tail,GFTI,"Institute of Chemical Technology, Mumbai: Indian Oil Odisha Campus, Bhubaneswar",5D01,Chemical Engineering,SAFE
+501,Safety-tail,GFTI,"Puducherry Technological University, Puducherry",4107,Chemical Engineering,SAFE
+502,Safety-tail,GFTI,Sant Longowal Institute of Engineering and Technology,4107,Chemical Engineering,Out
+503,Safety-tail,GFTI,Sant Longowal Institute of Engineering and Technology,5210,Chemical Engineering,No-data
+504,Safety-tail,GFTI,"School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",4107,Chemical Engineering,SAFE
+505,Safety-tail,NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",4139,Textile Technology,SAFE
+506,Safety-tail,NIT,National Institute of Technology Delhi,4101,Aerospace Engineering,Out
+507,Safety-tail,NIT,National Institute of Technology Delhi,411Z,VLSI Design and Technology,Out
+508,Safety-tail,NIT,National Institute of Technology Hamirpur,4123,Materials Science and Engineering,SAFE
+509,Safety-tail,NIT,National Institute of Technology Raipur,4127,Metallurgical and Materials Engineering,SAFE
+510,Safety-tail,NIT,"National Institute of Technology, Andhra Pradesh",4127,Metallurgical and Materials Engineering,Out
+511,Safety-tail,NIT,"National Institute of Technology, Srinagar",4127,Metallurgical and Materials Engineering,SAFE
+512,Safety-tail,NIT,National Institute of Technology Agartala,4125,Mechanical Engineering,SAFE
+513,Safety-tail,NIT,National Institute of Technology Arunachal Pradesh,4125,Mechanical Engineering,SAFE
+514,Safety-tail,NIT,National Institute of Technology Sikkim,4125,Mechanical Engineering,Out
+515,Safety-tail,NIT,"National Institute of Technology, Manipur",4125,Mechanical Engineering,SAFE
+516,Safety-tail,NIT,"National Institute of Technology, Manipur",5233,Mechanical Engineering,No-data
+517,Safety-tail,NIT,"National Institute of Technology, Mizoram",4125,Mechanical Engineering,SAFE
+518,Safety-tail,GFTI,"Birla Institute of Technology, Mesra, Ranchi",4109,Civil Engineering,SAFE
+519,Safety-tail,GFTI,CU Jharkhand,4109,Civil Engineering,Out
+520,Safety-tail,GFTI,"Central institute of Technology Kokrajar, Assam",4109,Civil Engineering,Out
+521,Safety-tail,GFTI,"Chhattisgarh Swami Vivekanada Technical University, Bhilai (CSVTU Bhilai)",4109,Civil Engineering,SAFE
+522,Safety-tail,GFTI,"Gati Shakti Vishwavidyalaya, Vadodara",411U,B.Tech in Civil Engineering (Rail Engineering),Out
+523,Safety-tail,GFTI,"Ghani Khan Choudhary Institute of Engineering and Technology, Malda, West Bengal",410X,Civil and Environmental Engineering,No-data
+524,Safety-tail,GFTI,"Institute of Infrastructure, Technology, Research and Management-Ahmedabad",4109,Civil Engineering,SAFE
+525,Safety-tail,GFTI,"Mizoram University, Aizawl",4109,Civil Engineering,SAFE
+526,Safety-tail,GFTI,National Institute of Technical Teachers Training and Research Bhopal,4109,Civil Engineering,No-data
+527,Safety-tail,GFTI,"Puducherry Technological University, Puducherry",4109,Civil Engineering,SAFE
+528,Safety-tail,GFTI,Sant Longowal Institute of Engineering and Technology,4109,Civil Engineering,Out
+529,Safety-tail,GFTI,"School of Engineering, Tezpur University, Napaam, Tezpur",5417,B.Tech. (Civil Engineering) - MBA,Out
+530,Safety-tail,GFTI,"School of Engineering, Tezpur University, Napaam, Tezpur",4109,Civil Engineering,Good
+531,Safety-tail,GFTI,"School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",4109,Civil Engineering,Out
+532,Safety-tail,GFTI,Shri G. S. Institute of Technology and Science Indore,4109,Civil Engineering,Out
+533,Safety-tail,GFTI,"Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir",4109,Civil Engineering,Out
+534,Safety-tail,NIT,National Institute of Technology Raipur,4130,Mining Engineering,Out
+535,Safety-tail,NIT,National Institute of Technology Agartala,4145,Production Engineering,SAFE
+536,Safety-tail,NIT,National Institute of Technology Agartala,4105,Biotechnology and Biochemical Engineering,SAFE
+537,Safety-tail,NIT,National Institute of Technology Agartala,4107,Chemical Engineering,SAFE
+538,Safety-tail,NIT,"National Institute of Technology, Mizoram",4108,Chemical Science and Technology,Out
+539,Safety-tail,GFTI,"Assam University, Silchar",4168,Agricultural Engineering,Borderline
+540,Safety-tail,GFTI,"Birla Institute of Technology, Mesra, Ranchi",4167,Food Engineering  and Technology,SAFE
+541,Safety-tail,GFTI,CU Jharkhand,4127,Metallurgical and Materials Engineering,Out
+542,Safety-tail,GFTI,"Central institute of Technology Kokrajar, Assam",4167,Food Engineering  and Technology,Out
+543,Safety-tail,GFTI,"Gati Shakti Vishwavidyalaya, Vadodara",411W,B.Tech in Aviation Engineering,Out
+544,Safety-tail,GFTI,"Gati Shakti Vishwavidyalaya, Vadodara",413S,Maritime Engineering,No-data
+545,Safety-tail,GFTI,"Ghani Khan Choudhary Institute of Engineering and Technology, Malda, West Bengal",4164,Food Technology,No-data
+546,Safety-tail,GFTI,"Gurukula Kangri Vishwavidyalaya, Haridwar",412A,ROBOTICS & AUTOMATION,No-data
+547,Safety-tail,GFTI,"Indian Institute of Carpet Technology, Bhadohi",4160,Carpet  and Textile Technology,Out
+548,Safety-tail,GFTI,"Indian Institute of Handloom Technology(IIHT), Varanasi",4197,Handloom and Textile Technology,SAFE
+549,Safety-tail,GFTI,"Indian Institute of Handloom Technology, Salem",4197,Handloom and Textile Technology,SAFE
+550,Safety-tail,GFTI,"Institute of Engineering and Technology, Dr. H. S. Gour University. Sagar (A Central University)",411O,Aeronautical Engineering,Out
+551,Safety-tail,GFTI,"Institute of Engineering and Technology, Dr. H. S. Gour University. Sagar (A Central University)",411P,Dairy Engineering,Out
+552,Safety-tail,GFTI,"Institute of Engineering and Technology, Dr. H. S. Gour University. Sagar (A Central University)",411Q,Fashion and Apparel Engineering,Out
+553,Safety-tail,GFTI,"Institute of Engineering and Technology, Dr. H. S. Gour University. Sagar (A Central University)",4167,Food Engineering  and Technology,Out
+554,Safety-tail,GFTI,"Institute of Infrastructure, Technology, Research and Management-Ahmedabad",4151,Computer Engineering,SAFE
+555,Safety-tail,GFTI,"Mizoram University, Aizawl",4151,Computer Engineering,SAFE
+556,Safety-tail,GFTI,"National Institute of Advanced Manufacturing Technology, Ranchi",4127,Metallurgical and Materials Engineering,No-data
+557,Safety-tail,GFTI,"National Institute of Electronics and Information Technology, Agartala",413J,B.Tech in CSE (AI and ML),No-data
+558,Safety-tail,GFTI,"National Institute of Electronics and Information Technology, Aizawl",413P,Internet of Things (IoT),No-data
+559,Safety-tail,GFTI,"National Institute of Electronics and Information Technology, Aurangabad (Maharashtra)",412K,Electronic Engineering,SAFE
+560,Safety-tail,GFTI,"National Institute of Electronics and Information Technology, Calicut",413J,B.Tech in CSE (AI and ML),No-data
+561,Safety-tail,GFTI,"National Institute of Electronics and Information Technology, Imphal",413J,B.Tech in CSE (AI and ML),No-data
+562,Safety-tail,GFTI,"National Institute of Electronics and Information Technology, Kohima",413J,B.Tech in CSE (AI and ML),No-data
+563,Safety-tail,GFTI,"National Institute of Electronics and Information Technology, Ropar (Punjab)",413J,B.Tech in CSE (AI and ML),SAFE
+564,Safety-tail,GFTI,"National Institute of Electronics and Information Technology, Srinagar",413J,B.Tech in CSE (AI and ML),No-data
+565,Safety-tail,GFTI,"National Institute of Food Technology Entrepreneurship and Management, Kundli",4183,Food Technology and Management,SAFE
+566,Safety-tail,GFTI,"National Institute of Food Technology Entrepreneurship and Management, Thanjavur",4164,Food Technology,SAFE
+567,Safety-tail,GFTI,National Institute of Technical Teachers Training and Research Bhopal,413Q,Digital Manufacturing and IoT,No-data
+568,Safety-tail,GFTI,National Institute of Technical Teachers Training and Research Bhopal,412A,ROBOTICS & AUTOMATION,No-data
+569,Safety-tail,GFTI,"North-Eastern Hill University, Shillong",4198,Energy Engineering,SAFE
+570,Safety-tail,GFTI,"Puducherry Technological University, Puducherry",4178,Mechatronics Engineering,SAFE
+571,Safety-tail,GFTI,"Rajiv Gandhi National Aviation University, Fursatganj, Amethi (UP)",4101,Aerospace Engineering,SAFE
+572,Safety-tail,GFTI,Sant Longowal Institute of Engineering and Technology,4164,Food Technology,SAFE
+573,Safety-tail,GFTI,"School of Engineering, Tezpur University, Napaam, Tezpur",5419,B.Tech. (Elctrical Engineering) - MBA,Out
+574,Safety-tail,GFTI,"School of Engineering, Tezpur University, Napaam, Tezpur",5421,B.Tech. (Food Engineering and Technology) - MBA,Out
+575,Safety-tail,GFTI,"School of Engineering, Tezpur University, Napaam, Tezpur",4402,Bachelor of Design,Out
+576,Safety-tail,GFTI,"School of Engineering, Tezpur University, Napaam, Tezpur",4167,Food Engineering  and Technology,Out
+577,Safety-tail,GFTI,"School of Planning & Architecture, Bhopal",4501,Planning,Out
+578,Safety-tail,GFTI,"School of Planning & Architecture, New Delhi",4501,Planning,Out
+579,Safety-tail,GFTI,School of Planning & Architecture: Vijayawada,4501,Planning,Out
+580,Safety-tail,GFTI,"School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",413F,Animation and VFX,Good
+581,Safety-tail,GFTI,"Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir",4402,Bachelor of Design,No-data
+582,Safety-tail,GFTI,"Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir",4164,Food Technology,No-data
+583,Safety-tail,GFTI,"Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir",412Y,Robotics and AI,SAFE
+584,Safety-tail,NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",4104,Bio Technology,Good
+585,Safety-tail,NIT,National Institute of Technology Raipur,4152,Bio Medical Engineering,SAFE
+586,Safety-tail,NIT,National Institute of Technology Raipur,4104,Bio Technology,Out
+587,Safety-tail,NIT,"National Institute of Technology, Andhra Pradesh",4104,Bio Technology,Good
+588,Safety-tail,NIT,National Institute of Technology Agartala,4109,Civil Engineering,SAFE
+589,Safety-tail,NIT,National Institute of Technology Arunachal Pradesh,4109,Civil Engineering,SAFE
+590,Safety-tail,NIT,National Institute of Technology Sikkim,4109,Civil Engineering,Out
+591,Safety-tail,NIT,"National Institute of Technology, Manipur",4109,Civil Engineering,SAFE
+592,Safety-tail,NIT,"National Institute of Technology, Manipur",5213,Civil Engineering,No-data
+593,Safety-tail,NIT,"National Institute of Technology, Mizoram",4109,Civil Engineering,Out
+594,Safety-tail,NIT,National Institute of Technology Hamirpur,4117,Engineering Physics,SAFE
+595,Safety-tail,GFTI,"Birla Institute of Technology, Mesra, Ranchi",4104,Bio Technology,SAFE
+596,Safety-tail,GFTI,"Central University of Rajasthan, Rajasthan",4152,Bio Medical Engineering,SAFE
+597,Safety-tail,GFTI,"North-Eastern Hill University, Shillong",4191,Biomedical Engineering,SAFE
+598,Safety-tail,GFTI,Shri G. S. Institute of Technology and Science Indore,4191,Biomedical Engineering,Out
+599,Safety-tail,GFTI,"Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir",4104,Bio Technology,Out
+600,Safety-tail,IIIT,Indian Institute of Information Technology Bhopal,413D,Physics and Computational Engineering,SAFE
+601,Safety-tail,GFTI,"Birla Institute of Technology, Mesra, Ranchi",5507,Physics,Out
+602,Safety-tail,GFTI,Sant Longowal Institute of Engineering and Technology,5503,Chemistry,Out
+603,Safety-tail,GFTI,Sant Longowal Institute of Engineering and Technology,5508,Mathematics,Out
+604,Safety-tail,GFTI,Sant Longowal Institute of Engineering and Technology,5507,Physics,Out
+605,Safety-tail,NIT,National Institute of Technology Arunachal Pradesh,4194,Biosciences and Bioengineering,SAFE
+606,Safety-tail,NIT,National Institute of Technology Agartala,5604,Chemistry,SAFE
+607,Safety-tail,NIT,National Institute of Technology Agartala,520G,Computational Mathematics,Out
+608,Safety-tail,NIT,National Institute of Technology Agartala,5267,Engineering Physics,SAFE
+609,Safety-tail,NIT,National Institute of Technology Agartala,5606,Mathematics & Computing,Out
+610,Safety-tail,NIT,National Institute of Technology Agartala,5602,Physics,SAFE
+611,Bihar-last,NIT,National Institute of Technology Patna,4110,Computer Science and Engineering,Out
+612,Bihar-last,NIT,National Institute of Technology Patna,520I,Computer Science and Engineering with Specialization in Cyber Security,Borderline
+613,Bihar-last,NIT,National Institute of Technology Patna,520H,Computer Science and Engineering with Specialization in Data Science,Out
+614,Bihar-last,NIT,National Institute of Technology Patna,4188,Artificial Intelligence and Data Science,Out
+615,Bihar-last,NIT,National Institute of Technology Patna,520O,Mathematics and Computing Technology,Out
+616,Bihar-last,GFTI,"Birla Institute of Technology, Patna Off-Campus",4110,Computer Science and Engineering,SAFE
+617,Bihar-last,GFTI,"National Institute of Electronics and Information Technology, Patna (Bihar)",4110,Computer Science and Engineering,Good
+618,Bihar-last,NIT,National Institute of Technology Patna,411H,Electronics Engineering (VLSI Design and Technology),SAFE
+619,Bihar-last,NIT,National Institute of Technology Patna,520J,Electronics and Communication Engineering with Specialization in Microelectronics and VLSI System Design,Good
+620,Bihar-last,GFTI,"Birla Institute of Technology, Patna Off-Campus",410W,Computer Science and Engineering (Artificial Intelligence and Machine Learning),No-data
+621,Bihar-last,NIT,National Institute of Technology Patna,4114,Electronics and Communication Engineering,Good
+622,Bihar-last,GFTI,"Birla Institute of Technology, Patna Off-Campus",5506,Mathematics and Computing,Out
+623,Bihar-last,NIT,National Institute of Technology Patna,4111,Electrical Engineering,SAFE
+624,Bihar-last,NIT,National Institute of Technology Patna,520K,Electrical Engineering with Specialization In Power System Engineering,Out
+625,Bihar-last,GFTI,"Birla Institute of Technology, Patna Off-Campus",4114,Electronics and Communication Engineering,SAFE
+626,Bihar-last,GFTI,"Birla Institute of Technology, Patna Off-Campus",4144,Electrical and Electronics Engineering,SAFE
+627,Bihar-last,NIT,National Institute of Technology Patna,4125,Mechanical Engineering,SAFE
+628,Bihar-last,NIT,National Institute of Technology Patna,520L,Mechanical Engineering with Specialization in Manufacturing and Industrial Engineering,Good
+629,Bihar-last,NIT,National Institute of Technology Patna,521R,Chemical Technology,SAFE
+630,Bihar-last,GFTI,"Birla Institute of Technology, Patna Off-Campus",4125,Mechanical Engineering,SAFE
+631,Bihar-last,NIT,National Institute of Technology Patna,4109,Civil Engineering,SAFE
+632,Bihar-last,NIT,National Institute of Technology Patna,520M,Civil Engineering with Specialization in Construction Technology and Management,Out
+633,Bihar-last,NIT,National Institute of Technology Patna,520N,Material Science and Engineering,Out
+634,Bihar-last,NIT,National Institute of Technology Patna,411B,Mechatronics and Automation Engineering,Out
+635,Bihar-last,GFTI,"Birla Institute of Technology, Patna Off-Campus",4109,Civil Engineering,SAFE

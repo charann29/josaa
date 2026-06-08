@@ -1,0 +1,188 @@
+{
+  "generated": "2026-06-08T00:52:15.048Z",
+  "count": 12,
+  "successCount": 7,
+  "failedCount": 0,
+  "accounts": [
+    {
+      "url": "https://www.instagram.com/pwjee_wallah/",
+      "username": "pwjee_wallah",
+      "fullName": "",
+      "followers": 194000,
+      "following": 48,
+      "posts": 3887,
+      "bio": "",
+      "isVerified": null,
+      "theme": "general",
+      "lanes": [
+        "instagram_jee_josaa_counselling"
+      ],
+      "scraped": true
+    },
+    {
+      "url": "https://www.instagram.com/priyam_harsh/",
+      "username": "priyam_harsh",
+      "fullName": "",
+      "followers": 85000,
+      "following": 357,
+      "posts": 1833,
+      "bio": "",
+      "isVerified": null,
+      "theme": "general",
+      "lanes": [
+        "instagram_jee_josaa_counselling"
+      ],
+      "scraped": true
+    },
+    {
+      "url": "https://www.instagram.com/careerkickservices/",
+      "username": "careerkickservices",
+      "fullName": "",
+      "followers": 3933,
+      "following": 71,
+      "posts": 1146,
+      "bio": "",
+      "isVerified": null,
+      "theme": "general",
+      "lanes": [
+        "instagram_jee_josaa_counselling"
+      ],
+      "scraped": true
+    },
+    {
+      "url": "https://www.instagram.com/iamsarthakgoyal/",
+      "username": "iamsarthakgoyal",
+      "fullName": "",
+      "followers": 1323,
+      "following": 1496,
+      "posts": 221,
+      "bio": "",
+      "isVerified": null,
+      "theme": "general",
+      "lanes": [
+        "instagram_jee_josaa_counselling"
+      ],
+      "scraped": true
+    },
+    {
+      "url": "https://www.instagram.com/college.pravesh/",
+      "username": "college.pravesh",
+      "fullName": "",
+      "followers": 896,
+      "following": 0,
+      "posts": 1943,
+      "bio": "",
+      "isVerified": null,
+      "theme": "general",
+      "lanes": [
+        "instagram_jee_josaa_counselling"
+      ],
+      "scraped": true
+    },
+    {
+      "url": "https://www.instagram.com/josaacounsellingjee/",
+      "username": "josaacounsellingjee",
+      "fullName": "",
+      "followers": 73,
+      "following": 34,
+      "posts": 10,
+      "bio": "",
+      "isVerified": null,
+      "theme": "choice_filling",
+      "lanes": [
+        "instagram_jee_josaa_counselling"
+      ],
+      "scraped": true
+    },
+    {
+      "url": "https://www.instagram.com/josaa_counselling/",
+      "username": "josaa_counselling",
+      "fullName": "JOSAA IIT\\/NIT COUNSELLING ASSISTANT\\/GUIDE",
+      "followers": 39,
+      "following": 2,
+      "posts": 2,
+      "bio": "Assisting in JOSAA counselling  Providing BEST IIT\\/NIT  Full Choice filling assistant With college placement  statistics Get all latest News & Update",
+      "isVerified": null,
+      "theme": "choice_filling",
+      "lanes": [
+        "instagram_jee_josaa_counselling"
+      ],
+      "scraped": true
+    },
+    {
+      "url": "https://www.instagram.com/p/DKiK03FzufE/",
+      "username": "p",
+      "fullName": "College Pravesh",
+      "followers": null,
+      "following": null,
+      "posts": null,
+      "bio": "",
+      "isVerified": null,
+      "theme": "choice_filling",
+      "lanes": [
+        "instagram_jee_josaa_counselling"
+      ],
+      "scraped": false
+    },
+    {
+      "url": "https://www.instagram.com/careerkickservices/reel/DGQSWjNtQqz/",
+      "username": "careerkickservices",
+      "fullName": "IIT-JEE & NEET PAN INDIA COUNSELING CENTER",
+      "followers": null,
+      "following": null,
+      "posts": null,
+      "bio": "",
+      "isVerified": null,
+      "theme": "general",
+      "lanes": [
+        "instagram_jee_josaa_counselling"
+      ],
+      "scraped": false
+    },
+    {
+      "url": "https://www.instagram.com/reel/DJCOjSAS29o/",
+      "username": "reel",
+      "fullName": "Harsh Priyam",
+      "followers": null,
+      "following": null,
+      "posts": null,
+      "bio": "",
+      "isVerified": null,
+      "theme": "general",
+      "lanes": [
+        "instagram_jee_josaa_counselling"
+      ],
+      "scraped": false
+    },
+    {
+      "url": "https://www.instagram.com/reel/DI37y3JsuLG/",
+      "username": "reel",
+      "fullName": "",
+      "followers": null,
+      "following": null,
+      "posts": null,
+      "bio": "",
+      "isVerified": null,
+      "theme": "registration",
+      "lanes": [
+        "instagram_jee_josaa_counselling"
+      ],
+      "scraped": false
+    },
+    {
+      "url": "https://www.instagram.com/reel/C8HegUmyHOV/",
+      "username": "reel",
+      "fullName": "Aman Dhattarwal",
+      "followers": null,
+      "following": null,
+      "posts": null,
+      "bio": "",
+      "isVerified": null,
+      "theme": "general",
+      "lanes": [
+        "instagram_jee_josaa_counselling"
+      ],
+      "scraped": false
+    }
+  ]
+}
