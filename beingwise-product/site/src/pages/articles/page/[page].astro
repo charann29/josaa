@@ -1,0 +1,45 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { SITE } from '../../../consts';
+
+export async function getStaticPaths() {
+  const pageSize = 48;
+  const all = (await getCollection('articles')).sort((a, b) => a.data.title.localeCompare(b.data.title));
+  const totalPages = Math.ceil(all.length / pageSize);
+  const paths = [];
+  for (let n = 2; n <= totalPages; n++) {
+    paths.push({
+      params: { page: String(n) },
+      props: { items: all.slice((n - 1) * pageSize, n * pageSize), n, totalPages },
+    });
+  }
+  return paths;
+}
+const { items, n, totalPages } = Astro.props;
+---
+<BaseLayout
+  title={`Articles & Guides — Page ${n} of ${totalPages} | ${SITE.name}`}
+  description="More guides on JEE, JoSAA, engineering branches, entrance exams, courses and careers for Indian students.">
+  <section class="container hub-hero">
+    <span class="kicker"><svg class="ic"><use href="#i-list"/></svg>Page {n} of {totalPages}</span>
+    <h1>Articles &amp; Guides</h1>
+  </section>
+  <div class="container">
+    <div class="post-grid">
+      {items.map((p: any) => (
+        <a class="post-card" href={`/articles/${p.id}`}>
+          {p.data.category && <span class="tag">{p.data.category}</span>}
+          <h3>{p.data.title}</h3>
+          <p>{p.data.description}</p>
+          <span class="more">Read more →</span>
+        </a>
+      ))}
+    </div>
+    <nav class="pager" aria-label="Pagination">
+      <a href={n === 2 ? '/articles' : `/articles/page/${n - 1}`} class="btn btn-ghost">← Prev</a>
+      <span>Page {n} of {totalPages}</span>
+      {n < totalPages && <a href={`/articles/page/${n + 1}`} class="btn btn-ghost">Next →</a>}
+    </nav>
+  </div>
+</BaseLayout>

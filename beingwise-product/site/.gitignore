@@ -1,0 +1,17 @@
+# dependencies & build
+node_modules/
+dist/
+.netlify/
+.vercel/
+
+# secrets — never commit these
+.env
+.env.*
+!.env.example
+
+# misc
+.DS_Store
+*.log
+.astro/
+.shot/
+.gstack/

@@ -1,0 +1,13 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import headHtml from '../../_eduvale/tg-eapcet-allotments.head.html?raw';
+import body from '../../_eduvale/tg-eapcet-allotments.body.html?raw';
+import inlineJs from '../../_eduvale/tg-eapcet-allotments.inline.js?raw';
+const title = "🎓 TG EAPCET Seat Allotment Explorer 2015–2025 | Closing Ranks & Cutoffs | BeingWise";
+const description = "Explore detailed seat allotment data for TG EAPCET (TS EAMCET) from 2015 to 2025. Use BeingWise";
+---
+<BaseLayout title={title} description={description} chrome={false}>
+  <Fragment slot="head" set:html={headHtml} />
+  <Fragment set:html={body} />
+  <script is:inline set:html={inlineJs} />
+</BaseLayout>

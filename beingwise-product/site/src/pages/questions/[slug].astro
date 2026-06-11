@@ -1,0 +1,26 @@
+---
+import { getCollection, render } from 'astro:content';
+import CorpusPost from '../../layouts/CorpusPost.astro';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('questions');
+  const titleById = new Map(entries.map((e) => [e.id, e.data.title]));
+  return entries.map((entry) => ({
+    params: { slug: entry.id },
+    props: {
+      entry,
+      related: (entry.data.related ?? [])
+        .filter((s: string) => titleById.has(s) && s !== entry.id)
+        .slice(0, 6)
+        .map((s: string) => ({ slug: s, title: titleById.get(s) })),
+    },
+  }));
+}
+
+const { entry, related } = Astro.props;
+const { Content, headings } = await render(entry);
+const readingTime = Math.max(2, Math.round(entry.body.split(/\s+/).length / 220));
+---
+<CorpusPost data={entry.data} slug={entry.id} kind="question" headings={headings} related={related} readingTime={readingTime}>
+  <Content />
+</CorpusPost>

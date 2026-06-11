@@ -1,0 +1,46 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE, LINKS } from '../consts';
+const updated = new Date().toLocaleDateString('en-IN', { day: 'numeric', month: 'long', year: 'numeric' });
+---
+<BaseLayout title={`Privacy Policy | ${SITE.name}`} description={`How ${SITE.name} collects, uses and protects your data. We never sell your information.`} noindex={false}>
+  <main class="container article">
+    <article class="prose" style="padding-top:24px">
+      <h1>Privacy Policy</h1>
+      <p><em>Last updated: {updated}</em></p>
+      <p>{SITE.name} ("we", "us") respects your privacy. This policy explains what we collect, why, and your choices. By using this website you agree to this policy.</p>
+
+      <h2>What we collect</h2>
+      <ul>
+        <li><strong>Information you give us</strong> — when you use the college predictor (your rank, category, preferences), contact us, or buy a service (name, email, phone, payment confirmation).</li>
+        <li><strong>Usage data</strong> — standard analytics (pages viewed, device, approximate location) to improve the site.</li>
+        <li>The predictor runs in your browser; the rank/category you enter there is not stored on our servers unless you submit it to us for a paid service.</li>
+      </ul>
+
+      <h2>How we use it</h2>
+      <ul>
+        <li>To provide the predictor, guides and any service you purchase.</li>
+        <li>To respond to your queries and deliver your choice list / counselling.</li>
+        <li>To improve our content and tools.</li>
+      </ul>
+
+      <h2>What we do NOT do</h2>
+      <p>We <strong>do not sell or rent your personal data</strong>, and we do not share your phone number with colleges or third-party marketers. You are our customer, not our product.</p>
+
+      <h2>Payments &amp; third parties</h2>
+      <p>Payments are processed by third-party gateways (e.g. Razorpay/UPI), which handle your payment details under their own privacy and PCI policies — we do not store card details. We may use privacy-respecting analytics providers.</p>
+
+      <h2>Cookies</h2>
+      <p>We use minimal cookies/local storage for basic functionality and analytics. You can disable cookies in your browser.</p>
+
+      <h2>Your rights</h2>
+      <p>You can ask us to access, correct or delete your personal data. Email us and we will act within a reasonable time.</p>
+
+      <h2>Children</h2>
+      <p>Our services are intended for students making admission decisions, typically 17+. We do not knowingly collect data from children under 13.</p>
+
+      <h2>Contact</h2>
+      <p>Questions about this policy? <a href="/contact">Contact us</a> or email <a href={LINKS.email}>our team</a>.</p>
+    </article>
+  </main>
+</BaseLayout>

@@ -1,0 +1,153 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE } from '../consts';
+
+const toolLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebApplication',
+  name: 'BeingWise College Predictor',
+  applicationCategory: 'EducationApplication',
+  operatingSystem: 'Web',
+  url: new URL('/predictor', SITE.url).href,
+  description: 'Free JoSAA college predictor: enter your JEE Main rank and category to see which NITs, IIITs and GFTIs you can realistically get, on official 2023–2026 closing ranks.',
+  offers: { '@type': 'Offer', price: '0', priceCurrency: 'INR' },
+};
+---
+<BaseLayout
+  title={`Free JoSAA College Predictor 2026 — NIT, IIIT, GFTI by Rank | ${SITE.name}`}
+  description="Enter your JEE Main rank & category → see the NITs, IIITs and GFTIs you can realistically get, classified Dream / Likely / Secure on official 2023–2026 closing ranks. Free.">
+  <Fragment slot="head"><script type="application/ld+json" set:html={JSON.stringify(toolLd)} /></Fragment>
+
+  <section class="container pred-hero">
+    <span class="kicker"><svg class="ic"><use href="#i-chart"/></svg>Free · official 2023–2026 data</span>
+    <h1>JoSAA College Predictor</h1>
+    <p class="sub">Enter your JEE Main rank and category. We'll show the NITs, IIITs and GFTIs you can realistically get — each marked <b style="color:var(--green)">Secure</b>, <b style="color:var(--accent-deep)">Likely</b> or <b style="color:var(--red)">Dream</b> from how it actually closed in 2024, 2025 and 2026.</p>
+
+    <form id="pf" class="pred-form">
+      <div class="pf-field"><label>Your JEE Main rank (CRL or category)</label><input id="rank" type="number" inputmode="numeric" min="1" placeholder="e.g. 25000" required /></div>
+      <div class="pf-field"><label>Category</label><select id="cat"><option value="General">General / Open</option><option value="GEN-EWS">EWS</option><option value="OBC-NCL">OBC-NCL</option><option value="SC">SC</option><option value="ST">ST</option></select></div>
+      <div class="pf-field"><label>Gender</label><select id="gender"><option value="n">Male / Gender-Neutral</option><option value="f">Female</option></select></div>
+      <div class="pf-field"><label>Quota</label><select id="quota"><option value="all">All seats</option><option value="HS">Home-state (HS)</option><option value="OS">Other-state (OS)</option></select></div>
+      <button type="submit" class="btn btn-amber">Predict my colleges</button>
+    </form>
+    <p class="disc">Estimates from official JoSAA closing ranks (NITs/IIITs/GFTIs). IITs use JEE Advanced and aren't covered here. Not a guarantee — cutoffs shift each year.</p>
+    <p class="disc">Data source: official JoSAA Opening &amp; Closing Ranks, rounds 1–6, 2023–2026 (<a href="https://josaa.nic.in/" rel="noopener" target="_blank" style="color:var(--accent-deep)">josaa.nic.in</a>). Verify rankings on <a href="https://www.nirfindia.org/" rel="noopener" target="_blank" style="color:var(--accent-deep)">NIRF</a>.</p>
+  </section>
+
+  <section class="container" id="resultsWrap" style="display:none;padding-top:0">
+    <div id="summary" class="pred-summary"></div>
+    <div id="results" class="pred-results"></div>
+    <div id="gate" class="cta-box" style="display:none">
+      <h3>This is the free preview. Now build the list you actually freeze.</h3>
+      <p>The Decision Copilot orders every college you can get — Dream / Likely / Secure — lets you drag to reorder, and flags every web-options mistake before you lock.</p>
+      <div class="row">
+        <a href="/plan" class="btn btn-amber"><svg class="ic"><use href="#i-list"/></svg>Build my plan →</a>
+      </div>
+    </div>
+  </section>
+
+  <style is:global>
+    .pred-hero{padding:36px 0 8px}
+    .pred-hero h1{font-size:2.1rem;margin-bottom:8px}
+    @media(min-width:760px){.pred-hero h1{font-size:2.8rem}}
+    .pred-hero .sub{color:var(--ink-soft);max-width:42em;font-size:1.04rem}
+    .pred-form{display:grid;grid-template-columns:1fr;gap:14px;margin:24px 0 8px;background:var(--paper);border:1px solid var(--line);border-radius:var(--radius);padding:22px;max-width:760px}
+    @media(min-width:680px){.pred-form{grid-template-columns:1fr 1fr;align-items:end}.pred-form button{grid-column:1/-1}}
+    .pf-field{display:flex;flex-direction:column;gap:6px}
+    .pf-field label{font-size:.82rem;font-weight:600;color:var(--ink-soft)}
+    .pf-field input,.pf-field select{font:inherit;font-size:1rem;padding:12px 14px;border:1px solid var(--line);border-radius:10px;background:var(--paper);color:var(--ink)}
+    .pred-form button{padding:15px;font-size:1.02rem}
+    .disc{font-size:.8rem;color:var(--ink-mute);margin-top:10px;max-width:48em}
+    .pred-summary{font-family:'Geist',sans-serif;font-size:1.3rem;margin:8px 0 18px}
+    .pred-summary b{color:var(--accent-deep)}
+    .pred-results{display:grid;grid-template-columns:1fr;gap:8px}
+    .pr-row{display:flex;align-items:center;gap:12px;background:var(--paper);border:1px solid var(--line);border-radius:12px;padding:13px 16px}
+    .pr-row .rk{font-family:'Geist',sans-serif;color:var(--ink-mute);font-size:.85rem;min-width:30px}
+    .pr-row .col{flex:1;min-width:0}
+    .pr-row .nm{font-weight:600;font-size:.98rem;line-height:1.25}
+    .pr-row .mt{font-size:.8rem;color:var(--ink-mute);margin-top:2px}
+    .pr-chip{font-size:.7rem;font-weight:700;padding:4px 11px;border-radius:999px;white-space:nowrap;color:#fff}
+    .c-safe{background:var(--green)}.c-likely{background:var(--accent)}.c-dream{background:var(--red)}
+    .legend{display:flex;gap:16px;flex-wrap:wrap;margin:0 0 14px;font-size:.82rem;color:var(--ink-soft)}
+    .legend i{display:inline-block;width:10px;height:10px;border-radius:3px;margin-right:5px;vertical-align:middle}
+  </style>
+
+  <script is:inline>
+    const $ = (s) => document.querySelector(s);
+    let DATA = null;
+    const POOL_FEMALE = (poolName) => /female/i.test(poolName);
+
+    async function load() {
+      if (DATA) return DATA;
+      const r = await fetch('/cutoffs.json');
+      DATA = await r.json();
+      return DATA;
+    }
+
+    function classify(closings, rank) {
+      // closings = [2024, 2025, 2026] (recent 3). cleared if closing >= rank.
+      const avail = closings.filter((c) => c > 0);
+      if (!avail.length) return null;
+      const cleared = avail.filter((c) => c >= rank).length;
+      const ratio = cleared / avail.length;
+      if (cleared === 0) return null;            // out of reach
+      if (ratio === 1) return 'safe';
+      if (ratio >= 0.5) return 'likely';
+      return 'dream';
+    }
+
+    $('#pf').addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const rank = parseInt($('#rank').value, 10);
+      if (!rank || rank < 1) return;
+      const cat = $('#cat').value, gender = $('#gender').value, quota = $('#quota').value;
+      const d = await load();
+      const catIdx = d.cat.indexOf(cat);
+      const out = [];
+      for (const row of d.rows) {
+        const [ii, type, bi, qi, ci, pi, r23, r24, r25, r26] = row;
+        if (ci !== catIdx) continue;
+        const poolName = d.pool[pi];
+        const isFemalePool = POOL_FEMALE(poolName);
+        if (gender === 'n' && isFemalePool) continue;        // neutral can't take female-only
+        const qName = d.quota[qi];
+        if (quota !== 'all' && qName !== quota) continue;
+        const tag = classify([r24, r25, r26], rank);
+        if (!tag) continue;
+        const latest = r26 || r25 || r24;
+        out.push({ inst: d.inst[ii], type, branch: d.branch[bi], quota: qName, pool: poolName, latest, tag, female: isFemalePool });
+      }
+      // sort: best (lowest closing) first
+      out.sort((a, b) => a.latest - b.latest);
+      render(out, rank);
+    });
+
+    function render(list, rank) {
+      $('#resultsWrap').style.display = 'block';
+      const tiers = { safe: 0, likely: 0, dream: 0 };
+      list.forEach((x) => tiers[x.tag]++);
+      $('#summary').innerHTML = list.length
+        ? `With rank <b>${rank.toLocaleString('en-IN')}</b> you can realistically get <b>${list.length}</b> seats — <b>${tiers.dream}</b> dream, <b>${tiers.likely}</b> likely, <b>${tiers.safe}</b> secure.`
+        : `No NIT/IIIT/GFTI seats match rank ${rank.toLocaleString('en-IN')} for this category. Try a different quota, or talk to us.`;
+      const legend = '<div class="legend"><span><i style="background:var(--red)"></i>Dream (a reach)</span><span><i style="background:var(--accent)"></i>Likely</span><span><i style="background:var(--green)"></i>Safe</span></div>';
+      const FREE = 18;
+      const shown = list.slice(0, FREE);
+      const rows = shown.map((x, i) => `
+        <div class="pr-row">
+          <span class="rk">${i + 1}</span>
+          <span class="col"><div class="nm">${x.inst}</div><div class="mt">${x.branch} · ${x.type} · ${x.quota}${x.female ? ' · Female' : ''} · ~closed ${x.latest.toLocaleString('en-IN')}</div></span>
+          <span class="pr-chip c-${x.tag}">${x.tag === 'dream' ? 'Dream' : x.tag === 'likely' ? 'Likely' : 'Secure'}</span>
+        </div>`).join('');
+      $('#results').innerHTML = (list.length ? legend : '') + rows;
+      $('#gate').style.display = list.length > FREE ? 'block' : 'none';
+      if (list.length > FREE) {
+        $('#gate').querySelector('h3').textContent = `See all ${list.length} colleges + build your locked choice list`;
+      }
+      $('#resultsWrap').scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+
+    // deep-link: /predictor?rank=25000&cat=OBC-NCL
+    const p = new URLSearchParams(location.search);
+    if (p.get('rank')) { $('#rank').value = p.get('rank'); if (p.get('cat')) $('#cat').value = p.get('cat'); $('#pf').dispatchEvent(new Event('submit')); }
+  </script>
+</BaseLayout>

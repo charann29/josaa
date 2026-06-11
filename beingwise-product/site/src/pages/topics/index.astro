@@ -1,0 +1,34 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { SITE } from '../../consts';
+import { topicLabel } from '../../lib/topics';
+
+const all = [...(await getCollection('articles')), ...(await getCollection('questions'))];
+const counts: Record<string, number> = {};
+for (const e of all) {
+  const t = e.data.topic ?? 'study-guides';
+  counts[t] = (counts[t] ?? 0) + 1;
+}
+const topics = Object.entries(counts).sort((a, b) => b[1] - a[1]);
+---
+<BaseLayout
+  title={`Browse Topics — Engineering, Medical, MBA & More | ${SITE.name}`}
+  description="Browse BeingWise guides and answers by topic: engineering & JEE, medical & NEET, MBA, study abroad, entrance exams, careers and more.">
+  <section class="container hub-hero">
+    <span class="kicker"><svg class="ic"><use href="#i-map"/></svg>Browse by topic</span>
+    <h1>Topics</h1>
+    <p>Find guides and answers grouped by what you're deciding — exams, branches, courses and careers.</p>
+  </section>
+  <div class="container">
+    <div class="post-grid">
+      {topics.map(([slug, n]) => (
+        <a class="post-card" href={`/topics/${slug}`}>
+          <span class="tag">{n.toLocaleString('en-IN')} pages</span>
+          <h3>{topicLabel(slug)}</h3>
+          <span class="more">Explore →</span>
+        </a>
+      ))}
+    </div>
+  </div>
+</BaseLayout>

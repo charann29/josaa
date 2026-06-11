@@ -1,0 +1,71 @@
+---
+// Structured site footer: brand block + grouped link columns + legal row.
+const COLS = [
+  {
+    title: 'Telangana Tools',
+    links: [
+      { label: 'TG EAPCET Predictor', href: '/tools/tg-eapcet-predictor' },
+      { label: 'TG ECET Predictor', href: '/tools/tg-ecet-predictor' },
+      { label: 'TG EAPCET Allotments', href: '/tools/tg-eapcet-allotments' },
+      { label: 'TG College Directory', href: '/tools/tg-college-directory' },
+      { label: 'Top TG Engineering Colleges', href: '/tools/tg-engineering-colleges' },
+      { label: 'Reservation Policy', href: '/tools/reservation-policy' },
+    ],
+  },
+  {
+    title: 'AP & JoSAA Tools',
+    links: [
+      { label: 'AP EAPCET Predictor', href: '/tools/ap-eapcet-predictor' },
+      { label: 'AP EAPCET Allotments', href: '/tools/ap-eapcet-allotments' },
+      { label: 'AP Top B.Tech Colleges', href: '/tools/ap-engineering-colleges' },
+      { label: 'JoSAA College Predictor', href: '/predictor' },
+      { label: 'Decision Copilot', href: '/plan' },
+    ],
+  },
+  {
+    title: 'Guides',
+    links: [
+      { label: 'JoSAA Complete Guide', href: '/blog/josaa-counselling-2026-complete-guide' },
+      { label: 'All Guides', href: '/blog' },
+      { label: 'Questions & Answers', href: '/questions' },
+      { label: 'Topics & Streams', href: '/topics' },
+    ],
+  },
+  {
+    title: 'Company',
+    links: [
+      { label: 'About', href: '/about' },
+      { label: 'Editorial Policy', href: '/editorial-policy' },
+      { label: 'Contact', href: '/contact' },
+      { label: 'Terms', href: '/terms' },
+      { label: 'Privacy', href: '/privacy-policy' },
+    ],
+  },
+];
+---
+<footer class="site-foot">
+  <div class="container foot-top">
+    <div class="foot-brand">
+      <div class="brand"><svg class="ic"><use href="#i-bridge"/></svg>BeingWise</div>
+      <p>The bridge from your rank to the right seat — honest, student-first counselling help for TS/AP EAMCET &amp; JoSAA, built on official data.</p>
+    </div>
+    <nav class="foot-grid" aria-label="Footer">
+      {COLS.map((c) => (
+        <div class="foot-col">
+          <h4>{c.title}</h4>
+          {c.links.map((l) => <a href={l.href}>{l.label}</a>)}
+        </div>
+      ))}
+    </nav>
+  </div>
+  <div class="container">
+    <div class="legal">
+      <strong>Please note.</strong> BeingWise is an independent admission-help service. We are
+      <strong>not connected to, and not approved by, JoSAA, CSAB, NTA or any government body.</strong>
+      All predictions are estimates from past official data, for guidance only — not a promise of admission.
+      Cutoffs, dates and rules change yearly; always check official sources (josaa.nic.in, csab.nic.in,
+      jeemain.nta.nic.in, your state portal). Students submit and lock their own choices.
+      <span class="copy">© {new Date().getFullYear()} BeingWise</span>
+    </div>
+  </div>
+</footer>

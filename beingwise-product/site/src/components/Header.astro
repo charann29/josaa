@@ -1,0 +1,66 @@
+---
+import { NAV } from '../consts';
+const path = Astro.url.pathname.replace(/\/+$/, '') || '/';
+const isActive = (href: string) => {
+  const h = href.replace(/\/+$/, '') || '/';
+  return h === '/' ? path === '/' : path === h || path.startsWith(h + '/');
+};
+const groupActive = (n: any) => isActive(n.href) || (n.children || []).some((c: any) => isActive(c.href));
+---
+<header class="site-head">
+  <div class="container in">
+    <a href="/" class="brand"><svg class="ic"><use href="#i-bridge"/></svg>BeingWise</a>
+
+    <button id="navBurger" class="nav-burger" aria-label="Open menu" aria-expanded="false" aria-controls="headNav">
+      <span></span><span></span><span></span>
+    </button>
+
+    <nav id="headNav" class="head-nav" aria-label="Primary">
+      {NAV.map((n) => (
+        n.children ? (
+          <div class={`nav-group${groupActive(n) ? ' active' : ''}`}>
+            <a href={n.href} class="nav-top" aria-haspopup="true">{n.label}<svg class="ic caret"><use href="#i-chevron"/></svg></a>
+            <div class="nav-menu">
+              {n.children.map((c) => (
+                <a href={c.href} class={`nav-item${isActive(c.href) ? ' on' : ''}`} aria-current={isActive(c.href) ? 'page' : undefined}>
+                  {c.tag && <span class="nav-tag">{c.tag}</span>}
+                  <span>{c.label}</span>
+                </a>
+              ))}
+            </div>
+          </div>
+        ) : (
+          <a href={n.href} class={`nav-link${isActive(n.href) ? ' active' : ''}`} aria-current={isActive(n.href) ? 'page' : undefined}>{n.label}</a>
+        )
+      ))}
+      <a href="/plan" class="btn btn-amber nav-cta-mobile">Build my plan</a>
+    </nav>
+
+    <div class="head-actions">
+      <a href="/search" class="icon-btn" aria-label="Search"><svg class="ic"><use href="#i-search"/></svg></a>
+      <a href="/plan" class="btn btn-amber head-cta">Build my plan</a>
+    </div>
+  </div>
+  <div id="navScrim" class="nav-scrim" hidden></div>
+</header>
+
+<script is:inline>
+  (function () {
+    var burger = document.getElementById('navBurger');
+    var nav = document.getElementById('headNav');
+    var scrim = document.getElementById('navScrim');
+    if (!burger || !nav) return;
+    function setOpen(open) {
+      nav.classList.toggle('open', open);
+      burger.setAttribute('aria-expanded', open ? 'true' : 'false');
+      burger.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
+      if (scrim) scrim.hidden = !open;
+      document.body.style.overflow = open && window.innerWidth < 860 ? 'hidden' : '';
+    }
+    burger.addEventListener('click', function () { setOpen(!nav.classList.contains('open')); });
+    if (scrim) scrim.addEventListener('click', function () { setOpen(false); });
+    nav.addEventListener('click', function (e) { if (e.target.closest('a:not(.nav-top)')) setOpen(false); });
+    document.addEventListener('keydown', function (e) { if (e.key === 'Escape') setOpen(false); });
+    window.addEventListener('resize', function () { if (window.innerWidth >= 860) setOpen(false); });
+  })();
+</script>

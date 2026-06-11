@@ -1,0 +1,95 @@
+---
+title: TNEA Random Numbers 2026 – Check Steps, Tie-Breaking Process
+description: All the registered candidates can check the TNEA Random Numbers along with the rank list by visiting the official website in June 2026.
+pubDate: '2024-05-08'
+theme: TNEA
+author: CollegeDost
+source: https://collegedost.in/blog/tnea/tnea-random-numbers/
+updatedDate: '2026-05-20'
+keywords:
+- Steps to check tnea random number
+- TNEA 2024
+- TNEA Important Dates
+- TNEA Random Number
+- TNEA Tie-breaking process
+ogImage: https://collegedost.in/wp-content/uploads/2024/05/TNEA-4.png
+---
+
+
+The Directorate of Technical Education (DTE), Tamil Nadu, will release the random numbers on June 05, 2026. Candidates can check their TNEA random numbers by visiting the official website tneaonline.org. All registered candidates need to log in using their credentials, such as email ID and password. The random number list is generated to address any issues that may arise in the rank list. These random numbers, each a 10-digit unique number, will be released by the official authorities of TNEA.
+
+The TNEA Counselling is designed for students who have completed their 10+2 education in Tamil Nadu. Eligible candidates seeking admission to engineering streams in Tamil Nadu can apply for TNEA. Registration for TNEA has started from May, 2026. Candidates are advised to register at their earliest convenience to avoid the last-minute rush. Currently, 42,114 candidates have registered for TNEA. Candidates who have completed registration and paid the registration fee can proceed to upload their documents.
+
+> **Also checkout:** [TNEA College Predictor](https://collegedost.in/college-predictor/tnea-college-predictor/)
+
+## TNEA Random Numbers 2026
+
+The TNEA authorities will publish the random numbers in June, 2026. Candidates can login to the official website of TNEA 2026 at tneaonline.org using their credentials, such as Email ID and Password, to access the random number. This 10-digit random number is unique to each candidate and is utilized for the tie-breaking process while preparing the rank list. It’s important to note that the random number will only be visible to registered candidates.
+
+## TNEA Important Dates 2026
+
+|  |  |
+| --- | --- |
+| **Events** | **Dates** |
+| TNEA 2026 Registration | May 03, 2026 – June 02, 2026 |
+| Last date for uploading documents | June 06, 2026 |
+| TNEA random numbers release date | June 05, 2026 |
+| TNEA Rank list 2026 declaration | June 29, 2026 |
+
+> **Also Read:** [TNEA Last Date to Upload Documents](https://collegedost.in/blog/tnea/tnea-last-date-to-upload-documents/)
+
+## Steps to check TNEA Random Numbers 2026
+
+Candidates can follow the steps below to check their TNEA random numbers for 2026:
+
+**Step 1:** Visit the official website of TNEA 2026 at [tneaonline.org](https://tneaonline.org).
+
+**Step 2:** Log in using your credentials, including your Email ID and Password, in the user login section.
+
+**Step 3:** Your allotted random number, a 10-digit unique number, will be displayed on the screen.
+
+**Step 4**: Candidates are advised to note down the number and take a screenshot of it for future reference.
+
+## TNEA Tie-Breaking Process 2026
+
+Candidates who have completed their 10+2 education in the MPC/PCM stream will apply for TNEA (Tamilnadu Engineering Admission). This process is for students who have secured the same marks in the 12th qualification exams. In that case, the TNEA Authorities have found a solution to avoid confusion at the time of admission. Candidates can check the below cases that TNEA authorities will follow to break the tie-breaking process:
+
+**Case 1:** The candidate with a higher percentage in Mathematics will be given a higher rank.
+
+**Case 2:** If the tie persists, the candidate with a higher percentage of marks in Physics will be ranked higher.
+
+**Case 3:** If the tie continues, the candidate with a higher percentage of marks in the optional (fourth) subject will be given preference.
+
+**Case 4:** If the tie persists, the date of birth of the candidates will be considered, with the older candidate being ranked higher.
+
+**Case 5:** If the tie remains unresolved, the authorities will utilize the Tamil Nadu random number 2026. The candidate with the higher TNEA random numbers will be given preference.
+
+Get TNEA Exam Updates/ Materials / Topper Notes directly on Whatsapp
+
+[Click here to join](https://api.whatsapp.com/send?phone=919281014900&text=Hi,%20I%20want%20to%20receive%20latest%20updates%20and%20guidance%20from%20College%20Dost.%20What%20should%20I%20do?)
+
+🚀 Get TNEA Exam Updates/ Materials 📖– Topper Notes directly on WhatsApp.
+
+[Join WhatsApp](https://api.whatsapp.com/send?phone=919281014900&text=Hi,%20I%20want%20to%20receive%20latest%20updates%20and%20guidance%20from%20College%20Dost.%20What%20should%20I%20do?)
+
+## Frequently Asked Questions
+
+### 1. What are the TNEA random numbers?
+
+The TNEA random numbers are 10-digit unique numbers generated by the Directorate of Technical Education (DTE), Tamil Nadu, to resolve tie-breaking situations in the TNEA admission process.
+
+### 2. Why are the TNEA random numbers important?
+
+The TNEA random numbers are crucial as it helps in determining the rank of candidates in cases where they have the same score in the qualifying examination. It ensures fairness and transparency in the admission process.
+
+### 3. How can I check my TNEA random numbers?
+
+To check your TNEA random numbers, visit the official website of TNEA and log in using your credentials. Your random number will be displayed on the screen.
+
+### 4. When will the TNEA random numbers be released?
+
+The TNEA random numbers are typically released by the official authorities of TNEA around the same time as the declaration of the rank list, which is in June 2026.
+
+### 5. Can I request a change in my TNEA random numbers?
+
+No, the TNEA random numbers are generated by the authorities and cannot be altered or changed upon request. It is a part of the standardized process to resolve tie-breaking situations.

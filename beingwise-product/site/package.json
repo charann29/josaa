@@ -1,0 +1,25 @@
+{
+  "name": "beingwise-site",
+  "type": "module",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build && pagefind --site dist",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/netlify": "^7.0.13",
+    "@astrojs/rss": "^4.0.18",
+    "@astrojs/sitemap": "^3.7.3",
+    "@dualmark/astro": "^0.9.0",
+    "@dualmark/converters": "^0.8.0",
+    "@dualmark/core": "^0.7.0",
+    "astro": "^6.4.4"
+  },
+  "devDependencies": {
+    "gray-matter": "^4.0.3",
+    "pagefind": "^1.5.2"
+  }
+}

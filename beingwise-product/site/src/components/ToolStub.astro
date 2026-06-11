@@ -1,0 +1,65 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE } from '../consts';
+import '../styles/tools.css';
+
+interface FAQ { q: string; a: string; }
+interface Feature { h: string; p: string; }
+interface Props {
+  slug: string; crumb: string; title: string; description: string; keywords?: string;
+  kicker: string; h1: string; lead: string; status?: string;
+  counters?: { n: string; l: string }[];
+  features: Feature[]; faqs: FAQ[]; ctaHref?: string; ctaLabel?: string;
+}
+const {
+  slug, crumb, title, description, keywords, kicker, h1, lead,
+  status = 'This tool runs on official counselling data. The full dataset for this exam/state is being finalised from the official portals and goes live here shortly — the page, filters and SEO are already in place, so results appear the moment the data lands.',
+  counters = [], features, faqs, ctaHref = '/plan', ctaLabel = 'Build my plan →',
+} = Astro.props as Props;
+
+const toolLd = { '@context': 'https://schema.org', '@type': 'WebApplication', name: `${SITE.name} — ${crumb}`, applicationCategory: 'EducationApplication', operatingSystem: 'Web', url: new URL(slug, SITE.url).href, description, offers: { '@type': 'Offer', price: '0', priceCurrency: 'INR' } };
+const faqLd = { '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) };
+const crumbLd = { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [{ '@type': 'ListItem', position: 1, name: 'Free Tools', item: new URL('/tools', SITE.url).href }, { '@type': 'ListItem', position: 2, name: crumb, item: new URL(slug, SITE.url).href }] };
+---
+<BaseLayout title={title} description={description} keywords={keywords}>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify(toolLd)} />
+    <script type="application/ld+json" set:html={JSON.stringify(faqLd)} />
+    <script type="application/ld+json" set:html={JSON.stringify(crumbLd)} />
+  </Fragment>
+
+  <div class="t-band">
+    <section class="container t-hero">
+      <nav class="t-crumbs"><a href="/tools">Free Tools</a> <span>/</span> <span>{crumb}</span></nav>
+      <span class="t-eyebrow"><svg class="ic"><use href="#i-chart"/></svg>{kicker}</span>
+      <h1 class="t-h1">{h1}</h1>
+      <p class="t-lead">{lead}</p>
+      {counters.length > 0 && (
+        <div class="t-counters">{counters.map((c) => (<div class="t-counter"><b>{c.n}</b><span>{c.l}</span></div>))}</div>
+      )}
+      <div class="t-status"><svg class="ic"><use href="#i-clock"/></svg><p>{status}</p></div>
+    </section>
+  </div>
+
+  <section class="container t-sec">
+    <span class="t-kick">What this tool does</span>
+    <h2 class="t-sec-h">Built for one job, done properly</h2>
+    <div class="t-fgrid">
+      {features.map((f) => (<div class="t-fcard"><svg class="ic"><use href="#i-check"/></svg><h3>{f.h}</h3><p>{f.p}</p></div>))}
+    </div>
+  </section>
+
+  <section class="container t-sec">
+    <span class="t-kick">Student FAQs</span>
+    <h2 class="t-sec-h">Frequently asked questions</h2>
+    <div class="t-faq">{faqs.map((f) => (<details><summary>{f.q}</summary><p>{f.a}</p></details>))}</div>
+  </section>
+
+  <section class="container t-sec">
+    <div class="t-cta">
+      <h3>Don't just predict — decide.</h3>
+      <p>Once you have your shortlist, BeingWise orders every option dream → likely → safe, flags every web-options mistake, and hands you the exact list to freeze.</p>
+      <a href={ctaHref} class="t-btn t-btn-accent"><svg class="ic"><use href="#i-list"/></svg>{ctaLabel}</a>
+    </div>
+  </section>
+</BaseLayout>

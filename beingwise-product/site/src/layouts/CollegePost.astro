@@ -1,0 +1,105 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import { SITE } from '../consts';
+import { topicLabel } from '../lib/topics';
+import { sourcesFor } from '../lib/sources';
+
+interface Related { slug: string; name: string; city?: string }
+interface Props { data: any; slug: string; related: Related[] }
+const { data, slug, related } = Astro.props;
+const url = new URL(`/colleges/${slug}`, SITE.url).href;
+const loc = [data.city, data.state].filter(Boolean).join(', ');
+
+// dedupe FAQs by question
+const seen = new Set();
+const faqs = (data.faqs || []).filter((f: any) => { const k = f.q.toLowerCase().trim(); if (seen.has(k)) return false; seen.add(k); return true; });
+
+const sources = sourcesFor(data.topic, data.website);
+
+const collegeLd: any = {
+  '@context': 'https://schema.org',
+  '@type': 'CollegeOrUniversity',
+  name: data.name,
+  url,
+  ...(loc && { address: { '@type': 'PostalAddress', addressLocality: data.city, addressRegion: data.state, addressCountry: 'IN' } }),
+  ...(data.website && { sameAs: data.website }),
+};
+const breadcrumbLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: SITE.url },
+    { '@type': 'ListItem', position: 2, name: 'Colleges', item: new URL('/colleges', SITE.url).href },
+    { '@type': 'ListItem', position: 3, name: data.name, item: url },
+  ],
+};
+const faqLd = faqs.length
+  ? { '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: faqs.map((f: any) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) }
+  : null;
+const lds = [collegeLd, breadcrumbLd, faqLd].filter(Boolean);
+---
+<BaseLayout title={`${data.title} | ${SITE.name}`} description={data.description} type="article">
+  <Fragment slot="head">{lds.map((l) => <script type="application/ld+json" set:html={JSON.stringify(l)} />)}</Fragment>
+
+  <main class="container article">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a><span>/</span><a href="/colleges">Colleges</a><span>/</span>{data.name}
+    </nav>
+
+    <header class="article-head">
+      {data.topic && <a class="tag" href={`/topics/${data.topic}`} style="text-decoration:none">{topicLabel(data.topic)}</a>}
+      <h1>{data.name}</h1>
+      <p class="dek">{loc ? `${loc} — ` : ''}courses, fees, admission, cutoff, ranking &amp; placements.</p>
+      <div class="article-meta">
+        {loc && <span>{loc}</span>}
+        {loc && <span>·</span>}<span>Reviewed by the {SITE.name} Editorial Team</span>
+      </div>
+    </header>
+
+    <div class="facts">
+      {data.city && <div class="fact"><span class="k">City</span><span class="v">{data.city}</span></div>}
+      {data.state && <div class="fact"><span class="k">State</span><span class="v">{data.state}</span></div>}
+      {data.topic && <div class="fact"><span class="k">Type</span><span class="v">{topicLabel(data.topic)}</span></div>}
+      {data.website && <div class="fact"><span class="k">Official site</span><span class="v"><a href={data.website} rel="nofollow noopener" target="_blank">Visit →</a></span></div>}
+    </div>
+
+    <article class="prose"><slot /></article>
+
+    {faqs.length > 0 && (
+      <section class="faq-wrap">
+        <h2 id="faq">{data.name}: courses, fees, admission &amp; placements</h2>
+        {faqs.map((f: any) => (
+          <details class="qa" open><summary>{f.q}</summary><div class="a">{f.a}</div></details>
+        ))}
+      </section>
+    )}
+
+    <div class="cta-box">
+      <h3>Deciding between colleges?</h3>
+      <p>Build the exact ordered web-options list for your rank — Dream / Likely / Secure — with a Copilot that catches every mistake before you freeze.</p>
+      <div class="row">
+        <a href="/plan" class="btn btn-amber"><svg class="ic"><use href="#i-list"/></svg>Build my plan</a>
+        <a href="/colleges" class="btn btn-ghost" style="border-color:rgba(251,250,248,.3);color:var(--cream)">Browse colleges →</a>
+      </div>
+    </div>
+
+    <section class="sources">
+      <h2>Official sources &amp; references</h2>
+      <p>Verify fees, cut-offs and admission dates on the official portals before deciding:</p>
+      <ul>
+        {sources.map((s) => <li><a href={s.url} rel="noopener" target="_blank">{s.name}</a></li>)}
+      </ul>
+    </section>
+
+    {related.length > 0 && (
+      <section class="related">
+        <h2>{data.city ? `Other colleges in ${data.city}` : 'Related colleges'}</h2>
+        <div class="related-grid">
+          {related.map((r) => (
+            <a href={`/colleges/${r.slug}`}><div class="t">{r.name}</div>{r.city && <div class="d">{r.city}</div>}</a>
+          ))}
+        </div>
+      </section>
+    )}
+  </main>
+</BaseLayout>

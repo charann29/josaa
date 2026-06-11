@@ -1,0 +1,31 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE } from '../consts';
+const ld = {
+  '@context': 'https://schema.org', '@type': 'AboutPage',
+  mainEntity: { '@type': 'Organization', name: SITE.name, url: SITE.url, description: SITE.description },
+};
+---
+<BaseLayout title={`About ${SITE.name} — independent admissions guidance`} description={`About ${SITE.name}: independent, student-first JoSAA/JEE/NEET admissions guidance built on official data. We are not affiliated with any government body.`}>
+  <Fragment slot="head"><script type="application/ld+json" set:html={JSON.stringify(ld)} /></Fragment>
+  <main class="container article">
+    <article class="prose" style="padding-top:24px">
+      <h1>About {SITE.name}</h1>
+      <p>{SITE.name} is an independent, student-first guidance platform for Indian college admissions — JoSAA, CSAB, JEE, NEET and state counselling. Our goal is simple: help students and parents turn a rank into the right seat, using <strong>official data</strong> and plain-English explanations, without the spam and sales pressure the category is known for.</p>
+
+      <h2>What we do</h2>
+      <ul>
+        <li>A free <a href="/predictor">college predictor</a> built on official JoSAA closing ranks (2023–2026).</li>
+        <li>Plain-English guides on choice filling, float/freeze/slide, cut-offs, branches and documents.</li>
+        <li>Structured information on colleges, courses and entrance exams.</li>
+        <li>Optional paid help: a done-for-you choice list and 1-on-1 counselling.</li>
+      </ul>
+
+      <h2>How we're different</h2>
+      <p>You are our customer — not the product. We do not sell your phone number, we take nothing from colleges to recommend them, and we never promise a "guaranteed seat." Our predictions come from official, multi-year cut-off data and are presented as honest probabilities, not certainties.</p>
+
+      <h2>Important disclosure</h2>
+      <p>{SITE.name} is <strong>not affiliated with, or endorsed by, JoSAA, CSAB, NTA or any government body</strong>. All predictions are estimates from past official data and are for guidance only. Always confirm dates, fees and cut-offs on the official portals. Read our <a href="/editorial-policy">editorial policy</a> for how we research and update content.</p>
+    </article>
+  </main>
+</BaseLayout>

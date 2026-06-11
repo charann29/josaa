@@ -1,0 +1,28 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE, LINKS } from '../consts';
+const ld = {
+  '@context': 'https://schema.org', '@type': 'ContactPage',
+  mainEntity: { '@type': 'Organization', name: SITE.name, url: SITE.url, email: 'hello@beingwise.in' },
+};
+---
+<BaseLayout title={`Contact ${SITE.name}`} description={`Get in touch with ${SITE.name} for help with JoSAA, JEE, NEET and college admissions.`}>
+  <Fragment slot="head"><script type="application/ld+json" set:html={JSON.stringify(ld)} /></Fragment>
+  <main class="container article">
+    <article class="prose" style="padding-top:24px">
+      <h1>Contact us</h1>
+      <p>Have a question about your rank, choice list or counselling? We're happy to help — and you can ask anything before you pay.</p>
+
+      <h2>Reach us</h2>
+      <ul>
+        <li><strong>WhatsApp:</strong> <a href={LINKS.whatsapp} rel="noopener">message us</a> (fastest)</li>
+        <li><strong>Email:</strong> <a href={LINKS.email}>hello@beingwise.in</a></li>
+      </ul>
+
+      <h2>Before you message</h2>
+      <p>It helps to share your <strong>JEE Main / NEET / EAMCET rank, category, and home state</strong> — that lets us give you a useful answer right away. You can also try the <a href="/predictor">free college predictor</a> first.</p>
+
+      <p>We typically reply within a working day. We are an independent guidance service and not affiliated with any government body — see our <a href="/about">about page</a> and <a href="/editorial-policy">editorial policy</a>.</p>
+    </article>
+  </main>
+</BaseLayout>

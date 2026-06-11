@@ -1,0 +1,51 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { SITE } from '../../consts';
+import '../../styles/tools.css';
+
+const tools = [
+  { t: 'AP EAPCET Predictor', d: 'Andhra Pradesh engineering colleges by AP EAPCET rank, category and region.', href: '/tools/ap-eapcet-predictor', tag: 'Predictor' },
+  { t: 'AP EAPCET Allotments', d: 'Official AP closing ranks by year, college and branch.', href: '/tools/ap-eapcet-allotments', tag: 'Allotments' },
+  { t: 'AP Top B.Tech Colleges', d: 'Top AP engineering colleges ranked by cutoff competitiveness.', href: '/tools/ap-engineering-colleges', tag: 'Rankings' },
+];
+const crumbLd = { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [{ '@type': 'ListItem', position: 1, name: 'Free Tools', item: new URL('/tools', SITE.url).href }, { '@type': 'ListItem', position: 2, name: 'AP Tools', item: new URL('/tools/ap', SITE.url).href }] };
+---
+<BaseLayout
+  title={`AP EAPCET Tools 2026 — Predictor, Allotments & Top Colleges | Free | ${SITE.name}`}
+  description="Free Andhra Pradesh engineering admission tools: AP EAPCET college predictor, official allotment explorer and top-colleges ranking — on APSCHE data, no login."
+  keywords="ap eapcet tools, ap eamcet predictor, ap engineering colleges, andhra pradesh college predictor 2026">
+  <Fragment slot="head"><script type="application/ld+json" set:html={JSON.stringify(crumbLd)} /></Fragment>
+
+  <div class="t-band">
+    <section class="container t-hero">
+      <nav class="t-crumbs"><a href="/tools">Free Tools</a> <span>/</span> <span>AP Tools</span></nav>
+      <span class="t-eyebrow"><svg class="ic"><use href="#i-pin"/></svg>Andhra Pradesh · official APSCHE data</span>
+      <h1 class="t-h1">AP EAPCET Tools</h1>
+      <p class="t-lead">Everything for Andhra Pradesh engineering admissions — predict your colleges, verify with official allotment data, and see the top colleges ranked by real cutoffs.</p>
+    </section>
+  </div>
+
+  <section class="container t-sec">
+    <div class="hub-grid">
+      {tools.map((x) => (
+        <a class="hub-card" href={x.href}>
+          <span class="t-tag acc">{x.tag}</span>
+          <h3>{x.t}</h3>
+          <p>{x.d}</p>
+          <span class="hub-go">Open →</span>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <style>
+    .hub-grid{display:grid;grid-template-columns:1fr;gap:13px}
+    @media(min-width:680px){.hub-grid{grid-template-columns:1fr 1fr 1fr}}
+    .hub-card{background:var(--t-card);border:1px solid var(--t-line);border-radius:16px;padding:18px;display:flex;flex-direction:column;box-shadow:var(--t-shadow);transition:box-shadow .16s,border-color .16s,transform .16s}
+    .hub-card:hover{box-shadow:var(--t-shadow-md);border-color:var(--t-line-2);transform:translateY(-2px)}
+    .hub-card .t-tag{align-self:flex-start;margin-bottom:9px}
+    .hub-card h3{font-size:1.06rem;margin-bottom:5px}
+    .hub-card p{font-size:.87rem;color:var(--ink-soft);line-height:1.5;flex:1}
+    .hub-go{margin-top:12px;font-size:.82rem;font-weight:700;color:var(--t-primary-deep)}
+  </style>
+</BaseLayout>

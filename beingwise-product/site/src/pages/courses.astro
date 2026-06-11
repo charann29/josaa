@@ -1,0 +1,73 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE } from '../consts';
+
+// Common undergraduate engineering branches admitted through JoSAA/CSAB + state
+// counselling. Each links into the predictor and the colleges directory so the
+// page is a real navigational hub, not a dead listing.
+const COURSES = [
+  { name: 'Computer Science & Engineering (CSE)', code: 'cse', blurb: 'The most competitive branch — software, AI/ML, systems. Drives the lowest closing ranks at every tier.' },
+  { name: 'Information Technology (IT)', code: 'it', blurb: 'Close cousin of CSE with strong placements; slightly higher closing ranks at most colleges.' },
+  { name: 'Electronics & Communication (ECE)', code: 'ece', blurb: 'Core + coding flexibility — VLSI, embedded, signal processing, and software roles.' },
+  { name: 'Electrical Engineering (EE)', code: 'ee', blurb: 'Power, control and electronics; strong PSU and core-industry pathways.' },
+  { name: 'Mechanical Engineering (ME)', code: 'me', blurb: 'The broadest core branch — design, thermal, manufacturing, automotive.' },
+  { name: 'Civil Engineering (CE)', code: 'ce', blurb: 'Infrastructure, structures and construction; steady government and core demand.' },
+  { name: 'Chemical Engineering', code: 'chem', blurb: 'Process industries, energy and materials; good for analytical, lab-oriented students.' },
+  { name: 'Artificial Intelligence & Data Science', code: 'ai-ds', blurb: 'Newer high-demand programmes blending CSE fundamentals with ML and analytics.' },
+  { name: 'Biotechnology', code: 'biotech', blurb: 'Interdisciplinary biology + engineering; research, pharma and healthcare tracks.' },
+  { name: 'Aerospace Engineering', code: 'aero', blurb: 'Aircraft and spacecraft systems; offered at IITs and select institutes.' },
+];
+
+const ld = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: 'Engineering courses & branches',
+  itemListElement: COURSES.map((c, i) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    item: {
+      '@type': 'EducationalOccupationalProgram',
+      name: c.name,
+      description: c.blurb,
+      educationalProgramMode: 'full-time',
+      programType: 'B.Tech / B.E.',
+    },
+  })),
+};
+---
+<BaseLayout
+  title={`B.Tech Courses & Branches — CSE, ECE, Mechanical & More | ${SITE.name}`}
+  description="Compare the major B.Tech engineering branches admitted through JoSAA, CSAB and state counselling — CSE, IT, ECE, EE, Mechanical, Civil and more — then predict colleges for your rank."
+  keywords="btech branches, engineering courses, cse vs ece, best engineering branch, josaa branches, b.tech courses list, branch vs college, engineering specializations"
+  type="article">
+  <Fragment slot="head"><script type="application/ld+json" set:html={JSON.stringify(ld)} /></Fragment>
+
+  <section class="container hub-hero">
+    <span class="kicker"><svg class="ic"><use href="#i-list"/></svg>Courses &amp; branches</span>
+    <h1>Engineering Courses &amp; Branches</h1>
+    <p>Every major B.Tech/B.E. branch admitted through JoSAA, CSAB and state counselling. Pick a branch to understand what it offers, then predict the colleges your rank can reach.</p>
+    <a class="hub-cta" href="/predictor">Predict my colleges →</a>
+  </section>
+
+  <div class="container">
+    <div class="post-grid">
+      {COURSES.map((c) => (
+        <div class="post-card">
+          <h3>{c.name}</h3>
+          <p>{c.blurb}</p>
+          <a class="more" href="/predictor">See colleges for this branch →</a>
+        </div>
+      ))}
+    </div>
+
+    <section class="block">
+      <h2>Still deciding branch vs college?</h2>
+      <p>Read the framework: <a href="/blog/branch-vs-college-jee">Branch vs College in JEE Counselling</a>. Then build your ordered choice list with the <a href="/predictor">college predictor</a>.</p>
+    </section>
+  </div>
+
+  <style>
+    .hub-cta { display: inline-block; margin-top: 1rem; background: var(--accent); color: #fff; font-weight: 600; padding: 12px 22px; border-radius: 10px; text-decoration: none; }
+    .block { margin: 2.4rem 0; }
+  </style>
+</BaseLayout>

@@ -1,0 +1,23 @@
+---
+import { getCollection, render } from 'astro:content';
+import CollegePost from '../../layouts/CollegePost.astro';
+
+export async function getStaticPaths() {
+  const all = await getCollection('colleges');
+  const byCity = new Map<string, any[]>();
+  const byTopic = new Map<string, any[]>();
+  for (const e of all) {
+    if (e.data.city) { const k = e.data.city.toLowerCase(); (byCity.get(k) ?? byCity.set(k, []).get(k))!.push(e); }
+    const t = e.data.topic ?? 'study-guides'; (byTopic.get(t) ?? byTopic.set(t, []).get(t))!.push(e);
+  }
+  return all.map((entry) => {
+    const pool = (entry.data.city && byCity.get(entry.data.city.toLowerCase())) || byTopic.get(entry.data.topic ?? 'study-guides') || [];
+    const related = pool.filter((e) => e.id !== entry.id).slice(0, 6)
+      .map((e) => ({ slug: e.id, name: e.data.name, city: e.data.city }));
+    return { params: { slug: entry.id }, props: { entry, related } };
+  });
+}
+const { entry, related } = Astro.props;
+const { Content } = await render(entry);
+---
+<CollegePost data={entry.data} slug={entry.id} related={related}><Content /></CollegePost>

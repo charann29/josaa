@@ -1,0 +1,13 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import headHtml from '../../_eduvale/tg-eapcet-predictor.head.html?raw';
+import body from '../../_eduvale/tg-eapcet-predictor.body.html?raw';
+import inlineJs from '../../_eduvale/tg-eapcet-predictor.inline.js?raw';
+const title = "TG EAPCET College Predictor 2026 | Find Engineering Colleges by Rank | Free Tool";
+const description = "Free TG EAPCET College Predictor 2026 (formerly TS EAMCET). Enter rank, category & region to instantly predict eligible engineering colleges in Telangana. Historical cutoff data 2015–2025. Trusted by 3 lakh+ students.";
+---
+<BaseLayout title={title} description={description} chrome={false}>
+  <Fragment slot="head" set:html={headHtml} />
+  <Fragment set:html={body} />
+  <script is:inline set:html={inlineJs} />
+</BaseLayout>

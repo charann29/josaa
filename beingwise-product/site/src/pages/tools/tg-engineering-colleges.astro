@@ -1,0 +1,13 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import headHtml from '../../_eduvale/tg-engineering-colleges.head.html?raw';
+import body from '../../_eduvale/tg-engineering-colleges.body.html?raw';
+import inlineJs from '../../_eduvale/tg-engineering-colleges.inline.js?raw';
+const title = "TG EAPCET Top Engineering Colleges 2026 - Branch-wise Merit Closing Ranks | Telangana";
+const description = "Find the best engineering colleges in Telangana ranked by TG EAPCET 2026 OC closing merit rank. Branch-wise cutoffs for CSE, ECE, Civil, Mechanical, IT and all engineering disciplines.";
+---
+<BaseLayout title={title} description={description} chrome={false}>
+  <Fragment slot="head" set:html={headHtml} />
+  <Fragment set:html={body} />
+  <script is:inline set:html={inlineJs} />
+</BaseLayout>

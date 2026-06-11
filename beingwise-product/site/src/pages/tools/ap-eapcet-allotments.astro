@@ -1,0 +1,13 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import headHtml from '../../_eduvale/ap-eapcet-allotments.head.html?raw';
+import body from '../../_eduvale/ap-eapcet-allotments.body.html?raw';
+import inlineJs from '../../_eduvale/ap-eapcet-allotments.inline.js?raw';
+const title = "AP EAPCET 2025 College-Wise Seat Allotment Results | Search by College & Branch";
+const description = "Check AP EAPCET 2025 college-wise seat allotment results. Search by college and branch to view candidate rank, name, category, gender, region, allotted category, and counselling phase. Updated after every official phase.";
+---
+<BaseLayout title={title} description={description} chrome={false}>
+  <Fragment slot="head" set:html={headHtml} />
+  <Fragment set:html={body} />
+  <script is:inline set:html={inlineJs} />
+</BaseLayout>

@@ -1,0 +1,14 @@
+[build]
+  command = "astro build && npx pagefind --site dist"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"
+  # 8k+ pages need a larger heap than the default
+  NODE_OPTIONS = "--max-old-space-size=8192"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"

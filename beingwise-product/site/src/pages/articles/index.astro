@@ -1,0 +1,37 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { SITE } from '../../consts';
+
+const all = (await getCollection('articles')).sort((a, b) => a.data.title.localeCompare(b.data.title));
+const pageSize = 48;
+const totalPages = Math.ceil(all.length / pageSize);
+const items = all.slice(0, pageSize);
+---
+<BaseLayout
+  title={`Articles & Guides — Engineering, Exams & Careers | ${SITE.name}`}
+  description="Plain-English guides on JEE, JoSAA, engineering branches, entrance exams, courses and careers for Indian students — built to help you choose the right path.">
+  <section class="container hub-hero">
+    <span class="kicker"><svg class="ic"><use href="#i-list"/></svg>{all.length.toLocaleString('en-IN')} guides</span>
+    <h1>Articles &amp; Guides</h1>
+    <p>Guides on entrance exams, engineering branches, courses and careers — for students choosing what comes after Class 12.</p>
+  </section>
+  <div class="container">
+    <div class="post-grid">
+      {items.map((p) => (
+        <a class="post-card" href={`/articles/${p.id}`}>
+          {p.data.category && <span class="tag">{p.data.category}</span>}
+          <h3>{p.data.title}</h3>
+          <p>{p.data.description}</p>
+          <span class="more">Read more →</span>
+        </a>
+      ))}
+    </div>
+    {totalPages > 1 && (
+      <nav class="pager" aria-label="Pagination">
+        <span>Page 1 of {totalPages}</span>
+        <a href="/articles/page/2" class="btn btn-ghost">Next →</a>
+      </nav>
+    )}
+  </div>
+</BaseLayout>

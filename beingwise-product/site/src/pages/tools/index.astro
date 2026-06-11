@@ -1,0 +1,75 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { SITE } from '../../consts';
+import '../../styles/tools.css';
+
+const groups = [
+  { title: 'Telangana (TG EAPCET & ECET)', tools: [
+    { t: 'TG EAPCET Predictor', d: 'Enter your rank → colleges by Strong / Moderate / Slim chance, with 10-year history.', href: '/tools/tg-eapcet-predictor', tag: 'Predictor', live: true },
+    { t: 'TG ECET Predictor', d: 'Lateral-entry B.Tech for diploma & B.Sc holders, by ECET rank and stream.', href: '/tools/tg-ecet-predictor', tag: 'Predictor' },
+    { t: 'TG EAPCET Allotments', d: 'Year → college → branch closing ranks from official counselling rounds.', href: '/tools/tg-eapcet-allotments', tag: 'Allotments' },
+    { t: 'TG ECET Allotments', d: 'Official lateral-entry closing ranks by college and branch.', href: '/tools/tg-ecet-allotments', tag: 'Allotments' },
+    { t: 'TG College Directory', d: 'Searchable list of Telangana engineering colleges, branches and cutoffs.', href: '/tools/tg-college-directory', tag: 'Directory', live: true },
+    { t: 'Top TG Engineering Colleges', d: 'Colleges ranked by real TG EAPCET cutoff competitiveness.', href: '/tools/tg-engineering-colleges', tag: 'Rankings', live: true },
+    { t: 'Reservation Policy Guide', d: 'OC/BC/SC/ST/EWS, women/PH/sports and the 85/15 local rule, in plain language.', href: '/tools/reservation-policy', tag: 'Reference', live: true },
+  ] },
+  { title: 'Andhra Pradesh (AP EAPCET)', tools: [
+    { t: 'AP EAPCET Predictor', d: 'Andhra Pradesh engineering colleges by AP EAPCET rank, category and region.', href: '/tools/ap-eapcet-predictor', tag: 'Predictor' },
+    { t: 'AP EAPCET Allotments', d: 'Official AP closing ranks by year, college and branch.', href: '/tools/ap-eapcet-allotments', tag: 'Allotments' },
+    { t: 'AP Top B.Tech Colleges', d: 'Top AP engineering colleges ranked by cutoff competitiveness.', href: '/tools/ap-engineering-colleges', tag: 'Rankings' },
+  ] },
+  { title: 'All-India (JoSAA)', tools: [
+    { t: 'JoSAA College Predictor', d: 'NITs, IIITs & GFTIs by JEE Main rank, on official 2023–2026 closing ranks.', href: '/predictor', tag: 'Predictor', live: true },
+    { t: 'Decision Copilot', d: 'Turn your shortlist into the exact ordered web-options list you freeze.', href: '/plan', tag: 'Plan' },
+  ] },
+];
+const crumbLd = { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [{ '@type': 'ListItem', position: 1, name: 'Free Tools', item: new URL('/tools', SITE.url).href }] };
+---
+<BaseLayout
+  title={`Free College Admission Tools — TG EAPCET, AP EAPCET, ECET & JoSAA | ${SITE.name}`}
+  description="All BeingWise free tools in one place: TG & AP EAPCET predictors, ECET, allotment explorers, college directory, rankings and reservation guide — on official data, no login."
+  keywords="free college predictor, tg eapcet tools, ap eapcet tools, ecet predictor, college allotment data, engineering college directory">
+  <Fragment slot="head"><script type="application/ld+json" set:html={JSON.stringify(crumbLd)} /></Fragment>
+
+  <div class="t-band">
+    <section class="container t-hero">
+      <span class="t-eyebrow"><svg class="ic"><use href="#i-spark"/></svg>Every tool free · no login · official data</span>
+      <h1 class="t-h1">Free Tools</h1>
+      <p class="t-lead">From your rank to the right seat — predictors, real allotment data, a college directory, rankings and a reservation guide for Telangana, Andhra Pradesh and all-India JoSAA admissions.</p>
+      <div class="t-counters">
+        <div class="t-counter"><b>12</b><span>free tools</span></div>
+        <div class="t-counter"><b>3</b><span>states / exams</span></div>
+        <div class="t-counter"><b>10 yr</b><span>cutoff data</span></div>
+      </div>
+    </section>
+  </div>
+
+  {groups.map((g) => (
+    <section class="container t-sec">
+      <h2 class="t-sec-h" style="font-size:1.35rem">{g.title}</h2>
+      <div class="hub-grid">
+        {g.tools.map((x) => (
+          <a class="hub-card" href={x.href}>
+            <div class="hub-top"><span class="t-tag acc">{x.tag}</span>{x.live && <span class="hub-live">● Live</span>}</div>
+            <h3>{x.t}</h3>
+            <p>{x.d}</p>
+            <span class="hub-go">Open →</span>
+          </a>
+        ))}
+      </div>
+    </section>
+  ))}
+
+  <style>
+    .hub-grid{display:grid;grid-template-columns:1fr;gap:13px}
+    @media(min-width:620px){.hub-grid{grid-template-columns:1fr 1fr}}
+    @media(min-width:980px){.hub-grid{grid-template-columns:1fr 1fr 1fr}}
+    .hub-card{background:var(--t-card);border:1px solid var(--t-line);border-radius:16px;padding:18px;display:flex;flex-direction:column;box-shadow:var(--t-shadow);transition:box-shadow .16s,border-color .16s,transform .16s}
+    .hub-card:hover{box-shadow:var(--t-shadow-md);border-color:var(--t-line-2);transform:translateY(-2px)}
+    .hub-top{display:flex;justify-content:space-between;align-items:center;margin-bottom:10px}
+    .hub-live{font-size:.68rem;font-weight:800;color:var(--green)}
+    .hub-card h3{font-size:1.06rem;margin-bottom:5px}
+    .hub-card p{font-size:.87rem;color:var(--ink-soft);line-height:1.5;flex:1}
+    .hub-go{margin-top:12px;font-size:.82rem;font-weight:700;color:var(--t-primary-deep)}
+  </style>
+</BaseLayout>

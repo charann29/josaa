@@ -1,0 +1,57 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { SITE } from '../../consts';
+import { topicLabel, TOPIC_LABELS } from '../../lib/topics';
+
+export async function getStaticPaths() {
+  const all = [
+    ...(await getCollection('articles')).map((e) => ({ ...e, _kind: 'articles' })),
+    ...(await getCollection('questions')).map((e) => ({ ...e, _kind: 'questions' })),
+  ];
+  const byTopic: Record<string, any[]> = {};
+  for (const e of all) {
+    const t = e.data.topic ?? 'study-guides';
+    (byTopic[t] ??= []).push(e);
+  }
+  return Object.keys(TOPIC_LABELS)
+    .filter((t) => byTopic[t]?.length)
+    .map((t) => ({
+      params: { topic: t },
+      props: { items: byTopic[t].slice(0, 60), total: byTopic[t].length },
+    }));
+}
+const { topic } = Astro.params;
+const { items, total } = Astro.props;
+const label = topicLabel(topic!);
+
+const ld = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: `${label} — guides & answers`,
+  url: new URL(`/topics/${topic}`, SITE.url).href,
+  isPartOf: { '@type': 'WebSite', name: SITE.name, url: SITE.url },
+};
+---
+<BaseLayout
+  title={`${label} — Guides & Answers | ${SITE.name}`}
+  description={`BeingWise guides and student questions on ${label.toLowerCase()} — exams, branches, courses, careers and admissions for Indian students.`}>
+  <Fragment slot="head"><script type="application/ld+json" set:html={JSON.stringify(ld)} /></Fragment>
+  <section class="container hub-hero">
+    <nav class="breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a><span>/</span><a href="/topics">Topics</a><span>/</span>{label}</nav>
+    <span class="kicker"><svg class="ic"><use href="#i-map"/></svg>{total.toLocaleString('en-IN')} pages</span>
+    <h1>{label}</h1>
+  </section>
+  <div class="container">
+    <div class="post-grid">
+      {items.map((p: any) => (
+        <a class="post-card" href={`/${p._kind}/${p.id}`}>
+          <h3>{p.data.title}</h3>
+          <p>{p.data.description}</p>
+          <span class="more">{p._kind === 'questions' ? 'See the answer →' : 'Read more →'}</span>
+        </a>
+      ))}
+    </div>
+    <nav class="pager"><a href="/articles" class="btn btn-ghost">All articles →</a><a href="/questions" class="btn btn-ghost">All questions →</a></nav>
+  </div>
+</BaseLayout>

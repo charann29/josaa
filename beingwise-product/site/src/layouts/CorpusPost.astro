@@ -1,0 +1,191 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import { SITE } from '../consts';
+import { topicLabel } from '../lib/topics';
+import { sourcesFor } from '../lib/sources';
+
+interface Heading { depth: number; slug: string; text: string }
+interface RelatedItem { slug: string; title: string }
+interface Props {
+  data: any;
+  slug: string;
+  kind: 'article' | 'question';
+  headings: Heading[];
+  related: RelatedItem[];
+  readingTime: number;
+}
+const { data, slug, kind, headings, related, readingTime } = Astro.props;
+
+const basePath = kind === 'article' ? '/articles' : '/questions';
+const sectionName = kind === 'article' ? 'Articles' : 'Questions';
+const url = new URL(`${basePath}/${slug}`, SITE.url).href;
+// Prefer an explicit per-page SEO title; fall back to the raw title.
+const seoTitle = data.seoTitle ?? `${data.title} | ${SITE.name}`;
+const toc = headings.filter((h) => h.depth === 2);
+const sources = sourcesFor(data.topic);
+// Honest dates: parse real frontmatter dates (e.g. "21st Aug, 2021") when
+// present; never fake "today". Stable fallback (NOT new Date()) so JSON-LD
+// never claims a build-time edit on the dateless corpus.
+const CONTENT_SINCE = new Date('2026-06-01T12:00:00Z');
+const parseDate = (v: any) => {
+  if (!v) return null;
+  const d = v instanceof Date ? v : new Date(String(v).replace(/(\d+)(st|nd|rd|th)\b/i, '$1'));
+  if (isNaN(d.getTime())) return null;
+  // Normalise to noon UTC so the calendar day survives toISOString() regardless of TZ.
+  return new Date(Date.UTC(d.getFullYear(), d.getMonth(), d.getDate(), 12));
+};
+const published = parseDate(data.date) ?? CONTENT_SINCE;
+const modified = parseDate(data.updated) ?? parseDate(data.date) ?? CONTENT_SINCE;
+const publishedISO = published.toISOString();
+const modifiedISO = modified.toISOString();
+const hasRealDate = Boolean(parseDate(data.updated) ?? parseDate(data.date));
+const updatedHuman = modified.toLocaleDateString('en-IN', { day: 'numeric', month: 'long', year: 'numeric' });
+
+const author = { '@type': 'Person', name: `${SITE.name} Editorial Desk`, url: new URL('/about', SITE.url).href };
+const publisher = { '@type': 'Organization', name: SITE.name, logo: { '@type': 'ImageObject', url: new URL('/logo.png', SITE.url).href } };
+const speakable = { '@type': 'SpeakableSpecification', cssSelector: ['h1', '.dek'] };
+
+// Q&A pages → QAPage with embedded Question + Answer (Shiksha's core pattern).
+const answerText = (data.faqs?.[0]?.a) || data.description;
+const mainLd = kind === 'question'
+  ? {
+      '@context': 'https://schema.org',
+      '@type': 'QAPage',
+      mainEntity: {
+        '@type': 'Question',
+        name: data.title,
+        text: data.title,
+        answerCount: 1,
+        dateCreated: publishedISO,
+        author,
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: answerText,
+          url: `${url}#answer`,
+          dateCreated: modifiedISO,
+          author,
+        },
+      },
+      speakable,
+      inLanguage: 'en-IN',
+      url,
+      datePublished: publishedISO,
+      dateModified: modifiedISO,
+      citation: sources.map((s) => s.url),
+      publisher,
+    }
+  : {
+      '@context': 'https://schema.org',
+      '@type': 'Article',
+      headline: data.title,
+      description: data.description,
+      inLanguage: 'en-IN',
+      mainEntityOfPage: { '@type': 'WebPage', '@id': url },
+      url,
+      datePublished: publishedISO,
+      dateModified: modifiedISO,
+      author,
+      speakable,
+      ...(data.category && { articleSection: data.category }),
+      ...(data.tags?.length && { keywords: data.tags.join(', ') }),
+      citation: sources.map((s) => s.url),
+      publisher,
+    };
+const breadcrumbLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: SITE.url },
+    { '@type': 'ListItem', position: 2, name: sectionName, item: new URL(basePath, SITE.url).href },
+    { '@type': 'ListItem', position: 3, name: data.title, item: url },
+  ],
+};
+const relatedLd = related.length
+  ? {
+      '@context': 'https://schema.org',
+      '@type': 'ItemList',
+      itemListElement: related.map((r, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        url: new URL(`${basePath}/${r.slug}`, SITE.url).href,
+        name: r.title,
+      })),
+    }
+  : null;
+const faqLd = data.faqs?.length
+  ? { '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: data.faqs.map((f: any) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) }
+  : null;
+const lds = [mainLd, breadcrumbLd, relatedLd, faqLd].filter(Boolean);
+---
+<BaseLayout title={seoTitle} description={data.description} type="article">
+  <Fragment slot="head">
+    {lds.map((l) => <script type="application/ld+json" set:html={JSON.stringify(l)} />)}
+  </Fragment>
+
+  <main class="container article">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a><span>/</span><a href={basePath}>{sectionName}</a><span>/</span>{data.title}
+    </nav>
+
+    <header class="article-head">
+      {data.topic && <a class="tag" href={`/topics/${data.topic}`} style="text-decoration:none">{topicLabel(data.topic)}</a>}
+      <h1>{data.title}</h1>
+      {data.description && <p class="dek">{data.description}</p>}
+      <div class="article-meta">
+        <span>Reviewed by the {SITE.name} Editorial Team</span>
+        {hasRealDate && <><span>·</span><span>Last updated {updatedHuman}</span></>}
+        <span>·</span><span>{readingTime} min read</span>
+      </div>
+    </header>
+
+    {toc.length > 2 && (
+      <nav class="toc" aria-label="Table of contents">
+        <strong>On this page</strong>
+        <ol>{toc.map((h) => <li><a href={`#${h.slug}`}>{h.text}</a></li>)}</ol>
+      </nav>
+    )}
+
+    <article class="prose">
+      <slot />
+    </article>
+
+    <div class="cta-box">
+      <h3>Filling TS/AP EAMCET or JoSAA web options?</h3>
+      <p>Build the exact ordered list to freeze — Dream / Likely / Secure — with a Decision Copilot that flags every mistake before you lock.</p>
+      <div class="row">
+        <a href="/plan" class="btn btn-amber"><svg class="ic"><use href="#i-list"/></svg>Build my plan</a>
+        <a href="/predictor" class="btn btn-ghost" style="border-color:rgba(251,250,248,.3);color:var(--cream)">Free rank check →</a>
+      </div>
+    </div>
+
+    {data.faqs?.length > 0 && (
+      <section class="faq-wrap">
+        <h2>Frequently asked questions</h2>
+        {data.faqs.map((f: any) => (
+          <details class="qa"><summary>{f.q}</summary><div class="a" set:html={f.a} /></details>
+        ))}
+      </section>
+    )}
+
+    <section class="sources">
+      <h2>Official sources &amp; references</h2>
+      <p>Always confirm dates, fees and cut-offs on the official portals before deciding:</p>
+      <ul>
+        {sources.map((s) => <li><a href={s.url} rel="noopener" target="_blank">{s.name}</a></li>)}
+      </ul>
+    </section>
+
+    {related.length > 0 && (
+      <section class="related">
+        <h2>Related reading</h2>
+        <div class="related-grid">
+          {related.map((r) => (
+            <a href={`${basePath}/${r.slug}`}>
+              <div class="t">{r.title}</div>
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
+  </main>
+</BaseLayout>

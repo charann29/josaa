@@ -1,0 +1,29 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE } from '../consts';
+---
+<BaseLayout
+  title={`Search colleges, exams & courses | ${SITE.name}`}
+  description="Search BeingWise for colleges, exams, courses, cutoffs and admission guidance — find exactly what you need."
+  noindex={true}>
+  <section class="container" style="padding:40px 0 80px">
+    <span class="kicker"><svg class="ic"><use href="#i-search"/></svg>Search</span>
+    <h1 style="font-size:2rem;margin-bottom:6px">Find your college, exam or answer</h1>
+    <p style="color:var(--ink-soft);margin-bottom:22px">Type a college name, exam (JEE, NEET, EAMCET), course or question.</p>
+    <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+    <div id="search"></div>
+  </section>
+  <script is:inline src="/pagefind/pagefind-ui.js"></script>
+  <script is:inline>
+    function initPF(){
+      if (!window.PagefindUI) { return setTimeout(initPF, 80); }
+      const ui = new PagefindUI({ element: '#search', showSubResults: true, showImages: false, pageSize: 8 });
+      const q = new URLSearchParams(location.search).get('q');
+      if (q) { const i = document.querySelector('#search input'); if (i) { i.value = q; i.dispatchEvent(new Event('input', { bubbles: true })); } }
+    }
+    document.addEventListener('DOMContentLoaded', initPF);
+  </script>
+  <style is:global>
+    :root { --pagefind-ui-primary: var(--accent-deep); --pagefind-ui-text: var(--ink); --pagefind-ui-background: var(--paper); --pagefind-ui-border: var(--line); --pagefind-ui-font: 'Geist', sans-serif; --pagefind-ui-border-radius: 12px; }
+  </style>
+</BaseLayout>

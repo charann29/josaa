@@ -1,0 +1,28 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE } from '../consts';
+---
+<BaseLayout title={`Editorial Policy — how ${SITE.name} researches & updates content`} description={`${SITE.name}'s editorial policy: how we source data from official portals, review content, cite sources and correct errors.`}>
+  <main class="container article">
+    <article class="prose" style="padding-top:24px">
+      <h1>Editorial Policy</h1>
+      <p>Students and parents make high-stakes, irreversible decisions based on admissions information. We take that seriously. This policy explains how {SITE.name} researches, writes, reviews and updates its content.</p>
+
+      <h2>Where our data comes from</h2>
+      <p>Our cut-off and seat data is drawn from <strong>official sources</strong> — the JoSAA portal (josaa.nic.in), CSAB (csab.nic.in), the National Testing Agency (nta.ac.in) and NIRF rankings (nirfindia.org). Every guide links to the relevant official source so you can verify it yourself.</p>
+
+      <h2>How content is written and reviewed</h2>
+      <ul>
+        <li>Guides are written in plain English and reviewed by the {SITE.name} editorial team for accuracy and clarity.</li>
+        <li>We do not copy content from other websites. Where we summarise official information, we cite the source.</li>
+        <li>We do not publish "guaranteed seat" claims, paid placements, or college-sponsored recommendations.</li>
+      </ul>
+
+      <h2>Accuracy, freshness and corrections</h2>
+      <p>Cut-offs, fees, dates and rules change every year. We label pages with a "last updated" date and refresh them each counselling cycle. Predictions are probabilities based on past data, never guarantees. If you spot an error, email us and we will correct it promptly.</p>
+
+      <h2>Independence</h2>
+      <p>{SITE.name} is independent and not affiliated with any government body or college. We are paid by the students we help — never by colleges — so our guidance answers to you alone.</p>
+    </article>
+  </main>
+</BaseLayout>

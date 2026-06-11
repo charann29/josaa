@@ -1,0 +1,137 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { SITE } from '../../consts';
+import { EXAMS, examBySlug } from '../../lib/exams';
+
+export function getStaticPaths() {
+  return EXAMS.map((e) => ({ params: { slug: e.slug } }));
+}
+
+// Per-exam keyword targeting (long-tail intent for ads + organic).
+const KW: Record<string, string> = {
+  'jee-main': 'jee main college predictor, jee main rank predictor, nit college predictor, josaa college predictor, jee main cutoff 2026',
+  'jee-advanced': 'jee advanced college predictor, iit college predictor, jee advanced cutoff, josaa iit cutoff',
+  'neet-ug': 'neet college predictor, neet mbbs predictor, mcc counselling, neet cutoff 2026',
+  'ts-eamcet': 'ts eamcet college predictor, tg eapcet predictor 2025, ts ecet predictor, engineering colleges telangana, eamcet allotments, college directory ap telangana',
+  'ap-eapcet': 'ap eapcet predictor, ap eamcet college predictor, engineering colleges andhra pradesh, college directory ap telangana',
+  'cat': 'cat percentile predictor, iim call predictor, mba college predictor',
+  'clat': 'clat college predictor, nlu predictor, law college predictor',
+  'gate': 'gate college predictor, m.tech college predictor, gate cutoff',
+  'bitsat': 'bitsat cutoff, bits pilani cutoff, bitsat score vs branch',
+  'mht-cet': 'mht-cet college predictor, mhtcet, engineering colleges maharashtra',
+};
+
+const { slug } = Astro.params;
+const exam = examBySlug(slug!);
+if (!exam) return Astro.redirect('/exams');
+
+const keywords = KW[exam.slug] ?? `${exam.name.toLowerCase()} college predictor, ${exam.name.toLowerCase()} cutoff`;
+
+// JSON-LD: BreadcrumbList + the exam as an EducationalOccupationalProgram-adjacent Event/Exam.
+const breadcrumbLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: SITE.url },
+    { '@type': 'ListItem', position: 2, name: 'Entrance Exams', item: new URL('/exams', SITE.url).href },
+    { '@type': 'ListItem', position: 3, name: exam.name, item: new URL(`/exams/${exam.slug}`, SITE.url).href },
+  ],
+};
+const examLd = {
+  '@context': 'https://schema.org',
+  '@type': 'EducationalOccupationalProgram',
+  name: exam.full,
+  alternateName: exam.name,
+  description: exam.blurb,
+  url: new URL(`/exams/${exam.slug}`, SITE.url).href,
+  provider: { '@type': 'Organization', name: exam.body },
+  educationalLevel: exam.level,
+  occupationalCategory: exam.stream,
+};
+const faqLd = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: [
+    {
+      '@type': 'Question',
+      name: `What is ${exam.name}?`,
+      acceptedAnswer: { '@type': 'Answer', text: `${exam.full} (${exam.name}) is conducted by ${exam.body}. ${exam.blurb}` },
+    },
+    {
+      '@type': 'Question',
+      name: `What does ${exam.name} get you?`,
+      acceptedAnswer: { '@type': 'Answer', text: exam.for + '.' },
+    },
+  ],
+};
+---
+<BaseLayout
+  title={`${exam.name} ${exam.full} — Predictor, Cutoffs & Counselling | ${SITE.name}`}
+  description={`${exam.blurb} ${exam.for}. Conducting body: ${exam.body}.`}
+  keywords={keywords}
+  type="article">
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} />
+    <script type="application/ld+json" set:html={JSON.stringify(examLd)} />
+    <script type="application/ld+json" set:html={JSON.stringify(faqLd)} />
+  </Fragment>
+
+  <section class="container hub-hero">
+    <nav class="crumb"><a href="/exams">Entrance Exams</a> <span>›</span> {exam.name}</nav>
+    <span class="kicker"><svg class="ic"><use href="#i-list"/></svg>{exam.level} · {exam.stream.replace('-', ' ')}</span>
+    <h1>{exam.name}</h1>
+    <p>{exam.blurb}</p>
+  </section>
+
+  <div class="container">
+    <div class="facts">
+      <div><span class="k">Full form</span><span class="v">{exam.full}</span></div>
+      <div><span class="k">Conducting body</span><span class="v">{exam.body}</span></div>
+      <div><span class="k">Level</span><span class="v">{exam.level}</span></div>
+      <div><span class="k">Stream</span><span class="v">{exam.stream.replace('-', ' ')}</span></div>
+      <div><span class="k">What it gets you</span><span class="v">{exam.for}</span></div>
+    </div>
+
+    {exam.predictor && (
+      <a class="cta-band" href="/predictor">
+        <div>
+          <strong>Predict your colleges for {exam.name}</strong>
+          <span>Free preview from official 2023–2026 closing ranks — Safe / Likely / Dream.</span>
+        </div>
+        <span class="more">Open the predictor →</span>
+      </a>
+    )}
+
+    {exam.guides && exam.guides.length > 0 && (
+      <section class="block">
+        <h2>Counselling guides</h2>
+        <div class="post-grid">
+          {exam.guides.map((g) => (
+            <a class="post-card" href={g.href}><h3>{g.label}</h3><span class="more">Read guide →</span></a>
+          ))}
+        </div>
+      </section>
+    )}
+
+    <section class="block">
+      <h2>Official source</h2>
+      <p>Always verify dates and eligibility on the official site: <a href={exam.official} rel="nofollow noopener" target="_blank">{exam.official}</a></p>
+    </section>
+  </div>
+
+  <style>
+    .crumb { font-size: .85rem; margin-bottom: .6rem; color: var(--ink-mute); }
+    .crumb a { color: inherit; }
+    .facts { display: grid; gap: .1rem; border: 1px solid var(--line); border-radius: 14px; overflow: hidden; margin: 1.4rem 0; }
+    .facts > div { display: grid; grid-template-columns: 11rem 1fr; gap: 1rem; padding: .8rem 1.1rem; background: var(--paper); border-bottom: 1px solid var(--line); }
+    .facts > div:last-child { border-bottom: 0; }
+    .facts .k { font-weight: 600; color: var(--ink-mute); }
+    @media (max-width: 560px) { .facts > div { grid-template-columns: 1fr; gap: .15rem; } }
+    .cta-band { display: flex; align-items: center; justify-content: space-between; gap: 1rem; flex-wrap: wrap;
+      background: var(--cream-2); border: 1px solid var(--line); border-radius: 16px; padding: 1.2rem 1.4rem; margin: 1.4rem 0; text-decoration: none; color: inherit; }
+    .cta-band strong { display: block; font-size: 1.15rem; }
+    .cta-band span { color: var(--ink-mute); }
+    .cta-band .more { white-space: nowrap; font-weight: 600; color: #b9761c; }
+    .block { margin: 2rem 0; }
+  </style>
+</BaseLayout>

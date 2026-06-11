@@ -1,0 +1,36 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { SITE } from '../../consts';
+
+const all = (await getCollection('questions')).sort((a, b) => a.data.title.localeCompare(b.data.title));
+const pageSize = 48;
+const totalPages = Math.ceil(all.length / pageSize);
+const items = all.slice(0, pageSize);
+---
+<BaseLayout
+  title={`Student Questions — JEE, JoSAA & Admissions Answered | ${SITE.name}`}
+  description="Real student questions on JEE ranks, JoSAA choice filling, branches, cutoffs and admissions — answered in plain English.">
+  <section class="container hub-hero">
+    <span class="kicker"><svg class="ic"><use href="#i-search"/></svg>{all.length.toLocaleString('en-IN')} answered</span>
+    <h1>Student Questions</h1>
+    <p>Real questions from students about ranks, choice filling, branches, cutoffs and admissions — answered simply.</p>
+  </section>
+  <div class="container">
+    <div class="post-grid">
+      {items.map((p) => (
+        <a class="post-card" href={`/questions/${p.id}`}>
+          <h3>{p.data.title}</h3>
+          <p>{p.data.description}</p>
+          <span class="more">See the answer →</span>
+        </a>
+      ))}
+    </div>
+    {totalPages > 1 && (
+      <nav class="pager" aria-label="Pagination">
+        <span>Page 1 of {totalPages}</span>
+        <a href="/questions/page/2" class="btn btn-ghost">Next →</a>
+      </nav>
+    )}
+  </div>
+</BaseLayout>

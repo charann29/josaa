@@ -1,0 +1,32 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { SITE } from '../../consts';
+import { EXAMS } from '../../lib/exams';
+const ld = {
+  '@context': 'https://schema.org', '@type': 'ItemList',
+  itemListElement: EXAMS.map((e, i) => ({ '@type': 'ListItem', position: i + 1, url: new URL(`/exams/${e.slug}`, SITE.url).href, name: e.name })),
+};
+---
+<BaseLayout
+  title={`Entrance Exams 2026 — JEE, NEET, EAMCET, CAT, CLAT | ${SITE.name}`}
+  description="All major Indian entrance exams in one place — JEE Main, JEE Advanced, NEET, TS/AP EAMCET, MHT CET, CAT, CLAT, GATE, BITSAT — with predictors, cutoffs and counselling guides."
+  keywords="entrance exams 2026, jee main, jee advanced, neet, ts eamcet, ap eapcet, mht cet, cat, clat, gate, bitsat, college predictor">
+  <Fragment slot="head"><script type="application/ld+json" set:html={JSON.stringify(ld)} /></Fragment>
+  <section class="container hub-hero">
+    <span class="kicker"><svg class="ic"><use href="#i-list"/></svg>Entrance exams</span>
+    <h1>Entrance Exams</h1>
+    <p>Pick your exam to see what it gets you, key dates, a college predictor where available, and counselling guides.</p>
+  </section>
+  <div class="container">
+    <div class="post-grid">
+      {EXAMS.map((e) => (
+        <a class="post-card" href={`/exams/${e.slug}`}>
+          <span class="tag">{e.level} · {e.stream.replace('-', ' ')}</span>
+          <h3>{e.name}</h3>
+          <p>{e.blurb}</p>
+          <span class="more">{e.predictor ? 'Predict colleges →' : 'View exam →'}</span>
+        </a>
+      ))}
+    </div>
+  </div>
+</BaseLayout>

@@ -1,0 +1,13 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import headHtml from '../../_eduvale/reservation-policy.head.html?raw';
+import body from '../../_eduvale/reservation-policy.body.html?raw';
+import inlineJs from '../../_eduvale/reservation-policy.inline.js?raw';
+const title = "TG/AP - EAPCET/ECET Reservation System 2026 - Category & Quota Guide | BeingWise";
+const description = "Complete guide to TG EAPCET (TS EAMCET) TG ECET reservations. Learn about categories (BC, SC, SC_I sub-categorisation, ST, EWS), special quotas (CAP, EWA, NCC), region-wise seats, fee reimbursement and eligibility rules.";
+---
+<BaseLayout title={title} description={description} chrome={false}>
+  <Fragment slot="head" set:html={headHtml} />
+  <Fragment set:html={body} />
+  <script is:inline set:html={inlineJs} />
+</BaseLayout>

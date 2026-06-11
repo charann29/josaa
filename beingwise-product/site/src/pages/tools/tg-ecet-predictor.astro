@@ -1,0 +1,13 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import headHtml from '../../_eduvale/tg-ecet-predictor.head.html?raw';
+import body from '../../_eduvale/tg-ecet-predictor.body.html?raw';
+import inlineJs from '../../_eduvale/tg-ecet-predictor.inline.js?raw';
+const title = "TG ECET 2026 College Predictor | Telangana Lateral Entry Counseling";
+const description = "Predict TG ECET 2026 college allotments instantly by rank, category, gender, region & quota. See closing ranks for all branches using official Telangana ECET counseling data.";
+---
+<BaseLayout title={title} description={description} chrome={false}>
+  <Fragment slot="head" set:html={headHtml} />
+  <Fragment set:html={body} />
+  <script is:inline set:html={inlineJs} />
+</BaseLayout>

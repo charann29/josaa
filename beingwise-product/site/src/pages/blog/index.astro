@@ -1,0 +1,172 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { SITE } from '../../consts';
+
+const all = (await getCollection('blog')).filter((p) => !p.data.draft);
+
+// Curated, hand-written JoSAA playbook vs. the imported exam/admission corpus.
+const isNews = (p: any) => p.data.author === 'CollegeDost';
+const guides = all
+  .filter((p) => !isNews(p))
+  .sort((a, b) => +new Date(b.data.pubDate) - +new Date(a.data.pubDate));
+const pillar = guides.find((p) => p.data.pillar);
+const curated = guides.filter((p) => p !== pillar);
+
+const news = all
+  .filter(isNews)
+  .sort((a, b) => +new Date(b.data.pubDate) - +new Date(a.data.pubDate));
+
+// Category chips, most-covered first.
+const counts = new Map<string, number>();
+for (const p of news) counts.set(p.data.theme, (counts.get(p.data.theme) ?? 0) + 1);
+const themes = [...counts.entries()].sort((a, b) => b[1] - a[1]);
+
+const fmtDate = (d: any) =>
+  new Date(d).toLocaleDateString('en-IN', { month: 'short', year: 'numeric' });
+
+// JSON-LD scoped to the curated guides (the corpus is excluded from sitemap too).
+const itemListLd = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  itemListElement: guides.map((p, i) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    url: new URL(`/blog/${p.id}`, SITE.url).href,
+    name: p.data.title,
+  })),
+};
+---
+<BaseLayout
+  title={`JoSAA & JEE Counselling Guides 2026 | ${SITE.name} Blog`}
+  description="Plain-English JoSAA & CSAB counselling guides plus the latest exam & admission updates — choice-filling order, float/freeze/slide, branch vs college, quotas, documents and scams.">
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify(itemListLd)} />
+  </Fragment>
+
+  <section class="container blog-hero">
+    <span class="kicker"><svg class="ic"><use href="#i-list"/></svg>JoSAA 2026 knowledge base</span>
+    <h1>Everything you need to fill JoSAA right.</h1>
+    <p>Honest, plain-English guides for Indian engineering aspirants and parents — plus {news.length.toLocaleString('en-IN')} exam &amp; admission updates across JEE, EAMCET, KCET, WBJEE, CUET and more. Built on official 2023–2026 closing-rank data.</p>
+  </section>
+
+  <div class="container">
+    <!-- Curated playbook -->
+    <div class="sec-head">
+      <h2><svg class="ic"><use href="#i-spark"/></svg>Start here · the JoSAA playbook</h2>
+      <p>Hand-written by the BeingWise team. Read these before you fill a single choice.</p>
+    </div>
+
+    {pillar && (
+      <a class="feature-card" href={`/blog/${pillar.id}`}>
+        <div class="fc-body">
+          <span class="tag">Start here · Complete guide</span>
+          <h3>{pillar.data.title}</h3>
+          <p>{pillar.data.description}</p>
+          <span class="more">Read the full guide <span class="arr">→</span></span>
+        </div>
+      </a>
+    )}
+
+    <div class="post-grid">
+      {curated.map((p) => (
+        <a class="post-card" href={`/blog/${p.id}`}>
+          <span class="tag">{p.data.theme.replace(/_/g, ' ')}</span>
+          <h3>{p.data.title}</h3>
+          <p>{p.data.description}</p>
+          <span class="more">Read more →</span>
+        </a>
+      ))}
+    </div>
+
+    <!-- News / corpus -->
+    <div class="sec-head" id="updates">
+      <h2><svg class="ic"><use href="#i-bell"/></svg>Latest exam &amp; admission updates</h2>
+      <p>Dates, results, cutoffs and analysis across every major entrance exam. Filter by exam or search by title.</p>
+    </div>
+
+    <div class="filter-bar">
+      <div class="search-wrap">
+        <svg class="ic"><use href="#i-search"/></svg>
+        <input id="blogSearch" type="search" placeholder="Search updates — e.g. JEE answer key, EAMCET hall ticket…" aria-label="Search updates" autocomplete="off" />
+      </div>
+      <div class="chips" role="tablist" aria-label="Filter by exam">
+        <button class="chip is-active" data-theme="all" type="button">All <span class="c">{news.length}</span></button>
+        {themes.map(([t, n]) => (
+          <button class="chip" data-theme={t.toLowerCase()} type="button">{t} <span class="c">{n}</span></button>
+        ))}
+      </div>
+    </div>
+
+    <p class="count-line"><strong id="visCount">{news.length}</strong> <span id="visLabel">updates</span></p>
+
+    <div class="news-grid" id="newsGrid">
+      {news.map((p) => (
+        <a class="news-card" href={`/blog/${p.id}`}
+           data-theme={p.data.theme.toLowerCase()}
+           data-title={p.data.title.toLowerCase()}>
+          <span class="news-tag">{p.data.theme}</span>
+          <h3>{p.data.title}</h3>
+          <p>{p.data.description}</p>
+          <span class="news-meta"><svg class="ic"><use href="#i-cal"/></svg>{fmtDate(p.data.pubDate)}</span>
+        </a>
+      ))}
+    </div>
+
+    <p class="no-results" id="noResults" hidden>No updates match your search. <button type="button" id="clearFilters" class="linklike">Clear filters</button></p>
+  </div>
+
+  <script is:inline>
+    (function () {
+      var search = document.getElementById('blogSearch');
+      var grid = document.getElementById('newsGrid');
+      if (!grid) return;
+      var cards = Array.prototype.slice.call(grid.querySelectorAll('.news-card'));
+      var chips = Array.prototype.slice.call(document.querySelectorAll('.chip'));
+      var visCount = document.getElementById('visCount');
+      var visLabel = document.getElementById('visLabel');
+      var noResults = document.getElementById('noResults');
+      var clearBtn = document.getElementById('clearFilters');
+      var theme = 'all';
+      var themeLabel = '';
+
+      function apply() {
+        var raw = (search.value || '').trim();
+        var q = raw.toLowerCase();
+        var shown = 0;
+        for (var i = 0; i < cards.length; i++) {
+          var c = cards[i];
+          var okT = theme === 'all' || c.getAttribute('data-theme') === theme;
+          var okQ = !q || c.getAttribute('data-title').indexOf(q) !== -1;
+          var vis = okT && okQ;
+          c.hidden = !vis;
+          if (vis) shown++;
+        }
+        visCount.textContent = shown.toLocaleString('en-IN');
+        var label = shown === 1 ? 'update' : 'updates';
+        if (theme !== 'all') label += ' in ' + themeLabel;
+        if (q) label += ' matching “' + raw + '”';
+        visLabel.textContent = label;
+        noResults.hidden = shown !== 0;
+        grid.hidden = shown === 0;
+      }
+
+      search.addEventListener('input', apply);
+      chips.forEach(function (chip) {
+        chip.addEventListener('click', function () {
+          chips.forEach(function (c) { c.classList.remove('is-active'); });
+          chip.classList.add('is-active');
+          theme = chip.getAttribute('data-theme');
+          themeLabel = (chip.childNodes[0].textContent || '').trim();
+          chip.scrollIntoView({ block: 'nearest', inline: 'center' });
+          apply();
+        });
+      });
+      if (clearBtn) clearBtn.addEventListener('click', function () {
+        search.value = ''; theme = 'all';
+        chips.forEach(function (c) { c.classList.toggle('is-active', c.getAttribute('data-theme') === 'all'); });
+        apply();
+      });
+    })();
+  </script>
+</BaseLayout>

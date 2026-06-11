@@ -1,0 +1,117 @@
+---
+import '../styles/global.css';
+import { SITE } from '../consts';
+import IconSprite from '../components/IconSprite.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+
+interface Props {
+  title: string;
+  description: string;
+  keywords?: string;
+  ogImage?: string;
+  type?: 'website' | 'article';
+  noindex?: boolean;
+  chrome?: boolean;          // include shared header/footer
+}
+// Sitewide default keyword set (per-page `keywords` prop overrides).
+const DEFAULT_KEYWORDS =
+  'josaa college predictor, jee main college predictor, josaa counselling 2026, csab special round, jee main rank to college, engineering admission india';
+const {
+  title,
+  description,
+  keywords = DEFAULT_KEYWORDS,
+  ogImage = SITE.defaultOgImage,
+  type = 'website',
+  noindex = false,
+  chrome = true,
+} = Astro.props;
+
+const canonical = new URL(Astro.url.pathname, SITE.url).href;
+const ogImageAbs = new URL(ogImage, SITE.url).href;
+const robotsContent = noindex
+  ? 'noindex, nofollow'
+  : 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1';
+const FONTS_HREF =
+  'https://fonts.googleapis.com/css2?family=Geist:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap';
+
+// Sitewide JSON-LD: Organization + WebSite (enables sitelinks search box + brand entity)
+const orgLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: SITE.name,
+  url: SITE.url,
+  logo: new URL('/logo.png', SITE.url).href,
+  description: SITE.description,
+  sameAs: [],
+};
+const siteLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: SITE.name,
+  url: SITE.url,
+  inLanguage: 'en-IN',
+  potentialAction: {
+    '@type': 'SearchAction',
+    target: `${SITE.url}/search?q={search_term_string}`,
+    'query-input': 'required name=search_term_string',
+  },
+};
+---
+<!doctype html>
+<html lang="en-IN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#2347f0" />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="/logo.png" />
+
+  <!-- Preconnect + non-blocking Google Fonts (Geist) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="preload" as="style" href={FONTS_HREF} />
+  <link rel="stylesheet" href={FONTS_HREF} media="print" onload="this.media='all'" />
+  <noscript><link rel="stylesheet" href={FONTS_HREF} /></noscript>
+
+  <title>{title}</title>
+  <meta name="description" content={description} />
+  <meta name="keywords" content={keywords} />
+  <meta name="author" content={SITE.name} />
+  <link rel="canonical" href={canonical} />
+  <meta name="robots" content={robotsContent} />
+  <meta name="googlebot" content={robotsContent} />
+
+  <!-- Open Graph -->
+  <meta property="og:type" content={type} />
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  <meta property="og:url" content={canonical} />
+  <meta property="og:site_name" content={SITE.name} />
+  <meta property="og:locale" content={SITE.locale} />
+  <meta property="og:image" content={ogImageAbs} />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:image:alt" content={title} />
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content={SITE.twitter} />
+  <meta name="twitter:creator" content={SITE.twitter} />
+  <meta name="twitter:title" content={title} />
+  <meta name="twitter:description" content={description} />
+  <meta name="twitter:image" content={ogImageAbs} />
+  <meta name="twitter:image:alt" content={title} />
+
+  <link rel="alternate" type="application/rss+xml" title={`${SITE.name} Blog`} href="/rss.xml" />
+
+  <script type="application/ld+json" set:html={JSON.stringify(orgLd)} />
+  <script type="application/ld+json" set:html={JSON.stringify(siteLd)} />
+  <slot name="head" />
+</head>
+<body>
+  <IconSprite />
+  {chrome && <Header />}
+  <slot />
+  {chrome && <Footer />}
+</body>
+</html>

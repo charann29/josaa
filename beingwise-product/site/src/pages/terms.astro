@@ -1,0 +1,41 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE, PRICES, LINKS } from '../consts';
+const updated = new Date().toLocaleDateString('en-IN', { day: 'numeric', month: 'long', year: 'numeric' });
+---
+<BaseLayout title={`Terms & Conditions | ${SITE.name}`} description={`Terms of use for ${SITE.name} — services, pricing, refunds and disclaimers.`}>
+  <main class="container article">
+    <article class="prose" style="padding-top:24px">
+      <h1>Terms &amp; Conditions</h1>
+      <p><em>Last updated: {updated}</em></p>
+      <p>By using {SITE.name} you agree to these terms. Please read them before purchasing any service.</p>
+
+      <h2>What we provide</h2>
+      <ul>
+        <li>A free college predictor and free guides, for general guidance.</li>
+        <li>Paid services: a self-serve plan with the Decision Copilot ({PRICES.plan}), and an optional done-for-you option-entry service ({PRICES.doneForYou}).</li>
+      </ul>
+
+      <h2>Guidance, not a guarantee</h2>
+      <p>All predictions and recommendations are <strong>estimates based on past official data</strong>. Cut-offs, fees, dates and rules change every year. We do <strong>not</strong> guarantee any seat, rank, college or outcome. You submit and lock your own choices on the official portal. {SITE.name} is <strong>independent and not affiliated with JoSAA, CSAB, NTA or any government body</strong>.</p>
+
+      <h2>Payments</h2>
+      <p>Prices are shown on the site and charged via a third-party payment gateway. You are responsible for entering accurate information (rank, category, preferences) — our guidance is only as good as the details you provide.</p>
+
+      <h2>Refunds</h2>
+      <p>If we are not the right fit for you, contact us — for the self-serve plan we offer a refund before significant work is delivered, and for the done-for-you service you may request a refund if we have not yet entered your options. Refunds are processed to the original payment method. (Update this clause to match your final refund policy before launch.)</p>
+
+      <h2>Acceptable use</h2>
+      <p>Do not scrape, resell, or misrepresent our content as official. Content is for personal, non-commercial use.</p>
+
+      <h2>Limitation of liability</h2>
+      <p>To the extent permitted by law, {SITE.name} is not liable for admission outcomes or losses arising from decisions you make using our guidance. Always verify on official sources before acting.</p>
+
+      <h2>Governing law</h2>
+      <p>These terms are governed by the laws of India.</p>
+
+      <h2>Contact</h2>
+      <p><a href="/contact">Contact us</a> or email <a href={LINKS.email}>our team</a> with any questions.</p>
+    </article>
+  </main>
+</BaseLayout>

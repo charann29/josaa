@@ -1,0 +1,13 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import headHtml from '../../_eduvale/tg-college-directory.head.html?raw';
+import body from '../../_eduvale/tg-college-directory.body.html?raw';
+import inlineJs from '../../_eduvale/tg-college-directory.inline.js?raw';
+const title = "Top Engineering Colleges in Telangana 🎓 - EAPCET/ECET 2025";
+const description = "Discover top engineering colleges in Telangana with comprehensive filters for exam type (EAPCET/ECET), education type, college type, location, and fee range. Find the perfect college for your engineering aspirations.";
+---
+<BaseLayout title={title} description={description} chrome={false}>
+  <Fragment slot="head" set:html={headHtml} />
+  <Fragment set:html={body} />
+  <script is:inline set:html={inlineJs} />
+</BaseLayout>

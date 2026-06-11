@@ -1,0 +1,41 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { SITE } from '../../consts';
+
+const all = (await getCollection('colleges')).sort((a, b) => a.data.name.localeCompare(b.data.name));
+const pageSize = 48;
+const totalPages = Math.ceil(all.length / pageSize);
+const items = all.slice(0, pageSize);
+// top cities for internal linking
+const cityCount: Record<string, number> = {};
+for (const e of all) if (e.data.city) cityCount[e.data.city] = (cityCount[e.data.city] ?? 0) + 1;
+const topCities = Object.entries(cityCount).sort((a, b) => b[1] - a[1]).slice(0, 12);
+---
+<BaseLayout
+  title={`Colleges in India — Fees, Cutoffs, Admission & Placements | ${SITE.name}`}
+  description="Browse colleges across India — courses, fees, admission, cutoffs, ranking and placements explained simply for students and parents.">
+  <section class="container hub-hero">
+    <span class="kicker"><svg class="ic"><use href="#i-map"/></svg>{all.length.toLocaleString('en-IN')} colleges</span>
+    <h1>Colleges in India</h1>
+    <p>Courses, fees, admission, cutoffs, ranking and placements — explained simply.</p>
+    {topCities.length > 0 && (
+      <p style="margin-top:10px;font-size:.9rem">Popular cities: {topCities.map(([c], i) => <>{i > 0 && ' · '}<a href={`/colleges?city=${encodeURIComponent(c)}`} style="color:var(--accent-deep)">{c}</a></>)}</p>
+    )}
+  </section>
+  <div class="container">
+    <div class="post-grid">
+      {items.map((p) => (
+        <a class="post-card" href={`/colleges/${p.id}`}>
+          {p.data.city && <span class="tag">{p.data.city}</span>}
+          <h3>{p.data.name}</h3>
+          <p>{p.data.description}</p>
+          <span class="more">{p.data.rating ? `★ ${p.data.rating} · ` : ''}View details →</span>
+        </a>
+      ))}
+    </div>
+    {totalPages > 1 && (
+      <nav class="pager"><span>Page 1 of {totalPages}</span><a href="/colleges/page/2" class="btn btn-ghost">Next →</a></nav>
+    )}
+  </div>
+</BaseLayout>

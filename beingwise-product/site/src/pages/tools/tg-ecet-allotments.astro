@@ -1,0 +1,13 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import headHtml from '../../_eduvale/tg-ecet-allotments.head.html?raw';
+import body from '../../_eduvale/tg-ecet-allotments.body.html?raw';
+import inlineJs from '../../_eduvale/tg-ecet-allotments.inline.js?raw';
+const title = "TG ECET College Wise Branch Wise Seat Allotment 2025 | TS ECET Closing Ranks & Cutoff | BeingWise";
+const description = "Find TG ECET 2025 college wise and branch wise seat allotment details, closing ranks, and category cutoffs for all Telangana lateral entry engineering colleges. Explore TS ECET counselling data, seat availability, and admission trends instantly.";
+---
+<BaseLayout title={title} description={description} chrome={false}>
+  <Fragment slot="head" set:html={headHtml} />
+  <Fragment set:html={body} />
+  <script is:inline set:html={inlineJs} />
+</BaseLayout>
