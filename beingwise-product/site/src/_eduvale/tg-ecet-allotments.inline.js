@@ -121,7 +121,7 @@ $(function(){
             type:'pie',
             data:{
                 labels: Object.keys(genderCounts),
-                datasets:[{ data:Object.values(genderCounts), backgroundColor:['#4e73df','#1cc88a','#f6c23e','#e74a3b'] }]
+                datasets:[{ data:Object.values(genderCounts), backgroundColor:['#4edfd0','#1cc88a','#f6c23e','#e74a3b'] }]
             },
             options:{ plugins:{ title:{ display:true, text:'Gender Distribution' } } }
         });
@@ -134,7 +134,7 @@ $(function(){
             type:'bar',
             data:{
                 labels: Object.keys(catCounts),
-                datasets:[{ label:'Seats Allotted', data:Object.values(catCounts), backgroundColor:'#36b9cc' }]
+                datasets:[{ label:'Seats Allotted', data:Object.values(catCounts), backgroundColor:'#36ccbd' }]
             },
             options:{
                 plugins:{ title:{ display:true, text:'Category Wise Seat Distribution (TG ECET 2025)' } },

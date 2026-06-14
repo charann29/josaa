@@ -541,6 +541,15 @@ function epFaq(i) {
     for (var i=0;i<hist.length;i++){ var w=hist.length-i; sw+=w; sv+=w*hist[i].rank; }
     return Math.round(sv/sw);
   }
+  // Frequency band: across the last N years' closing ranks, how often THIS rank would
+  // have cleared. Honest about volatile branches a single cutoff hides. Null when <2 yrs.
+  function freqBand(rank, finals){
+    if (!finals || finals.length < 2) return null;
+    var hits=0; for (var i=0;i<finals.length;i++){ if (rank <= finals[i]) hits++; }
+    var n=finals.length, r=hits/n;
+    var lc = r>=0.8 ? ['Safe','#2c6a47'] : r>=0.5 ? ['Likely','#bd7a18'] : r>=0.2 ? ['Reach','#c0492b'] : ['Long shot','#8a8a8a'];
+    return { label:lc[0], color:lc[1], hits:hits, n:n };
+  }
   function esc(s){ return String(s==null?'':s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];}); }
 
   form.addEventListener('submit', async function(e){
@@ -563,15 +572,16 @@ function epFaq(i) {
     var cands = keysFor(cat, reg, gen);
     var rows = [];
     data.forEach(function(rec){
-      var close = rec.close||{}, worst = rec.closingWorst||{}, fin = rec.final2025||{}, hist = rec.history||{};
+      var close = rec.close||{}, worst = rec.closingWorst||{}, fin = rec.final2025||{}, finals = rec.finals||{};
       var key = null;
       for (var i=0;i<cands.length;i++){ if (close[cands[i]] != null){ key = cands[i]; break; } }
       if (!key) return;
-      var c = close[key], w = worst[key]!=null?worst[key]:c, f = fin[key];
+      var c = close[key], w = worst[key]!=null?worst[key]:c, f = fin[key], farr = finals[key]||[];
       var ceiling = Math.round(w * 1.10);
       if (rank > ceiling) return;
-      var band = rank <= c ? ['High','#2c6a47'] : rank <= (f||w) ? ['Good','#bd7a18'] : rank <= w ? ['Fair','#c0492b'] : ['Reach','#8a8a8a'];
-      rows.push({ inst: rec.inst, branch: rec.branchFull||rec.branch, seat: key, wavg: wavg(hist[key]), fin: f, close: c, band: band, hist: hist[key]||[] });
+      var fb = freqBand(rank, farr);
+      var band = fb ? [fb.label, fb.color] : (rank <= c ? ['High','#2c6a47'] : rank <= (f||w) ? ['Good','#bd7a18'] : rank <= w ? ['Fair','#c0492b'] : ['Reach','#8a8a8a']);
+      rows.push({ inst: rec.inst, branch: rec.branchFull||rec.branch, seat: key, fin: f, close: c, band: band, hits: fb?fb.hits:null, n: fb?fb.n:null, finals: farr });
     });
     rows.sort(function(a,b){ return (a.close||9e9) - (b.close||9e9); });
     if (!rows.length){
@@ -586,10 +596,10 @@ function epFaq(i) {
     var planURL = '/plan?rank=' + encodeURIComponent(rank) + '&state=' + STATE + '&cat=' + encodeURIComponent(cat);
     // Handoff CTA — the reason a predictor exists is to feed the solver.
     var cta = '<div style="display:flex;flex-wrap:wrap;gap:14px;align-items:center;justify-content:space-between;'
-      + 'border:1px solid rgba(35,71,240,.22);background:#eef2fe;border-radius:14px;padding:16px 20px;margin:0 0 18px">'
+      + 'border:1px solid rgba(35,240,220,.22);background:#eefefc;border-radius:14px;padding:16px 20px;margin:0 0 18px">'
       + '<div style="max-width:560px"><strong style="font-size:1rem">Knowing you can get in is step one.</strong>'
       + '<div style="opacity:.82;font-size:.9rem;margin-top:2px">Now build the <b>exact order to freeze</b> on the portal &mdash; Dream / Likely / Secure, with a safety floor so you never end with nothing.</div></div>'
-      + '<a href="' + planURL + '" style="white-space:nowrap;background:#181d26;color:#fff;font-weight:600;text-decoration:none;padding:12px 20px;border-radius:999px">Build my freeze list &rarr;</a>'
+      + '<a href="' + planURL + '" style="white-space:nowrap;background:#182625;color:#fff;font-weight:600;text-decoration:none;padding:12px 20px;border-radius:999px">Build my freeze list &rarr;</a>'
       + '</div>';
     var shownN = Math.min(CAP, rows.length);
     var h = '<h2 style="font-weight:800;margin:0 0 6px">'+(hidden?('Top '+shownN+' of '+rows.length):rows.length)+' colleges you can realistically target</h2>'
@@ -597,21 +607,23 @@ function epFaq(i) {
       + cta
       + '<div style="overflow:auto;border:1px solid #e7d9c4;border-radius:14px">'
       + '<table class="table table-hover align-middle mb-0" style="min-width:760px"><thead style="background:#faf6ef">'
-      + '<tr><th>COLLEGE</th><th>BRANCH</th><th>SEAT CATEGORY</th><th class="text-end">WEIGHTED AVG RANK</th><th class="text-end">2025 FINAL CUTOFF</th><th>TRENDS</th></tr></thead><tbody>';
+      + '<tr><th>COLLEGE</th><th>BRANCH</th><th>SEAT CATEGORY</th><th class="text-end">TRACK RECORD</th><th class="text-end">2025 FINAL CUTOFF</th><th>CLOSINGS</th></tr></thead><tbody>';
     rows.forEach(function(r, i){
       var extra = i >= CAP;
+      var track = r.n ? (esc(r.hits)+' of '+esc(r.n)+' yrs') : '&ndash;';
       h += '<tr' + (extra?' class="bw-extra" style="display:none"':'') + '>'
         + '<td>'+esc(r.inst)+'</td>'
         + '<td>'+esc(r.branch)+'<div><span style="font-size:.72rem;font-weight:700;color:'+r.band[1]+'">'+r.band[0]+' chance</span></div></td>'
         + '<td><code>'+esc(r.seat)+'</code></td>'
-        + '<td class="text-end">'+(r.wavg!=null?esc(r.wavg):'&ndash;')+'</td>'
+        + '<td class="text-end" title="In the last '+esc(r.n||0)+' years, your rank would have cleared this seat '+esc(r.hits||0)+' time(s)">'+track+'</td>'
         + '<td class="text-end">'+(r.fin!=null?esc(r.fin):'&ndash;')+'</td>'
-        + '<td>'+(r.hist.length?'<button type="button" class="btn btn-sm btn-outline-secondary" data-bwt="'+i+'">Trends</button>':'&ndash;')+'</td>'
+        + '<td>'+(r.finals.length?'<button type="button" class="btn btn-sm btn-outline-secondary" data-bwt="'+i+'">Closings</button>':'&ndash;')+'</td>'
         + '</tr>';
-      if (r.hist.length){
+      if (r.finals.length){
         h += '<tr id="bwt-'+i+'" style="display:none"><td colspan="6" style="background:#fbfaf7">'
-          + '<div style="display:flex;flex-wrap:wrap;gap:8px">'
-          + r.hist.map(function(p){ return '<span style="font-size:.78rem;border:1px solid #e7d9c4;border-radius:8px;padding:4px 9px"><b>'+esc(p.label.replace(/_/g,' '))+'</b>: '+esc(p.rank)+'</span>'; }).join('')
+          + '<div style="display:flex;flex-wrap:wrap;gap:8px;align-items:center">'
+          + '<span style="font-size:.78rem;opacity:.7">Last closings (newest first):</span>'
+          + r.finals.map(function(rk){ return '<span style="font-size:.78rem;border:1px solid #e7d9c4;border-radius:8px;padding:4px 9px">'+esc(rk)+'</span>'; }).join('')
           + '</div></td></tr>';
       }
     });

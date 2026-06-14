@@ -2,18 +2,19 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { SITE, PRICES } from '../consts';
 
-// TS/AP EAMCET-first landing. beingWise is the *solver*, not a predictor:
-// it builds the exact ordered web-options list to freeze and flags the
-// mistakes that quietly decide a Telugu student's seat.
+// EAMCET-first landing. beingWise is the *solver*, not a predictor:
+// you upload your rank, it returns the exact ordered web-options list to freeze,
+// adds guaranteed safe backups, and warns before every costly mistake.
+// Copy is deliberately plain — short sentences a TS/AP student & parent read easily.
 
 const serviceLd = {
   '@context': 'https://schema.org', '@type': 'Service',
-  name: 'TS & AP EAMCET Web Options & JoSAA Choice-Filling Help',
+  name: 'TS & AP EAMCET Web Options Order & Choice-Filling Help',
   serviceType: 'Engineering admission web-options planning',
   provider: { '@type': 'Organization', name: SITE.name, url: SITE.url },
   areaServed: 'IN',
   audience: { '@type': 'Audience', audienceType: 'TS EAMCET, AP EAPCET & JoSAA aspirants' },
-  description: 'BeingWise builds the exact ordered web-options list you should freeze on TS EAMCET, AP EAPCET and JoSAA, with a Decision Copilot that flags every mistake before you lock.',
+  description: 'Upload your EAMCET rank and beingWise returns the exact ordered web-options list to freeze — with guaranteed safe backup colleges and a warning before every costly mistake.',
   offers: [
     { '@type': 'Offer', name: 'Your plan + Copilot', price: '799', priceCurrency: 'INR', url: SITE.url + '/plan' },
     { '@type': 'Offer', name: 'Done for you', price: '3999', priceCurrency: 'INR', url: SITE.url + '/plan' },
@@ -22,17 +23,17 @@ const serviceLd = {
 const faqLd = {
   '@context': 'https://schema.org', '@type': 'FAQPage',
   mainEntity: [
-    { '@type': 'Question', name: 'Is this a college predictor?', acceptedAnswer: { '@type': 'Answer', text: 'No. A predictor stops at "where might I get in." BeingWise is the solver — it builds the exact ordered web-options list you should freeze, padded with a safe floor, and flags every mistake before you lock. The free rank check is the starting point.' } },
-    { '@type': 'Question', name: 'Why do web options matter more than my rank?', acceptedAnswer: { '@type': 'Answer', text: 'Two students with the same TS/AP EAMCET rank and category land in very different colleges purely because of the order they freeze their options. Allotment scans top-to-bottom and stops at the first match — so the order is the decision, not the rank.' } },
-    { '@type': 'Question', name: 'Do you support both TS EAMCET and AP EAPCET?', acceptedAnswer: { '@type': 'Answer', text: 'Yes — TS EAMCET (TG EAPCET) and AP EAPCET, with category and local region (OU / AU / SVU) handled. JoSAA (NIT/IIIT/GFTI) is supported through our separate free predictor.' } },
-    { '@type': 'Question', name: 'Do you ever freeze my options for me?', acceptedAnswer: { '@type': 'Answer', text: 'Never. We build and order the list and catch mistakes, but that final freeze on the official portal is always your click. We are paid by you, never by colleges, and we never sell your number.' } },
+    { '@type': 'Question', name: 'Is this just a college predictor?', acceptedAnswer: { '@type': 'Answer', text: 'No. A predictor only tells you which colleges you might get. beingWise gives you the full list in the exact order to freeze, adds safe backup colleges so you never get zero seats, and warns you before every mistake. You upload your rank — we do the deciding.' } },
+    { '@type': 'Question', name: 'Why does the order matter more than my rank?', acceptedAnswer: { '@type': 'Answer', text: 'Two students with the same rank and category get very different colleges — only because of the order they freeze. Allotment reads your list top to bottom and stops at the first college you can get. So the order is the real decision.' } },
+    { '@type': 'Question', name: 'Do you support both TS EAMCET and AP EAPCET?', acceptedAnswer: { '@type': 'Answer', text: 'Yes — TS EAMCET (TG EAPCET) and AP EAPCET, with your category and local region (OU / AU / SVU) handled. JoSAA (NIT/IIIT) is covered by our free predictor.' } },
+    { '@type': 'Question', name: 'Will you freeze my options for me?', acceptedAnswer: { '@type': 'Answer', text: 'Never. We build the list, put it in order and catch your mistakes — but the final freeze on the official portal is always your own click. We are paid by you, never by colleges, and we never sell your number.' } },
   ],
 };
 ---
 <BaseLayout
-  title="BeingWise — Win the right TS/AP EAMCET & JoSAA seat, not just predict it"
-  description="A predictor guesses where you might get in. BeingWise builds the exact ordered web-options list you should freeze for TS EAMCET, AP EAPCET & JoSAA — and a Decision Copilot flags every mistake before you lock."
-  keywords="ts eamcet web options, ap eapcet web options, tg eapcet 2025, ts eamcet college predictor, ap eamcet college predictor, eamcet choice filling order, eamcet allotments, engineering colleges telangana, college directory ap telangana, josaa college predictor, mht-cet, eduvale">
+  title="beingWise — Upload your rank, get the exact EAMCET web-options order to freeze"
+  description="Upload your TS/AP EAMCET rank. beingWise returns the exact ordered web-options list to freeze — with guaranteed safe backup colleges and a warning before every costly mistake. You freeze it yourself."
+  keywords="ts eamcet web options, ap eapcet web options, eamcet web options order, tg eapcet 2026, ts eamcet college predictor, ap eamcet college predictor, eamcet choice filling order, eamcet allotments, engineering colleges telangana, josaa college predictor">
   <Fragment slot="head">
     <script type="application/ld+json" set:html={JSON.stringify(serviceLd)} />
     <script type="application/ld+json" set:html={JSON.stringify(faqLd)} />
@@ -43,29 +44,30 @@ const faqLd = {
     <div class="container hero-grid">
       <div class="hero-copy">
         <span class="eyebrow"><span class="pulse"></span>TS &amp; AP EAMCET · 2026 Counselling</span>
-        <h1>Your rank is done.<br>Now win the <em>right seat.</em></h1>
-        <p class="sub">A predictor guesses where you <em>might</em> get in. BeingWise builds the exact ordered list you should <b>freeze</b> — and stops you the moment you're about to make a mistake that costs a seat.</p>
+        <h1>Upload your rank.<br>Get the exact order to <em>freeze.</em></h1>
+        <p class="sub">We give you your web options <b>already in the right order</b> — with safe backup colleges added, and a <b>warning before every mistake</b> that can cost you a seat.</p>
         <div class="trustrow">
-          <span><svg class="ic"><use href="#i-shield"/></svg>Never sells your number</span>
-          <span><svg class="ic"><use href="#i-check"/></svg>Built for TS &amp; AP EAMCET</span>
-          <span><svg class="ic"><use href="#i-check"/></svg>We never freeze for you</span>
+          <span><svg class="ic"><use href="#i-shield"/></svg>We never sell your number</span>
+          <span><svg class="ic"><use href="#i-check"/></svg>Made for TS &amp; AP EAMCET</span>
+          <span><svg class="ic"><use href="#i-lock"/></svg>You freeze it yourself</span>
         </div>
       </div>
 
       <form class="rankbox" id="rankForm">
         <span class="eyebrow">Free · no sign-up</span>
-        <label for="rk">What was your EAMCET rank?</label>
+        <label for="rk">Enter your EAMCET rank</label>
         <input id="rk" type="number" inputmode="numeric" min="1" value="18500" required />
         <div class="seg" id="stateSeg">
           <button type="button" data-s="TS" class="on">TS EAMCET</button>
           <button type="button" data-s="AP">AP EAPCET</button>
           <button type="button" data-s="JOSAA">JoSAA</button>
         </div>
-        <label for="ct" class="lbl2">Category</label>
+        <label for="ct" class="lbl2">Your category</label>
         <select id="ct">
           <option value="OC">OC / General</option>
           <option value="BC_B">BC-B</option>
           <option value="SC">SC</option>
+          <option value="ST">ST</option>
         </select>
         <button type="submit" class="btn btn-amber block">Show my colleges →</button>
         <p class="micro">No phone number. No spam. Ever.</p>
@@ -73,35 +75,70 @@ const faqLd = {
     </div>
   </section>
 
-  <!-- DATA PLACE vs SOLVER -->
-  <section class="diffstrip-wrap">
-    <div class="container diffstrip">
-      <div class="diff l">
-        <h4>📚 The data place <span class="muted">(e.g. EduVale)</span></h4>
-        <p>Gives you 10 years of cutoffs and predictions — then leaves you to synthesise it and decide alone, on guesswork, in one irreversible click.</p>
+  <!-- WHAT YOU ACTUALLY GET (the solving proof) -->
+  <section class="show">
+    <div class="container show-grid">
+      <div class="show-copy">
+        <span class="eyebrow">This is what you get</span>
+        <h2>Your colleges — already in the right order.</h2>
+        <p class="show-lead">You don't sit and decide the order. We do it for you, using 10 years of real cutoffs. You just check and freeze.</p>
+        <ul class="show-points">
+          <li><span class="dot d-safe"></span><div><b>Green = safe.</b> Your rank gets it almost for sure. We always add a few, so you <b>never get zero seats</b>.</div></li>
+          <li><span class="dot d-target"></span><div><b>Yellow = your real target.</b> A good college with a good chance — placed where it should be.</div></li>
+          <li><span class="dot d-warn"></span><div><b>Red = stop.</b> The moment your order can lose you a seat, we warn you — before you freeze, not after.</div></li>
+        </ul>
+        <a href="/plan" class="btn btn-amber show-cta">Build my order →</a>
       </div>
-      <div class="diff win">
-        <h4><svg class="ic"><use href="#i-spark"/></svg>BeingWise — the solver</h4>
-        <p>Reads that data <em>for</em> you, builds the exact ordered list, catches the mistakes, and helps you fill the portal. The answer — with the official data right there as proof.</p>
+
+      <!-- phone-style live preview -->
+      <div class="phone" aria-label="Example ordered web-options list">
+        <div class="phone-bar"><span>Your freeze order</span><span class="phone-meta">Rank 18,500 · BC-B · TS</span></div>
+        <ol class="opt-list">
+          <li><span class="rk">1</span><div class="opt-main"><b>CBIT</b><span class="br">CSE</span></div><span class="tag t-reach">Reach · 41%</span></li>
+          <li><span class="rk">2</span><div class="opt-main"><b>VNR VJIET</b><span class="br">CSE</span></div><span class="tag t-reach">Reach · 47%</span></li>
+          <li class="flag-row"><span class="rk">3</span><div class="opt-main"><b>Vasavi</b><span class="br">IT</span></div><span class="tag t-safe">Safe · 96%</span></li>
+          <li><span class="rk">4</span><div class="opt-main"><b>MVSR</b><span class="br">CSE</span></div><span class="tag t-target">Target · 68%</span></li>
+          <li><span class="rk">5</span><div class="opt-main"><b>MGIT</b><span class="br">IT</span></div><span class="tag t-likely">Likely · 88%</span></li>
+          <li class="floor"><span class="rk">6</span><div class="opt-main"><b>CBIT</b><span class="br">ECE</span></div><span class="tag t-safe">Safe · 98%</span></li>
+        </ol>
+        <p class="floor-note"><svg class="ic"><use href="#i-shield"/></svg>Safe floor added — you will get a seat.</p>
+        <div class="warn" role="note">
+          <svg class="ic"><use href="#i-bell"/></svg>
+          <div><b>Stop — option 3 is in the wrong place.</b> Vasavi (safe) is sitting above MVSR-CSE, which you can still get. Allotment will give you the safe one and never look down. <u>Move MVSR-CSE up.</u></div>
+        </div>
       </div>
     </div>
   </section>
 
-  <!-- THE WEB OPTIONS TRAP -->
+  <!-- DATA PLACE vs SOLVER -->
+  <section class="diffstrip-wrap">
+    <div class="container diffstrip">
+      <div class="diff l">
+        <h4>📚 Other sites <span class="muted">(cutoff data places)</span></h4>
+        <p>They show you 10 years of cutoffs and a long college list — then stop. You still have to read it all and decide the order yourself, alone, in one click you can't undo.</p>
+      </div>
+      <div class="diff win">
+        <h4><svg class="ic"><use href="#i-spark"/></svg>beingWise does the deciding</h4>
+        <p>We read the data <em>for</em> you, put your colleges in the right order, add safe backups, and warn you before mistakes. You get the answer — not homework.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- SAME RANK, DIFFERENT SEAT -->
   <section class="trap">
     <div class="container trap-wrap">
       <div class="trap-thesis">
-        <h2>Your rank is the question.<br>Your web options are the answer.</h2>
-        <p class="lead">Two students, same rank and category, end up in very different colleges — purely from how they fill and freeze.</p>
-        <p class="trapnote">None of these are solved by a predictor. They're about the act of filling and freezing — order, region, category, timing, money. <b>That's the layer beingWise solves.</b></p>
+        <h2>Same rank.<br>Different seat.</h2>
+        <p class="lead">Two students with the same rank and category end up in very different colleges — only because of how they fill and freeze.</p>
+        <p class="trapnote">A predictor cannot save you from any of these. They are all about the <b>order, region, category and timing</b> of your list. <b>That is the part beingWise fixes.</b></p>
       </div>
       <ul class="trap-list">
-        <li><span class="n">01</span><div><h4>College-by-college, not one order</h4><p>Allotment scans top-to-bottom and stops at the first match. Group by college and a worse branch gets allotted before a better one sitting lower.</p></div></li>
-        <li><span class="n">04</span><div><h4>A secure college above a reachable better one</h4><p>The system allots the secure one first and never looks below. You're locked into the backup while a winnable seat goes to someone else.</p></div></li>
-        <li><span class="n">05</span><div><h4>No secure floor — only dream colleges</h4><p>Rank reaches none of them → zero allotment, and a scramble into spot rounds with leftover seats.</p></div></li>
-        <li><span class="n">06</span><div><h4>Freezing too early</h4><p>Freeze locks editing — no reacting to the mock allotment. A mistake spotted a day later can't be fixed.</p></div></li>
-        <li><span class="n">10</span><div><h4>The local-region blunder</h4><p>Ranking non-local (OU/AU/SVU) colleges high throws away your local-quota advantage — a worse seat, far from home.</p></div></li>
-        <li><span class="n">12</span><div><h4>Management vs convener confusion</h4><p>Management-quota seats aren't fee-reimbursable. One panic click can cost a family lakhs it qualified to get back.</p></div></li>
+        <li><span class="n">1</span><div><h4>You group by college, not by order</h4><p>Allotment reads top to bottom and stops at the first match. A weaker branch placed higher gets allotted before a better one sitting lower.</p></div></li>
+        <li><span class="n">2</span><div><h4>A safe college above a better reachable one</h4><p>The system gives you the safe one first and never looks down. You are locked into the backup — and the better seat is gone.</p></div></li>
+        <li><span class="n">3</span><div><h4>Only dream colleges, no safe floor</h4><p>If your rank reaches none of them, you get zero allotment — and a scramble in spot round with leftover seats.</p></div></li>
+        <li><span class="n">4</span><div><h4>You freeze too early</h4><p>Freeze locks editing. A mistake you spot one day later cannot be fixed. We tell you the safe time to freeze.</p></div></li>
+        <li><span class="n">5</span><div><h4>You throw away your local quota</h4><p>Putting non-local (OU / AU / SVU) colleges too high wastes your home-region advantage — a worse seat, far from home.</p></div></li>
+        <li><span class="n">6</span><div><h4>Management seat by mistake</h4><p>Management-quota seats get no fee reimbursement. One panic click can cost a family lakhs it could have got back.</p></div></li>
       </ul>
     </div>
   </section>
@@ -109,14 +146,14 @@ const faqLd = {
   <!-- HOW IT WORKS -->
   <section class="how">
     <div class="container">
-      <h2>From your rank to your seat.</h2>
+      <h2>From your rank to your seat — in 4 steps.</h2>
       <div class="steps">
-        <div class="step"><div class="s-no">1</div><div><h4>Free rank check</h4><p>Enter your rank — see the colleges within reach, marked Dream / Likely / Secure.</p></div></div>
-        <div class="step"><div class="s-no">2</div><div><h4>Build your plan</h4><p>The Decision Copilot orders the exact list to freeze and flags every risky move.</p></div></div>
-        <div class="step"><div class="s-no">3</div><div><h4>Fill the portal</h4><p>Get every college code, or 1-click fill — you review and freeze it yourself.</p></div></div>
-        <div class="step"><div class="s-no">4</div><div><h4>We guide every round</h4><p>Mock, modify, allotment — we bring you back at each step till your final seat.</p></div></div>
+        <div class="step"><div class="s-no">1</div><div><h4>Enter your rank</h4><p>Free. See every college you can reach, marked Dream, Target or Safe.</p></div></div>
+        <div class="step"><div class="s-no">2</div><div><h4>Get your order</h4><p>We build the full list in the right order and add safe backups.</p></div></div>
+        <div class="step"><div class="s-no">3</div><div><h4>Fill the portal</h4><p>Get every college code, or 1-click fill. You check and freeze it yourself.</p></div></div>
+        <div class="step"><div class="s-no">4</div><div><h4>We help every round</h4><p>Mock, change, allotment — we bring you back at each step till your final seat.</p></div></div>
       </div>
-      <div class="how-cta"><a href="/plan" class="btn btn-amber">Build my plan →</a><a href="/predictor" class="btn btn-ghost">Free JoSAA rank check</a></div>
+      <div class="how-cta"><a href="/plan" class="btn btn-amber">Build my order →</a><a href="/predictor" class="btn btn-ghost">Free JoSAA rank check</a></div>
     </div>
   </section>
 
@@ -125,14 +162,14 @@ const faqLd = {
     <div class="honest">
       <div class="seal"><svg class="ic"><use href="#i-shield"/></svg></div>
       <h3>We will never promise a "guaranteed seat."</h3>
-      <p>Anyone who does is running the exact scam that targets worried parents. No honest service controls allotment. What we promise is the correct list, the right order, and a co-pilot that catches mistakes — so you get the best seat your rank can truly reach. <b>Paid by you, never by colleges. The final freeze is always your click.</b></p>
+      <p>Anyone who promises that is running the exact scam that targets worried parents. No honest service controls allotment. What we promise is the correct list, the right order, safe backups, and a co-pilot that catches mistakes — so you get the best seat your rank can truly reach. <b>Paid by you, never by colleges. The final freeze is always your click.</b></p>
     </div>
   </div></section>
 
   <!-- PRICING -->
   <section class="band" id="pricing">
     <div class="container">
-      <h2 class="center">Less than one tuition class — for the rank you spent two years earning.</h2>
+      <h2 class="center">Less than one tuition class — for the rank you earned in two years.</h2>
       <div class="tiers">
         <div class="tier feature">
           <span class="flag">Most popular</span>
@@ -141,25 +178,26 @@ const faqLd = {
           <div class="who">You build and freeze it yourself — fully guided.</div>
           <ul>
             <li><svg class="ic"><use href="#i-check"/></svg>Full ordered web-options list for your rank, category &amp; region</li>
-            <li><svg class="ic"><use href="#i-check"/></svg>Decision Copilot flags every mistake before you lock</li>
+            <li><svg class="ic"><use href="#i-check"/></svg>Safe backup colleges added, so you never get zero seats</li>
+            <li><svg class="ic"><use href="#i-check"/></svg>A warning before every mistake that can cost a seat</li>
             <li><svg class="ic"><use href="#i-check"/></svg>All college &amp; branch codes + 1-click portal fill</li>
-            <li><svg class="ic"><use href="#i-check"/></svg>Re-optimise after every mock round</li>
+            <li><svg class="ic"><use href="#i-check"/></svg>Re-order after every mock round</li>
           </ul>
-          <a href="/plan" class="btn btn-amber block">Build my plan →</a>
+          <a href="/plan" class="btn btn-amber block">Build my order →</a>
           <p class="note">Start free — pay only to unlock codes &amp; fill.</p>
         </div>
         <div class="tier">
           <div class="tname">Done for you</div>
           <div class="price"><span class="rs serif">{PRICES.doneForYou}</span><span class="per">we enter it</span></div>
-          <div class="who">We learn the student and enter the options on the portal.</div>
+          <div class="who">We understand the student and enter the options on the portal.</div>
           <ul>
             <li><svg class="ic"><use href="#i-check"/></svg>Everything in the plan, built with you</li>
             <li><svg class="ic"><use href="#i-check"/></svg>We type all your options in the right order</li>
-            <li><svg class="ic"><use href="#i-check"/></svg>You review everything — and freeze it yourself</li>
-            <li><svg class="ic"><use href="#i-check"/></svg>Round-by-round guidance to your seat</li>
+            <li><svg class="ic"><use href="#i-check"/></svg>You check everything — and freeze it yourself</li>
+            <li><svg class="ic"><use href="#i-check"/></svg>Round-by-round help till your seat</li>
           </ul>
           <a href="/contact" class="btn btn-dark block">Talk to us</a>
-          <p class="note">⛔ We never freeze your options. That's always your click.</p>
+          <p class="note">⛔ We never freeze your options. That is always your click.</p>
         </div>
       </div>
     </div>
@@ -170,10 +208,10 @@ const faqLd = {
     <div class="container">
       <h2 class="center">Straight answers.</h2>
       <div class="faq">
-        <details class="qa"><summary>Is this a college predictor?</summary><p>No. A predictor stops at "where might I get in." BeingWise is the solver — it builds the exact ordered list you should freeze, padded with a safe floor, and flags every mistake before you lock. The free rank check is just the start.</p></details>
-        <details class="qa"><summary>Why do web options matter more than my rank?</summary><p>Two students with the same EAMCET rank and category land in very different colleges purely from the order they freeze. Allotment scans top-to-bottom and stops at the first match — the order is the decision.</p></details>
-        <details class="qa"><summary>Do you support both TS EAMCET and AP EAPCET?</summary><p>Yes — TS EAMCET (TG EAPCET) and AP EAPCET, with category and local region (OU / AU / SVU) handled. JoSAA (NIT/IIIT/GFTI) is supported via our separate free predictor.</p></details>
-        <details class="qa"><summary>Do you ever freeze my options for me?</summary><p>Never. We build and order the list and catch mistakes, but that final freeze on the official portal is always your click. Paid by you, never by colleges — we never sell your number.</p></details>
+        <details class="qa"><summary>Is this just a college predictor?</summary><p>No. A predictor only tells you which colleges you might get. beingWise gives you the full list in the exact order to freeze, adds safe backups so you never get zero seats, and warns you before every mistake. You upload your rank — we do the deciding.</p></details>
+        <details class="qa"><summary>Why does the order matter more than my rank?</summary><p>Two students with the same rank and category get very different colleges — only because of the order they freeze. Allotment reads your list top to bottom and stops at the first college you can get. So the order is the real decision.</p></details>
+        <details class="qa"><summary>Do you support both TS EAMCET and AP EAPCET?</summary><p>Yes — TS EAMCET (TG EAPCET) and AP EAPCET, with your category and local region (OU / AU / SVU) handled. JoSAA (NIT/IIIT) is covered by our free predictor.</p></details>
+        <details class="qa"><summary>Will you freeze my options for me?</summary><p>Never. We build the list, order it and catch your mistakes — but the final freeze on the official portal is always your own click. Paid by you, never by colleges — we never sell your number.</p></details>
       </div>
     </div>
   </section>
@@ -181,41 +219,83 @@ const faqLd = {
   <!-- FINAL -->
   <section class="final">
     <div class="container">
-      <h2>Don't lose your rank in the week that decides it.</h2>
-      <p>Build the exact list you should freeze, with a co-pilot watching for every mistake.</p>
-      <div class="how-cta"><a href="/plan" class="btn btn-amber">Build my plan →</a></div>
+      <h2>Don't lose your rank in the one week that decides it.</h2>
+      <p>Upload your rank. Get the exact order to freeze, with safe backups and a warning before every mistake.</p>
+      <div class="how-cta"><a href="/plan" class="btn btn-amber">Build my order →</a></div>
     </div>
   </section>
 
   <style is:global>
-    .hero{padding:clamp(44px,8vw,84px) 0 clamp(36px,5vw,52px)}
-    .hero-grid{display:grid;grid-template-columns:1fr;gap:34px;align-items:center}
+    /* local accents for the preview tags */
+    :root{--amber:#e0921a;--amber-soft:#fbf0d8}
+
+    .hero{padding:clamp(40px,7vw,80px) 0 clamp(30px,4vw,48px)}
+    .hero-grid{display:grid;grid-template-columns:1fr;gap:30px;align-items:center}
     @media(min-width:880px){.hero-grid{grid-template-columns:1.05fr .95fr;gap:56px}}
     .eyebrow{display:inline-flex;align-items:center;gap:9px;font-size:.72rem;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-mute,#6d6f78)}
-    .eyebrow .pulse{width:7px;height:7px;border-radius:50%;background:var(--accent,#2347f0);box-shadow:0 0 0 0 rgba(35,71,240,.55);animation:hp 2.4s infinite}
-    @keyframes hp{70%{box-shadow:0 0 0 6px rgba(35,71,240,0)}100%{box-shadow:0 0 0 0 rgba(35,71,240,0)}}
-    .hero h1{font-size:clamp(2.6rem,8vw,4.2rem);line-height:1.02;margin:18px 0 18px;font-weight:700;letter-spacing:-.04em}
+    .eyebrow .pulse{width:7px;height:7px;border-radius:50%;background:var(--accent,#2347f0);box-shadow:0 0 0 0 rgba(15,118,110,.55);animation:hp 2.4s infinite}
+    @keyframes hp{70%{box-shadow:0 0 0 6px rgba(15,118,110,0)}100%{box-shadow:0 0 0 0 rgba(15,118,110,0)}}
+    .hero h1{font-size:clamp(2.4rem,8vw,4.1rem);line-height:1.03;margin:16px 0 16px;font-weight:700;letter-spacing:-.04em}
     .hero h1 em{color:var(--accent,#2347f0);font-style:normal}
-    .hero .sub{font-size:clamp(1.04rem,2.4vw,1.18rem);color:var(--ink-soft,#45474f);max-width:32em;line-height:1.5;text-wrap:pretty}
-    .hero .sub em{font-style:normal;color:var(--ink);font-weight:600}
-    .trustrow{display:flex;gap:18px;margin-top:22px;font-size:.82rem;color:var(--ink-mute,#6b7385);flex-wrap:wrap}
+    .hero .sub{font-size:clamp(1.04rem,2.4vw,1.2rem);color:var(--ink-soft,#45474f);max-width:32em;line-height:1.5;text-wrap:pretty}
+    .hero .sub b{color:var(--ink);font-weight:600}
+    .trustrow{display:flex;gap:12px 18px;margin-top:22px;font-size:.82rem;color:var(--ink-mute,#6b7385);flex-wrap:wrap}
     .trustrow span{display:flex;align-items:center;gap:6px}
     .trustrow .ic{width:15px;height:15px;color:var(--accent-deep,#1c39c9)}
-    .rankbox{background:var(--paper,#fff);border:1px solid var(--line-strong);border-radius:12px;padding:clamp(22px,4vw,30px);box-shadow:var(--shadow-md)}
+    .rankbox{background:var(--paper,#fff);border:1px solid var(--line-strong);border-radius:14px;padding:clamp(20px,4vw,30px);box-shadow:var(--shadow-md)}
     .rankbox label{display:block;font-size:.82rem;font-weight:600;color:var(--ink-soft,#3c4458);margin:12px 0 6px}
     .rankbox .lbl2{margin-top:14px}
     .rankbox input,.rankbox select{width:100%;border:1.5px solid var(--line);border-radius:12px;font:inherit;font-weight:700;color:var(--ink);background:var(--paper,#fff);padding:13px 14px}
     .rankbox input{font-size:1.5rem;text-align:center}
     .seg{display:flex;gap:6px;margin-top:12px}
-    .seg button{flex:1;padding:10px 4px;border:1.5px solid var(--line);background:var(--paper,#fff);border-radius:8px;font:inherit;font-size:.8rem;font-weight:600;color:var(--ink-mute,#6b7385);cursor:pointer}
+    .seg button{flex:1;padding:11px 4px;border:1.5px solid var(--line);background:var(--paper,#fff);border-radius:9px;font:inherit;font-size:.8rem;font-weight:600;color:var(--ink-mute,#6b7385);cursor:pointer;min-height:44px}
     .seg button.on{background:var(--ink);color:var(--cream);border-color:var(--ink)}
     .block{width:100%;margin-top:16px}
     .rankbox .micro{text-align:center;font-size:.75rem;color:var(--ink-mute,#6b7385);margin-top:10px}
 
-    .diffstrip-wrap{padding:8px 0 4px}
-    .diffstrip{display:grid;grid-template-columns:1fr;border:1px solid var(--line);border-radius:12px;overflow:hidden}
+    /* ---- WHAT YOU GET (solving proof) ---- */
+    .show{padding:clamp(40px,6vw,72px) 0;background:var(--cream-2,#f5f5f6)}
+    .show-grid{display:grid;grid-template-columns:1fr;gap:32px;align-items:center}
+    @media(min-width:900px){.show-grid{grid-template-columns:1fr .9fr;gap:56px}}
+    .show-copy h2{font-size:clamp(1.6rem,4.5vw,2.3rem);line-height:1.12;margin:10px 0 12px;letter-spacing:-.02em}
+    .show-lead{color:var(--ink-soft,#3c4458);font-size:1.05rem;line-height:1.55;max-width:30em}
+    .show-points{list-style:none;margin:20px 0 24px;padding:0;display:flex;flex-direction:column;gap:14px}
+    .show-points li{display:grid;grid-template-columns:auto 1fr;gap:12px;align-items:start;font-size:.96rem;color:var(--ink-soft,#3c4458);line-height:1.5}
+    .show-points b{color:var(--ink)}
+    .show-points .dot{width:13px;height:13px;border-radius:50%;margin-top:4px}
+    .d-safe{background:var(--green,#1f9d57)}.d-target{background:var(--amber)}.d-warn{background:var(--red,#d83a2f)}
+    .show-cta{margin-top:4px}
+    @media(max-width:480px){.show-cta{width:100%}}
+
+    /* phone preview */
+    .phone{background:var(--paper,#fff);border:1px solid var(--line-strong);border-radius:20px;box-shadow:0 24px 60px -30px rgba(13,13,16,.4);padding:14px;max-width:380px;width:100%;margin:0 auto}
+    .phone-bar{display:flex;justify-content:space-between;align-items:center;gap:8px;padding:6px 8px 12px;border-bottom:1px solid var(--line);font-weight:700;font-size:.92rem;color:var(--ink)}
+    .phone-meta{font-weight:600;font-size:.72rem;color:var(--ink-mute,#6b7385);white-space:nowrap}
+    .opt-list{list-style:none;margin:8px 0 0;padding:0;display:flex;flex-direction:column;gap:7px;counter-reset:none}
+    .opt-list li{display:grid;grid-template-columns:auto 1fr auto;gap:10px;align-items:center;padding:10px;border:1px solid var(--line);border-radius:11px;background:var(--paper,#fff)}
+    .opt-list .rk{width:24px;height:24px;flex:0 0 auto;border-radius:7px;background:var(--cream-2,#f5f5f6);color:var(--ink);font-weight:700;font-size:.82rem;display:flex;align-items:center;justify-content:center}
+    .opt-main{display:flex;flex-direction:column;gap:1px;min-width:0}
+    .opt-main b{font-size:.95rem;line-height:1.15;color:var(--ink)}
+    .opt-main .br{font-size:.74rem;color:var(--ink-mute,#6b7385);font-weight:600;letter-spacing:.02em}
+    .tag{font-size:.7rem;font-weight:700;padding:5px 8px;border-radius:99px;white-space:nowrap}
+    .t-safe{background:var(--green-soft,#e8f6ee);color:var(--green,#1f9d57)}
+    .t-likely{background:var(--green-soft,#e8f6ee);color:var(--green,#1f9d57)}
+    .t-target{background:var(--amber-soft);color:var(--amber)}
+    .t-reach{background:var(--red-soft,#fdeae7);color:var(--red,#d83a2f)}
+    .opt-list li.floor{border-color:var(--green,#1f9d57);box-shadow:0 0 0 1px var(--green,#1f9d57) inset}
+    .opt-list li.flag-row{border-color:var(--red,#d83a2f);box-shadow:0 0 0 1px var(--red,#d83a2f) inset}
+    .floor-note{display:flex;align-items:center;gap:7px;margin:11px 2px 0;font-size:.78rem;font-weight:600;color:var(--green,#1f9d57)}
+    .floor-note .ic{width:14px;height:14px}
+    .warn{display:flex;gap:10px;margin-top:12px;padding:12px;border-radius:12px;background:var(--red-soft,#fdeae7);border:1px solid var(--red,#d83a2f)}
+    .warn .ic{width:18px;height:18px;flex:0 0 auto;color:var(--red,#d83a2f);margin-top:1px}
+    .warn div{font-size:.84rem;line-height:1.45;color:#7a241c}
+    .warn b{color:var(--red,#d83a2f)}
+    .warn u{text-decoration-color:var(--red,#d83a2f);cursor:pointer}
+
+    .diffstrip-wrap{padding:14px 0 4px}
+    .diffstrip{display:grid;grid-template-columns:1fr;border:1px solid var(--line);border-radius:14px;overflow:hidden}
     @media(min-width:720px){.diffstrip{grid-template-columns:1fr 1fr}}
-    .diff{padding:26px 28px;background:var(--paper,#fff)}
+    .diff{padding:24px 26px;background:var(--paper,#fff)}
     .diff.l{border-bottom:1px solid var(--line)}
     @media(min-width:720px){.diff.l{border-bottom:none;border-right:1px solid var(--line)}}
     .diff.win{background:var(--accent-soft,#eaeefe)}
@@ -224,45 +304,45 @@ const faqLd = {
     .diff .muted{color:var(--ink-mute,#6b7385);font-weight:500}
     .diff p{color:var(--ink-soft,#3c4458);font-size:.95rem;line-height:1.55}
 
-    .trap{padding:72px 0;background:var(--cream-2,#f3ecdf)}
-    .trap h2{font-size:1.9rem;line-height:1.12;margin:8px 0 10px}
+    .trap{padding:clamp(44px,6vw,72px) 0;background:var(--cream-2,#f3ecdf)}
+    .trap h2{font-size:1.9rem;line-height:1.1;margin:8px 0 10px}
     @media(min-width:760px){.trap h2{font-size:2.4rem}}
     .trap .lead{color:var(--ink-soft,#3c4458);margin-bottom:16px}
-    .trap-wrap{display:grid;grid-template-columns:1fr;gap:30px}
+    .trap-wrap{display:grid;grid-template-columns:1fr;gap:28px}
     @media(min-width:900px){.trap-wrap{grid-template-columns:.85fr 1.15fr;gap:56px;align-items:start}.trap-thesis{position:sticky;top:90px}}
     .trap-list{list-style:none;margin:0;padding:0;border-top:1px solid var(--line)}
-    .trap-list li{display:grid;grid-template-columns:2.4ch 1fr;gap:18px;padding:18px 2px;border-bottom:1px solid var(--line);align-items:baseline}
-    .trap-list .n{font-family:'Geist',sans-serif;font-size:1.45rem;font-weight:700;color:var(--accent-deep,#1c39c9);line-height:1}
-    .trap-list h4{font-size:1.06rem;margin:0 0 5px;line-height:1.25}
+    .trap-list li{display:grid;grid-template-columns:2.2ch 1fr;gap:16px;padding:16px 2px;border-bottom:1px solid var(--line);align-items:baseline}
+    .trap-list .n{font-family:'Geist',sans-serif;font-size:1.35rem;font-weight:700;color:var(--accent-deep,#1c39c9);line-height:1}
+    .trap-list h4{font-size:1.04rem;margin:0 0 5px;line-height:1.25}
     .trap-list p{font-size:.92rem;color:var(--ink-soft,#3c4458);line-height:1.55}
-    .trapnote{margin-top:24px;font-size:1.05rem;color:var(--ink-soft,#3c4458);max-width:46em}
+    .trapnote{margin-top:22px;font-size:1.05rem;color:var(--ink-soft,#3c4458);max-width:46em}
     .trapnote b{color:var(--ink)}
 
-    .how{padding:72px 0}
-    .how h2{font-size:1.9rem;text-align:center;margin-bottom:30px}
+    .how{padding:clamp(44px,6vw,72px) 0}
+    .how h2{font-size:1.9rem;text-align:center;margin-bottom:30px;max-width:18em;margin-inline:auto}
     .steps{display:grid;grid-template-columns:1fr;gap:18px;max-width:760px;margin:0 auto}
     @media(min-width:680px){.steps{grid-template-columns:1fr 1fr}}
     .step{display:flex;gap:14px;align-items:flex-start}
-    .step .s-no{flex:0 0 auto;width:34px;height:34px;border-radius:50%;background:var(--accent-soft,#fbeed3);color:var(--accent-deep,#1c39c9);font-weight:700;display:flex;align-items:center;justify-content:center;font-family:'Geist',sans-serif}
+    .step .s-no{flex:0 0 auto;width:34px;height:34px;border-radius:50%;background:var(--accent-soft,#eaeefe);color:var(--accent-deep,#1c39c9);font-weight:700;display:flex;align-items:center;justify-content:center;font-family:'Geist',sans-serif}
     .step h4{font-size:1.05rem;margin-bottom:3px}
     .step p{font-size:.9rem;color:var(--ink-soft,#3c4458);line-height:1.5}
-    .how-cta{display:flex;gap:12px;justify-content:center;margin-top:34px;flex-wrap:wrap}
+    .how-cta{display:flex;gap:12px;justify-content:center;margin-top:32px;flex-wrap:wrap}
 
     .honest-wrap{padding:10px 0 40px}
-    .honest{background:var(--ink);color:var(--cream);border-radius:12px;padding:36px 32px;text-align:center;max-width:820px;margin:0 auto}
-    .honest .seal{width:44px;height:44px;border-radius:50%;background:rgba(35,71,240,.18);display:flex;align-items:center;justify-content:center;margin:0 auto 14px}
+    .honest{background:var(--ink);color:var(--cream);border-radius:14px;padding:clamp(28px,4vw,36px) clamp(22px,4vw,32px);text-align:center;max-width:820px;margin:0 auto}
+    .honest .seal{width:44px;height:44px;border-radius:50%;background:rgba(15,118,110,.18);display:flex;align-items:center;justify-content:center;margin:0 auto 14px}
     .honest .seal .ic{width:22px;height:22px;color:var(--accent,#2347f0)}
-    .honest h3{font-size:1.5rem;margin-bottom:10px}
+    .honest h3{font-size:1.45rem;margin-bottom:10px}
     .honest p{color:rgba(251,250,248,.82);line-height:1.6;max-width:48em;margin:0 auto}
     .honest p b{color:var(--cream)}
 
-    .band{background:var(--cream-2,#f3ecdf);padding:72px 0}
+    .band{background:var(--cream-2,#f3ecdf);padding:clamp(44px,6vw,72px) 0}
     .center{text-align:center}
-    .band h2{font-size:1.7rem;max-width:24em;margin:6px auto 28px}
+    .band h2{font-size:1.65rem;max-width:24em;margin:6px auto 28px}
     .tiers{display:grid;grid-template-columns:1fr;gap:16px;max-width:760px;margin:0 auto}
     @media(min-width:720px){.tiers{grid-template-columns:1fr 1fr}}
-    .tier{position:relative;background:var(--paper,#fff);border:1px solid var(--line);border-radius:12px;padding:26px}
-    .tier.feature{border-color:var(--accent,#2347f0);box-shadow:0 8px 26px -22px rgba(35,71,240,.55)}
+    .tier{position:relative;background:var(--paper,#fff);border:1px solid var(--line);border-radius:14px;padding:26px}
+    .tier.feature{border-color:var(--accent,#2347f0);box-shadow:0 8px 26px -22px rgba(15,118,110,.55)}
     .tier .flag{position:absolute;top:-12px;left:24px;background:var(--accent,#2347f0);color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:5px 12px;border-radius:99px}
     .tname{font-weight:600;font-size:1.05rem}
     .price{display:flex;align-items:baseline;gap:8px;margin:6px 0 4px}
@@ -274,42 +354,47 @@ const faqLd = {
     .tier li .ic{flex:0 0 auto;width:16px;height:16px;color:var(--green,#3f8a5f);margin-top:2px}
     .tier .note{font-size:.78rem;color:var(--ink-mute,#6b7385);margin-top:10px;text-align:center}
 
-    #faq{padding:72px 0}
+    #faq{padding:clamp(44px,6vw,72px) 0}
     .faq{max-width:760px;margin:0 auto;display:flex;flex-direction:column;gap:10px}
     .qa{background:var(--paper,#fff);border:1px solid var(--line);border-radius:12px;padding:4px 18px}
-    .qa summary{cursor:pointer;font-family:'Geist',sans-serif;font-size:1.12rem;font-weight:600;padding:14px 0;list-style:none}
+    .qa summary{cursor:pointer;font-family:'Geist',sans-serif;font-size:1.08rem;font-weight:600;padding:14px 0;list-style:none}
     .qa summary::-webkit-details-marker{display:none}
     .qa[open] summary{color:var(--accent-deep,#1c39c9)}
     .qa p{padding:0 0 16px;color:var(--ink-soft,#3c4458);line-height:1.6}
 
-    .final{padding:60px 0;text-align:center;background:var(--ink);color:var(--cream)}
+    .final{padding:clamp(44px,5vw,60px) 0;text-align:center;background:var(--ink);color:var(--cream)}
     .final h2{font-size:2rem;max-width:18em;margin:8px auto 10px}
-    .final p{color:rgba(251,250,248,.8);margin-bottom:8px}
+    .final p{color:rgba(251,250,248,.8);margin-bottom:16px;max-width:34em;margin-inline:auto}
 
-    /* editorial line-breaking (DESIGN.md restraint) */
-    .hero h1,.trap h2,.how h2,.band h2,#faq h2,.final h2,.honest h3,.diff h4{text-wrap:balance}
-    .hero .sub,.trap .lead,.trapnote,.step p,.diff p,.honest p,.trap-list p{text-wrap:pretty}
+    /* editorial line-breaking */
+    .hero h1,.trap h2,.how h2,.band h2,#faq h2,.final h2,.honest h3,.diff h4,.show-copy h2{text-wrap:balance}
+    .hero .sub,.trap .lead,.trapnote,.step p,.diff p,.honest p,.trap-list p,.show-lead{text-wrap:pretty}
 
     /* ---- mobile ---- */
     @media(max-width:600px){
-      .hero{padding:30px 0 24px}
-      .hero h1{font-size:2.05rem}
-      .hero .sub{font-size:1rem}
-      .trustrow{gap:10px 16px;margin-top:18px}
-      .rankbox{padding:20px}
-      .rankbox input{font-size:1.35rem}
-      .trap{padding:42px 0}
-      .trap h2{font-size:1.6rem}
-      .how,.band,#faq{padding:42px 0}
-      .how h2{font-size:1.55rem}
-      .band h2{font-size:1.45rem}
-      .honest{padding:28px 22px}
-      .honest h3{font-size:1.3rem}
-      .final{padding:46px 0}
-      .final h2{font-size:1.6rem}
+      .hero{padding:26px 0 22px}
+      .hero h1{font-size:2.15rem}
+      .hero .sub{font-size:1.02rem}
+      .trustrow{gap:8px 14px;margin-top:16px;font-size:.8rem}
+      .rankbox{padding:18px}
+      .rankbox input{font-size:1.4rem}
+      .show{padding:38px 0}
+      .show-copy h2{font-size:1.55rem}
+      .phone{padding:12px;border-radius:18px}
+      .opt-main b{font-size:.92rem}
+      .tag{font-size:.66rem;padding:4px 7px}
+      .trap h2{font-size:1.55rem}
+      .how h2{font-size:1.5rem}
+      .band h2{font-size:1.4rem}
+      .honest h3{font-size:1.25rem}
+      .final h2{font-size:1.55rem}
       .how-cta .btn{width:100%}
-      .seg button{padding:11px 4px}
       .btn{min-height:48px}
+    }
+    /* very small phones: keep tag on its own line so names never clip */
+    @media(max-width:360px){
+      .opt-list li{grid-template-columns:auto 1fr;row-gap:6px}
+      .opt-list .tag{grid-column:2;justify-self:start}
     }
   </style>
 

@@ -634,11 +634,11 @@
                 responsive: true,
                 scrollX: false,
                 language: {
-                    processing: '<div style="padding:1rem;color:#475569;font-family:DM Sans,sans-serif;font-size:.88rem;">Loading allotment data…</div>',
+                    processing: '<div style="padding:1rem;color:#476966;font-family:DM Sans,sans-serif;font-size:.88rem;">Loading allotment data…</div>',
                     search: '',
                     searchPlaceholder: 'Search candidates…',
                     lengthMenu: 'Show _MENU_ per page',
-                    zeroRecords: '<div style="text-align:center;padding:2.5rem 1rem;color:#94a3b8;font-family:DM Sans,sans-serif;">🔍 No allotment records found for this selection.</div>'
+                    zeroRecords: '<div style="text-align:center;padding:2.5rem 1rem;color:#94b8b4;font-family:DM Sans,sans-serif;">🔍 No allotment records found for this selection.</div>'
                 },
                 initComplete: function (settings, json) {
                     const count = json && json.data ? json.data.length : 0;
@@ -680,7 +680,7 @@
             $('#topRank').text(Math.min(...ranks).toLocaleString());
             $('#closingRank').text(Math.max(...ranks).toLocaleString());
 
-            const COLORS = ['#2563eb','#f59e0b','#10b981','#ef4444','#8b5cf6'];
+            const COLORS = ['#25ebd7','#f59e0b','#10b981','#ef4444','#5cf6e7'];
 
             const gCount = {};
             rows.forEach(r => { gCount[r.gender] = (gCount[r.gender] || 0) + 1; });
@@ -714,7 +714,7 @@
                     responsive: true, maintainAspectRatio: false,
                     plugins: { legend: { display: false } },
                     scales: {
-                        y: { beginAtZero: true, grid: { color: '#f1f5f9' }, ticks: { font: { family: 'DM Sans', size: 11 }, stepSize: 1 } },
+                        y: { beginAtZero: true, grid: { color: '#f1f9f8' }, ticks: { font: { family: 'DM Sans', size: 11 }, stepSize: 1 } },
                         x: { grid: { display: false }, ticks: { font: { family: 'DM Sans', size: 11 } } }
                     }
                 }

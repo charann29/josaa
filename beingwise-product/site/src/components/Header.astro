@@ -9,7 +9,7 @@ const groupActive = (n: any) => isActive(n.href) || (n.children || []).some((c: 
 ---
 <header class="site-head">
   <div class="container in">
-    <a href="/" class="brand"><svg class="ic"><use href="#i-bridge"/></svg>BeingWise</a>
+    <a href="/" class="brand">beingWise</a>
 
     <button id="navBurger" class="nav-burger" aria-label="Open menu" aria-expanded="false" aria-controls="headNav">
       <span></span><span></span><span></span>
@@ -33,12 +33,12 @@ const groupActive = (n: any) => isActive(n.href) || (n.children || []).some((c: 
           <a href={n.href} class={`nav-link${isActive(n.href) ? ' active' : ''}`} aria-current={isActive(n.href) ? 'page' : undefined}>{n.label}</a>
         )
       ))}
-      <a href="/plan" class="btn btn-amber nav-cta-mobile">Build my plan</a>
+      <a href="/app" class="btn btn-amber nav-cta-mobile">Build my plan</a>
     </nav>
 
     <div class="head-actions">
       <a href="/search" class="icon-btn" aria-label="Search"><svg class="ic"><use href="#i-search"/></svg></a>
-      <a href="/plan" class="btn btn-amber head-cta">Build my plan</a>
+      <a href="/app" class="btn btn-amber head-cta">Build my plan</a>
     </div>
   </div>
   <div id="navScrim" class="nav-scrim" hidden></div>
